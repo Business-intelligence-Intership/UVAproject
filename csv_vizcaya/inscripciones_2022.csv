@@ -1,0 +1,851 @@
+matricula,sexo,nacionalidad,lugar_nacimiento,fecha_nacimiento,tipo_ingreso,colonia,escuela_procedencia,ubicacion_escuela_procedencia,nivel,carrera,turno,ciclo
+UVA20229069,Fem,Mexicana,Mérida,10/12/2005,Repetidor,Chuburná,CBTIS 95,Tizimín,Ingeniería,Lic. en Fisioterapia,Vespertino,Agosto-Diciembre
+UVA20225040,,MX,,29/01/2002,Repetidor,Itzimná,CBTIS 95,Tizimín,Licenciatura,Lic. en Nutrición,VESP,Enero-Junio
+UVA20229066,,,Mérida,09-09-2005,Reinscrito,Francisco de Montejo,N/A,Kanasín,LIC,Lic. en Educación,MAT,2023-A
+UVA20229511,Masculino,Mexicana,Valladolid,03/09/2003,Equivalencia,Chuburná,,,ING,Lic. en Nutrición,Matutino,Agosto-Diciembre
+UVA20221642,F,mexicano,Tizimín,1999-11-05,Repetidor,centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",ING,Ing Civil,MAT,Agosto-Diciembre
+UVA20228610,,Mexicana,Tizimín,02/08/2004,Nuevo,centro,Prepa Abierta,Umán,ING,Lic. en Contabilidad,Vespertino,Enero-Junio
+UVA20223131,,mexicano,Valladolid,2001-03-22,Equivalencia,centro,,,ING,Ing. en Procesos de Manufactura,VESP,2023-A
+UVA20225531,M,mexicano,Tizimín,1998-10-26,Repetidor,Chuburná,Prepa Abierta,Kanasín,Licenciatura,Lic. en Nutrición,MAT,Agosto-Diciembre
+UVA20224072,,mexicano,Valladolid,23/07/1997,Repetidor,Itzimná,CONALEP Mérida,Umán,Ingeniería,Ing. en Procesos de Manufactura,Vespertino,2023-A
+UVA20224384,H,N/A,Cancún,2003-04-12,Reinscrito,centro,N/A,Kanasín,LIC,Lic. en Educación,MAT,2023-A
+UVA20224053,Fem,N/A,Cancún,24/06/1999,Repetidor,Itzimná,Preparatoria Estatal No. 1,Tizimín,ING,Lic. en Diseño de Modas,MAT,2023-A
+UVA20227614,Masculino,mexicano,Cancún,18/06/1999,Reinscrito,Itzimná,,Kanasín,LIC,Lic. en Diseño de Modas,Matutino,Agosto-Diciembre
+UVA20225807,M,,Tizimín,2002-04-15,Reinscrito,centro,,Tizimín,Licenciatura,Lic. en Contabilidad,VESP,2024-B
+UVA20222547,,MX,Valladolid,12/06/1997,Nuevo,centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Psicología,Vespertino,2024-B
+UVA20229745,,México,Tizimín,01-27-1998,Repetidor,Francisco de Montejo,,Kanasín,LIC,Lic. en Odontología,MAT,2024-B
+UVA20229100,M,,Valladolid,1999-09-07,Reinscrito,centro,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Odontología,Matutino,Enero-Junio
+UVA20223571,,N/A,,05-25-1997,Nuevo,Francisco de Montejo,,Umán,ING,Lic. en Psicología,Vespertino,Enero-Junio
+UVA20226903,Masculino,MX,Valladolid,2000-10-06,Repetidor,Itzimná,N/A,"Mérida, Yucatán",Licenciatura,Ing Civil,VESP,2023-A
+UVA20227403,M,,Tizimín,27/11/2002,Equivalencia,Itzimná,Prepa Abierta,Umán,LIC,Lic. en Arquitectura,VESP,2023-A
+UVA20229581,Femenino,México,Mérida,18/08/1998,Reinscrito,Itzimná,CBTIS 95,,Ingeniería,Lic. en Enfermería,Matutino,Agosto-Diciembre
+UVA20229944,Femenino,mexicano,Mérida,2004-06-22,Nuevo,Francisco de Montejo,Prepa Abierta,"Mérida, Yucatán",ING,Ing Civil,MAT,2024-B
+UVA20226834,Masculino,México,Mérida,2004-04-11,Reinscrito,Chuburná,,Umán,ING,Lic. en Nutrición,MAT,2023-A
+UVA20221506,F,mexicano,Mérida,07-22-2005,Repetidor,Itzimná,Prepa Abierta,,Licenciatura,Lic. en Admin. de Empresas,VESP,2024-B
+UVA20225638,,México,Tizimín,1998-08-26,Equivalencia,,N/A,Umán,LIC,Lic. en Diseño de Modas,Vespertino,Agosto-Diciembre
+UVA20227854,Masculino,mexicano,,30/01/2005,Nuevo,CENTRO,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Criminología,MAT,2023-A
+UVA20224762,M,MX,Mérida,16/04/2003,Repetidor,Itzimná,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Ing. en Procesos de Manufactura,Matutino,Agosto-Diciembre
+UVA20229542,,mexicano,Mérida,05-14-2002,Equivalencia,CENTRO,CBTIS 95,,Ingeniería,Lic. en Criminología,Matutino,Enero-Junio
+UVA20226598,Masculino,N/A,Mérida,29/10/1999,Reinscrito,Chuburná,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,VESP,Agosto-Diciembre
+UVA20221451,Masculino,N/A,Valladolid,08/12/2001,Repetidor,Itzimná,CBTIS 95,,LIC,Lic. en Gastronomía,MAT,2024-B
+UVA20221667,F,Mexicana,Valladolid,2004-09-26,Reinscrito,CENTRO,CONALEP Mérida,Tizimín,ING,Ing. Civil,VESP,Enero-Junio
+UVA20221612,F,Mexicana,Mérida,26/09/2004,Nuevo,Centro,CONALEP Mérida,Tizimín,ING,Lic. en Odontología,VESP,2024-B
+UVA20222581,M,,,1995-07-24,Equivalencia,CENTRO,CONALEP Mérida,Umán,Ingeniería,Lic. en Criminología,MAT,Enero-Junio
+UVA20225973,Masculino,MX,,07-08-1995,Equivalencia,Francisco de Montejo,CBTIS 95,Umán,Licenciatura,Lic. en Contabilidad,VESP,Agosto-Diciembre
+UVA20228445,M,N/A,Cancún,10-30-1999,Nuevo,Chuburná,Prepa Abierta,Kanasín,Ingeniería,Lic. en Derecho,VESP,2023-A
+UVA20224243,H,Mexicana,Tizimín,07-19-2001,Equivalencia,Chuburná,CBTIS 95,"Mérida, Yucatán",ING,Ing. Civil,VESP,2023-A
+UVA20227794,Fem,México,,01-06-2001,Reinscrito,centro,N/A,Kanasín,ING,Lic. en Diseño de Modas,VESP,Agosto-Diciembre
+UVA20224180,Fem,,Tizimín,2001-08-28,Repetidor,centro,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Ing. Civil,Vespertino,Agosto-Diciembre
+UVA20223894,,,Tizimín,06-02-2002,Reinscrito,Chuburná,,,Ingeniería,Lic. en Nutrición,Matutino,2024-B
+UVA20228360,Masculino,MX,Cancún,11/02/1998,Nuevo,centro,,Kanasín,Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+UVA20225363,,N/A,,2004-09-30,Nuevo,,CBTIS 95,,Ingeniería,Lic. en Arquitectura,Vespertino,2024-B
+UVA20221857,H,México,,2004-04-02,Equivalencia,Chuburná,N/A,Kanasín,ING,Lic. en Enfermería,Vespertino,2024-B
+UVA20222977,H,MX,,11-27-2001,Equivalencia,,CONALEP Mérida,Tizimín,LIC,Lic. en Admin. de Empresas,Vespertino,2024-B
+UVA20228020,,,Tizimín,03-09-2005,Equivalencia,centro,N/A,Tizimín,ING,Lic. en Educación,VESP,2024-B
+UVA20229009,M,MX,Tizimín,2003-08-23,Reinscrito,centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Ing Civil,Matutino,2024-B
+UVA20221874,Fem,México,Tizimín,1996-07-10,Equivalencia,CENTRO,Prepa Abierta,Umán,ING,Lic Psicologia,Matutino,Agosto-Diciembre
+UVA20226539,F,México,Mérida,1996-03-29,Equivalencia,centro,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Gastronomía,MAT,Agosto-Diciembre
+UVA20223668,F,Mexicana,Valladolid,1999-10-06,Repetidor,centro,CONALEP Mérida,Tizimín,LIC,Lic. en Admin. de Empresas,VESP,2023-A
+UVA20228905,M,N/A,Tizimín,22/08/2000,Repetidor,Chuburná,,,LIC,Lic. en Derecho,MAT,2024-B
+UVA20229042,M,México,Valladolid,2004-09-25,Nuevo,Chuburná,CONALEP Mérida,Umán,ING,Ing. Civil,Vespertino,Agosto-Diciembre
+UVA20223277,Masculino,México,Valladolid,1995-02-26,Reinscrito,,N/A,Umán,Licenciatura,Lic. en Educación,VESP,2024-B
+UVA20229021,F,,Mérida,03-01-2004,Equivalencia,CENTRO,Prepa Abierta,Tizimín,Licenciatura,Lic. en Criminología,Matutino,Agosto-Diciembre
+UVA20225324,M,,Tizimín,1997-06-18,Equivalencia,centro,CBTIS 95,Tizimín,ING,Lic. en Gastronomía,Vespertino,2024-B
+UVA20223546,,mexicano,,2005-12-09,Nuevo,,N/A,Umán,ING,Lic. en Nutrición,MAT,2024-B
+UVA20226680,Femenino,México,Valladolid,10-19-2005,Nuevo,Itzimná,Prepa Abierta,Umán,ING,Lic. en Criminología,VESP,2024-B
+UVA20222159,Masculino,México,,10-20-1997,Reinscrito,centro,N/A,"Mérida, Yucatán",Ingeniería,Lic Psicologia,MAT,Enero-Junio
+UVA20222972,,N/A,Mérida,1995-12-11,Repetidor,CENTRO,Prepa Abierta,Kanasín,Ingeniería,Ing Civil,Matutino,Enero-Junio
+UVA20222461,Masculino,,Tizimín,1999-07-12,Equivalencia,,Preparatoria Estatal No. 1,,LIC,Ing. Civil,Matutino,Agosto-Diciembre
+UVA20222199,F,,Mérida,11-27-1995,Nuevo,Centro,Prepa Abierta,Umán,ING,Lic. en Diseño de Modas,VESP,2023-A
+UVA20221943,Fem,México,Mérida,31/08/2000,Equivalencia,CENTRO,CBTIS 95,Umán,ING,Lic. en Derecho,Matutino,Agosto-Diciembre
+UVA20228935,Masculino,N/A,Cancún,19/05/1996,Equivalencia,centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Enfermería,Vespertino,2023-A
+UVA20226232,Fem,mexicano,Mérida,1995-04-18,Equivalencia,Francisco de Montejo,CONALEP Mérida,,Ingeniería,Lic. en Contabilidad,Matutino,Agosto-Diciembre
+UVA20221490,F,México,Valladolid,22/10/2004,Nuevo,Centro,CBTIS 95,Kanasín,LIC,Lic. en Psicología,MAT,2024-B
+UVA20228265,Masculino,,,11/01/2001,Reinscrito,CENTRO,CBTIS 95,,ING,Ing. Civil,VESP,2023-A
+UVA20223521,Femenino,Mexicana,Tizimín,09-30-2002,Repetidor,Francisco de Montejo,CBTIS 95,Tizimín,ING,Lic. en Educación,Vespertino,2024-B
+UVA20222807,,México,Mérida,01/04/1998,Reinscrito,Francisco de Montejo,Prepa Abierta,Kanasín,ING,Lic. en Criminología,Vespertino,2024-B
+UVA20224316,Femenino,Mexicana,Tizimín,17/11/1997,Nuevo,Itzimná,N/A,Tizimín,Ingeniería,Lic Psicologia,Vespertino,2024-B
+UVA20227556,Masculino,,Mérida,16/12/1996,Equivalencia,Chuburná,CBTIS 95,Tizimín,ING,Lic. en Enfermería,Vespertino,Enero-Junio
+UVA20221352,Femenino,N/A,Tizimín,12/11/2000,Nuevo,CENTRO,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Criminología,Vespertino,Agosto-Diciembre
+UVA20229718,Femenino,MX,Cancún,04-21-2005,Repetidor,Itzimná,N/A,Umán,ING,Ing. Civil,Matutino,Agosto-Diciembre
+UVA20225149,M,mexicano,Mérida,28/10/2000,Repetidor,CENTRO,N/A,,LIC,Lic. en Diseño de Modas,MAT,Agosto-Diciembre
+UVA20229792,Masculino,N/A,Tizimín,04-04-2001,Nuevo,Chuburná,,,LIC,Lic. en Gastronomía,Matutino,2023-A
+UVA20229102,Femenino,,,02/08/1997,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Diseño de Modas,MAT,2023-A
+UVA20221108,Femenino,México,Mérida,2003-01-25,Equivalencia,Centro,CBTIS 95,Umán,ING,Lic. en Educación,Vespertino,Enero-Junio
+UVA20225108,Fem,MX,,14/02/2005,Nuevo,Francisco de Montejo,N/A,,LIC,Lic. en Derecho,MAT,2024-B
+UVA20221115,,Mexicana,Mérida,1995-10-02,Nuevo,Francisco de Montejo,,,Ingeniería,Lic. en Diseño de Modas,Matutino,Agosto-Diciembre
+UVA20226806,Masculino,,,1997-09-21,Nuevo,Centro,N/A,"Mérida, Yucatán",Licenciatura,Lic. en Diseño de Modas,Matutino,2024-B
+UVA20228335,F,Mexicana,Cancún,01-23-1999,Nuevo,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Arquitectura,Matutino,Agosto-Diciembre
+UVA20222587,Femenino,México,Cancún,04-16-1997,Reinscrito,,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+UVA20228194,F,MX,Tizimín,2001-06-25,Repetidor,,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Admin. de Empresas,MAT,2023-A
+UVA20226078,Fem,,Cancún,2002-07-01,Reinscrito,Itzimná,N/A,,Licenciatura,Lic. en Diseño de Modas,VESP,Enero-Junio
+UVA20227321,Masculino,,,2004-12-01,Nuevo,CENTRO,Prepa Abierta,Tizimín,Licenciatura,Lic. en Odontología,Matutino,2023-A
+UVA20229426,Masculino,,Tizimín,28/02/1995,Repetidor,centro,,Kanasín,Ingeniería,Lic. en Diseño de Modas,VESP,Enero-Junio
+UVA20226469,Masculino,MX,Cancún,06-20-2004,Equivalencia,Centro,,Umán,Ingeniería,Lic. en Admin. de Empresas,MAT,Agosto-Diciembre
+UVA20228940,Femenino,MX,,20/05/2003,Repetidor,Francisco de Montejo,N/A,Tizimín,Ingeniería,Ing Civil,Matutino,2024-B
+UVA20221170,M,Mexicana,,1999-02-06,Reinscrito,Chuburná,CBTIS 95,"Mérida, Yucatán",ING,Lic. en Diseño de Modas,Matutino,2024-B
+UVA20229488,Femenino,,Valladolid,16/04/1998,Reinscrito,Centro,N/A,"Mérida, Yucatán",Licenciatura,Lic. en Criminología,Vespertino,2024-B
+UVA20224025,H,Mexicana,Mérida,01-13-2000,Equivalencia,CENTRO,Preparatoria Estatal No. 1,,Ingeniería,Lic. en Contabilidad,VESP,Agosto-Diciembre
+UVA20227059,F,México,Tizimín,02-15-1999,Nuevo,CENTRO,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+UVA20224878,H,Mexicana,Tizimín,10-03-1997,Equivalencia,CENTRO,Prepa Abierta,Umán,Ingeniería,Lic. en Contabilidad,Matutino,2023-A
+UVA20225922,F,MX,Cancún,13/12/1997,Nuevo,Itzimná,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,VESP,2024-B
+UVA20227760,Masculino,México,Tizimín,2005-04-11,Repetidor,Itzimná,Preparatoria Estatal No. 1,,Ingeniería,Lic. en Diseño de Modas,Matutino,2023-A
+UVA20222555,M,N/A,Tizimín,24/12/1995,Reinscrito,,Prepa Abierta,"Mérida, Yucatán",ING,Ing. en Procesos de Manufactura,Vespertino,Agosto-Diciembre
+UVA20225953,H,México,Mérida,07/08/2005,Nuevo,Itzimná,CONALEP Mérida,Kanasín,Licenciatura,Lic. en Educación,MAT,Agosto-Diciembre
+UVA20221836,H,México,Tizimín,02-08-1995,Repetidor,centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Criminología,Matutino,2023-A
+UVA20224204,,N/A,Tizimín,2001-08-03,Nuevo,Centro,CONALEP Mérida,Kanasín,ING,Lic. en Derecho,MAT,2023-A
+UVA20228176,Fem,Mexicana,Tizimín,2003-12-04,Nuevo,Francisco de Montejo,Prepa Abierta,Tizimín,LIC,Ing. en Procesos de Manufactura,Matutino,2024-B
+UVA20228169,,,Tizimín,06-21-2005,Equivalencia,centro,,,Licenciatura,Lic. en Enfermería,Matutino,Agosto-Diciembre
+UVA20225249,M,,,16/04/1996,Nuevo,centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Derecho,Matutino,2024-B
+UVA20222494,Fem,MX,Valladolid,2000-05-20,Nuevo,Centro,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Criminología,Matutino,Enero-Junio
+UVA20222518,,MX,Cancún,2002-10-12,Reinscrito,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,Matutino,Agosto-Diciembre
+UVA20222652,Masculino,mexicano,Cancún,15/08/1999,Repetidor,,N/A,Kanasín,Ingeniería,Ing Civil,MAT,Enero-Junio
+UVA20227525,Fem,mexicano,Cancún,06-09-2002,Equivalencia,,,"Mérida, Yucatán",LIC,Lic Psicologia,MAT,Enero-Junio
+UVA20224606,H,mexicano,Valladolid,05-14-2003,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Tizimín,ING,Lic Psicologia,Matutino,Agosto-Diciembre
+UVA20223172,F,,Tizimín,1996-09-17,Reinscrito,,CBTIS 95,,ING,Lic. en Diseño de Modas,MAT,2024-B
+UVA20229729,M,Mexicana,Valladolid,11-27-1996,Equivalencia,Chuburná,N/A,Tizimín,Ingeniería,Lic. en Fisioterapia,VESP,2023-A
+UVA20223989,Fem,MX,,12-08-1998,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Contabilidad,MAT,Agosto-Diciembre
+UVA20221101,Masculino,Mexicana,Tizimín,2001-11-30,Nuevo,CENTRO,CONALEP Mérida,Kanasín,ING,Lic. en Derecho,VESP,2024-B
+UVA20227994,M,MX,Cancún,09-01-1997,Repetidor,centro,N/A,Umán,Ingeniería,Lic Psicologia,MAT,2023-A
+UVA20223620,Fem,MX,Tizimín,1996-04-25,Nuevo,Centro,,Umán,LIC,Lic. en Diseño de Modas,Matutino,2023-A
+UVA20221024,F,mexicano,Cancún,24/05/1995,Nuevo,centro,CONALEP Mérida,,Ingeniería,Lic. en Derecho,Vespertino,2023-A
+UVA20226503,,México,Tizimín,13/04/1997,Nuevo,Francisco de Montejo,,,ING,Lic. en Arquitectura,Matutino,2024-B
+UVA20221964,Masculino,N/A,Mérida,2005-04-10,Reinscrito,Centro,CONALEP Mérida,Tizimín,ING,Lic. en Enfermería,Matutino,2023-A
+UVA20229852,M,N/A,Cancún,12-24-1999,Nuevo,centro,CONALEP Mérida,,LIC,Lic Psicologia,MAT,2024-B
+UVA20223209,Fem,N/A,Mérida,28/04/2005,Reinscrito,centro,Prepa Abierta,Tizimín,Licenciatura,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+UVA20225685,Fem,mexicano,Tizimín,2004-10-14,Equivalencia,Chuburná,CBTIS 95,Tizimín,Licenciatura,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20228951,Masculino,México,,23/06/2004,Nuevo,Chuburná,,Tizimín,Licenciatura,Lic. en Odontología,VESP,Enero-Junio
+UVA20221300,,Mexicana,Valladolid,09-21-2005,Reinscrito,Itzimná,Prepa Abierta,Umán,LIC,Lic Psicologia,Vespertino,Enero-Junio
+UVA20225538,,México,Mérida,06/10/1999,Equivalencia,CENTRO,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Derecho,VESP,2023-A
+UVA20221862,Masculino,N/A,,11-21-2001,Reinscrito,centro,N/A,Kanasín,Licenciatura,Lic. en Fisioterapia,VESP,2024-B
+UVA20222801,Fem,MX,Tizimín,07-18-1998,Equivalencia,Itzimná,CBTIS 95,"Mérida, Yucatán",ING,Lic. en Contabilidad,VESP,2024-B
+UVA20228139,Femenino,N/A,Cancún,2001-01-30,Reinscrito,centro,CBTIS 95,Umán,LIC,Lic. en Educación,VESP,2023-A
+UVA20224214,,MX,Cancún,28/06/2003,Nuevo,Centro,CBTIS 95,"Mérida, Yucatán",Licenciatura,Ing Civil,VESP,Agosto-Diciembre
+UVA20227849,M,N/A,Tizimín,24/01/1998,Nuevo,,CBTIS 95,Tizimín,Ingeniería,Lic. en Derecho,Matutino,Enero-Junio
+UVA20221251,Femenino,mexicano,Valladolid,11/12/1997,Reinscrito,Chuburná,CBTIS 95,Kanasín,ING,Lic. en Enfermería,VESP,Enero-Junio
+UVA20223759,Masculino,,Cancún,02/09/1999,Repetidor,Centro,N/A,,ING,Lic. en Nutrición,VESP,2024-B
+UVA20223927,M,N/A,Cancún,24/07/2005,Repetidor,Francisco de Montejo,Prepa Abierta,,LIC,Lic. en Fisioterapia,MAT,Enero-Junio
+UVA20222214,,México,Valladolid,03-25-2004,Repetidor,CENTRO,CBTIS 95,,Licenciatura,Lic. en Odontología,Matutino,2023-A
+UVA20227223,H,,Tizimín,13/01/2002,Repetidor,,Prepa Abierta,"Mérida, Yucatán",ING,Lic. en Criminología,MAT,Agosto-Diciembre
+UVA20223398,F,N/A,Cancún,11-12-1998,Reinscrito,Francisco de Montejo,CBTIS 95,Tizimín,LIC,Lic. en Odontología,Vespertino,2024-B
+UVA20225704,Femenino,mexicano,Tizimín,23/09/2004,Equivalencia,Itzimná,CONALEP Mérida,,Licenciatura,Lic. en Educación,MAT,2023-A
+UVA20229012,M,,,13/04/1996,Equivalencia,Chuburná,,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,Vespertino,2023-A
+UVA20227216,Femenino,MX,,05-17-1999,Reinscrito,,CBTIS 95,Tizimín,ING,Ing. Civil,VESP,Enero-Junio
+UVA20227572,Fem,México,Cancún,16/07/1997,Reinscrito,centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Psicología,VESP,Enero-Junio
+UVA20229437,Fem,mexicano,Cancún,1995-07-02,Reinscrito,Chuburná,N/A,,Ingeniería,Lic. en Psicología,Matutino,Agosto-Diciembre
+UVA20222367,Fem,,,03/08/2005,Reinscrito,Chuburná,Preparatoria Estatal No. 1,Umán,LIC,Ing. en Procesos de Manufactura,Vespertino,2023-A
+UVA20228774,Masculino,,Mérida,2001-02-07,Reinscrito,,Prepa Abierta,Kanasín,ING,Ing. Civil,Matutino,Agosto-Diciembre
+UVA20225997,Femenino,Mexicana,Cancún,11-12-1996,Repetidor,Francisco de Montejo,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+UVA20228099,,mexicano,Mérida,04-11-1996,Repetidor,Chuburná,Prepa Abierta,Tizimín,LIC,Lic. en Arquitectura,MAT,Agosto-Diciembre
+UVA20226413,Femenino,N/A,,2005-09-14,Reinscrito,,,Kanasín,LIC,Ing. Civil,Vespertino,2024-B
+UVA20221942,F,MX,Tizimín,03/10/2005,Equivalencia,,Prepa Abierta,Tizimín,Licenciatura,Lic. en Odontología,Vespertino,2024-B
+UVA20227783,Masculino,MX,Tizimín,1998-08-14,Equivalencia,Itzimná,CBTIS 95,Kanasín,LIC,Ing. en Procesos de Manufactura,Matutino,2023-A
+UVA20221507,Fem,,Mérida,1998-06-20,Nuevo,Chuburná,,Tizimín,LIC,Lic. en Nutrición,Matutino,2023-A
+UVA20227759,M,,Mérida,02-14-2001,Nuevo,CENTRO,N/A,Umán,Ingeniería,Lic. en Educación,MAT,2024-B
+UVA20222269,Fem,,Mérida,03/05/2003,Reinscrito,Francisco de Montejo,CONALEP Mérida,Kanasín,ING,Lic. en Enfermería,Matutino,Agosto-Diciembre
+UVA20223920,Fem,México,Cancún,27/08/2004,Repetidor,Francisco de Montejo,,"Mérida, Yucatán",Ingeniería,Ing Civil,Matutino,2023-A
+UVA20223867,H,México,,20/01/2002,Nuevo,Francisco de Montejo,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Nutrición,Vespertino,Enero-Junio
+UVA20222953,M,N/A,Valladolid,2000-01-31,Equivalencia,CENTRO,,Umán,Ingeniería,Lic. en Criminología,MAT,2023-A
+UVA20225502,F,mexicano,Cancún,1996-02-04,Reinscrito,Itzimná,Prepa Abierta,Umán,Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+UVA20224093,H,Mexicana,Tizimín,27/04/2002,Equivalencia,CENTRO,N/A,Tizimín,ING,Lic. en Educación,VESP,2024-B
+UVA20228456,Femenino,México,Valladolid,06-29-2000,Equivalencia,centro,Prepa Abierta,,LIC,Lic. en Diseño de Modas,MAT,2023-A
+UVA20228348,Masculino,MX,Valladolid,03-22-1997,Nuevo,centro,,Tizimín,LIC,Lic. en Fisioterapia,Matutino,2024-B
+UVA20225711,M,Mexicana,Tizimín,1998-02-24,Reinscrito,centro,CONALEP Mérida,Kanasín,LIC,Lic. en Nutrición,Matutino,2024-B
+UVA20226550,M,,Cancún,03-31-2003,Equivalencia,Itzimná,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Educación,MAT,2024-B
+UVA20222183,Femenino,MX,Cancún,04-18-2001,Nuevo,,CBTIS 95,Kanasín,ING,Lic. en Derecho,Matutino,Enero-Junio
+UVA20227762,Masculino,Mexicana,,03/02/1998,Reinscrito,Centro,CBTIS 95,"Mérida, Yucatán",LIC,Lic. en Psicología,Vespertino,2023-A
+UVA20226164,Masculino,mexicano,,11-09-1995,Nuevo,Itzimná,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Contabilidad,MAT,2024-B
+UVA20223847,Masculino,Mexicana,Tizimín,17/06/2004,Equivalencia,Francisco de Montejo,Prepa Abierta,,LIC,Lic. en Criminología,Matutino,2023-A
+UVA20228698,Fem,,Tizimín,01-09-2005,Reinscrito,Francisco de Montejo,N/A,,Ingeniería,Lic. en Diseño de Modas,MAT,2023-A
+UVA20229799,F,N/A,,10-27-2001,Reinscrito,Itzimná,N/A,,Licenciatura,Lic. en Admin. de Empresas,MAT,2023-A
+UVA20221218,Fem,MX,Tizimín,20/12/2004,Equivalencia,,CONALEP Mérida,Umán,ING,Lic. en Educación,MAT,Enero-Junio
+UVA20221032,M,mexicano,Valladolid,06/02/1996,Equivalencia,centro,N/A,Umán,LIC,Lic. en Fisioterapia,Vespertino,Enero-Junio
+UVA20223394,Femenino,,Valladolid,1998-02-04,Reinscrito,Centro,Prepa Abierta,"Mérida, Yucatán",ING,Lic. en Admin. de Empresas,Vespertino,Enero-Junio
+UVA20223270,Fem,Mexicana,Valladolid,2003-06-22,Nuevo,Itzimná,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic. en Diseño de Modas,MAT,Enero-Junio
+UVA20225334,Femenino,N/A,Valladolid,03-22-1997,Nuevo,CENTRO,,,LIC,Lic. en Odontología,MAT,Enero-Junio
+UVA20221338,Femenino,MX,Cancún,2000-11-09,Nuevo,Centro,,Tizimín,Ingeniería,Lic. en Enfermería,Vespertino,Enero-Junio
+UVA20229208,,Mexicana,Valladolid,17/09/1995,Repetidor,,,Kanasín,Ingeniería,Lic. en Educación,Matutino,Agosto-Diciembre
+UVA20222267,M,MX,Valladolid,08-30-1999,Reinscrito,Centro,CBTIS 95,Kanasín,Licenciatura,Lic. en Criminología,Vespertino,2023-A
+UVA20227063,H,Mexicana,,2003-03-04,Nuevo,Chuburná,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Odontología,Matutino,2024-B
+UVA20226192,,N/A,Mérida,2004-02-08,Reinscrito,Francisco de Montejo,Prepa Abierta,Kanasín,ING,Lic. en Admin. de Empresas,Matutino,Enero-Junio
+UVA20229122,H,México,Cancún,28/02/1997,Reinscrito,Francisco de Montejo,Prepa Abierta,Umán,LIC,Lic. en Admin. de Empresas,VESP,Enero-Junio
+UVA20225997,M,Mexicana,Cancún,2005-08-15,Repetidor,centro,CBTIS 95,,Licenciatura,Lic Psicologia,MAT,2024-B
+UVA20224368,F,mexicano,Valladolid,29/10/2001,Reinscrito,Centro,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Ing. Civil,Vespertino,2024-B
+UVA20225559,Femenino,MX,Mérida,2001-10-31,Nuevo,Chuburná,CBTIS 95,,LIC,Lic. en Educación,Matutino,Enero-Junio
+UVA20224887,,,Tizimín,12-02-2001,Nuevo,,N/A,,Licenciatura,Ing. en Procesos de Manufactura,Vespertino,Enero-Junio
+UVA20224944,Femenino,México,Cancún,2000-02-20,Reinscrito,Francisco de Montejo,,,ING,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20226536,Fem,mexicano,Tizimín,2000-09-25,Repetidor,Francisco de Montejo,Prepa Abierta,Kanasín,Ingeniería,Ing. en Procesos de Manufactura,Vespertino,Enero-Junio
+UVA20224191,H,,,1999-10-19,Repetidor,Itzimná,,Kanasín,Ingeniería,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20229801,H,MX,,29/06/1997,Nuevo,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20224500,Masculino,Mexicana,Valladolid,1997-10-28,Equivalencia,centro,CBTIS 95,Tizimín,LIC,Lic. en Criminología,Matutino,Agosto-Diciembre
+UVA20222785,Fem,N/A,Tizimín,12/11/2002,Nuevo,Centro,CBTIS 95,Umán,LIC,Ing. Civil,Matutino,Enero-Junio
+UVA20225198,F,México,Tizimín,01-09-1998,Repetidor,Francisco de Montejo,N/A,Kanasín,LIC,Lic. en Odontología,VESP,2023-A
+UVA20225955,F,MX,Cancún,1998-01-08,Repetidor,Itzimná,CBTIS 95,Tizimín,Licenciatura,Lic. en Contabilidad,Matutino,2024-B
+UVA20228759,H,México,Mérida,18/11/1998,Reinscrito,,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Odontología,Matutino,Agosto-Diciembre
+UVA20229738,,N/A,,21/08/2005,Equivalencia,centro,,Umán,ING,Lic Psicologia,MAT,2024-B
+UVA20229231,Fem,mexicano,Cancún,27/09/2000,Equivalencia,Itzimná,,,ING,Lic. en Derecho,VESP,2023-A
+UVA20226608,Femenino,México,Mérida,29/12/2003,Repetidor,Chuburná,CONALEP Mérida,Umán,LIC,Ing. Civil,MAT,Enero-Junio
+UVA20225052,F,N/A,Cancún,21/09/2005,Repetidor,,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20225743,Masculino,MX,Mérida,05-02-1996,Repetidor,Itzimná,CONALEP Mérida,Kanasín,Ingeniería,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20225666,H,México,Valladolid,07-31-2001,Equivalencia,Chuburná,,Umán,ING,Lic. en Educación,MAT,Enero-Junio
+UVA20228183,F,MX,,2005-02-07,Nuevo,Francisco de Montejo,N/A,Tizimín,LIC,Lic. en Arquitectura,VESP,Agosto-Diciembre
+UVA20224824,Masculino,México,Cancún,05-21-1997,Repetidor,centro,,Umán,Licenciatura,Ing. Civil,MAT,Enero-Junio
+UVA20223567,H,México,Valladolid,1999-02-15,Repetidor,Itzimná,CBTIS 95,,ING,Lic. en Admin. de Empresas,Matutino,Enero-Junio
+UVA20222332,Masculino,Mexicana,Tizimín,2004-11-11,Reinscrito,,CBTIS 95,Kanasín,LIC,Lic Psicologia,Matutino,Enero-Junio
+UVA20227725,H,México,Tizimín,20/01/1996,Equivalencia,CENTRO,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Odontología,VESP,Agosto-Diciembre
+UVA20228783,H,MX,Cancún,2003-05-10,Reinscrito,Centro,,Umán,ING,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20222126,Femenino,mexicano,Mérida,2004-02-06,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Nutrición,MAT,Enero-Junio
+UVA20227089,,MX,,03/12/1998,Reinscrito,CENTRO,Prepa Abierta,Umán,Ingeniería,Lic. en Admin. de Empresas,VESP,Agosto-Diciembre
+UVA20222781,F,Mexicana,Mérida,2004-06-27,Reinscrito,Centro,,Umán,LIC,Lic. en Enfermería,Vespertino,Enero-Junio
+UVA20226685,Femenino,Mexicana,Mérida,10/02/1998,Reinscrito,centro,CONALEP Mérida,Umán,Licenciatura,Lic Psicologia,VESP,Enero-Junio
+UVA20227490,Fem,México,Mérida,1995-10-09,Nuevo,Itzimná,CBTIS 95,,LIC,Lic. en Arquitectura,MAT,Enero-Junio
+UVA20228423,Femenino,Mexicana,Cancún,09-26-2001,Nuevo,Centro,,Tizimín,Ingeniería,Lic. en Educación,Vespertino,2023-A
+UVA20224227,Masculino,Mexicana,Mérida,1997-01-31,Reinscrito,CENTRO,,Kanasín,LIC,Lic. en Nutrición,MAT,Enero-Junio
+UVA20227020,M,,Mérida,03-12-2001,Equivalencia,Chuburná,,Umán,Ingeniería,Lic. en Arquitectura,VESP,Enero-Junio
+UVA20225830,Masculino,mexicano,Mérida,2001-09-06,Reinscrito,,N/A,Kanasín,Ingeniería,Lic. en Fisioterapia,Matutino,2023-A
+UVA20226410,,N/A,Tizimín,03/05/1995,Repetidor,Itzimná,Preparatoria Estatal No. 1,Umán,ING,Lic. en Gastronomía,VESP,2024-B
+UVA20224594,Fem,mexicano,Cancún,04-02-1996,Repetidor,centro,CBTIS 95,Tizimín,Licenciatura,Ing Civil,MAT,Agosto-Diciembre
+UVA20226666,Femenino,MX,,1998-08-21,Reinscrito,CENTRO,Prepa Abierta,"Mérida, Yucatán",ING,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20223529,Femenino,México,Cancún,03/03/2004,Repetidor,Itzimná,CBTIS 95,Tizimín,Licenciatura,Ing. en Procesos de Manufactura,MAT,2023-A
+UVA20225903,Masculino,México,Tizimín,03-18-2001,Nuevo,Centro,N/A,Kanasín,LIC,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+UVA20224833,Femenino,México,Valladolid,12/02/2005,Repetidor,centro,Prepa Abierta,Tizimín,ING,Lic. en Educación,MAT,Enero-Junio
+UVA20228356,Femenino,MX,Cancún,2003-05-04,Equivalencia,Francisco de Montejo,CONALEP Mérida,Kanasín,Ingeniería,Lic. en Gastronomía,VESP,2023-A
+UVA20221594,Fem,MX,Valladolid,09/08/1997,Repetidor,CENTRO,Preparatoria Estatal No. 1,,LIC,Lic. en Arquitectura,MAT,2024-B
+UVA20229155,F,MX,Mérida,02-06-2005,Equivalencia,,CBTIS 95,Kanasín,Ingeniería,Lic. en Educación,MAT,2024-B
+UVA20226296,F,mexicano,Cancún,12-05-2005,Nuevo,CENTRO,Prepa Abierta,"Mérida, Yucatán",ING,Ing. Civil,Matutino,2024-B
+UVA20227053,Fem,México,Valladolid,03/09/2001,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Matutino,2024-B
+UVA20229522,,,,1996-09-21,Nuevo,centro,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Educación,Matutino,2023-A
+UVA20223214,,,Mérida,2000-08-22,Equivalencia,Itzimná,N/A,"Mérida, Yucatán",Licenciatura,Ing Civil,MAT,2023-A
+UVA20221686,Fem,México,Mérida,1996-12-28,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",ING,Lic. en Derecho,Matutino,Enero-Junio
+UVA20226262,F,México,Mérida,17/01/1995,Repetidor,centro,Prepa Abierta,,Licenciatura,Lic. en Criminología,Matutino,Agosto-Diciembre
+UVA20222061,,Mexicana,Cancún,10-06-1996,Nuevo,Centro,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Criminología,VESP,2023-A
+UVA20229816,H,MX,Valladolid,1999-01-04,Nuevo,,CONALEP Mérida,,Ingeniería,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20229561,Femenino,N/A,Mérida,13/06/1997,Repetidor,,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Arquitectura,Matutino,2024-B
+UVA20227310,,Mexicana,Cancún,08-19-2000,Equivalencia,,,Tizimín,LIC,Lic. en Nutrición,VESP,2024-B
+UVA20221682,,MX,,05-01-2000,Nuevo,centro,CBTIS 95,Tizimín,Licenciatura,Lic. en Odontología,Matutino,Agosto-Diciembre
+UVA20224462,Femenino,,Tizimín,11-25-1996,Reinscrito,,Prepa Abierta,Kanasín,LIC,Lic. en Odontología,Vespertino,Enero-Junio
+UVA20226674,Masculino,Mexicana,Tizimín,2004-11-03,Nuevo,Centro,CONALEP Mérida,,ING,Ing. Civil,MAT,2024-B
+UVA20222884,Masculino,MX,Mérida,01-05-1995,Repetidor,CENTRO,CBTIS 95,,ING,Ing Civil,Matutino,Agosto-Diciembre
+UVA20229374,Masculino,México,Valladolid,31/03/2002,Equivalencia,CENTRO,,Umán,Ingeniería,Lic. en Fisioterapia,VESP,2024-B
+UVA20225355,Fem,,Valladolid,21/09/1997,Repetidor,Centro,Prepa Abierta,Kanasín,ING,Lic. en Criminología,MAT,2023-A
+UVA20228168,M,Mexicana,Valladolid,19/12/2000,Reinscrito,Itzimná,CONALEP Mérida,Kanasín,Ingeniería,Lic. en Arquitectura,VESP,Enero-Junio
+UVA20228510,,Mexicana,Cancún,11/08/2000,Reinscrito,Centro,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Admin. de Empresas,MAT,2024-B
+UVA20221292,,N/A,Valladolid,1995-08-01,Reinscrito,Centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Gastronomía,VESP,Enero-Junio
+UVA20228853,Femenino,mexicano,Mérida,05-27-1995,Equivalencia,Chuburná,,Kanasín,Ingeniería,Ing Civil,VESP,2023-A
+UVA20224189,M,,Valladolid,1998-04-14,Nuevo,centro,CBTIS 95,Kanasín,ING,Lic Psicologia,MAT,2024-B
+UVA20222202,Femenino,México,Valladolid,2002-09-08,Reinscrito,Chuburná,CONALEP Mérida,,Ingeniería,Lic. en Contabilidad,Matutino,2023-A
+UVA20225793,Femenino,México,,19/04/1998,Repetidor,,,Umán,ING,Lic. en Arquitectura,Vespertino,Enero-Junio
+UVA20224833,M,MX,Tizimín,1996-09-18,Nuevo,Itzimná,Prepa Abierta,,LIC,Lic Psicologia,Matutino,2023-A
+UVA20228057,Fem,México,Valladolid,28/06/1998,Repetidor,,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20221641,Masculino,MX,Mérida,12-28-1999,Reinscrito,Francisco de Montejo,Prepa Abierta,,Licenciatura,Lic. en Psicología,VESP,Enero-Junio
+UVA20225842,Fem,,Cancún,07-29-2005,Repetidor,Francisco de Montejo,Prepa Abierta,Tizimín,ING,Lic. en Educación,Vespertino,Agosto-Diciembre
+UVA20224272,Fem,MX,Tizimín,13/11/2003,Equivalencia,centro,N/A,Tizimín,Ingeniería,Ing Civil,Vespertino,Enero-Junio
+UVA20222577,H,N/A,Tizimín,10-10-2003,Nuevo,centro,CONALEP Mérida,Umán,LIC,Lic. en Admin. de Empresas,MAT,Enero-Junio
+UVA20224052,Fem,MX,Cancún,1995-01-21,Equivalencia,CENTRO,Prepa Abierta,Tizimín,ING,Lic. en Odontología,Matutino,2023-A
+UVA20224002,,,Mérida,22/03/2003,Nuevo,Centro,N/A,"Mérida, Yucatán",Ingeniería,Lic. en Arquitectura,Vespertino,2024-B
+UVA20226501,,mexicano,Mérida,2001-08-21,Reinscrito,Centro,,Tizimín,LIC,Ing. en Procesos de Manufactura,Matutino,Agosto-Diciembre
+UVA20228042,F,N/A,Cancún,22/11/1999,Reinscrito,Chuburná,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Admin. de Empresas,Matutino,2024-B
+UVA20229870,Femenino,,Mérida,08-30-2000,Nuevo,centro,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic. en Enfermería,MAT,2023-A
+UVA20223908,Fem,MX,Cancún,2001-12-16,Nuevo,Centro,N/A,,ING,Lic. en Nutrición,Vespertino,Enero-Junio
+UVA20223920,Fem,mexicano,Cancún,11-19-1995,Equivalencia,Francisco de Montejo,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20224052,Masculino,México,Tizimín,10-01-2004,Equivalencia,Chuburná,,"Mérida, Yucatán",Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+UVA20223398,M,N/A,Cancún,2000-11-18,Reinscrito,,,"Mérida, Yucatán",Licenciatura,Lic. en Educación,MAT,2023-A
+UVA20223315,M,N/A,Cancún,19/05/2003,Nuevo,centro,CBTIS 95,Umán,Ingeniería,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20223908,,,Cancún,06-22-2005,Repetidor,Chuburná,N/A,Umán,LIC,Lic. en Nutrición,MAT,2024-B
+UVA20224104,H,MX,Mérida,1998-06-01,Repetidor,Centro,Prepa Abierta,Tizimín,LIC,Lic. en Diseño de Modas,VESP,Enero-Junio
+UVA20222867,Femenino,Mexicana,Tizimín,14/01/1995,Equivalencia,Francisco de Montejo,Prepa Abierta,,Licenciatura,Lic. en Gastronomía,Vespertino,2024-B
+UVA20223940,F,Mexicana,Tizimín,19/10/2003,Equivalencia,Chuburná,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Derecho,VESP,Agosto-Diciembre
+UVA20221054,M,MX,Cancún,2001-09-25,Nuevo,centro,Prepa Abierta,,Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+UVA20223790,F,Mexicana,Valladolid,05-07-1999,Reinscrito,Chuburná,N/A,,Licenciatura,Lic. en Contabilidad,Matutino,2023-A
+UVA20226023,,mexicano,Tizimín,2003-06-03,Nuevo,Itzimná,,Tizimín,LIC,Ing Civil,Matutino,2023-A
+UVA20224707,,México,Tizimín,2004-12-24,Repetidor,,CONALEP Mérida,,ING,Lic Psicologia,Vespertino,2023-A
+UVA20227877,Masculino,MX,Valladolid,03/01/2005,Equivalencia,,Prepa Abierta,Umán,ING,Lic. en Gastronomía,Vespertino,2024-B
+UVA20227800,,Mexicana,Mérida,1995-02-07,Nuevo,Francisco de Montejo,Prepa Abierta,Kanasín,LIC,Lic. en Educación,VESP,Agosto-Diciembre
+UVA20223681,F,Mexicana,,31/01/2004,Repetidor,centro,N/A,Kanasín,Licenciatura,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20229568,H,Mexicana,Cancún,2001-12-10,Nuevo,Francisco de Montejo,N/A,Kanasín,Ingeniería,Ing Civil,Vespertino,2024-B
+UVA20229431,F,México,,12/11/1999,Nuevo,Centro,CONALEP Mérida,Kanasín,Ingeniería,Lic. en Fisioterapia,VESP,Agosto-Diciembre
+UVA20223364,Femenino,México,Tizimín,2000-03-14,Repetidor,Itzimná,,Tizimín,Ingeniería,Ing Civil,VESP,Agosto-Diciembre
+UVA20222632,Fem,,Tizimín,12-20-2005,Equivalencia,CENTRO,N/A,Umán,ING,Lic. en Enfermería,MAT,2023-A
+UVA20226108,Femenino,Mexicana,Cancún,10-28-2005,Nuevo,Francisco de Montejo,N/A,Umán,ING,Lic. en Criminología,Matutino,Agosto-Diciembre
+UVA20226554,F,,Cancún,2000-03-31,Repetidor,Francisco de Montejo,CONALEP Mérida,Umán,ING,Lic. en Contabilidad,Vespertino,Enero-Junio
+UVA20222129,F,,Tizimín,01-30-2005,Repetidor,,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic. en Nutrición,Matutino,2023-A
+UVA20223547,M,MX,Tizimín,2000-05-06,Equivalencia,Chuburná,CBTIS 95,Tizimín,Ingeniería,Lic. en Criminología,VESP,Agosto-Diciembre
+UVA20221890,H,MX,Mérida,07-22-1997,Equivalencia,Centro,CBTIS 95,,Ingeniería,Lic. en Diseño de Modas,VESP,2023-A
+UVA20229925,Fem,Mexicana,,16/01/1998,Repetidor,Chuburná,CBTIS 95,Kanasín,LIC,Lic. en Admin. de Empresas,VESP,2024-B
+UVA20224325,Femenino,MX,,08-31-1999,Reinscrito,Chuburná,CONALEP Mérida,,Licenciatura,Lic. en Enfermería,MAT,2023-A
+UVA20223667,,México,Valladolid,09-13-1997,Repetidor,centro,CONALEP Mérida,Kanasín,ING,Ing Civil,VESP,2023-A
+UVA20228323,,Mexicana,Cancún,08-31-2000,Reinscrito,Centro,,Tizimín,LIC,Lic. en Odontología,Matutino,Agosto-Diciembre
+UVA20226962,Femenino,Mexicana,,1996-10-31,Equivalencia,CENTRO,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Enfermería,Matutino,2024-B
+UVA20224686,Fem,MX,Cancún,12/09/2002,Reinscrito,Centro,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Derecho,VESP,Agosto-Diciembre
+UVA20226112,,N/A,Mérida,26/07/2000,Reinscrito,,Prepa Abierta,Tizimín,Licenciatura,Lic. en Arquitectura,VESP,Enero-Junio
+UVA20223537,Masculino,N/A,,21/07/1997,Repetidor,Centro,N/A,Kanasín,Ingeniería,Lic. en Admin. de Empresas,MAT,Agosto-Diciembre
+UVA20223816,Fem,,Valladolid,22/10/2002,Reinscrito,Itzimná,Preparatoria Estatal No. 1,,ING,Lic. en Nutrición,VESP,Agosto-Diciembre
+UVA20223494,F,N/A,,12-26-2004,Equivalencia,Chuburná,,"Mérida, Yucatán",LIC,Lic. en Educación,VESP,Agosto-Diciembre
+UVA20225604,Masculino,MX,Mérida,08-08-2000,Nuevo,centro,,Umán,Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+UVA20227242,F,MX,Tizimín,04-15-2002,Repetidor,Centro,,Tizimín,ING,Ing. Civil,Vespertino,Agosto-Diciembre
+UVA20229283,M,N/A,Cancún,08-13-2002,Nuevo,,,Umán,ING,Lic Psicologia,Matutino,2024-B
+UVA20228099,,Mexicana,Valladolid,2003-12-17,Equivalencia,,Preparatoria Estatal No. 1,,Licenciatura,Lic Psicologia,Matutino,Enero-Junio
+UVA20227114,H,N/A,Tizimín,14/12/2000,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Ing Civil,Vespertino,Enero-Junio
+UVA20226087,,mexicano,Cancún,2005-12-21,Equivalencia,centro,CBTIS 95,Tizimín,LIC,Lic. en Arquitectura,VESP,2024-B
+UVA20229042,Femenino,mexicano,Valladolid,11-28-2003,Equivalencia,Itzimná,Prepa Abierta,Kanasín,ING,Lic. en Odontología,MAT,2023-A
+UVA20222054,Femenino,N/A,Valladolid,2000-11-21,Repetidor,Centro,N/A,"Mérida, Yucatán",ING,Lic. en Admin. de Empresas,MAT,2024-B
+UVA20227132,M,México,Mérida,2004-07-07,Nuevo,Francisco de Montejo,N/A,Umán,ING,Lic. en Arquitectura,VESP,Enero-Junio
+UVA20225712,H,Mexicana,Mérida,12-21-2003,Reinscrito,Francisco de Montejo,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Nutrición,Vespertino,2024-B
+UVA20221765,Masculino,,Cancún,05-02-1999,Reinscrito,Centro,,,Licenciatura,Lic. en Diseño de Modas,Vespertino,2024-B
+UVA20221329,F,México,Cancún,11-25-2000,Nuevo,Itzimná,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Nutrición,Matutino,2024-B
+UVA20222274,,N/A,Tizimín,1998-05-04,Repetidor,Francisco de Montejo,Preparatoria Estatal No. 1,,ING,Lic. en Odontología,Matutino,2023-A
+UVA20228241,Femenino,México,Mérida,2002-09-16,Equivalencia,Centro,,"Mérida, Yucatán",Licenciatura,Lic. en Admin. de Empresas,MAT,2024-B
+UVA20228910,M,,Tizimín,1996-07-21,Equivalencia,Chuburná,N/A,"Mérida, Yucatán",Licenciatura,Ing Civil,Vespertino,2023-A
+UVA20222065,,MX,Tizimín,2004-01-28,Nuevo,Francisco de Montejo,CBTIS 95,Kanasín,Ingeniería,Lic. en Nutrición,VESP,Agosto-Diciembre
+UVA20229224,Femenino,Mexicana,,01-11-2004,Repetidor,CENTRO,CONALEP Mérida,Umán,Ingeniería,Lic. en Criminología,Matutino,2024-B
+UVA20228472,F,,Mérida,2001-08-10,Repetidor,Chuburná,,Umán,ING,Lic. en Criminología,MAT,Agosto-Diciembre
+UVA20225339,Masculino,MX,Tizimín,04-08-2001,Nuevo,CENTRO,,"Mérida, Yucatán",ING,Lic. en Diseño de Modas,Vespertino,2023-A
+UVA20228689,H,México,Tizimín,16/02/2005,Nuevo,Francisco de Montejo,Prepa Abierta,Umán,Licenciatura,Lic. en Educación,MAT,2023-A
+UVA20224180,H,MX,Tizimín,09-15-2000,Nuevo,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,VESP,2024-B
+UVA20226562,F,Mexicana,Cancún,06/08/2003,Reinscrito,CENTRO,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Psicología,Vespertino,2023-A
+UVA20227146,M,mexicano,Cancún,01-25-1999,Equivalencia,Chuburná,,,LIC,Lic. en Gastronomía,Matutino,2023-A
+UVA20222578,Masculino,MX,Cancún,11-04-2000,Repetidor,,N/A,Umán,Licenciatura,Lic. en Fisioterapia,Matutino,2024-B
+UVA20223352,Femenino,,Cancún,1997-05-07,Equivalencia,centro,CBTIS 95,Umán,Licenciatura,Ing Civil,MAT,Agosto-Diciembre
+UVA20229584,Masculino,México,Valladolid,18/06/2003,Reinscrito,Itzimná,Prepa Abierta,Umán,Licenciatura,Ing. en Procesos de Manufactura,MAT,Enero-Junio
+UVA20221791,Masculino,N/A,Tizimín,1995-04-01,Nuevo,Centro,Prepa Abierta,,Ingeniería,Lic. en Fisioterapia,VESP,2023-A
+UVA20225401,H,mexicano,Cancún,18/08/2000,Equivalencia,CENTRO,CBTIS 95,Kanasín,Ingeniería,Ing. en Procesos de Manufactura,MAT,2024-B
+UVA20224947,Femenino,,Tizimín,09/10/2001,Reinscrito,centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Contabilidad,VESP,2023-A
+UVA20221911,M,,Mérida,1996-12-18,Repetidor,,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Ing Civil,MAT,2023-A
+UVA20226048,,México,Valladolid,05/12/1998,Nuevo,Chuburná,N/A,Tizimín,Licenciatura,Lic Psicologia,Matutino,2023-A
+UVA20225954,Fem,N/A,Cancún,1995-10-13,Equivalencia,Centro,CONALEP Mérida,,LIC,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20227586,Masculino,,,05-24-1998,Nuevo,,CONALEP Mérida,,ING,Lic. en Educación,Matutino,2023-A
+UVA20225360,,mexicano,Valladolid,10-01-2001,Repetidor,CENTRO,Prepa Abierta,Kanasín,Licenciatura,Lic. en Psicología,Matutino,2024-B
+UVA20227668,Masculino,,Mérida,04/07/2002,Reinscrito,CENTRO,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Admin. de Empresas,Vespertino,2024-B
+UVA20222319,H,México,,03-22-2003,Reinscrito,Chuburná,N/A,,Licenciatura,Lic. en Contabilidad,Matutino,Agosto-Diciembre
+UVA20224678,M,MX,Mérida,1998-12-15,Nuevo,centro,Prepa Abierta,,LIC,Lic. en Criminología,VESP,Enero-Junio
+UVA20224656,Femenino,mexicano,Valladolid,13/11/2003,Equivalencia,Francisco de Montejo,CBTIS 95,Tizimín,Ingeniería,Lic. en Educación,MAT,2023-A
+UVA20228015,Femenino,MX,Tizimín,06-28-2000,Equivalencia,centro,N/A,Tizimín,Licenciatura,Lic. en Psicología,MAT,2023-A
+UVA20225052,H,México,Cancún,01/05/1997,Nuevo,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Enfermería,MAT,2024-B
+UVA20227818,F,mexicano,Valladolid,03-05-2001,Equivalencia,,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Enfermería,VESP,2023-A
+UVA20226750,Femenino,Mexicana,Tizimín,2000-03-22,Reinscrito,Chuburná,CONALEP Mérida,Tizimín,Ingeniería,Ing. Civil,VESP,Agosto-Diciembre
+UVA20224976,F,mexicano,Valladolid,27/06/2002,Equivalencia,Francisco de Montejo,Prepa Abierta,Tizimín,Ingeniería,Lic. en Odontología,MAT,Enero-Junio
+UVA20228194,Masculino,N/A,Mérida,08-21-1999,Repetidor,centro,CBTIS 95,Tizimín,Ingeniería,Ing. Civil,Matutino,2024-B
+UVA20226457,F,Mexicana,Cancún,05-01-2004,Equivalencia,Itzimná,CONALEP Mérida,"Mérida, Yucatán",LIC,Ing Civil,Matutino,Agosto-Diciembre
+UVA20223259,Fem,México,Mérida,11-02-1995,Nuevo,Chuburná,CBTIS 95,Tizimín,ING,Lic. en Psicología,MAT,Agosto-Diciembre
+UVA20226663,,mexicano,Cancún,05-12-2000,Nuevo,CENTRO,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,VESP,2023-A
+UVA20223161,Fem,MX,Cancún,08-24-2000,Repetidor,Centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Diseño de Modas,VESP,2023-A
+UVA20225065,F,,Mérida,06-15-2000,Reinscrito,CENTRO,N/A,Umán,LIC,Lic. en Gastronomía,VESP,2024-B
+UVA20228669,Masculino,MX,Cancún,25/03/1996,Equivalencia,Centro,N/A,Tizimín,ING,Lic. en Nutrición,Vespertino,Enero-Junio
+UVA20227236,H,México,Tizimín,1996-05-27,Repetidor,Chuburná,CBTIS 95,Kanasín,LIC,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20228575,Femenino,México,Valladolid,05-14-1998,Nuevo,Chuburná,N/A,Tizimín,ING,Lic. en Derecho,Matutino,2024-B
+UVA20221113,Femenino,México,,04/02/2000,Repetidor,Itzimná,CBTIS 95,Umán,Ingeniería,Lic. en Psicología,MAT,Enero-Junio
+UVA20225451,,,Tizimín,11-21-2002,Repetidor,centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Enfermería,Matutino,2024-B
+UVA20222999,Femenino,MX,Cancún,09-08-1999,Nuevo,Francisco de Montejo,N/A,Kanasín,LIC,Ing. Civil,VESP,Enero-Junio
+UVA20228483,Femenino,N/A,Mérida,2004-06-29,Nuevo,,N/A,Tizimín,LIC,Lic Psicologia,Matutino,Agosto-Diciembre
+UVA20229835,,MX,Tizimín,29/10/2001,Repetidor,Francisco de Montejo,CBTIS 95,"Mérida, Yucatán",ING,Lic. en Educación,MAT,2023-A
+UVA20229710,Fem,Mexicana,Cancún,20/04/2004,Repetidor,Chuburná,CONALEP Mérida,Umán,LIC,Lic. en Contabilidad,Matutino,2023-A
+UVA20228037,H,mexicano,,12-27-1996,Reinscrito,centro,CBTIS 95,,Ingeniería,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+UVA20225905,,,,03/10/1997,Repetidor,Chuburná,,Tizimín,ING,Ing. Civil,Matutino,2023-A
+UVA20226490,Masculino,,Valladolid,01-14-2001,Equivalencia,Chuburná,CBTIS 95,Kanasín,ING,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+UVA20228927,Fem,México,Mérida,22/12/2001,Equivalencia,Chuburná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Educación,VESP,2023-A
+UVA20225811,F,MX,Valladolid,20/08/2001,Nuevo,Francisco de Montejo,N/A,,LIC,Lic. en Enfermería,Vespertino,2024-B
+UVA20228770,H,,Valladolid,2005-09-15,Nuevo,,,Kanasín,LIC,Ing Civil,VESP,2023-A
+UVA20227823,F,N/A,Cancún,1999-12-14,Nuevo,,Prepa Abierta,Tizimín,Licenciatura,Lic. en Admin. de Empresas,Vespertino,2024-B
+UVA20223198,M,MX,Tizimín,1999-05-02,Reinscrito,Francisco de Montejo,CONALEP Mérida,Umán,ING,Lic. en Derecho,Matutino,2024-B
+UVA20229563,Fem,México,,1999-05-29,Equivalencia,CENTRO,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Derecho,Vespertino,Enero-Junio
+UVA20221242,Femenino,N/A,Cancún,2005-08-19,Reinscrito,Francisco de Montejo,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Nutrición,VESP,2024-B
+UVA20228784,Fem,mexicano,Cancún,04-16-2005,Nuevo,Centro,N/A,Umán,ING,Lic. en Derecho,Matutino,2023-A
+UVA20223221,Femenino,mexicano,Valladolid,07-20-1997,Reinscrito,Centro,,"Mérida, Yucatán",Licenciatura,Ing. en Procesos de Manufactura,Vespertino,2023-A
+UVA20229942,Masculino,MX,Cancún,01-07-1997,Nuevo,Francisco de Montejo,N/A,,LIC,Lic. en Odontología,VESP,2023-A
+UVA20226290,H,,Mérida,1995-12-10,Reinscrito,,,,Licenciatura,Lic. en Enfermería,MAT,Agosto-Diciembre
+UVA20226895,Femenino,,Cancún,1998-03-31,Nuevo,Centro,CONALEP Mérida,Tizimín,ING,Lic. en Diseño de Modas,MAT,Enero-Junio
+UVA20229441,Masculino,mexicano,Tizimín,1998-04-22,Repetidor,Chuburná,,Umán,Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+UVA20229161,,MX,Valladolid,29/02/1996,Repetidor,CENTRO,Prepa Abierta,Tizimín,Ingeniería,Lic. en Educación,MAT,Enero-Junio
+UVA20222686,,mexicano,Mérida,05-03-2004,Repetidor,CENTRO,Prepa Abierta,Umán,Ingeniería,Lic. en Odontología,Matutino,Agosto-Diciembre
+UVA20223166,H,MX,Cancún,02/02/2005,Nuevo,Chuburná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Fisioterapia,Vespertino,Enero-Junio
+UVA20223046,Fem,mexicano,Tizimín,18/07/2001,Equivalencia,,Prepa Abierta,Kanasín,ING,Ing. en Procesos de Manufactura,Vespertino,Enero-Junio
+UVA20224930,H,MX,Valladolid,18/01/1999,Reinscrito,,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Educación,MAT,2024-B
+UVA20227668,H,Mexicana,Cancún,1996-11-02,Equivalencia,,CONALEP Mérida,,LIC,Lic. en Derecho,Matutino,Agosto-Diciembre
+UVA20223221,,Mexicana,Valladolid,01-09-1997,Repetidor,Chuburná,,Umán,ING,Ing. Civil,Matutino,Agosto-Diciembre
+UVA20222376,M,mexicano,Cancún,08/04/2002,Reinscrito,Itzimná,,,Ingeniería,Lic. en Psicología,MAT,Enero-Junio
+UVA20227488,M,mexicano,,1998-07-29,Repetidor,Chuburná,CONALEP Mérida,Kanasín,LIC,Lic. en Educación,Matutino,2023-A
+UVA20221535,Femenino,MX,Mérida,05-18-2001,Reinscrito,Centro,Prepa Abierta,Kanasín,LIC,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20229705,,México,Cancún,09/12/2000,Repetidor,CENTRO,N/A,Kanasín,Ingeniería,Lic Psicologia,MAT,2023-A
+UVA20223819,Femenino,,,2000-10-21,Nuevo,Chuburná,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Derecho,Vespertino,Agosto-Diciembre
+UVA20221507,Femenino,México,,19/08/1996,Equivalencia,Chuburná,N/A,Kanasín,Ingeniería,Lic. en Contabilidad,Matutino,Enero-Junio
+UVA20226486,M,N/A,Cancún,02/02/1995,Nuevo,Itzimná,Prepa Abierta,,LIC,Lic. en Enfermería,MAT,Enero-Junio
+UVA20226565,Femenino,N/A,Valladolid,02-05-2003,Equivalencia,CENTRO,CBTIS 95,Umán,ING,Ing. Civil,Matutino,2024-B
+UVA20223967,F,mexicano,,25/05/1996,Nuevo,CENTRO,CONALEP Mérida,,Licenciatura,Lic. en Psicología,VESP,2023-A
+UVA20224204,M,MX,Cancún,2001-09-24,Nuevo,Francisco de Montejo,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Psicología,Matutino,2023-A
+UVA20223301,H,,Valladolid,05-14-1995,Reinscrito,centro,,Tizimín,ING,Lic. en Odontología,Vespertino,Enero-Junio
+UVA20224672,Masculino,mexicano,,1998-06-30,Reinscrito,CENTRO,N/A,"Mérida, Yucatán",ING,Lic. en Criminología,VESP,2023-A
+UVA20223800,Fem,mexicano,Mérida,03-19-2000,Reinscrito,centro,CBTIS 95,Umán,Ingeniería,Lic. en Arquitectura,MAT,2023-A
+UVA20222101,Fem,Mexicana,,27/11/2000,Equivalencia,Chuburná,,"Mérida, Yucatán",Licenciatura,Lic. en Arquitectura,MAT,2024-B
+UVA20229640,H,MX,,2005-10-29,Reinscrito,Francisco de Montejo,CONALEP Mérida,,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+UVA20226507,Femenino,México,,31/08/2004,Nuevo,,N/A,"Mérida, Yucatán",ING,Lic. en Admin. de Empresas,Vespertino,Agosto-Diciembre
+UVA20229234,Fem,,,06-15-2005,Nuevo,Itzimná,,Tizimín,Licenciatura,Ing. en Procesos de Manufactura,Matutino,Agosto-Diciembre
+UVA20224214,H,,Valladolid,2002-02-23,Nuevo,Francisco de Montejo,Prepa Abierta,Kanasín,Ingeniería,Lic. en Derecho,Vespertino,Agosto-Diciembre
+UVA20228727,,México,,28/01/1996,Equivalencia,CENTRO,,Umán,Ingeniería,Lic. en Odontología,Matutino,Agosto-Diciembre
+UVA20226042,,Mexicana,Mérida,1996-02-05,Repetidor,centro,Preparatoria Estatal No. 1,,Licenciatura,Lic. en Criminología,Vespertino,2023-A
+UVA20225559,Femenino,MX,Tizimín,31/01/1997,Equivalencia,Centro,CONALEP Mérida,Tizimín,LIC,Ing. en Procesos de Manufactura,Vespertino,2024-B
+UVA20227035,F,mexicano,Tizimín,1998-01-16,Equivalencia,Francisco de Montejo,CONALEP Mérida,Umán,LIC,Ing. en Procesos de Manufactura,Vespertino,2024-B
+UVA20225472,Fem,MX,,12-21-2001,Equivalencia,Chuburná,Prepa Abierta,Tizimín,Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+UVA20222453,,N/A,Cancún,13/06/2001,Equivalencia,CENTRO,,Umán,LIC,Lic Psicologia,Matutino,Enero-Junio
+UVA20222995,,Mexicana,,26/12/1999,Repetidor,,N/A,Tizimín,LIC,Lic. en Diseño de Modas,Matutino,2023-A
+UVA20221502,Femenino,,Tizimín,05-03-2001,Equivalencia,Itzimná,Prepa Abierta,Umán,Licenciatura,Lic. en Derecho,Matutino,2023-A
+UVA20223166,Masculino,México,Valladolid,11-09-2001,Nuevo,Itzimná,N/A,Kanasín,LIC,Lic. en Arquitectura,Matutino,Agosto-Diciembre
+UVA20228802,Masculino,Mexicana,Valladolid,01-14-1995,Reinscrito,centro,CBTIS 95,Tizimín,Ingeniería,Lic. en Psicología,MAT,Agosto-Diciembre
+UVA20221009,H,MX,Valladolid,31/05/2004,Repetidor,centro,CBTIS 95,Umán,Ingeniería,Lic Psicologia,Vespertino,2023-A
+UVA20222699,F,,Tizimín,10-13-1999,Equivalencia,centro,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Nutrición,MAT,2024-B
+UVA20229222,Masculino,mexicano,Cancún,1996-12-08,Repetidor,Centro,N/A,,Ingeniería,Lic. en Derecho,Matutino,2023-A
+UVA20224644,M,N/A,Valladolid,02/04/1998,Reinscrito,CENTRO,,Kanasín,Ingeniería,Lic. en Enfermería,Matutino,Agosto-Diciembre
+UVA20221494,Fem,N/A,Mérida,1995-05-14,Reinscrito,Itzimná,Prepa Abierta,Kanasín,Ingeniería,Ing Civil,MAT,2024-B
+UVA20227459,H,MX,Tizimín,04-20-2005,Equivalencia,Chuburná,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Odontología,VESP,2024-B
+UVA20227811,Masculino,mexicano,Cancún,1996-11-27,Equivalencia,Centro,CBTIS 95,Tizimín,Ingeniería,Lic Psicologia,Vespertino,Enero-Junio
+UVA20221205,M,mexicano,Valladolid,1999-03-08,Repetidor,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Odontología,VESP,2024-B
+UVA20227464,,Mexicana,Mérida,04/06/2001,Equivalencia,Centro,CBTIS 95,,ING,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20226723,Fem,México,Mérida,12-24-2004,Nuevo,Centro,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Contabilidad,Matutino,2024-B
+UVA20221220,Femenino,,Mérida,1999-12-24,Repetidor,Centro,Prepa Abierta,Umán,LIC,Lic. en Fisioterapia,VESP,2024-B
+UVA20226712,,N/A,,04/04/2001,Equivalencia,Centro,N/A,Umán,Ingeniería,Ing. Civil,MAT,Enero-Junio
+UVA20221098,,N/A,Tizimín,11-18-2005,Equivalencia,Itzimná,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic. en Criminología,VESP,2024-B
+UVA20228295,Masculino,Mexicana,Mérida,03/08/2005,Reinscrito,CENTRO,N/A,Kanasín,Licenciatura,Ing. Civil,Matutino,2024-B
+UVA20222626,,MX,Valladolid,11-10-2005,Repetidor,Francisco de Montejo,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,VESP,Agosto-Diciembre
+UVA20227383,M,N/A,Mérida,09/09/1999,Equivalencia,centro,N/A,"Mérida, Yucatán",ING,Lic. en Admin. de Empresas,MAT,2024-B
+UVA20224012,,N/A,Tizimín,08-16-2002,Nuevo,CENTRO,CBTIS 95,"Mérida, Yucatán",LIC,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+UVA20226706,Fem,N/A,Tizimín,2000-01-14,Equivalencia,,CBTIS 95,,Ingeniería,Lic. en Educación,VESP,Agosto-Diciembre
+UVA20224560,Fem,N/A,Cancún,09-23-1999,Nuevo,Francisco de Montejo,,Tizimín,ING,Lic. en Odontología,Matutino,Enero-Junio
+UVA20226597,M,N/A,Valladolid,05-30-2002,Equivalencia,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Gastronomía,VESP,Enero-Junio
+UVA20228561,M,MX,Cancún,12/01/2005,Equivalencia,Chuburná,N/A,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,Matutino,2024-B
+UVA20222402,M,N/A,Valladolid,2000-11-25,Repetidor,Itzimná,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Enfermería,Matutino,2023-A
+UVA20226033,Masculino,MX,Mérida,1998-06-07,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Gastronomía,VESP,2023-A
+UVA20229139,Fem,Mexicana,Mérida,25/04/1999,Equivalencia,Centro,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Enfermería,MAT,2023-A
+UVA20226630,F,mexicano,Cancún,09-18-1998,Repetidor,Chuburná,,Tizimín,Licenciatura,Ing Civil,MAT,Enero-Junio
+UVA20224903,Fem,mexicano,Valladolid,1995-05-08,Repetidor,Itzimná,,Kanasín,Licenciatura,Lic. en Derecho,Vespertino,Enero-Junio
+UVA20224292,M,N/A,Mérida,04/07/2004,Reinscrito,,Preparatoria Estatal No. 1,Tizimín,ING,Lic. en Criminología,MAT,Enero-Junio
+UVA20229043,,MX,Mérida,10/12/2001,Equivalencia,Francisco de Montejo,,Tizimín,Licenciatura,Ing. en Procesos de Manufactura,Vespertino,2023-A
+UVA20222789,,MX,Cancún,05/11/1999,Equivalencia,Centro,CONALEP Mérida,Kanasín,Licenciatura,Lic. en Fisioterapia,Vespertino,Agosto-Diciembre
+UVA20227493,H,mexicano,Valladolid,06-18-1995,Equivalencia,Francisco de Montejo,Prepa Abierta,Umán,ING,Ing. en Procesos de Manufactura,Vespertino,2024-B
+UVA20223825,M,Mexicana,Tizimín,11/10/2004,Repetidor,centro,Prepa Abierta,,LIC,Lic. en Odontología,VESP,2023-A
+UVA20224427,H,,Cancún,1996-03-19,Reinscrito,Francisco de Montejo,CONALEP Mérida,,Ingeniería,Lic Psicologia,Matutino,Enero-Junio
+UVA20221382,H,México,Valladolid,1996-02-17,Repetidor,CENTRO,,"Mérida, Yucatán",LIC,Lic. en Fisioterapia,VESP,2024-B
+UVA20223846,M,mexicano,Tizimín,04-29-2003,Nuevo,Centro,N/A,,ING,Lic. en Gastronomía,Vespertino,Agosto-Diciembre
+UVA20221008,,MX,Cancún,1996-07-24,Repetidor,Centro,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Nutrición,Matutino,2024-B
+UVA20227379,,N/A,Mérida,11-04-2004,Nuevo,Francisco de Montejo,Prepa Abierta,,LIC,Lic. en Enfermería,Vespertino,2024-B
+UVA20223123,,N/A,,13/03/1998,Nuevo,centro,,Kanasín,ING,Ing. Civil,Vespertino,Enero-Junio
+UVA20221318,M,mexicano,Cancún,1999-06-05,Reinscrito,Itzimná,CONALEP Mérida,Umán,ING,Lic. en Enfermería,Matutino,Agosto-Diciembre
+UVA20227797,Fem,N/A,Cancún,01-24-1997,Reinscrito,Chuburná,Prepa Abierta,,LIC,Lic. en Enfermería,Matutino,2024-B
+UVA20224538,F,N/A,,10-09-1995,Reinscrito,,,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20223185,M,México,Tizimín,19/03/1995,Repetidor,centro,N/A,Kanasín,Licenciatura,Lic. en Criminología,VESP,Agosto-Diciembre
+UVA20227418,,MX,Tizimín,03-06-2001,Reinscrito,Centro,N/A,Umán,ING,Lic. en Odontología,MAT,2024-B
+UVA20221152,F,México,Valladolid,2000-05-30,Equivalencia,CENTRO,,Kanasín,Ingeniería,Lic. en Psicología,Vespertino,2023-A
+UVA20221952,Femenino,,,01/12/2004,Repetidor,Chuburná,N/A,Umán,LIC,Lic. en Derecho,VESP,Agosto-Diciembre
+UVA20222412,F,MX,Cancún,24/07/2004,Repetidor,Chuburná,,Tizimín,Licenciatura,Lic. en Admin. de Empresas,VESP,Agosto-Diciembre
+UVA20224161,Masculino,N/A,Mérida,2004-08-15,Reinscrito,centro,,Umán,LIC,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+UVA20224389,Fem,mexicano,Tizimín,10-03-2001,Equivalencia,centro,N/A,,Licenciatura,Lic. en Criminología,MAT,2024-B
+UVA20222394,Femenino,,Valladolid,21/12/1995,Repetidor,centro,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Derecho,Matutino,2024-B
+UVA20227532,Masculino,N/A,Tizimín,08/05/2002,Reinscrito,Centro,CBTIS 95,Tizimín,ING,Lic. en Educación,Vespertino,Enero-Junio
+UVA20228703,Femenino,,Cancún,08-17-2004,Nuevo,Itzimná,Preparatoria Estatal No. 1,Umán,ING,Lic Psicologia,Matutino,Enero-Junio
+UVA20227979,M,México,,2004-06-29,Repetidor,,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Gastronomía,VESP,2024-B
+UVA20225205,Fem,Mexicana,,2002-09-19,Nuevo,Francisco de Montejo,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20224517,H,Mexicana,Mérida,02-08-2002,Repetidor,CENTRO,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Criminología,MAT,Agosto-Diciembre
+UVA20227331,Fem,N/A,Mérida,23/12/1996,Nuevo,,N/A,Kanasín,ING,Lic. en Derecho,Vespertino,2023-A
+UVA20225958,Masculino,MX,Mérida,2002-11-23,Nuevo,Francisco de Montejo,,Umán,LIC,Lic. en Fisioterapia,Matutino,2024-B
+UVA20225039,Masculino,MX,Tizimín,1995-07-21,Reinscrito,Itzimná,Prepa Abierta,Umán,LIC,Ing. en Procesos de Manufactura,VESP,Agosto-Diciembre
+UVA20229425,,N/A,Tizimín,07-22-1996,Equivalencia,Francisco de Montejo,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic Psicologia,Vespertino,Enero-Junio
+UVA20222297,H,mexicano,Valladolid,09/10/2005,Repetidor,CENTRO,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Vespertino,2023-A
+UVA20228140,Femenino,N/A,Cancún,08-18-1996,Reinscrito,centro,N/A,,Licenciatura,Ing. en Procesos de Manufactura,MAT,2024-B
+UVA20222772,Fem,,Valladolid,12-07-2000,Repetidor,Centro,N/A,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,MAT,2024-B
+UVA20226863,F,México,,1999-01-02,Repetidor,centro,N/A,Kanasín,LIC,Lic. en Enfermería,Vespertino,Enero-Junio
+UVA20223330,Fem,México,Valladolid,31/08/2004,Equivalencia,Itzimná,CBTIS 95,Umán,ING,Lic. en Gastronomía,MAT,Agosto-Diciembre
+UVA20226991,,mexicano,Mérida,1998-05-27,Reinscrito,Itzimná,CBTIS 95,Umán,Licenciatura,Lic. en Fisioterapia,MAT,2024-B
+UVA20223877,H,mexicano,Tizimín,2004-07-19,Repetidor,Chuburná,,Tizimín,ING,Lic. en Diseño de Modas,Vespertino,2024-B
+UVA20225035,H,N/A,,11-17-1998,Equivalencia,centro,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Diseño de Modas,Matutino,Agosto-Diciembre
+UVA20221848,M,mexicano,Tizimín,30/05/2002,Reinscrito,Francisco de Montejo,,"Mérida, Yucatán",Licenciatura,Lic. en Contabilidad,VESP,2024-B
+UVA20229366,F,México,Cancún,03-16-1995,Repetidor,Centro,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Criminología,MAT,2024-B
+UVA20225255,H,Mexicana,Mérida,18/08/2004,Repetidor,Chuburná,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Ing. en Procesos de Manufactura,Vespertino,2024-B
+UVA20227128,H,México,,1995-11-11,Equivalencia,,Prepa Abierta,Tizimín,ING,Lic. en Educación,VESP,Agosto-Diciembre
+UVA20228960,Fem,,,2002-06-14,Nuevo,Francisco de Montejo,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Enfermería,Matutino,2023-A
+UVA20221559,,Mexicana,Cancún,11-25-2001,Reinscrito,CENTRO,,Umán,LIC,Ing Civil,VESP,2024-B
+UVA20224137,Fem,Mexicana,Mérida,09-07-1995,Reinscrito,Itzimná,,,ING,Lic. en Enfermería,Vespertino,2024-B
+UVA20225470,Masculino,,,24/12/1998,Nuevo,Itzimná,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Criminología,MAT,2023-A
+UVA20228845,Fem,,,08-19-2001,Repetidor,CENTRO,N/A,"Mérida, Yucatán",ING,Lic. en Admin. de Empresas,VESP,Enero-Junio
+UVA20225439,Femenino,MX,,2001-09-23,Nuevo,centro,Preparatoria Estatal No. 1,,Licenciatura,Lic Psicologia,Vespertino,2024-B
+UVA20228025,Femenino,,Tizimín,11/09/1999,Reinscrito,Chuburná,,Tizimín,LIC,Lic. en Contabilidad,Vespertino,2023-A
+UVA20227333,H,Mexicana,Mérida,2004-02-12,Repetidor,,N/A,Tizimín,LIC,Lic. en Educación,Matutino,2024-B
+UVA20222296,H,México,,2000-05-02,Nuevo,,CONALEP Mérida,,Licenciatura,Lic. en Gastronomía,VESP,Enero-Junio
+UVA20229340,Masculino,N/A,,26/06/2004,Nuevo,Itzimná,,Kanasín,ING,Lic. en Enfermería,Vespertino,2024-B
+UVA20225020,F,mexicano,Mérida,09-02-1996,Reinscrito,Centro,Prepa Abierta,"Mérida, Yucatán",ING,Ing Civil,VESP,2023-A
+UVA20224343,Femenino,MX,Mérida,08/09/2002,Reinscrito,CENTRO,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Criminología,MAT,2024-B
+UVA20227905,Femenino,,Mérida,11/01/2002,Nuevo,Chuburná,CONALEP Mérida,Tizimín,ING,Lic. en Arquitectura,Matutino,2024-B
+UVA20222933,M,,Cancún,1998-04-07,Nuevo,Centro,CONALEP Mérida,Kanasín,Licenciatura,Lic. en Educación,Vespertino,2024-B
+UVA20225148,Fem,N/A,Cancún,2005-05-01,Nuevo,Itzimná,Preparatoria Estatal No. 1,Tizimín,LIC,Lic. en Criminología,VESP,Enero-Junio
+UVA20221049,F,México,Tizimín,1997-05-19,Repetidor,Chuburná,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Educación,Vespertino,2023-A
+UVA20228467,,,Tizimín,30/11/1996,Equivalencia,Chuburná,CONALEP Mérida,,ING,Lic. en Diseño de Modas,VESP,2024-B
+UVA20226645,,mexicano,Valladolid,06-23-2003,Equivalencia,CENTRO,N/A,Tizimín,Ingeniería,Lic. en Contabilidad,Vespertino,Enero-Junio
+UVA20221658,M,N/A,Cancún,08-27-2000,Nuevo,CENTRO,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Derecho,VESP,Agosto-Diciembre
+UVA20222888,H,Mexicana,Mérida,01/01/2002,Repetidor,Chuburná,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Gastronomía,Matutino,2024-B
+UVA20227997,M,Mexicana,Valladolid,12-01-2004,Reinscrito,Francisco de Montejo,CONALEP Mérida,Kanasín,LIC,Lic. en Nutrición,VESP,2023-A
+UVA20227244,Femenino,,Tizimín,05-12-2005,Equivalencia,Centro,Prepa Abierta,,ING,Lic. en Nutrición,VESP,Enero-Junio
+UVA20226675,F,,Mérida,03-27-2004,Repetidor,Francisco de Montejo,N/A,Kanasín,Ingeniería,Ing. en Procesos de Manufactura,VESP,Agosto-Diciembre
+UVA20227969,Fem,N/A,Cancún,12-22-2002,Repetidor,centro,CBTIS 95,,ING,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20222003,,,Cancún,27/01/1998,Nuevo,CENTRO,,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,Vespertino,2023-A
+UVA20222792,,N/A,Tizimín,08-16-2002,Repetidor,Chuburná,,"Mérida, Yucatán",LIC,Lic Psicologia,VESP,2024-B
+UVA20221780,,mexicano,Tizimín,2004-05-11,Repetidor,,,"Mérida, Yucatán",Ingeniería,Lic Psicologia,MAT,2023-A
+UVA20222753,M,México,Mérida,2004-06-20,Equivalencia,Itzimná,Prepa Abierta,Umán,Licenciatura,Lic. en Criminología,VESP,2024-B
+UVA20221347,F,MX,Valladolid,19/06/2001,Nuevo,Francisco de Montejo,,Kanasín,ING,Ing. Civil,Matutino,2024-B
+UVA20222008,Fem,MX,Valladolid,03-16-2004,Equivalencia,Chuburná,CBTIS 95,"Mérida, Yucatán",LIC,Lic. en Odontología,VESP,Enero-Junio
+UVA20225230,M,Mexicana,Mérida,1999-05-26,Nuevo,Centro,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Criminología,Vespertino,Agosto-Diciembre
+UVA20226764,Femenino,MX,Valladolid,17/07/1999,Reinscrito,centro,CONALEP Mérida,Umán,LIC,Lic Psicologia,Matutino,2024-B
+UVA20226270,,MX,Cancún,01/02/2001,Equivalencia,centro,Prepa Abierta,,Licenciatura,Lic. en Arquitectura,Vespertino,2023-A
+UVA20229881,H,N/A,Tizimín,03/12/1998,Repetidor,,Prepa Abierta,Umán,LIC,Lic. en Criminología,Matutino,2024-B
+UVA20223864,Fem,N/A,Tizimín,04-28-1995,Equivalencia,Francisco de Montejo,CBTIS 95,Tizimín,Licenciatura,Lic Psicologia,VESP,2023-A
+UVA20229663,Masculino,México,Cancún,22/08/2004,Reinscrito,CENTRO,Prepa Abierta,,Ingeniería,Lic. en Fisioterapia,MAT,Enero-Junio
+UVA20227997,Femenino,Mexicana,,2000-06-17,Nuevo,Centro,CONALEP Mérida,,LIC,Ing Civil,Vespertino,2023-A
+UVA20222217,Masculino,Mexicana,,2002-09-04,Reinscrito,CENTRO,Prepa Abierta,Tizimín,LIC,Lic. en Nutrición,Vespertino,2024-B
+UVA20225955,,N/A,Mérida,1996-12-08,Repetidor,centro,CBTIS 95,,ING,Ing. en Procesos de Manufactura,MAT,2023-A
+UVA20228010,,Mexicana,Mérida,09-14-2003,Nuevo,Chuburná,,Tizimín,Ingeniería,Lic. en Educación,Vespertino,Agosto-Diciembre
+UVA20228952,M,Mexicana,Tizimín,12-26-1997,Equivalencia,CENTRO,CONALEP Mérida,Tizimín,Ingeniería,Lic Psicologia,MAT,Agosto-Diciembre
+UVA20221692,Fem,MX,Mérida,01/06/1996,Equivalencia,,N/A,Tizimín,Licenciatura,Lic. en Contabilidad,Matutino,2024-B
+UVA20227273,Fem,mexicano,Valladolid,1996-12-10,Repetidor,centro,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Nutrición,VESP,2023-A
+UVA20229563,,mexicano,Cancún,15/02/2002,Repetidor,Francisco de Montejo,N/A,Umán,Licenciatura,Lic. en Diseño de Modas,Vespertino,2023-A
+UVA20227388,Fem,mexicano,Valladolid,03/07/2000,Nuevo,centro,N/A,Kanasín,LIC,Lic. en Contabilidad,VESP,2023-A
+UVA20225990,Fem,Mexicana,Mérida,18/10/1997,Equivalencia,,Preparatoria Estatal No. 1,Umán,ING,Lic. en Educación,Vespertino,2023-A
+UVA20221670,Masculino,Mexicana,,07-11-1995,Nuevo,centro,Prepa Abierta,Kanasín,ING,Lic. en Admin. de Empresas,Matutino,2024-B
+UVA20222709,,Mexicana,Cancún,1999-11-14,Nuevo,,Preparatoria Estatal No. 1,Tizimín,ING,Lic. en Nutrición,Vespertino,Enero-Junio
+UVA20221566,M,,Cancún,07-16-2003,Repetidor,Francisco de Montejo,CONALEP Mérida,Tizimín,ING,Lic. en Contabilidad,Matutino,Agosto-Diciembre
+UVA20222466,,N/A,Tizimín,10-06-2004,Equivalencia,centro,CONALEP Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,Vespertino,Enero-Junio
+UVA20226983,H,N/A,Valladolid,28/11/2001,Reinscrito,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Odontología,VESP,2024-B
+UVA20223775,Masculino,MX,Tizimín,12/04/2000,Equivalencia,Francisco de Montejo,Prepa Abierta,Tizimín,Licenciatura,Lic. en Admin. de Empresas,Matutino,2024-B
+UVA20229465,F,N/A,Mérida,01-12-2005,Equivalencia,Centro,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Gastronomía,VESP,2024-B
+UVA20226655,Fem,México,,2000-01-22,Reinscrito,,N/A,Kanasín,ING,Lic. en Psicología,Vespertino,Agosto-Diciembre
+UVA20225221,Fem,mexicano,,12-18-1996,Equivalencia,CENTRO,N/A,Umán,Ingeniería,Lic. en Educación,MAT,Agosto-Diciembre
+UVA20225963,Masculino,Mexicana,Tizimín,2005-03-05,Repetidor,Chuburná,CBTIS 95,,ING,Lic. en Fisioterapia,MAT,2024-B
+UVA20228799,Fem,MX,Valladolid,09/04/1995,Equivalencia,,CBTIS 95,"Mérida, Yucatán",LIC,Ing Civil,Vespertino,Enero-Junio
+UVA20228782,F,MX,Valladolid,04/06/1999,Nuevo,CENTRO,CONALEP Mérida,,Ingeniería,Lic. en Derecho,MAT,2023-A
+UVA20221320,H,mexicano,Mérida,29/12/1998,Reinscrito,CENTRO,Prepa Abierta,Umán,LIC,Lic Psicologia,VESP,Enero-Junio
+UVA20229311,Fem,México,Tizimín,25/01/2004,Equivalencia,Francisco de Montejo,CONALEP Mérida,Kanasín,ING,Lic. en Admin. de Empresas,Matutino,Agosto-Diciembre
+UVA20229743,Masculino,Mexicana,Tizimín,04-15-1997,Reinscrito,,N/A,Umán,ING,Lic. en Admin. de Empresas,MAT,2023-A
+UVA20225442,M,N/A,,2004-01-24,Reinscrito,centro,,Umán,LIC,Lic. en Educación,Vespertino,2024-B
+UVA20227758,H,México,Mérida,22/04/2003,Reinscrito,,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Derecho,MAT,Agosto-Diciembre
+UVA20222611,Fem,Mexicana,,12-18-2005,Equivalencia,centro,,Tizimín,Ingeniería,Lic. en Diseño de Modas,VESP,2024-B
+UVA20229701,M,N/A,Valladolid,10-01-2004,Repetidor,Chuburná,N/A,Umán,Licenciatura,Lic. en Nutrición,MAT,2023-A
+UVA20226864,H,,Cancún,22/12/1999,Equivalencia,Itzimná,N/A,,Licenciatura,Ing. en Procesos de Manufactura,Matutino,2024-B
+UVA20224174,F,N/A,Tizimín,03-24-1998,Repetidor,Chuburná,CBTIS 95,Umán,Licenciatura,Lic. en Derecho,Vespertino,Enero-Junio
+UVA20222138,Masculino,México,Cancún,30/05/1996,Reinscrito,CENTRO,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Criminología,MAT,2023-A
+UVA20223818,,MX,Cancún,1995-06-05,Nuevo,Centro,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Diseño de Modas,MAT,2023-A
+UVA20227731,F,MX,Mérida,1997-10-05,Repetidor,Centro,CONALEP Mérida,Umán,Licenciatura,Lic. en Nutrición,Matutino,2023-A
+UVA20225111,,,,1995-09-24,Reinscrito,,Prepa Abierta,Tizimín,Ingeniería,Lic. en Admin. de Empresas,MAT,2023-A
+UVA20224567,Fem,N/A,Tizimín,25/07/2000,Equivalencia,CENTRO,N/A,Umán,Ingeniería,Lic. en Contabilidad,MAT,2023-A
+UVA20227472,H,Mexicana,Tizimín,09-02-2005,Nuevo,Centro,N/A,,LIC,Lic. en Gastronomía,MAT,Enero-Junio
+UVA20229401,H,mexicano,Valladolid,02-19-2002,Nuevo,,CBTIS 95,Tizimín,Ingeniería,Lic Psicologia,Matutino,2023-A
+UVA20225030,F,N/A,Cancún,08-06-1995,Repetidor,centro,Preparatoria Estatal No. 1,Tizimín,ING,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20221744,Fem,,,11-05-1996,Nuevo,Chuburná,,Kanasín,ING,Lic. en Criminología,Vespertino,Enero-Junio
+UVA20225016,Fem,México,Valladolid,2002-07-14,Reinscrito,Centro,CBTIS 95,,LIC,Lic Psicologia,Matutino,2023-A
+UVA20222925,Fem,México,Mérida,1999-05-16,Reinscrito,CENTRO,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Admin. de Empresas,Matutino,Enero-Junio
+UVA20229451,Femenino,,Tizimín,2000-10-10,Nuevo,Francisco de Montejo,,Kanasín,Ingeniería,Lic Psicologia,Matutino,2024-B
+UVA20222889,,MX,Tizimín,2001-05-15,Repetidor,centro,Preparatoria Estatal No. 1,Umán,LIC,Ing Civil,Vespertino,2023-A
+UVA20228799,F,México,,05-23-1996,Equivalencia,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Ing. en Procesos de Manufactura,Matutino,Enero-Junio
+UVA20221479,F,Mexicana,Mérida,2005-02-28,Reinscrito,Chuburná,Prepa Abierta,Kanasín,Licenciatura,Ing. en Procesos de Manufactura,MAT,Agosto-Diciembre
+UVA20225573,,México,Cancún,1995-04-20,Reinscrito,Itzimná,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Derecho,VESP,2023-A
+UVA20223804,M,Mexicana,Mérida,2003-10-03,Repetidor,Centro,CBTIS 95,Tizimín,ING,Lic. en Educación,Vespertino,Enero-Junio
+UVA20229189,M,mexicano,Tizimín,02-13-2004,Equivalencia,,CBTIS 95,Tizimín,LIC,Lic. en Educación,Vespertino,2024-B
+UVA20222651,Fem,N/A,Mérida,2001-07-27,Repetidor,Francisco de Montejo,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Psicología,VESP,2023-A
+UVA20224160,M,MX,Mérida,01-25-2001,Reinscrito,Chuburná,CBTIS 95,Kanasín,Licenciatura,Ing. Civil,Matutino,2024-B
+UVA20224502,,N/A,Valladolid,30/10/2001,Repetidor,Itzimná,CBTIS 95,Kanasín,Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+UVA20223948,H,N/A,Cancún,1997-06-23,Repetidor,,CONALEP Mérida,"Mérida, Yucatán",Ingeniería,Lic Psicologia,MAT,Enero-Junio
+UVA20228366,F,,Tizimín,2000-12-21,Reinscrito,CENTRO,CONALEP Mérida,,Licenciatura,Lic. en Educación,VESP,Enero-Junio
+UVA20223046,F,México,,11-09-1997,Nuevo,Itzimná,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Derecho,MAT,2024-B
+UVA20224222,,México,,06/08/1997,Reinscrito,Itzimná,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Nutrición,Vespertino,2023-A
+UVA20224071,M,México,Valladolid,05-06-1997,Nuevo,centro,CONALEP Mérida,,Ingeniería,Lic. en Criminología,Matutino,2024-B
+UVA20227539,H,N/A,Valladolid,04-10-2002,Equivalencia,centro,CBTIS 95,Tizimín,LIC,Lic Psicologia,VESP,Enero-Junio
+UVA20225621,Femenino,N/A,Valladolid,03-22-2005,Equivalencia,Francisco de Montejo,N/A,"Mérida, Yucatán",Ingeniería,Lic. en Diseño de Modas,Vespertino,Enero-Junio
+UVA20227747,,México,Valladolid,01-30-1999,Repetidor,CENTRO,N/A,Tizimín,LIC,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20226965,Masculino,N/A,,05/01/1998,Equivalencia,centro,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Educación,VESP,2024-B
+UVA20224402,Fem,N/A,Cancún,08/10/1998,Nuevo,CENTRO,,,LIC,Lic. en Fisioterapia,MAT,Enero-Junio
+UVA20227119,F,MX,Cancún,09/01/1999,Reinscrito,CENTRO,,Kanasín,LIC,Ing Civil,Matutino,Agosto-Diciembre
+UVA20227799,Femenino,mexicano,,02-01-2004,Reinscrito,centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Fisioterapia,MAT,2024-B
+UVA20222945,,mexicano,Valladolid,1996-03-03,Nuevo,Chuburná,CBTIS 95,Tizimín,LIC,Lic Psicologia,VESP,Agosto-Diciembre
+UVA20224976,Fem,Mexicana,Tizimín,2003-03-02,Reinscrito,,Prepa Abierta,Kanasín,Ingeniería,Lic. en Fisioterapia,Vespertino,Enero-Junio
+UVA20221122,F,México,Tizimín,31/05/2004,Reinscrito,Francisco de Montejo,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Contabilidad,VESP,Enero-Junio
+UVA20228708,Fem,Mexicana,Valladolid,1999-09-22,Repetidor,Itzimná,Preparatoria Estatal No. 1,Umán,ING,Ing. en Procesos de Manufactura,Matutino,Enero-Junio
+UVA20225341,Masculino,,Valladolid,01-20-2002,Equivalencia,Centro,CBTIS 95,Umán,LIC,Lic. en Admin. de Empresas,Vespertino,Agosto-Diciembre
+UVA20229792,Fem,Mexicana,Cancún,2001-04-30,Equivalencia,Itzimná,N/A,Tizimín,ING,Lic. en Educación,Vespertino,Agosto-Diciembre
+UVA20221217,F,Mexicana,Mérida,11-13-2005,Reinscrito,Chuburná,CONALEP Mérida,Kanasín,Licenciatura,Lic. en Arquitectura,Vespertino,2024-B
+UVA20226057,F,MX,Tizimín,2005-11-26,Reinscrito,CENTRO,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Contabilidad,VESP,Enero-Junio
+UVA20228842,Femenino,Mexicana,,1997-01-01,Repetidor,CENTRO,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+UVA20228818,Masculino,Mexicana,Tizimín,2003-04-26,Repetidor,Centro,Prepa Abierta,Kanasín,LIC,Lic. en Educación,VESP,2023-A
+UVA20221104,Masculino,Mexicana,,06-26-1998,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Tizimín,ING,Lic. en Criminología,Matutino,2024-B
+UVA20222981,Masculino,N/A,Cancún,01-27-2004,Equivalencia,Francisco de Montejo,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Criminología,Vespertino,Enero-Junio
+UVA20227826,F,mexicano,Valladolid,12/03/1995,Repetidor,,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Derecho,Vespertino,Agosto-Diciembre
+UVA20224716,,México,Valladolid,01/03/2003,Reinscrito,centro,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Enfermería,VESP,2024-B
+UVA20225641,Masculino,Mexicana,Valladolid,09-18-1997,Equivalencia,,,,LIC,Lic. en Admin. de Empresas,VESP,2024-B
+UVA20222242,Masculino,mexicano,Valladolid,12-10-2003,Nuevo,,,Kanasín,ING,Lic. en Contabilidad,VESP,Enero-Junio
+UVA20227606,M,México,Valladolid,2000-04-22,Nuevo,CENTRO,,Umán,Licenciatura,Lic. en Odontología,VESP,2023-A
+UVA20227392,Femenino,mexicano,Tizimín,10-24-2001,Nuevo,Chuburná,CBTIS 95,Kanasín,Ingeniería,Lic. en Arquitectura,MAT,2023-A
+UVA20226347,H,,,17/04/1996,Reinscrito,CENTRO,Prepa Abierta,,Licenciatura,Ing. Civil,Matutino,2023-A
+UVA20225175,Masculino,,Cancún,06-02-2004,Equivalencia,centro,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Psicología,MAT,2023-A
+UVA20228592,Masculino,mexicano,Mérida,2002-08-09,Nuevo,centro,CONALEP Mérida,Umán,Ingeniería,Lic. en Gastronomía,MAT,2023-A
+UVA20229509,Femenino,,Mérida,15/09/1996,Reinscrito,CENTRO,CBTIS 95,Umán,Licenciatura,Lic. en Fisioterapia,VESP,Agosto-Diciembre
+UVA20229550,F,,Valladolid,2003-07-22,Reinscrito,centro,CONALEP Mérida,Kanasín,Licenciatura,Lic. en Derecho,VESP,2023-A
+UVA20225719,Fem,mexicano,,09/02/2003,Reinscrito,Francisco de Montejo,Prepa Abierta,Kanasín,Ingeniería,Ing. en Procesos de Manufactura,VESP,Agosto-Diciembre
+UVA20225764,Masculino,México,Mérida,1997-03-20,Equivalencia,Francisco de Montejo,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Enfermería,MAT,2024-B
+UVA20221729,H,Mexicana,Cancún,17/12/2002,Equivalencia,Francisco de Montejo,,Kanasín,Licenciatura,Lic. en Odontología,VESP,2024-B
+UVA20224443,Femenino,MX,,25/06/1999,Equivalencia,Chuburná,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Nutrición,Matutino,2024-B
+UVA20226409,F,,Tizimín,06/08/1995,Repetidor,,N/A,Tizimín,Ingeniería,Lic. en Psicología,VESP,2024-B
+UVA20225537,,N/A,Tizimín,1995-11-03,Equivalencia,Chuburná,CONALEP Mérida,Umán,ING,Lic. en Fisioterapia,Vespertino,2024-B
+UVA20222355,,MX,Mérida,2000-12-01,Equivalencia,Chuburná,,Umán,Licenciatura,Ing. en Procesos de Manufactura,MAT,Agosto-Diciembre
+UVA20227600,H,MX,Mérida,17/06/1996,Reinscrito,Francisco de Montejo,Prepa Abierta,"Mérida, Yucatán",ING,Lic. en Enfermería,MAT,Agosto-Diciembre
+UVA20224069,M,mexicano,,2004-04-09,Equivalencia,,,Umán,Licenciatura,Lic. en Arquitectura,MAT,2024-B
+UVA20226674,H,mexicano,Tizimín,1995-05-10,Reinscrito,Centro,Prepa Abierta,Umán,Ingeniería,Lic. en Enfermería,MAT,2023-A
+UVA20229100,Masculino,MX,Mérida,03-10-2000,Nuevo,Chuburná,Prepa Abierta,,ING,Ing. en Procesos de Manufactura,VESP,2023-A
+UVA20221163,F,Mexicana,Cancún,10-30-2001,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,VESP,2023-A
+UVA20225470,Masculino,México,Tizimín,05-27-2003,Nuevo,Francisco de Montejo,CBTIS 95,"Mérida, Yucatán",ING,Ing. Civil,Vespertino,Agosto-Diciembre
+UVA20229978,F,México,Cancún,03/04/1999,Repetidor,Chuburná,CONALEP Mérida,"Mérida, Yucatán",ING,Lic. en Derecho,VESP,2024-B
+UVA20225931,Fem,Mexicana,Valladolid,1999-07-13,Repetidor,centro,CONALEP Mérida,Umán,Ingeniería,Lic. en Gastronomía,VESP,Enero-Junio
+UVA20226590,F,mexicano,,09/05/1999,Repetidor,Centro,CBTIS 95,"Mérida, Yucatán",ING,Ing Civil,Vespertino,Enero-Junio
+UVA20229779,Fem,mexicano,Cancún,07-29-1995,Equivalencia,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20221213,Fem,MX,Mérida,2002-12-11,Nuevo,Itzimná,N/A,Tizimín,LIC,Lic. en Arquitectura,MAT,2023-A
+UVA20225884,,MX,Cancún,1999-08-29,Equivalencia,centro,Prepa Abierta,Kanasín,ING,Lic Psicologia,Matutino,2024-B
+UVA20229028,Femenino,MX,,21/01/1995,Repetidor,Itzimná,,,LIC,Lic. en Psicología,Vespertino,Enero-Junio
+UVA20225709,H,MX,Mérida,12-22-2001,Repetidor,Itzimná,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Ing. Civil,Matutino,Enero-Junio
+UVA20229603,M,mexicano,,28/08/2001,Repetidor,Itzimná,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Arquitectura,MAT,2023-A
+UVA20222968,Masculino,,Tizimín,2000-04-21,Nuevo,Francisco de Montejo,,,Licenciatura,Lic Psicologia,VESP,2024-B
+UVA20223391,Masculino,México,,09-10-1997,Reinscrito,Chuburná,Preparatoria Estatal No. 1,Tizimín,ING,Ing. en Procesos de Manufactura,Vespertino,Agosto-Diciembre
+UVA20223691,H,Mexicana,Tizimín,2003-05-04,Reinscrito,,,,Licenciatura,Lic. en Educación,Vespertino,Agosto-Diciembre
+UVA20222624,Femenino,México,Cancún,11-20-1996,Reinscrito,Centro,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Enfermería,VESP,Agosto-Diciembre
+UVA20221020,Fem,MX,Tizimín,11/06/2004,Reinscrito,CENTRO,,Tizimín,Ingeniería,Lic. en Odontología,Vespertino,Enero-Junio
+UVA20227270,F,Mexicana,Cancún,08-07-2004,Nuevo,Francisco de Montejo,CONALEP Mérida,Kanasín,Licenciatura,Lic. en Nutrición,VESP,Enero-Junio
+UVA20222374,H,,Mérida,06/05/1995,Repetidor,Chuburná,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Educación,MAT,Agosto-Diciembre
+UVA20226786,Fem,mexicano,Valladolid,07/08/2000,Equivalencia,Centro,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Nutrición,MAT,Agosto-Diciembre
+UVA20228701,Femenino,México,Cancún,24/04/2001,Nuevo,CENTRO,Preparatoria Estatal No. 1,Umán,LIC,Lic. en Contabilidad,Matutino,2023-A
+UVA20229296,H,Mexicana,Valladolid,28/12/2000,Repetidor,Chuburná,Prepa Abierta,Tizimín,Licenciatura,Lic. en Gastronomía,MAT,2024-B
+UVA20224532,M,Mexicana,Mérida,02/06/1995,Reinscrito,Chuburná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Enfermería,Matutino,2023-A
+UVA20225735,Masculino,mexicano,,03-11-2001,Repetidor,Itzimná,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Fisioterapia,Vespertino,2023-A
+UVA20222336,Masculino,Mexicana,Tizimín,19/09/1996,Reinscrito,centro,Prepa Abierta,Umán,LIC,Lic. en Admin. de Empresas,Vespertino,2023-A
+UVA20221765,Masculino,,Mérida,1997-09-17,Nuevo,centro,CBTIS 95,Kanasín,Ingeniería,Lic. en Fisioterapia,VESP,2023-A
+UVA20221703,F,Mexicana,Cancún,02-19-2003,Equivalencia,Chuburná,N/A,Kanasín,Ingeniería,Lic. en Odontología,VESP,Enero-Junio
+UVA20227536,F,México,,1999-09-11,Reinscrito,Chuburná,,Kanasín,Ingeniería,Ing. Civil,MAT,Enero-Junio
+UVA20221259,H,N/A,Cancún,1996-05-15,Reinscrito,Itzimná,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Psicología,MAT,Agosto-Diciembre
+UVA20221690,F,N/A,Valladolid,17/05/2005,Reinscrito,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",ING,Ing Civil,Matutino,Enero-Junio
+UVA20224981,Masculino,N/A,Tizimín,09-01-2000,Reinscrito,,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic Psicologia,MAT,2023-A
+UVA20228689,H,N/A,Valladolid,26/01/1997,Reinscrito,,N/A,Umán,ING,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20222036,Femenino,Mexicana,Tizimín,1995-10-05,Equivalencia,Chuburná,CONALEP Mérida,Kanasín,LIC,Ing. Civil,Matutino,2024-B
+UVA20223154,F,Mexicana,Mérida,1997-07-07,Nuevo,Francisco de Montejo,Prepa Abierta,Tizimín,Licenciatura,Lic. en Educación,VESP,2024-B
+UVA20225124,F,mexicano,Tizimín,29/07/2000,Nuevo,Chuburná,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Derecho,Vespertino,2023-A
+UVA20227405,H,,Valladolid,2004-03-02,Equivalencia,Chuburná,,Tizimín,LIC,Lic. en Odontología,MAT,2023-A
+UVA20228359,Fem,México,Valladolid,09/12/1995,Nuevo,Chuburná,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Educación,Matutino,2023-A
+UVA20228703,Masculino,MX,,16/10/2005,Nuevo,Centro,Prepa Abierta,Umán,LIC,Lic. en Enfermería,Matutino,2023-A
+UVA20224508,H,México,Cancún,30/05/1996,Nuevo,Centro,N/A,Umán,Licenciatura,Lic. en Gastronomía,MAT,2024-B
+UVA20221883,,México,Cancún,2001-06-11,Nuevo,,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Enfermería,VESP,2024-B
+UVA20223161,M,México,Cancún,01-01-2005,Repetidor,Francisco de Montejo,Preparatoria Estatal No. 1,,Ingeniería,Lic. en Gastronomía,Vespertino,2023-A
+UVA20228393,M,MX,Mérida,07-05-2004,Equivalencia,Centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Educación,Vespertino,2024-B
+UVA20225925,,MX,Cancún,01/04/2000,Equivalencia,centro,N/A,Tizimín,LIC,Ing. Civil,MAT,Enero-Junio
+UVA20223605,M,México,Valladolid,07-10-2004,Equivalencia,Centro,N/A,Tizimín,Ingeniería,Lic. en Psicología,MAT,Enero-Junio
+UVA20221172,,mexicano,Valladolid,2005-05-26,Repetidor,Itzimná,Preparatoria Estatal No. 1,Umán,ING,Lic. en Fisioterapia,Matutino,Enero-Junio
+UVA20224219,Masculino,Mexicana,,04/10/1996,Reinscrito,,CBTIS 95,Umán,LIC,Lic. en Nutrición,Matutino,Agosto-Diciembre
+UVA20222286,Femenino,mexicano,Tizimín,1998-05-08,Repetidor,centro,CONALEP Mérida,Kanasín,Ingeniería,Lic. en Gastronomía,VESP,2024-B
+UVA20225849,Masculino,mexicano,,01-18-1997,Reinscrito,Itzimná,CBTIS 95,Kanasín,Licenciatura,Lic Psicologia,Vespertino,Agosto-Diciembre
+UVA20229338,Masculino,México,Mérida,07-03-1996,Equivalencia,centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Derecho,Matutino,Agosto-Diciembre
+UVA20228359,Femenino,N/A,Valladolid,2005-04-04,Nuevo,Centro,,Tizimín,Ingeniería,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20224087,Fem,México,Cancún,12-12-2002,Nuevo,CENTRO,,"Mérida, Yucatán",ING,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20228809,Masculino,mexicano,Cancún,1999-05-22,Repetidor,,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Diseño de Modas,VESP,Agosto-Diciembre
+UVA20229308,H,mexicano,Valladolid,23/03/1997,Nuevo,Centro,,Tizimín,ING,Ing. en Procesos de Manufactura,MAT,2024-B
+UVA20223374,H,Mexicana,,12/05/2005,Reinscrito,,CBTIS 95,Kanasín,LIC,Lic Psicologia,MAT,Agosto-Diciembre
+UVA20227300,,mexicano,Mérida,2002-03-19,Repetidor,Francisco de Montejo,N/A,"Mérida, Yucatán",LIC,Lic. en Arquitectura,VESP,2024-B
+UVA20225039,,MX,Valladolid,2003-08-13,Nuevo,Itzimná,,Umán,Licenciatura,Lic. en Odontología,VESP,2024-B
+UVA20223273,H,,Mérida,08-20-1996,Repetidor,Itzimná,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+UVA20223115,Femenino,mexicano,Tizimín,2003-10-25,Nuevo,CENTRO,N/A,Kanasín,Ingeniería,Lic. en Nutrición,MAT,Enero-Junio
+UVA20227017,M,México,Cancún,07/09/1995,Reinscrito,Chuburná,,Tizimín,Licenciatura,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+UVA20221314,H,,Mérida,09-17-1997,Equivalencia,Chuburná,CBTIS 95,"Mérida, Yucatán",Ingeniería,Lic. en Criminología,VESP,2024-B
+UVA20223483,M,,Tizimín,22/06/2003,Repetidor,CENTRO,CBTIS 95,Kanasín,Licenciatura,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20229460,H,,Mérida,04-06-1999,Nuevo,Centro,,Kanasín,LIC,Lic. en Diseño de Modas,MAT,2024-B
+UVA20227656,M,N/A,Tizimín,27/12/2004,Repetidor,,CBTIS 95,Tizimín,Licenciatura,Lic. en Fisioterapia,Vespertino,2023-A
+UVA20222026,Masculino,,Tizimín,03-09-1997,Reinscrito,Centro,CONALEP Mérida,Tizimín,LIC,Lic. en Nutrición,Matutino,2024-B
+UVA20226268,Fem,Mexicana,Tizimín,09-14-2003,Reinscrito,Chuburná,,Tizimín,LIC,Lic. en Educación,Vespertino,Enero-Junio
+UVA20223133,,MX,Cancún,08-24-2000,Repetidor,CENTRO,CBTIS 95,Tizimín,Licenciatura,Lic. en Diseño de Modas,Matutino,Agosto-Diciembre
+UVA20229613,M,N/A,Mérida,08-28-1998,Nuevo,CENTRO,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,MAT,2024-B
+UVA20226113,Masculino,MX,Mérida,2000-05-19,Repetidor,Centro,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Odontología,Matutino,Enero-Junio
+UVA20225771,,mexicano,Cancún,2004-02-22,Equivalencia,centro,Preparatoria Estatal No. 1,Tizimín,LIC,Lic. en Fisioterapia,VESP,Enero-Junio
+UVA20227480,Fem,,Mérida,1996-12-21,Repetidor,centro,CONALEP Mérida,Kanasín,LIC,Lic. en Nutrición,MAT,Agosto-Diciembre
+UVA20222630,Femenino,N/A,Mérida,12-02-2004,Reinscrito,,N/A,Umán,LIC,Lic. en Contabilidad,Matutino,Enero-Junio
+UVA20223369,M,MX,Cancún,2000-09-11,Nuevo,centro,,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,Vespertino,2024-B
+UVA20223823,F,Mexicana,Tizimín,12/10/1997,Reinscrito,CENTRO,,"Mérida, Yucatán",ING,Lic. en Nutrición,VESP,2023-A
+UVA20222520,Masculino,México,Valladolid,16/05/2000,Repetidor,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Arquitectura,VESP,2023-A
+UVA20223566,M,MX,,2003-12-30,Equivalencia,Francisco de Montejo,N/A,Tizimín,Ingeniería,Lic. en Arquitectura,Vespertino,2024-B
+UVA20229978,Femenino,,,2001-09-03,Nuevo,CENTRO,CBTIS 95,Tizimín,Licenciatura,Lic. en Arquitectura,Matutino,2023-A
+UVA20228393,Femenino,mexicano,,12-10-1998,Nuevo,CENTRO,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Admin. de Empresas,Vespertino,2024-B
+UVA20221306,Fem,México,Cancún,12-11-2000,Nuevo,,CONALEP Mérida,Umán,Licenciatura,Lic. en Gastronomía,MAT,2023-A
+UVA20227050,M,México,Cancún,15/09/2000,Repetidor,Centro,,Umán,LIC,Lic. en Odontología,Matutino,2023-A
+UVA20224143,Masculino,N/A,Tizimín,2000-12-15,Nuevo,Chuburná,CONALEP Mérida,Umán,ING,Lic. en Odontología,Matutino,2024-B
+UVA20226218,Fem,,Mérida,18/07/2004,Equivalencia,Itzimná,CBTIS 95,Umán,Ingeniería,Lic. en Educación,Vespertino,2023-A
+UVA20229543,,MX,Valladolid,05-25-1997,Nuevo,centro,N/A,Tizimín,Licenciatura,Lic. en Arquitectura,Matutino,2023-A
+UVA20229182,Fem,Mexicana,Cancún,2001-04-03,Nuevo,CENTRO,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Enfermería,MAT,Agosto-Diciembre
+UVA20221798,F,México,Valladolid,1996-12-07,Reinscrito,CENTRO,,Umán,LIC,Lic. en Odontología,VESP,Enero-Junio
+UVA20226538,Masculino,México,Valladolid,26/11/2002,Nuevo,CENTRO,N/A,Kanasín,LIC,Ing Civil,Matutino,2024-B
+UVA20225164,F,,Mérida,01/09/2005,Equivalencia,Francisco de Montejo,Prepa Abierta,Tizimín,Ingeniería,Lic. en Nutrición,MAT,Agosto-Diciembre
+UVA20221626,,MX,Valladolid,2005-06-24,Equivalencia,centro,Prepa Abierta,,Ingeniería,Lic. en Nutrición,Matutino,Agosto-Diciembre
+UVA20222223,H,,,14/02/1998,Repetidor,CENTRO,N/A,,Ingeniería,Lic. en Educación,Matutino,Enero-Junio
+UVA20228493,H,,Valladolid,10-29-1997,Nuevo,Chuburná,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Psicología,Matutino,Agosto-Diciembre
+UVA20227905,,N/A,Valladolid,18/11/1997,Nuevo,centro,Prepa Abierta,,Licenciatura,Lic. en Educación,VESP,Agosto-Diciembre
+UVA20226879,,mexicano,Mérida,28/06/2004,Repetidor,CENTRO,,Umán,LIC,Lic. en Psicología,Vespertino,2024-B
+UVA20224675,Masculino,,Tizimín,12-15-1998,Repetidor,centro,,Tizimín,LIC,Lic. en Contabilidad,MAT,Agosto-Diciembre
+UVA20226105,Masculino,Mexicana,Cancún,11/09/2000,Repetidor,centro,,"Mérida, Yucatán",Licenciatura,Lic. en Admin. de Empresas,Vespertino,2023-A
+UVA20225334,F,mexicano,Tizimín,2001-12-03,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Tizimín,LIC,Lic. en Diseño de Modas,Vespertino,Agosto-Diciembre
+UVA20222898,Masculino,N/A,Valladolid,2003-03-19,Repetidor,Centro,CONALEP Mérida,Umán,ING,Lic. en Diseño de Modas,Vespertino,Enero-Junio
+UVA20228223,H,mexicano,Cancún,10-28-1996,Reinscrito,CENTRO,CBTIS 95,"Mérida, Yucatán",ING,Lic. en Educación,Vespertino,2024-B
+UVA20229818,,Mexicana,Tizimín,05-24-2004,Nuevo,Centro,,Umán,Ingeniería,Ing Civil,Vespertino,Enero-Junio
+UVA20228861,Masculino,MX,,05-22-2004,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Enfermería,MAT,Agosto-Diciembre
+UVA20224038,F,N/A,Tizimín,2005-12-30,Repetidor,Itzimná,Prepa Abierta,Umán,ING,Lic Psicologia,Matutino,2023-A
+UVA20228166,,N/A,Valladolid,2003-10-01,Nuevo,Centro,Prepa Abierta,"Mérida, Yucatán",ING,Lic Psicologia,VESP,2024-B
+UVA20227529,Masculino,,Tizimín,04-04-1997,Nuevo,Francisco de Montejo,N/A,,Ingeniería,Lic. en Educación,VESP,2023-A
+UVA20227926,F,,Valladolid,03-26-1999,Equivalencia,Francisco de Montejo,,Umán,Licenciatura,Lic. en Derecho,Matutino,2023-A
+UVA20229247,M,Mexicana,Mérida,2002-06-03,Reinscrito,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,MAT,2023-A
+UVA20228482,Fem,,Tizimín,17/06/1995,Nuevo,CENTRO,CBTIS 95,Umán,LIC,Lic. en Admin. de Empresas,Matutino,2024-B
+UVA20228521,Masculino,Mexicana,,16/03/1998,Equivalencia,CENTRO,CONALEP Mérida,"Mérida, Yucatán",ING,Lic. en Odontología,VESP,2024-B
+UVA20221423,,,Valladolid,1997-06-23,Repetidor,Itzimná,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Arquitectura,MAT,2024-B
+UVA20223608,Fem,,Tizimín,11-23-1998,Equivalencia,CENTRO,N/A,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,Matutino,2023-A
+UVA20222390,Masculino,mexicano,Mérida,10-25-1998,Nuevo,centro,CBTIS 95,Umán,LIC,Lic. en Diseño de Modas,MAT,2023-A
+UVA20228488,Fem,N/A,Valladolid,07-07-1998,Repetidor,,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Educación,VESP,Enero-Junio
+UVA20228319,M,Mexicana,Valladolid,29/11/1998,Reinscrito,CENTRO,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Diseño de Modas,VESP,Enero-Junio
+UVA20221083,F,mexicano,Tizimín,2004-04-06,Repetidor,centro,Preparatoria Estatal No. 1,,LIC,Ing. en Procesos de Manufactura,Vespertino,2023-A
+UVA20227184,Femenino,MX,Tizimín,17/04/1998,Equivalencia,Centro,CONALEP Mérida,,Ingeniería,Lic. en Diseño de Modas,VESP,Agosto-Diciembre
+UVA20222282,Masculino,México,,25/08/2004,Equivalencia,CENTRO,CBTIS 95,Umán,Licenciatura,Lic. en Fisioterapia,Vespertino,Enero-Junio
+UVA20224226,Femenino,,Tizimín,26/03/2001,Nuevo,,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Diseño de Modas,MAT,Enero-Junio
+UVA20221845,Fem,mexicano,,03/05/1999,Nuevo,Itzimná,Prepa Abierta,,Licenciatura,Lic. en Educación,Vespertino,2024-B
+UVA20228245,M,México,Valladolid,24/08/2005,Equivalencia,Chuburná,Prepa Abierta,,Licenciatura,Ing Civil,MAT,2024-B
+UVA20227708,Fem,MX,Mérida,25/02/1996,Nuevo,Chuburná,,"Mérida, Yucatán",Licenciatura,Lic. en Nutrición,VESP,Agosto-Diciembre
+UVA20229040,,,Mérida,01-14-2002,Repetidor,,N/A,"Mérida, Yucatán",ING,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+UVA20227087,Fem,N/A,Tizimín,02-23-1998,Nuevo,Centro,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Enfermería,VESP,2024-B
+UVA20229325,,N/A,Cancún,27/08/2004,Repetidor,Itzimná,CBTIS 95,Kanasín,Licenciatura,Lic. en Admin. de Empresas,VESP,2024-B
+UVA20229092,,mexicano,Tizimín,2002-04-05,Nuevo,centro,CONALEP Mérida,Kanasín,Licenciatura,Ing. Civil,Vespertino,2024-B
+UVA20225007,F,,Cancún,01/02/1997,Reinscrito,CENTRO,,Kanasín,Licenciatura,Ing Civil,Matutino,2023-A
+UVA20224173,H,Mexicana,Tizimín,07-05-1995,Equivalencia,,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Psicología,VESP,Agosto-Diciembre
+UVA20224998,Masculino,mexicano,Valladolid,10-05-2000,Nuevo,Centro,N/A,Kanasín,Licenciatura,Ing. Civil,VESP,2024-B
+UVA20228645,F,mexicano,Cancún,02-15-2001,Equivalencia,centro,Prepa Abierta,Umán,ING,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20226833,M,México,Mérida,18/06/1998,Equivalencia,Francisco de Montejo,,Kanasín,ING,Lic Psicologia,MAT,2024-B
+UVA20225581,Fem,Mexicana,Mérida,12/02/2004,Equivalencia,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic Psicologia,MAT,Enero-Junio
+UVA20221996,,MX,Valladolid,31/07/2004,Reinscrito,centro,N/A,Tizimín,Ingeniería,Lic. en Admin. de Empresas,Vespertino,Enero-Junio
+UVA20227850,M,México,Mérida,2003-02-14,Repetidor,Francisco de Montejo,,,Ingeniería,Lic Psicologia,Vespertino,2023-A
+UVA20226212,Masculino,México,Tizimín,2002-12-23,Nuevo,Centro,CBTIS 95,Umán,ING,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20226635,F,Mexicana,,01-19-1998,Equivalencia,Francisco de Montejo,CBTIS 95,,Licenciatura,Lic. en Educación,VESP,Agosto-Diciembre
+UVA20229297,Femenino,N/A,Tizimín,2001-01-17,Equivalencia,Itzimná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Contabilidad,Vespertino,2023-A
+UVA20222691,M,N/A,,09-15-1999,Nuevo,Chuburná,CBTIS 95,Kanasín,ING,Ing. en Procesos de Manufactura,VESP,2024-B
+UVA20227075,H,México,Valladolid,22/02/2002,Repetidor,CENTRO,Prepa Abierta,Umán,Licenciatura,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20222703,Fem,mexicano,Valladolid,1998-02-08,Reinscrito,Itzimná,Prepa Abierta,Umán,ING,Lic. en Admin. de Empresas,Vespertino,2023-A
+UVA20227670,M,mexicano,Tizimín,05-12-2002,Reinscrito,centro,Prepa Abierta,Kanasín,Licenciatura,Ing Civil,Vespertino,2023-A
+UVA20227121,,Mexicana,Valladolid,26/03/2005,Reinscrito,Francisco de Montejo,CONALEP Mérida,Umán,Ingeniería,Lic. en Nutrición,MAT,2023-A
+UVA20227793,F,N/A,Valladolid,03/10/1999,Reinscrito,Centro,Prepa Abierta,Kanasín,Licenciatura,Lic. en Contabilidad,Vespertino,2024-B
+UVA20221300,Fem,MX,Tizimín,06-10-1998,Reinscrito,centro,,Tizimín,Licenciatura,Lic. en Educación,Matutino,2023-A
+UVA20224728,Masculino,Mexicana,,29/11/1999,Nuevo,Chuburná,Prepa Abierta,Umán,ING,Lic. en Fisioterapia,Vespertino,2024-B
+UVA20226156,Masculino,,Tizimín,1998-10-06,Repetidor,Centro,CBTIS 95,Umán,LIC,Lic. en Arquitectura,MAT,Enero-Junio
+UVA20222297,M,México,,02-13-2002,Repetidor,Chuburná,Preparatoria Estatal No. 1,Tizimín,LIC,Lic. en Criminología,MAT,Agosto-Diciembre
+UVA20221994,H,MX,Mérida,2004-11-18,Nuevo,CENTRO,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Enfermería,VESP,Agosto-Diciembre
+UVA20224667,,México,Valladolid,26/11/1999,Reinscrito,Centro,,,LIC,Lic. en Enfermería,Matutino,Enero-Junio
+UVA20224695,Fem,Mexicana,,12-09-1996,Nuevo,CENTRO,Prepa Abierta,Kanasín,Licenciatura,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+UVA20229517,Fem,,Valladolid,01/05/1999,Equivalencia,centro,,Tizimín,LIC,Ing Civil,Matutino,2024-B
+UVA20223993,F,Mexicana,Cancún,12-05-1997,Nuevo,Itzimná,,,Licenciatura,Lic. en Fisioterapia,MAT,Enero-Junio
+UVA20222727,Fem,MX,Valladolid,08-30-2002,Nuevo,Centro,CONALEP Mérida,Tizimín,ING,Lic. en Fisioterapia,MAT,Agosto-Diciembre
+UVA20228136,M,Mexicana,,2000-05-05,Equivalencia,Itzimná,Prepa Abierta,Tizimín,Licenciatura,Lic. en Nutrición,Matutino,2024-B
+UVA20226559,H,MX,,01-11-1998,Repetidor,Centro,CBTIS 95,,ING,Lic. en Enfermería,MAT,Agosto-Diciembre
+UVA20225667,,MX,Cancún,28/04/2001,Reinscrito,Centro,,Kanasín,LIC,Ing. en Procesos de Manufactura,MAT,2024-B
+UVA20227467,,,Tizimín,21/10/2001,Nuevo,CENTRO,N/A,Kanasín,LIC,Lic. en Educación,MAT,2024-B
+UVA20229143,Masculino,México,Cancún,12-16-2000,Nuevo,,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Nutrición,Matutino,Enero-Junio
+UVA20227530,Fem,,Tizimín,13/08/2005,Reinscrito,centro,,,Licenciatura,Lic. en Fisioterapia,VESP,2024-B
+UVA20229831,H,,,08-21-1997,Nuevo,,,Umán,ING,Lic. en Gastronomía,Matutino,Enero-Junio
+UVA20228416,,mexicano,Cancún,07-14-1997,Reinscrito,,,"Mérida, Yucatán",ING,Ing Civil,Vespertino,Enero-Junio
+UVA20222272,Femenino,MX,Cancún,07-20-1998,Repetidor,,Prepa Abierta,Kanasín,LIC,Lic. en Gastronomía,Vespertino,2023-A
+UVA20227121,M,MX,,1996-04-19,Nuevo,,,Tizimín,ING,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20224586,H,N/A,Valladolid,01/01/2002,Reinscrito,CENTRO,CONALEP Mérida,Kanasín,LIC,Lic. en Odontología,MAT,2024-B
+UVA20221020,H,Mexicana,Cancún,23/08/1996,Nuevo,,N/A,Kanasín,ING,Lic. en Criminología,Vespertino,Agosto-Diciembre
+UVA20227851,,Mexicana,Mérida,09/07/1996,Repetidor,Chuburná,CBTIS 95,Kanasín,ING,Lic. en Odontología,Vespertino,Enero-Junio
+UVA20228850,Fem,MX,Valladolid,06/06/2002,Reinscrito,Centro,,Kanasín,ING,Lic. en Nutrición,VESP,2023-A
+UVA20223254,Masculino,MX,Tizimín,26/03/1998,Nuevo,Itzimná,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Psicología,MAT,Enero-Junio
+UVA20222587,Masculino,Mexicana,Cancún,1999-01-04,Nuevo,Centro,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,MAT,2023-A
+UVA20223455,,MX,Valladolid,2000-10-29,Reinscrito,Centro,Prepa Abierta,Kanasín,ING,Lic. en Enfermería,VESP,2023-A
+UVA20229706,Masculino,México,Mérida,06-09-2003,Repetidor,Francisco de Montejo,Preparatoria Estatal No. 1,,Licenciatura,Lic. en Nutrición,Matutino,2024-B
+UVA20229213,F,MX,Mérida,2000-12-22,Equivalencia,,CBTIS 95,Umán,ING,Lic. en Diseño de Modas,Matutino,2023-A
+UVA20229939,F,,,12-31-1995,Nuevo,Francisco de Montejo,,Tizimín,ING,Lic. en Fisioterapia,Vespertino,2023-A
+UVA20223503,M,MX,Tizimín,1998-12-21,Nuevo,Itzimná,,,ING,Lic. en Educación,VESP,2023-A
+UVA20227066,,N/A,Valladolid,2002-10-06,Repetidor,Francisco de Montejo,CBTIS 95,Umán,ING,Lic. en Nutrición,MAT,Agosto-Diciembre
+UVA20222490,M,N/A,Tizimín,07/12/2005,Nuevo,centro,CONALEP Mérida,Kanasín,ING,Lic. en Nutrición,VESP,Enero-Junio
+UVA20226724,H,N/A,Cancún,1995-01-23,Equivalencia,Centro,,Umán,ING,Lic Psicologia,MAT,2023-A
+UVA20224639,,Mexicana,Tizimín,05-23-2000,Equivalencia,,Prepa Abierta,Umán,LIC,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+UVA20224130,Fem,Mexicana,Valladolid,1999-03-21,Reinscrito,Francisco de Montejo,CONALEP Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Educación,VESP,2023-A
+UVA20226419,Fem,mexicano,Cancún,09-13-2000,Nuevo,,N/A,Tizimín,LIC,Lic. en Contabilidad,VESP,Agosto-Diciembre
+UVA20227275,H,mexicano,Valladolid,2003-04-19,Equivalencia,centro,CONALEP Mérida,Umán,Licenciatura,Ing Civil,MAT,Enero-Junio
+UVA20226036,H,N/A,Mérida,12-16-1996,Nuevo,Centro,,"Mérida, Yucatán",LIC,Lic. en Educación,Vespertino,Enero-Junio
+UVA20223157,Masculino,México,Tizimín,2005-06-28,Reinscrito,CENTRO,Preparatoria Estatal No. 1,Kanasín,ING,Lic. en Gastronomía,VESP,2024-B
+UVA20222771,Masculino,Mexicana,,08-31-2001,Nuevo,Chuburná,Prepa Abierta,,LIC,Lic. en Derecho,Matutino,2024-B
+UVA20227207,Masculino,mexicano,,07/04/1998,Repetidor,Centro,Prepa Abierta,Umán,LIC,Lic. en Educación,Matutino,Enero-Junio
+UVA20227135,H,,Cancún,1998-12-13,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Nutrición,Matutino,2023-A
+UVA20228814,Fem,,Cancún,1997-09-13,Repetidor,Itzimná,,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,MAT,Agosto-Diciembre
+UVA20227519,Masculino,,,21/09/2004,Repetidor,Chuburná,Prepa Abierta,Tizimín,LIC,Lic. en Psicología,MAT,Enero-Junio
+UVA20225587,,,Tizimín,01/06/1998,Reinscrito,Chuburná,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Educación,Vespertino,Enero-Junio
+UVA20228366,Masculino,N/A,Mérida,21/12/1997,Reinscrito,,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Psicología,MAT,Agosto-Diciembre
+UVA20222596,Femenino,mexicano,Valladolid,1995-01-15,Equivalencia,,,Umán,ING,Lic. en Contabilidad,Matutino,2023-A
+UVA20221672,H,México,,1999-11-24,Reinscrito,Centro,CBTIS 95,"Mérida, Yucatán",Licenciatura,Lic. en Contabilidad,Vespertino,Enero-Junio
+UVA20221158,Fem,mexicano,Tizimín,07/02/2003,Reinscrito,,Preparatoria Estatal No. 1,Umán,ING,Lic. en Odontología,MAT,2024-B
+UVA20223582,H,N/A,Valladolid,2000-10-27,Equivalencia,Itzimná,,Kanasín,Licenciatura,Ing. Civil,VESP,2024-B
+UVA20222701,H,MX,Cancún,1998-03-17,Repetidor,centro,CBTIS 95,,Licenciatura,Lic. en Psicología,MAT,2023-A
+UVA20227373,,México,Tizimín,23/02/2001,Repetidor,,Preparatoria Estatal No. 1,"Mérida, Yucatán",ING,Lic. en Admin. de Empresas,Matutino,2024-B
+UVA20226596,Fem,Mexicana,Valladolid,1999-03-07,Equivalencia,,Prepa Abierta,Kanasín,Ingeniería,Lic. en Diseño de Modas,VESP,Agosto-Diciembre
+UVA20226641,Fem,mexicano,Mérida,10-31-2003,Nuevo,Itzimná,Prepa Abierta,Kanasín,Licenciatura,Lic. en Admin. de Empresas,MAT,2023-A
+UVA20225946,H,MX,Tizimín,02/10/2000,Repetidor,,Prepa Abierta,,Licenciatura,Lic. en Enfermería,Matutino,Agosto-Diciembre
+UVA20227868,,mexicano,Mérida,2004-11-04,Equivalencia,Itzimná,CBTIS 95,,ING,Lic. en Contabilidad,VESP,Enero-Junio
+UVA20223706,,mexicano,Tizimín,2004-12-01,Nuevo,CENTRO,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic Psicologia,MAT,Enero-Junio
+UVA20226348,Fem,N/A,,26/03/2002,Equivalencia,CENTRO,N/A,Tizimín,Licenciatura,Lic Psicologia,VESP,Enero-Junio
+UVA20223467,,,Valladolid,05-29-2001,Reinscrito,,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,MAT,2024-B
+UVA20228339,F,Mexicana,Cancún,1999-03-20,Repetidor,Centro,CONALEP Mérida,Kanasín,LIC,Lic. en Gastronomía,VESP,Enero-Junio
+UVA20226389,F,mexicano,Valladolid,08-15-2005,Reinscrito,Itzimná,,Kanasín,LIC,Ing. Civil,Vespertino,2024-B
+UVA20226633,Fem,N/A,,2002-05-23,Repetidor,Chuburná,CBTIS 95,Tizimín,Ingeniería,Ing Civil,VESP,2024-B
+UVA20221205,Masculino,MX,Tizimín,08/07/1997,Reinscrito,Francisco de Montejo,Prepa Abierta,,ING,Ing. Civil,Vespertino,2023-A
+UVA20227635,Masculino,N/A,,10-23-1998,Nuevo,centro,Prepa Abierta,,ING,Lic. en Arquitectura,Vespertino,2023-A
+UVA20226162,Fem,Mexicana,,26/10/1996,Nuevo,Chuburná,N/A,"Mérida, Yucatán",Ingeniería,Lic. en Arquitectura,Vespertino,Enero-Junio
+UVA20222558,,N/A,Valladolid,01-23-2004,Repetidor,CENTRO,CBTIS 95,Kanasín,Licenciatura,Ing Civil,Matutino,Enero-Junio
+UVA20229584,Fem,N/A,,26/07/2001,Repetidor,,Prepa Abierta,,Ingeniería,Lic. en Enfermería,MAT,Enero-Junio
+UVA20223647,F,México,Mérida,1997-05-29,Nuevo,centro,N/A,"Mérida, Yucatán",LIC,Lic. en Criminología,MAT,Agosto-Diciembre
+UVA20225929,F,Mexicana,Tizimín,2003-08-31,Repetidor,centro,CBTIS 95,Tizimín,Ingeniería,Ing. Civil,MAT,Enero-Junio
+UVA20224059,Femenino,MX,Cancún,09-04-1996,Reinscrito,Itzimná,CBTIS 95,,LIC,Lic. en Criminología,Vespertino,2024-B
+UVA20223917,H,Mexicana,Cancún,2000-08-15,Reinscrito,Itzimná,CBTIS 95,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,Vespertino,2024-B
+UVA20225636,H,,,12-05-2003,Reinscrito,,N/A,,LIC,Lic. en Fisioterapia,VESP,Agosto-Diciembre
+UVA20226861,F,mexicano,Valladolid,1997-05-19,Reinscrito,Francisco de Montejo,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Nutrición,Matutino,Enero-Junio
+UVA20224399,M,México,Tizimín,08-31-2005,Nuevo,Chuburná,CONALEP Mérida,Tizimín,Ingeniería,Lic. en Nutrición,MAT,2023-A
+UVA20223433,M,MX,Mérida,29/07/2000,Nuevo,Chuburná,Prepa Abierta,Tizimín,LIC,Lic. en Arquitectura,VESP,Enero-Junio
+UVA20222936,Masculino,Mexicana,Tizimín,2000-04-09,Nuevo,Chuburná,,Tizimín,LIC,Lic. en Odontología,Vespertino,2023-A
+UVA20228223,,mexicano,Cancún,2004-05-03,Reinscrito,CENTRO,CONALEP Mérida,Tizimín,Licenciatura,Lic. en Diseño de Modas,MAT,2024-B
+UVA20224796,Femenino,Mexicana,Mérida,2003-07-09,Repetidor,,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+UVA20229647,Masculino,MX,Cancún,08-18-1996,Reinscrito,centro,,"Mérida, Yucatán",LIC,Lic. en Educación,Vespertino,2023-A
+UVA20226154,Masculino,,Cancún,2005-05-25,Repetidor,Francisco de Montejo,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+UVA20226673,H,MX,Valladolid,1998-08-04,Nuevo,Itzimná,CBTIS 95,"Mérida, Yucatán",LIC,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20225765,,México,,1996-02-19,Nuevo,Francisco de Montejo,N/A,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,MAT,Enero-Junio
+UVA20226868,H,N/A,,1997-12-12,Reinscrito,Itzimná,N/A,,Licenciatura,Lic. en Arquitectura,Vespertino,Enero-Junio
+UVA20224228,Masculino,N/A,Mérida,2004-09-27,Reinscrito,Itzimná,Preparatoria Estatal No. 1,Tizimín,ING,Ing Civil,Vespertino,Agosto-Diciembre
+UVA20226472,Femenino,,Mérida,11/03/2001,Nuevo,Centro,,Kanasín,Licenciatura,Lic. en Educación,Matutino,Enero-Junio
+UVA20221808,F,MX,Mérida,25/11/2002,Reinscrito,Francisco de Montejo,Preparatoria Estatal No. 1,"Mérida, Yucatán",LIC,Lic. en Odontología,Vespertino,Agosto-Diciembre
+UVA20225309,F,MX,Mérida,08-13-1999,Reinscrito,centro,N/A,"Mérida, Yucatán",ING,Lic. en Arquitectura,MAT,Enero-Junio
+UVA20228822,Femenino,mexicano,Tizimín,11-04-2001,Reinscrito,Francisco de Montejo,CBTIS 95,Umán,Ingeniería,Lic. en Derecho,Matutino,2024-B
+UVA20226653,Masculino,,Valladolid,16/11/2000,Repetidor,Centro,Preparatoria Estatal No. 1,Kanasín,LIC,Lic. en Educación,MAT,Agosto-Diciembre
+UVA20229195,Femenino,México,Mérida,01-17-2000,Repetidor,CENTRO,CBTIS 95,,ING,Lic. en Educación,Vespertino,Agosto-Diciembre
+UVA20222869,F,,Valladolid,09-04-2003,Reinscrito,Francisco de Montejo,CBTIS 95,Kanasín,Ingeniería,Lic. en Criminología,Vespertino,Enero-Junio
+UVA20221690,H,,Cancún,14/02/1998,Repetidor,Itzimná,CONALEP Mérida,,Licenciatura,Ing. Civil,MAT,2024-B
+UVA20222214,F,mexicano,Cancún,2002-09-01,Reinscrito,CENTRO,,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Vespertino,2023-A
+UVA20228184,Fem,MX,Mérida,2004-06-17,Reinscrito,Chuburná,Preparatoria Estatal No. 1,,Licenciatura,Lic. en Educación,MAT,2024-B
+UVA20223409,Masculino,,,11/06/2003,Equivalencia,,CBTIS 95,Kanasín,Licenciatura,Lic. en Diseño de Modas,Matutino,Agosto-Diciembre
+UVA20221174,F,México,Cancún,2005-02-13,Nuevo,CENTRO,CBTIS 95,Tizimín,Licenciatura,Lic. en Gastronomía,VESP,2024-B
+UVA20225220,,mexicano,,2005-11-18,Reinscrito,Francisco de Montejo,N/A,Tizimín,Ingeniería,Ing. Civil,VESP,2023-A
+UVA20226328,H,mexicano,Tizimín,11/07/1996,Repetidor,Chuburná,Prepa Abierta,"Mérida, Yucatán",LIC,Lic. en Contabilidad,Vespertino,2023-A
+UVA20223292,M,mexicano,Cancún,28/11/2005,Equivalencia,CENTRO,,,ING,Lic. en Admin. de Empresas,VESP,Enero-Junio
+UVA20222052,F,MX,,2003-02-05,Equivalencia,Francisco de Montejo,CBTIS 95,Tizimín,Ingeniería,Lic. en Gastronomía,MAT,2024-B
+UVA20221361,Masculino,mexicano,Tizimín,07-16-2002,Equivalencia,centro,CONALEP Mérida,,ING,Ing Civil,VESP,2024-B
+UVA20221662,Femenino,N/A,Cancún,01/09/2000,Repetidor,centro,N/A,Kanasín,Ingeniería,Lic. en Arquitectura,VESP,Agosto-Diciembre
+UVA20229364,Fem,N/A,Tizimín,06-26-2001,Repetidor,centro,N/A,"Mérida, Yucatán",Ingeniería,Lic. en Enfermería,MAT,Agosto-Diciembre
+UVA20229497,H,mexicano,Mérida,1995-06-12,Nuevo,Chuburná,CBTIS 95,,LIC,Lic. en Gastronomía,Matutino,2023-A
+UVA20229528,Fem,mexicano,Mérida,03-14-1997,Nuevo,,N/A,Tizimín,LIC,Lic. en Enfermería,VESP,Agosto-Diciembre
+UVA20227759,H,MX,Tizimín,10-02-2003,Reinscrito,Francisco de Montejo,Prepa Abierta,Umán,LIC,Lic. en Gastronomía,Matutino,2023-A
+UVA20226759,M,México,Cancún,04-01-2001,Repetidor,Centro,Preparatoria Estatal No. 1,,LIC,Lic. en Enfermería,Vespertino,Enero-Junio
+UVA20221838,,,Tizimín,1996-09-03,Equivalencia,Chuburná,CBTIS 95,,ING,Lic. en Diseño de Modas,Matutino,Agosto-Diciembre
+UVA20224330,Masculino,mexicano,,1997-10-24,Reinscrito,centro,Prepa Abierta,"Mérida, Yucatán",ING,Lic. en Diseño de Modas,Vespertino,Agosto-Diciembre
+UVA20228323,F,N/A,,1997-03-30,Nuevo,Chuburná,,Umán,ING,Lic. en Arquitectura,Vespertino,Enero-Junio
+UVA20227062,M,MX,,2000-07-25,Reinscrito,Chuburná,CBTIS 95,Umán,Ingeniería,Lic. en Nutrición,VESP,Enero-Junio
+UVA20225588,Masculino,mexicano,Valladolid,07-04-2004,Nuevo,Itzimná,Prepa Abierta,Tizimín,ING,Lic. en Odontología,MAT,2023-A
+UVA20222424,M,,Valladolid,04-20-1995,Nuevo,centro,CONALEP Mérida,"Mérida, Yucatán",LIC,Lic. en Diseño de Modas,VESP,2024-B
+UVA20229100,M,N/A,,1997-04-12,Equivalencia,Itzimná,CBTIS 95,Umán,LIC,Lic. en Contabilidad,Vespertino,Enero-Junio
+UVA20226099,F,MX,Valladolid,1996-05-11,Nuevo,CENTRO,,"Mérida, Yucatán",Licenciatura,Lic. en Fisioterapia,MAT,2024-B
+UVA20229081,Fem,N/A,,30/07/2002,Repetidor,centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+UVA20227296,M,N/A,,24/05/2000,Reinscrito,,Prepa Abierta,Umán,Licenciatura,Lic. en Enfermería,Vespertino,2023-A
+UVA20225763,M,MX,,1998-10-16,Repetidor,centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,MAT,2023-A

@@ -1,0 +1,513 @@
+﻿anio_inscripcion,matricula,sexo,nacionalidad,lugar_nacimiento,fecha_nacimiento,tipo_ingreso,colonia,escuela_procedencia,ubicacion_escuela_procedencia,nivel,carrera,turno,ciclo
+2017,UVA20173347,NA,Mexicana,NA,1998-11-05,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Educación,Matutino,Agosto-Diciembre
+2017,UVA20172050,F,Mexicana,Tizimín,1998-09-20,Reinscrito,Centro,Conalep Mérida,Tizimín,Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20179634,M,Mexicana,Mérida,1999-12-14,Nuevo,Itzimná,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Odontología,Vespertino,Enero-Junio
+2017,UVA20171737,F,NA,Mérida,1998-09-17,Repetidor,Francisco De Montejo,NA,Tizimín,Licenciatura,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20174701,M,NA,Mérida,1996-07-21,Repetidor,Centro,Conalep Mérida,Tizimín,Licenciatura,Lic. en Psicología,Matutino,Enero-Junio
+2017,UVA20178855,M,NA,Cancún,2004-12-08,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Psicología,Matutino,2024-B
+2017,UVA20177463,M,Mexicana,Valladolid,1995-09-23,Nuevo,Centro,NA,Umán,Licenciatura,Lic. en Fisioterapia,Vespertino,2024-B
+2017,UVA20173030,M,Mexicana,Valladolid,1999-10-20,Repetidor,Chuburná,NA,Umán,Ingeniería,Lic. en Gastronomía,Vespertino,Agosto-Diciembre
+2017,UVA20174623,F,Mexicana,Mérida,2000-01-22,Repetidor,Centro,Conalep Mérida,NA,Licenciatura,Lic. en Diseño De Modas,Vespertino,Enero-Junio
+2017,UVA20171724,NA,NA,Valladolid,2003-04-06,Nuevo,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20173417,M,Mexicana,Mérida,2001-07-28,Reinscrito,NA,Cbtis 95,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Matutino,Agosto-Diciembre
+2017,UVA20174049,M,NA,Tizimín,2002-06-11,Equivalencia,Centro,NA,Tizimín,Licenciatura,Lic. en Derecho,Vespertino,Agosto-Diciembre
+2017,UVA20179142,F,NA,Valladolid,1998-12-25,Nuevo,Centro,Cbtis 95,Tizimín,Licenciatura,Ing. Civil,Vespertino,2023-A
+2017,UVA20172799,M,Mexicana,Valladolid,2002-04-22,Nuevo,Centro,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20176431,F,Mexicana,Mérida,1998-10-15,Reinscrito,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Psicología,Vespertino,2024-B
+2017,UVA20174433,F,NA,NA,2002-06-22,Repetidor,Itzimná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Nutrición,Matutino,2024-B
+2017,UVA20177838,M,Mexicana,Valladolid,2000-01-07,Reinscrito,Centro,NA,NA,Licenciatura,Lic. en Gastronomía,Vespertino,Enero-Junio
+2017,UVA20175277,M,NA,Valladolid,2005-12-04,Equivalencia,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Gastronomía,Vespertino,Enero-Junio
+2017,UVA20176184,M,Mexicana,Tizimín,1997-04-25,Repetidor,Centro,NA,Kanasín,Licenciatura,Ing. Civil,Matutino,Enero-Junio
+2017,UVA20177495,M,Mexicana,Tizimín,2002-11-25,Repetidor,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,Matutino,Agosto-Diciembre
+2017,UVA20177520,F,Mexicana,Valladolid,2000-05-20,Reinscrito,Centro,NA,NA,Licenciatura,Lic. en Criminología,Matutino,2023-A
+2017,UVA20172174,M,Mexicana,Mérida,2002-02-03,Reinscrito,Francisco De Montejo,NA,Kanasín,Ingeniería,Ing. Civil,Vespertino,2024-B
+2017,UVA20174317,M,NA,Valladolid,1998-07-21,Reinscrito,NA,NA,Kanasín,Ingeniería,Lic. en Derecho,Matutino,2023-A
+2017,UVA20175353,M,Mexicana,NA,2003-11-03,Repetidor,Centro,NA,Tizimín,Ingeniería,Lic. en Derecho,Matutino,Agosto-Diciembre
+2017,UVA20179764,M,NA,Tizimín,2005-10-28,Repetidor,Chuburná,Cbtis 95,Kanasín,Licenciatura,Lic. en Enfermería,Matutino,2023-A
+2017,UVA20176247,F,NA,Valladolid,2003-09-23,Nuevo,Centro,Preparatoria Estatal No. 1,NA,Ingeniería,Lic. en Enfermería,Vespertino,Enero-Junio
+2017,UVA20172428,F,Mexicana,Mérida,2002-06-18,Equivalencia,Centro,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Matutino,2024-B
+2017,UVA20175770,NA,NA,NA,1997-01-02,Repetidor,Centro,NA,NA,Ingeniería,Lic. en Nutrición,Vespertino,2023-A
+2017,UVA20179199,F,Mexicana,Tizimín,2002-01-18,Nuevo,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Ing. en Procesos De Manufactura,Matutino,Agosto-Diciembre
+2017,UVA20174322,M,NA,Cancún,1997-06-29,Equivalencia,Centro,NA,Umán,Licenciatura,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20172207,M,NA,Mérida,2001-06-17,Repetidor,Chuburná,NA,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,Matutino,2023-A
+2017,UVA20172866,M,Mexicana,Cancún,2002-12-09,Repetidor,Francisco De Montejo,NA,NA,Ingeniería,Lic. en Fisioterapia,Matutino,Enero-Junio
+2017,UVA20174463,F,Mexicana,NA,2000-04-23,Repetidor,NA,NA,"Mérida, Yucatán",Licenciatura,Lic. en Admin. De Empresas,Matutino,2023-A
+2017,UVA20174056,F,Mexicana,NA,2000-04-01,Repetidor,Itzimná,Prepa Abierta,Tizimín,Licenciatura,Lic. en Diseño De Modas,Matutino,Agosto-Diciembre
+2017,UVA20176476,NA,NA,Cancún,1999-01-26,Repetidor,Centro,NA,Tizimín,Ingeniería,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+2017,UVA20176951,NA,Mexicana,NA,2002-11-18,Reinscrito,Centro,NA,NA,Licenciatura,Lic. en Nutrición,Matutino,2024-B
+2017,UVA20171488,F,NA,Cancún,2002-07-17,Equivalencia,Centro,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,Vespertino,2024-B
+2017,UVA20171875,NA,Mexicana,Tizimín,1996-09-05,Nuevo,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Odontología,Matutino,Agosto-Diciembre
+2017,UVA20171948,F,Mexicana,Valladolid,2000-03-22,Repetidor,Centro,Cbtis 95,Tizimín,Licenciatura,Lic. en Educación,Matutino,2023-A
+2017,UVA20177538,F,Mexicana,Mérida,1997-06-26,Reinscrito,Itzimná,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Arquitectura,Matutino,Agosto-Diciembre
+2017,UVA20173456,F,NA,Cancún,2001-08-10,Nuevo,Francisco De Montejo,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Odontología,Matutino,Agosto-Diciembre
+2017,UVA20172740,F,Mexicana,Mérida,1998-03-04,Reinscrito,Chuburná,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Ing. Civil,Vespertino,Agosto-Diciembre
+2017,UVA20172612,M,Mexicana,NA,2000-04-27,Nuevo,Centro,Cbtis 95,Tizimín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Agosto-Diciembre
+2017,UVA20179749,F,Mexicana,NA,2005-12-15,Repetidor,Francisco De Montejo,Conalep Mérida,Kanasín,Ingeniería,Lic. en Nutrición,Matutino,Enero-Junio
+2017,UVA20178942,F,Mexicana,Tizimín,1997-03-12,Equivalencia,NA,NA,NA,Licenciatura,Ing. Civil,Matutino,2023-A
+2017,UVA20179753,NA,Mexicana,Tizimín,2003-03-09,Reinscrito,Centro,Cbtis 95,NA,Ingeniería,Lic. en Admin. De Empresas,Vespertino,2024-B
+2017,UVA20173213,M,NA,Cancún,1998-08-10,Repetidor,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20175287,M,Mexicana,Cancún,2004-04-23,Repetidor,Francisco De Montejo,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20179781,F,NA,Cancún,2001-03-02,Reinscrito,Centro,NA,NA,Ingeniería,Lic. en Contabilidad,Matutino,Agosto-Diciembre
+2017,UVA20174050,F,NA,Mérida,2003-02-01,Equivalencia,Centro,Cbtis 95,"Mérida, Yucatán",Licenciatura,Lic. en Educación,Matutino,2024-B
+2017,UVA20171227,NA,Mexicana,NA,2000-05-12,Repetidor,Chuburná,Prepa Abierta,Kanasín,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,Agosto-Diciembre
+2017,UVA20172832,F,Mexicana,Tizimín,1996-11-12,Equivalencia,NA,Conalep Mérida,Umán,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20172413,M,NA,Mérida,2003-11-24,Reinscrito,NA,NA,"Mérida, Yucatán",Licenciatura,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20174331,F,Mexicana,Cancún,1998-09-18,Equivalencia,Centro,Cbtis 95,Kanasín,Licenciatura,Ing. en Procesos De Manufactura,Matutino,Enero-Junio
+2017,UVA20177258,M,Mexicana,Mérida,2002-11-13,Equivalencia,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Matutino,2024-B
+2017,UVA20173000,F,Mexicana,Cancún,1999-05-14,Nuevo,Centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20171275,M,Mexicana,Valladolid,2001-10-05,Repetidor,Chuburná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Nutrición,Matutino,2024-B
+2017,UVA20176354,F,Mexicana,Tizimín,2003-10-25,Repetidor,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,Vespertino,Enero-Junio
+2017,UVA20175932,F,Mexicana,NA,1997-03-10,Reinscrito,Centro,Cbtis 95,Kanasín,Licenciatura,Ing. Civil,Matutino,2023-A
+2017,UVA20178779,NA,Mexicana,Cancún,2005-04-20,Equivalencia,Itzimná,NA,Tizimín,Ingeniería,Lic. en Admin. De Empresas,Vespertino,Enero-Junio
+2017,UVA20177305,M,NA,Tizimín,2005-05-19,Reinscrito,NA,Prepa Abierta,NA,Ingeniería,Lic. en Arquitectura,Matutino,2024-B
+2017,UVA20171099,M,Mexicana,Cancún,2005-10-20,Reinscrito,Francisco De Montejo,NA,Kanasín,Ingeniería,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20179302,F,NA,Tizimín,2005-11-03,Nuevo,Centro,Cbtis 95,Tizimín,Ingeniería,Lic. en Arquitectura,Matutino,2023-A
+2017,UVA20174519,M,Mexicana,Tizimín,1997-08-03,Nuevo,Chuburná,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Enfermería,Matutino,Agosto-Diciembre
+2017,UVA20174212,M,Mexicana,Mérida,1998-12-03,Nuevo,Centro,Cbtis 95,Kanasín,Licenciatura,Lic. en Arquitectura,Vespertino,2023-A
+2017,UVA20178235,F,NA,Mérida,2002-06-01,Nuevo,Centro,Preparatoria Estatal No. 1,NA,Licenciatura,Lic. en Educación,Matutino,2024-B
+2017,UVA20175829,NA,NA,Valladolid,2000-01-01,Equivalencia,Itzimná,Prepa Abierta,NA,Ingeniería,Ing. Civil,Vespertino,2023-A
+2017,UVA20171912,F,Mexicana,NA,2000-02-22,Reinscrito,Chuburná,NA,Umán,Licenciatura,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20172645,M,Mexicana,NA,2005-12-26,Equivalencia,Centro,NA,Tizimín,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20176882,F,Mexicana,NA,2005-11-03,Nuevo,Chuburná,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20176391,M,NA,Mérida,2004-03-21,Equivalencia,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Arquitectura,Matutino,2023-A
+2017,UVA20175386,M,NA,Cancún,2002-07-25,Repetidor,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Fisioterapia,Matutino,Enero-Junio
+2017,UVA20178136,M,Mexicana,Tizimín,1999-11-14,Repetidor,Itzimná,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Diseño De Modas,Vespertino,2024-B
+2017,UVA20175172,M,Mexicana,Tizimín,2003-11-22,Repetidor,Itzimná,NA,Umán,Licenciatura,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20172775,NA,Mexicana,Cancún,2000-04-08,Equivalencia,NA,Prepa Abierta,NA,Licenciatura,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20177731,F,Mexicana,Tizimín,1995-08-04,Reinscrito,Centro,Prepa Abierta,Kanasín,Licenciatura,Lic. en Fisioterapia,Vespertino,Enero-Junio
+2017,UVA20175754,F,Mexicana,Valladolid,2003-12-22,Equivalencia,Itzimná,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Vespertino,Enero-Junio
+2017,UVA20172796,F,NA,Cancún,2004-01-05,Reinscrito,Centro,NA,Kanasín,Licenciatura,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20171385,F,NA,Valladolid,2002-04-10,Equivalencia,Centro,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Enfermería,Matutino,2023-A
+2017,UVA20173598,M,Mexicana,Cancún,2001-10-18,Nuevo,Centro,NA,Tizimín,Licenciatura,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20171744,NA,Mexicana,Cancún,2003-06-18,Equivalencia,Centro,Conalep Mérida,NA,Licenciatura,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20175946,F,Mexicana,Cancún,1996-06-10,Reinscrito,Centro,NA,Tizimín,Licenciatura,Lic. en Odontología,Vespertino,2024-B
+2017,UVA20173499,M,Mexicana,Mérida,1999-07-18,Repetidor,Chuburná,Preparatoria Estatal No. 1,NA,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,Enero-Junio
+2017,UVA20179493,M,Mexicana,Valladolid,2005-02-11,Reinscrito,Centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20171221,NA,Mexicana,Tizimín,1999-04-15,Equivalencia,Centro,Conalep Mérida,Tizimín,Ingeniería,Lic. en Psicología,Vespertino,2024-B
+2017,UVA20179993,M,NA,Valladolid,1999-10-08,Repetidor,NA,NA,NA,Ingeniería,Lic. en Arquitectura,Vespertino,2023-A
+2017,UVA20172812,F,Mexicana,Cancún,1997-04-06,Repetidor,Centro,NA,NA,Licenciatura,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20172861,F,NA,Tizimín,2001-07-04,Nuevo,Itzimná,Conalep Mérida,Kanasín,Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20174034,M,Mexicana,NA,1997-07-12,Equivalencia,Chuburná,NA,Kanasín,Licenciatura,Lic. en Diseño De Modas,Vespertino,2023-A
+2017,UVA20174874,F,Mexicana,Valladolid,2000-05-01,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20175282,M,Mexicana,Cancún,2002-06-08,Reinscrito,Centro,NA,NA,Licenciatura,Lic. en Educación,Vespertino,2024-B
+2017,UVA20176104,F,Mexicana,Mérida,2003-10-18,Reinscrito,Itzimná,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Ing. Civil,Matutino,Enero-Junio
+2017,UVA20179495,F,Mexicana,Cancún,2004-02-28,Nuevo,Centro,Prepa Abierta,Tizimín,Ingeniería,Lic. en Admin. De Empresas,Matutino,2023-A
+2017,UVA20174803,M,NA,Tizimín,2000-09-11,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20173437,M,NA,Cancún,2003-08-25,Reinscrito,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Psicología,Vespertino,2024-B
+2017,UVA20176219,F,NA,NA,2005-11-10,Repetidor,Chuburná,Cbtis 95,Umán,Licenciatura,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20172426,M,NA,Tizimín,2002-05-17,Equivalencia,NA,Conalep Mérida,Umán,Licenciatura,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20175789,M,NA,Cancún,1995-01-24,Repetidor,Centro,NA,Umán,Ingeniería,Lic. en Enfermería,Vespertino,2023-A
+2017,UVA20178564,F,NA,Tizimín,1996-11-19,Repetidor,Centro,NA,Kanasín,Ingeniería,Lic. en Odontología,Matutino,2023-A
+2017,UVA20175357,NA,Mexicana,Cancún,2000-12-13,Nuevo,Chuburná,NA,Kanasín,Ingeniería,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+2017,UVA20173459,F,NA,NA,2003-07-31,Nuevo,Centro,NA,NA,Ingeniería,Lic. en Gastronomía,Matutino,Agosto-Diciembre
+2017,UVA20177441,M,NA,Valladolid,2000-09-29,Equivalencia,Chuburná,Prepa Abierta,Umán,Licenciatura,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20174169,M,NA,NA,1995-03-25,Reinscrito,Centro,NA,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Matutino,Agosto-Diciembre
+2017,UVA20171831,M,NA,Tizimín,1996-04-20,Nuevo,Centro,NA,Kanasín,Licenciatura,Lic. en Arquitectura,Vespertino,2024-B
+2017,UVA20176187,M,Mexicana,Tizimín,1996-03-08,Nuevo,Centro,Prepa Abierta,Tizimín,Ingeniería,Lic. en Admin. De Empresas,Matutino,Enero-Junio
+2017,UVA20174456,NA,Mexicana,Tizimín,2002-06-12,Reinscrito,Centro,Prepa Abierta,Umán,Ingeniería,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20175954,NA,NA,Tizimín,1996-03-18,Reinscrito,Chuburná,Cbtis 95,Umán,Ingeniería,Lic. en Gastronomía,Matutino,Enero-Junio
+2017,UVA20177111,F,NA,Valladolid,1996-08-07,Repetidor,Centro,NA,Tizimín,Ingeniería,Ing. Civil,Matutino,2024-B
+2017,UVA20178028,F,Mexicana,NA,1998-01-06,Nuevo,Centro,Cbtis 95,Kanasín,Ingeniería,Lic. en Contabilidad,Vespertino,2024-B
+2017,UVA20176754,M,NA,Cancún,2001-05-30,Equivalencia,Francisco De Montejo,NA,NA,Licenciatura,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+2017,UVA20176994,F,NA,NA,2001-05-01,Nuevo,Francisco De Montejo,Cbtis 95,Tizimín,Licenciatura,Lic. en Enfermería,Vespertino,2024-B
+2017,UVA20179667,F,NA,Tizimín,2002-12-04,Nuevo,Centro,Cbtis 95,Umán,Ingeniería,Lic. en Arquitectura,Matutino,Agosto-Diciembre
+2017,UVA20172300,F,Mexicana,Cancún,2004-08-31,Reinscrito,NA,NA,NA,Ingeniería,Lic. en Criminología,Vespertino,Enero-Junio
+2017,UVA20173158,F,Mexicana,NA,1998-08-17,Equivalencia,Chuburná,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Matutino,2024-B
+2017,UVA20172701,F,Mexicana,Mérida,2004-03-12,Equivalencia,Chuburná,NA,Kanasín,Ingeniería,Lic. en Admin. De Empresas,Vespertino,Enero-Junio
+2017,UVA20172185,F,NA,NA,1995-02-14,Reinscrito,Centro,Prepa Abierta,Tizimín,Licenciatura,Lic. en Psicología,Matutino,2024-B
+2017,UVA20176277,M,Mexicana,NA,1999-10-26,Equivalencia,Centro,Cbtis 95,Tizimín,Licenciatura,Ing. en Procesos De Manufactura,Matutino,Agosto-Diciembre
+2017,UVA20176921,M,Mexicana,Tizimín,1999-09-15,Equivalencia,Francisco De Montejo,Cbtis 95,Umán,Licenciatura,Lic. en Fisioterapia,Matutino,Enero-Junio
+2017,UVA20178637,M,Mexicana,NA,1999-07-24,Equivalencia,NA,Cbtis 95,Kanasín,Licenciatura,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20175796,F,Mexicana,NA,1998-12-27,Reinscrito,Itzimná,NA,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Matutino,2023-A
+2017,UVA20173903,F,NA,Cancún,2001-04-06,Nuevo,Chuburná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20179508,F,Mexicana,Tizimín,2000-03-26,Equivalencia,Centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20175184,F,NA,Tizimín,1995-11-13,Repetidor,Centro,Cbtis 95,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Matutino,2023-A
+2017,UVA20173342,F,Mexicana,Mérida,2001-07-03,Reinscrito,Francisco De Montejo,Prepa Abierta,Kanasín,Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20178255,F,Mexicana,Mérida,1998-09-08,Repetidor,Chuburná,NA,"Mérida, Yucatán",Licenciatura,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20177827,M,Mexicana,Valladolid,2001-08-24,Equivalencia,Centro,Cbtis 95,"Mérida, Yucatán",Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20173055,F,Mexicana,Valladolid,2000-03-23,Reinscrito,Centro,Conalep Mérida,NA,Ingeniería,Lic. en Criminología,Vespertino,Agosto-Diciembre
+2017,UVA20179304,F,NA,Mérida,2002-08-07,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Criminología,Matutino,Agosto-Diciembre
+2017,UVA20173939,M,Mexicana,Cancún,1995-06-18,Equivalencia,Centro,Prepa Abierta,Tizimín,Ingeniería,Lic. en Nutrición,Matutino,2024-B
+2017,UVA20174488,F,Mexicana,Valladolid,2003-11-30,Reinscrito,Centro,NA,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Matutino,Agosto-Diciembre
+2017,UVA20177025,F,NA,Cancún,1996-02-13,Repetidor,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Vespertino,2023-A
+2017,UVA20176449,M,Mexicana,Tizimín,1999-11-18,Reinscrito,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20177648,F,Mexicana,Valladolid,1995-10-22,Repetidor,Itzimná,NA,Kanasín,Ingeniería,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20172873,M,Mexicana,Tizimín,1995-10-05,Nuevo,NA,Conalep Mérida,Tizimín,Licenciatura,Lic. en Fisioterapia,Matutino,Agosto-Diciembre
+2017,UVA20174465,M,Mexicana,NA,1999-04-20,Equivalencia,Chuburná,Prepa Abierta,Umán,Licenciatura,Lic. en Criminología,Vespertino,Agosto-Diciembre
+2017,UVA20171948,F,Mexicana,NA,1998-12-03,Nuevo,Centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20171834,M,NA,Valladolid,1999-10-03,Equivalencia,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Enfermería,Matutino,Enero-Junio
+2017,UVA20179251,M,NA,Valladolid,1997-01-14,Reinscrito,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Fisioterapia,Matutino,Agosto-Diciembre
+2017,UVA20171443,F,Mexicana,Mérida,2004-06-01,Equivalencia,NA,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20173174,M,Mexicana,Mérida,2003-01-12,Equivalencia,Francisco De Montejo,Cbtis 95,Tizimín,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20171423,M,Mexicana,Mérida,2001-09-04,Equivalencia,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20172349,F,NA,Mérida,1999-11-01,Reinscrito,Itzimná,NA,"Mérida, Yucatán",Licenciatura,Lic. en Arquitectura,Matutino,2024-B
+2017,UVA20173127,F,NA,Cancún,1995-12-10,Reinscrito,Centro,Conalep Mérida,NA,Licenciatura,Lic. en Diseño De Modas,Matutino,Agosto-Diciembre
+2017,UVA20178548,NA,Mexicana,Valladolid,2004-08-05,Nuevo,Centro,Preparatoria Estatal No. 1,NA,Ingeniería,Lic. en Criminología,Vespertino,2023-A
+2017,UVA20178602,M,NA,NA,2000-03-25,Equivalencia,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Odontología,Vespertino,2023-A
+2017,UVA20178537,F,Mexicana,NA,2001-11-23,Reinscrito,Chuburná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Matutino,2023-A
+2017,UVA20177785,M,Mexicana,NA,1998-01-26,Repetidor,Chuburná,Prepa Abierta,Tizimín,Ingeniería,Lic. en Diseño De Modas,Matutino,2024-B
+2017,UVA20173289,F,NA,NA,2004-02-11,Repetidor,Centro,NA,Tizimín,Ingeniería,Ing. en Procesos De Manufactura,Matutino,Enero-Junio
+2017,UVA20178348,M,Mexicana,Mérida,2002-02-05,Repetidor,Itzimná,NA,Umán,Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20171074,F,Mexicana,NA,1999-04-18,Reinscrito,Centro,Prepa Abierta,Umán,Licenciatura,Lic. en Admin. De Empresas,Vespertino,Agosto-Diciembre
+2017,UVA20175435,F,Mexicana,Cancún,2005-10-12,Nuevo,Itzimná,NA,Tizimín,Licenciatura,Lic. en Diseño De Modas,Matutino,2024-B
+2017,UVA20172094,M,Mexicana,NA,2000-01-19,Repetidor,Itzimná,Conalep Mérida,Umán,Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20178365,F,Mexicana,NA,1997-10-10,Reinscrito,Francisco De Montejo,NA,NA,Licenciatura,Lic. en Admin. De Empresas,Matutino,Agosto-Diciembre
+2017,UVA20171698,M,Mexicana,Valladolid,1998-01-25,Repetidor,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Odontología,Vespertino,Enero-Junio
+2017,UVA20179068,M,Mexicana,NA,2004-11-30,Equivalencia,Centro,NA,Umán,Licenciatura,Lic. en Fisioterapia,Vespertino,2024-B
+2017,UVA20179129,NA,Mexicana,Mérida,2003-05-09,Nuevo,Chuburná,NA,NA,Ingeniería,Ing. Civil,Vespertino,2024-B
+2017,UVA20171595,M,Mexicana,Valladolid,1997-03-18,Reinscrito,Centro,NA,"Mérida, Yucatán",Licenciatura,Lic. en Diseño De Modas,Vespertino,2024-B
+2017,UVA20177196,F,NA,Valladolid,2001-10-14,Equivalencia,Centro,Cbtis 95,Tizimín,Ingeniería,Lic. en Educación,Matutino,Enero-Junio
+2017,UVA20171888,F,Mexicana,Tizimín,2005-02-27,Repetidor,Centro,NA,Kanasín,Ingeniería,Lic. en Derecho,Matutino,Agosto-Diciembre
+2017,UVA20174571,F,Mexicana,Cancún,1998-03-22,Repetidor,Centro,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20175861,F,NA,Mérida,1999-08-08,Reinscrito,Itzimná,Cbtis 95,Tizimín,Licenciatura,Lic. en Enfermería,Matutino,Enero-Junio
+2017,UVA20178860,NA,Mexicana,Mérida,2001-06-19,Repetidor,Itzimná,NA,NA,Ingeniería,Lic. en Admin. De Empresas,Vespertino,2023-A
+2017,UVA20176308,M,NA,Valladolid,2005-12-26,Nuevo,Francisco De Montejo,NA,Tizimín,Licenciatura,Lic. en Enfermería,Matutino,Enero-Junio
+2017,UVA20177467,F,Mexicana,Valladolid,2003-12-05,Nuevo,Centro,NA,Tizimín,Ingeniería,Lic. en Contabilidad,Vespertino,Enero-Junio
+2017,UVA20176633,M,Mexicana,Valladolid,2001-07-14,Equivalencia,Francisco De Montejo,Cbtis 95,Tizimín,Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20173855,M,NA,Valladolid,1996-01-25,Equivalencia,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Enfermería,Matutino,2023-A
+2017,UVA20177100,F,Mexicana,Valladolid,1996-02-29,Equivalencia,NA,NA,Umán,Ingeniería,Lic. en Arquitectura,Matutino,2024-B
+2017,UVA20173384,NA,NA,Valladolid,2002-02-25,Equivalencia,Chuburná,Preparatoria Estatal No. 1,NA,Licenciatura,Lic. en Admin. De Empresas,Vespertino,Enero-Junio
+2017,UVA20179569,F,Mexicana,NA,1996-05-28,Reinscrito,NA,NA,Kanasín,Ingeniería,Lic. en Arquitectura,Vespertino,2024-B
+2017,UVA20178207,M,Mexicana,Tizimín,2003-10-01,Reinscrito,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20176347,M,NA,Valladolid,2001-10-23,Repetidor,Itzimná,Cbtis 95,Kanasín,Ingeniería,Lic. en Diseño De Modas,Vespertino,2023-A
+2017,UVA20175496,F,NA,Mérida,1997-12-05,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20177964,F,Mexicana,Mérida,2001-11-22,Nuevo,Itzimná,Conalep Mérida,Tizimín,Ingeniería,Lic. en Educación,Matutino,Enero-Junio
+2017,UVA20174804,M,NA,NA,1998-06-09,Reinscrito,Centro,Prepa Abierta,Umán,Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+2017,UVA20177580,M,Mexicana,Mérida,1996-12-21,Repetidor,Chuburná,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Diseño De Modas,Matutino,Agosto-Diciembre
+2017,UVA20176217,F,NA,Cancún,2000-05-26,Nuevo,Centro,Cbtis 95,Tizimín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Agosto-Diciembre
+2017,UVA20179906,M,Mexicana,Tizimín,2001-05-16,Equivalencia,Centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Gastronomía,Matutino,2023-A
+2017,UVA20178409,F,NA,NA,1998-11-01,Equivalencia,Centro,NA,Umán,Licenciatura,Lic. en Educación,Matutino,2023-A
+2017,UVA20173363,M,NA,Tizimín,2002-03-04,Reinscrito,Centro,NA,Tizimín,Licenciatura,Lic. en Psicología,Matutino,Enero-Junio
+2017,UVA20176088,M,NA,Valladolid,2002-10-10,Reinscrito,Chuburná,Conalep Mérida,NA,Ingeniería,Lic. en Enfermería,Vespertino,Enero-Junio
+2017,UVA20176408,NA,Mexicana,Tizimín,1995-01-02,Reinscrito,Chuburná,NA,Tizimín,Ingeniería,Lic. en Arquitectura,Vespertino,Enero-Junio
+2017,UVA20176818,M,Mexicana,NA,2005-11-29,Reinscrito,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20174018,F,Mexicana,Mérida,2003-02-17,Equivalencia,Itzimná,NA,Kanasín,Ingeniería,Lic. en Criminología,Vespertino,2023-A
+2017,UVA20173565,M,Mexicana,Cancún,1999-12-23,Reinscrito,Francisco De Montejo,Prepa Abierta,Kanasín,Ingeniería,Lic. en Odontología,Vespertino,2023-A
+2017,UVA20172128,M,NA,Valladolid,2003-12-04,Equivalencia,NA,Cbtis 95,NA,Licenciatura,Lic. en Contabilidad,Matutino,2023-A
+2017,UVA20179732,F,Mexicana,Cancún,2001-01-31,Reinscrito,Itzimná,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20176457,M,Mexicana,Cancún,2002-08-20,Equivalencia,NA,NA,NA,Ingeniería,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20179052,F,NA,Cancún,2003-10-24,Nuevo,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Ing. Civil,Vespertino,Agosto-Diciembre
+2017,UVA20171378,NA,NA,Mérida,2002-09-27,Equivalencia,NA,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Criminología,Matutino,2024-B
+2017,UVA20172042,NA,NA,Tizimín,1999-01-18,Repetidor,Centro,NA,Kanasín,Ingeniería,Lic. en Psicología,Matutino,2024-B
+2017,UVA20178522,M,NA,Cancún,1995-02-23,Equivalencia,Itzimná,NA,Tizimín,Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20179437,F,NA,Cancún,2004-09-27,Repetidor,Itzimná,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Arquitectura,Vespertino,2024-B
+2017,UVA20171969,M,Mexicana,Mérida,1995-11-03,Nuevo,Centro,NA,NA,Ingeniería,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20173378,M,Mexicana,Valladolid,2005-03-03,Nuevo,Centro,NA,Tizimín,Ingeniería,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20178662,M,Mexicana,Cancún,2002-02-19,Reinscrito,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Contabilidad,Matutino,Enero-Junio
+2017,UVA20175785,M,Mexicana,Cancún,2002-03-11,Reinscrito,NA,NA,Umán,Ingeniería,Lic. en Educación,Vespertino,Agosto-Diciembre
+2017,UVA20176176,F,Mexicana,Tizimín,1995-02-20,Repetidor,NA,Conalep Mérida,NA,Ingeniería,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20175768,NA,Mexicana,Cancún,2005-05-15,Reinscrito,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Enfermería,Matutino,Enero-Junio
+2017,UVA20172177,F,Mexicana,Valladolid,2001-11-04,Nuevo,Chuburná,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Criminología,Vespertino,2024-B
+2017,UVA20172046,NA,Mexicana,NA,2004-10-07,Reinscrito,Francisco De Montejo,NA,Tizimín,Ingeniería,Lic. en Admin. De Empresas,Vespertino,Enero-Junio
+2017,UVA20171245,NA,Mexicana,Valladolid,2000-06-15,Nuevo,Centro,Conalep Mérida,Umán,Ingeniería,Lic. en Admin. De Empresas,Vespertino,2023-A
+2017,UVA20178931,M,Mexicana,Valladolid,2000-09-25,Reinscrito,Centro,Conalep Mérida,Kanasín,Licenciatura,Lic. en Contabilidad,Vespertino,Enero-Junio
+2017,UVA20174320,M,Mexicana,Cancún,2001-12-16,Reinscrito,NA,NA,Umán,Licenciatura,Lic. en Psicología,Matutino,Agosto-Diciembre
+2017,UVA20177247,M,Mexicana,NA,2004-04-18,Repetidor,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,Matutino,Enero-Junio
+2017,UVA20177496,M,Mexicana,Mérida,2004-08-02,Equivalencia,Francisco De Montejo,Prepa Abierta,Umán,Licenciatura,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20176981,F,Mexicana,Cancún,2001-04-07,Nuevo,Centro,Cbtis 95,Umán,Ingeniería,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20172024,F,Mexicana,Tizimín,1997-11-01,Reinscrito,Centro,Cbtis 95,Umán,Ingeniería,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20172794,M,Mexicana,NA,1999-11-29,Repetidor,Chuburná,Cbtis 95,Tizimín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Agosto-Diciembre
+2017,UVA20172569,M,Mexicana,Valladolid,2003-04-17,Repetidor,Centro,Prepa Abierta,NA,Ingeniería,Lic. en Criminología,Vespertino,Enero-Junio
+2017,UVA20176342,F,NA,Tizimín,2000-07-24,Repetidor,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,Matutino,Enero-Junio
+2017,UVA20172352,F,NA,Tizimín,2001-05-16,Equivalencia,Itzimná,Conalep Mérida,Kanasín,Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20174082,M,Mexicana,NA,2005-02-23,Repetidor,Centro,Conalep Mérida,Kanasín,Ingeniería,Lic. en Odontología,Vespertino,Enero-Junio
+2017,UVA20175881,M,Mexicana,Tizimín,1995-04-01,Nuevo,Centro,NA,NA,Ingeniería,Ing. en Procesos De Manufactura,Vespertino,Enero-Junio
+2017,UVA20179397,M,Mexicana,Mérida,2005-07-28,Reinscrito,Centro,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Vespertino,Agosto-Diciembre
+2017,UVA20178789,F,Mexicana,Cancún,2003-05-13,Nuevo,Centro,NA,Umán,Licenciatura,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+2017,UVA20178529,F,Mexicana,Mérida,2002-05-30,Nuevo,Centro,Cbtis 95,Tizimín,Licenciatura,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20175479,NA,NA,Cancún,2004-04-21,Reinscrito,Francisco De Montejo,NA,NA,Ingeniería,Ing. Civil,Vespertino,2024-B
+2017,UVA20171399,F,NA,Mérida,2005-09-04,Nuevo,Centro,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Vespertino,2023-A
+2017,UVA20172085,M,NA,NA,1997-12-22,Equivalencia,Francisco De Montejo,Prepa Abierta,Umán,Ingeniería,Lic. en Derecho,Vespertino,Agosto-Diciembre
+2017,UVA20175036,F,NA,Mérida,2001-05-12,Repetidor,Centro,NA,Umán,Ingeniería,Lic. en Diseño De Modas,Vespertino,2023-A
+2017,UVA20172484,M,NA,NA,2005-10-05,Equivalencia,Centro,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20171542,M,Mexicana,NA,1995-12-19,Repetidor,Centro,Prepa Abierta,Kanasín,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,2023-A
+2017,UVA20179257,M,Mexicana,Tizimín,2000-08-17,Repetidor,NA,Cbtis 95,Umán,Ingeniería,Lic. en Fisioterapia,Vespertino,Agosto-Diciembre
+2017,UVA20175136,F,Mexicana,Cancún,2004-01-20,Equivalencia,Centro,Cbtis 95,Tizimín,Licenciatura,Lic. en Nutrición,Matutino,Agosto-Diciembre
+2017,UVA20171467,F,NA,Valladolid,2000-11-25,Equivalencia,Francisco De Montejo,Prepa Abierta,NA,Licenciatura,Lic. en Psicología,Matutino,2024-B
+2017,UVA20178029,M,NA,NA,2001-01-19,Repetidor,Francisco De Montejo,Conalep Mérida,Umán,Licenciatura,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20175178,F,Mexicana,Mérida,2003-04-02,Nuevo,Centro,Conalep Mérida,Kanasín,Ingeniería,Ing. Civil,Vespertino,2024-B
+2017,UVA20175036,M,NA,NA,1998-07-12,Nuevo,Francisco De Montejo,NA,NA,Licenciatura,Lic. en Gastronomía,Matutino,2023-A
+2017,UVA20172895,F,NA,NA,2001-09-14,Nuevo,Francisco De Montejo,Prepa Abierta,Tizimín,Licenciatura,Ing. Civil,Matutino,2023-A
+2017,UVA20175077,NA,NA,Tizimín,1996-06-19,Equivalencia,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20171747,F,Mexicana,Cancún,2003-02-18,Reinscrito,Centro,Conalep Mérida,Tizimín,Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+2017,UVA20175071,M,NA,Cancún,2005-08-21,Nuevo,Centro,NA,Umán,Ingeniería,Ing. Civil,Matutino,2023-A
+2017,UVA20177073,M,NA,Valladolid,2001-01-20,Nuevo,Centro,Conalep Mérida,Tizimín,Ingeniería,Lic. en Contabilidad,Vespertino,2024-B
+2017,UVA20177831,F,Mexicana,Tizimín,2003-04-29,Repetidor,Centro,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Ing. Civil,Matutino,2023-A
+2017,UVA20175354,F,Mexicana,Valladolid,2004-09-11,Equivalencia,Itzimná,NA,Tizimín,Ingeniería,Lic. en Admin. De Empresas,Matutino,Enero-Junio
+2017,UVA20172061,F,NA,NA,1998-08-19,Equivalencia,Itzimná,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Ing. Civil,Matutino,2023-A
+2017,UVA20178775,NA,NA,Valladolid,2004-06-20,Equivalencia,Itzimná,Prepa Abierta,Umán,Licenciatura,Lic. en Educación,Matutino,2023-A
+2017,UVA20174289,M,Mexicana,Mérida,1997-07-19,Nuevo,Francisco De Montejo,NA,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Matutino,2024-B
+2017,UVA20171511,M,Mexicana,Mérida,2000-09-13,Repetidor,Francisco De Montejo,Prepa Abierta,Kanasín,Licenciatura,Lic. en Arquitectura,Matutino,Agosto-Diciembre
+2017,UVA20173168,F,NA,Valladolid,1995-02-26,Nuevo,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,Vespertino,2024-B
+2017,UVA20173610,M,Mexicana,Valladolid,2005-10-06,Nuevo,Centro,NA,Umán,Ingeniería,Lic. en Admin. De Empresas,Vespertino,Agosto-Diciembre
+2017,UVA20177507,F,NA,Cancún,2001-11-27,Nuevo,Itzimná,NA,"Mérida, Yucatán",Licenciatura,Lic. en Derecho,Vespertino,Enero-Junio
+2017,UVA20177124,M,NA,Cancún,1998-12-06,Reinscrito,Centro,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Psicología,Matutino,2024-B
+2017,UVA20173825,M,Mexicana,Cancún,2003-10-28,Reinscrito,Itzimná,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Matutino,2023-A
+2017,UVA20179816,NA,Mexicana,Cancún,1996-08-24,Reinscrito,Centro,Prepa Abierta,NA,Licenciatura,Lic. en Gastronomía,Matutino,2024-B
+2017,UVA20172315,F,Mexicana,Tizimín,2000-06-09,Equivalencia,NA,NA,"Mérida, Yucatán",Licenciatura,Ing. en Procesos De Manufactura,Vespertino,2024-B
+2017,UVA20179266,M,Mexicana,Tizimín,2003-10-14,Repetidor,Centro,NA,NA,Ingeniería,Lic. en Arquitectura,Matutino,Enero-Junio
+2017,UVA20173180,F,Mexicana,Cancún,2004-09-15,Equivalencia,Chuburná,Conalep Mérida,Kanasín,Ingeniería,Lic. en Derecho,Matutino,Agosto-Diciembre
+2017,UVA20171351,M,Mexicana,Cancún,1995-10-27,Equivalencia,Francisco De Montejo,Prepa Abierta,Umán,Ingeniería,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20173989,M,NA,Tizimín,1996-11-07,Equivalencia,Francisco De Montejo,NA,"Mérida, Yucatán",Ingeniería,Ing. en Procesos De Manufactura,Matutino,Enero-Junio
+2017,UVA20175199,M,Mexicana,Valladolid,2000-12-03,Nuevo,Centro,NA,Kanasín,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20172983,F,NA,Tizimín,1998-08-29,Repetidor,Francisco De Montejo,Conalep Mérida,Kanasín,Ingeniería,Lic. en Admin. De Empresas,Vespertino,2023-A
+2017,UVA20172868,M,Mexicana,Valladolid,1995-06-19,Equivalencia,Centro,NA,NA,Ingeniería,Lic. en Derecho,Vespertino,Agosto-Diciembre
+2017,UVA20175658,M,Mexicana,Cancún,1996-06-08,Repetidor,Chuburná,NA,Umán,Ingeniería,Lic. en Arquitectura,Matutino,Enero-Junio
+2017,UVA20171977,F,Mexicana,Cancún,1995-09-24,Nuevo,Chuburná,NA,Umán,Ingeniería,Lic. en Fisioterapia,Matutino,Enero-Junio
+2017,UVA20172515,M,Mexicana,NA,2003-09-18,Reinscrito,Centro,Prepa Abierta,NA,Ingeniería,Lic. en Contabilidad,Matutino,2023-A
+2017,UVA20179208,M,Mexicana,Tizimín,2001-10-13,Equivalencia,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20178667,M,Mexicana,Valladolid,1999-04-09,Repetidor,Centro,Conalep Mérida,NA,Ingeniería,Lic. en Arquitectura,Vespertino,2024-B
+2017,UVA20178411,F,Mexicana,Cancún,2004-11-22,Equivalencia,Francisco De Montejo,Cbtis 95,Umán,Ingeniería,Lic. en Nutrición,Vespertino,2023-A
+2017,UVA20177945,F,Mexicana,NA,2005-12-09,Reinscrito,Chuburná,NA,Umán,Ingeniería,Lic. en Arquitectura,Matutino,2023-A
+2017,UVA20178809,M,Mexicana,Cancún,2001-02-25,Equivalencia,Francisco De Montejo,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20178935,F,NA,Tizimín,1995-08-09,Nuevo,Centro,Cbtis 95,NA,Ingeniería,Lic. en Odontología,Vespertino,2024-B
+2017,UVA20179703,F,Mexicana,Valladolid,2005-01-19,Reinscrito,Centro,NA,Tizimín,Licenciatura,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20172992,F,Mexicana,Mérida,2000-10-11,Repetidor,Centro,NA,Kanasín,Ingeniería,Ing. en Procesos De Manufactura,Matutino,Enero-Junio
+2017,UVA20174602,F,Mexicana,Cancún,2002-06-16,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Criminología,Matutino,Agosto-Diciembre
+2017,UVA20173137,F,Mexicana,Mérida,2005-07-24,Reinscrito,Chuburná,Cbtis 95,Tizimín,Ingeniería,Ing. Civil,Vespertino,Agosto-Diciembre
+2017,UVA20179370,F,Mexicana,Mérida,1998-08-16,Nuevo,Centro,NA,Umán,Licenciatura,Lic. en Derecho,Vespertino,Agosto-Diciembre
+2017,UVA20177798,M,Mexicana,NA,2002-07-24,Nuevo,Chuburná,NA,"Mérida, Yucatán",Ingeniería,Lic. en Gastronomía,Vespertino,Enero-Junio
+2017,UVA20171446,F,Mexicana,Cancún,2002-10-31,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Derecho,Vespertino,2024-B
+2017,UVA20179275,F,NA,Tizimín,1999-04-05,Nuevo,Francisco De Montejo,Prepa Abierta,Umán,Licenciatura,Lic. en Diseño De Modas,Vespertino,Agosto-Diciembre
+2017,UVA20178794,M,Mexicana,Tizimín,1996-01-24,Equivalencia,Centro,NA,Kanasín,Ingeniería,Lic. en Educación,Vespertino,2024-B
+2017,UVA20177773,F,Mexicana,Cancún,1997-08-06,Equivalencia,Centro,Prepa Abierta,Umán,Ingeniería,Lic. en Fisioterapia,Vespertino,Agosto-Diciembre
+2017,UVA20175341,NA,Mexicana,Tizimín,1997-04-16,Repetidor,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+2017,UVA20178389,F,NA,Mérida,2004-07-25,Nuevo,Francisco De Montejo,Cbtis 95,Tizimín,Licenciatura,Lic. en Odontología,Vespertino,2023-A
+2017,UVA20173133,F,Mexicana,Cancún,2003-08-10,Nuevo,NA,Prepa Abierta,Tizimín,Licenciatura,Lic. en Enfermería,Vespertino,2024-B
+2017,UVA20174378,F,Mexicana,NA,2000-01-25,Nuevo,NA,Prepa Abierta,NA,Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20174414,M,NA,NA,1997-09-18,Reinscrito,Francisco De Montejo,Conalep Mérida,NA,Licenciatura,Lic. en Nutrición,Matutino,Agosto-Diciembre
+2017,UVA20179756,M,Mexicana,NA,1998-12-11,Equivalencia,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Matutino,Enero-Junio
+2017,UVA20176064,NA,NA,Valladolid,2002-07-15,Reinscrito,Centro,Prepa Abierta,Tizimín,Ingeniería,Lic. en Psicología,Matutino,2024-B
+2017,UVA20179324,M,NA,Mérida,1999-08-21,Repetidor,Chuburná,NA,Tizimín,Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20178524,F,Mexicana,Tizimín,1997-12-25,Equivalencia,Centro,Prepa Abierta,Tizimín,Licenciatura,Lic. en Enfermería,Matutino,2024-B
+2017,UVA20176859,F,NA,Cancún,1995-11-22,Reinscrito,NA,NA,NA,Licenciatura,Lic. en Nutrición,Vespertino,2023-A
+2017,UVA20175241,M,Mexicana,Valladolid,2000-08-27,Repetidor,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20176264,F,NA,Mérida,1996-12-12,Reinscrito,Itzimná,NA,Umán,Licenciatura,Lic. en Educación,Vespertino,2024-B
+2017,UVA20175759,F,Mexicana,Tizimín,1996-04-03,Nuevo,Centro,Cbtis 95,Umán,Licenciatura,Lic. en Educación,Matutino,Agosto-Diciembre
+2017,UVA20174878,F,NA,NA,2003-01-15,Nuevo,Centro,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Psicología,Matutino,Agosto-Diciembre
+2017,UVA20172784,F,Mexicana,Tizimín,2001-09-06,Nuevo,Francisco De Montejo,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20177815,F,Mexicana,Valladolid,2005-02-21,Reinscrito,Centro,NA,Kanasín,Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+2017,UVA20173436,F,Mexicana,Tizimín,1996-02-05,Nuevo,Francisco De Montejo,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Matutino,2023-A
+2017,UVA20175644,F,Mexicana,Valladolid,2005-07-18,Reinscrito,Francisco De Montejo,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Odontología,Matutino,2024-B
+2017,UVA20177597,F,NA,Tizimín,2004-03-19,Nuevo,Itzimná,Conalep Mérida,Kanasín,Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+2017,UVA20177343,F,Mexicana,NA,1999-10-03,Repetidor,Centro,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20175280,F,NA,Cancún,1997-10-08,Reinscrito,NA,NA,Kanasín,Ingeniería,Lic. en Arquitectura,Matutino,Enero-Junio
+2017,UVA20179171,F,Mexicana,Valladolid,2005-07-13,Equivalencia,Centro,Prepa Abierta,Kanasín,Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20171880,F,NA,Valladolid,2003-03-23,Reinscrito,Itzimná,NA,Kanasín,Ingeniería,Lic. en Criminología,Matutino,2023-A
+2017,UVA20171059,F,NA,Mérida,1999-05-05,Repetidor,Centro,Prepa Abierta,Umán,Licenciatura,Lic. en Criminología,Matutino,2023-A
+2017,UVA20176178,F,Mexicana,Cancún,1997-06-14,Repetidor,NA,NA,NA,Ingeniería,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20172205,M,Mexicana,Cancún,2001-04-03,Reinscrito,Francisco De Montejo,NA,NA,Licenciatura,Lic. en Odontología,Matutino,2024-B
+2017,UVA20173856,M,NA,Mérida,2005-12-15,Equivalencia,Centro,Cbtis 95,Kanasín,Licenciatura,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+2017,UVA20171945,M,Mexicana,Mérida,2002-09-26,Nuevo,Francisco De Montejo,Cbtis 95,Umán,Ingeniería,Lic. en Criminología,Matutino,2024-B
+2017,UVA20177190,F,NA,Mérida,2002-12-08,Equivalencia,Centro,NA,Umán,Ingeniería,Lic. en Contabilidad,Matutino,Enero-Junio
+2017,UVA20178548,F,NA,NA,1998-08-10,Repetidor,Francisco De Montejo,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Odontología,Vespertino,Enero-Junio
+2017,UVA20178028,F,NA,NA,1997-07-27,Reinscrito,Chuburná,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Diseño De Modas,Vespertino,2023-A
+2017,UVA20179806,M,Mexicana,Valladolid,1999-02-03,Equivalencia,Francisco De Montejo,NA,Tizimín,Ingeniería,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20173248,F,NA,Valladolid,2001-03-09,Reinscrito,Centro,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Educación,Matutino,2024-B
+2017,UVA20175391,M,Mexicana,Valladolid,2003-12-18,Reinscrito,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Vespertino,2024-B
+2017,UVA20176383,M,Mexicana,Cancún,2000-10-10,Repetidor,Centro,NA,NA,Licenciatura,Lic. en Arquitectura,Vespertino,Enero-Junio
+2017,UVA20175321,F,Mexicana,Valladolid,1996-10-27,Nuevo,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Criminología,Matutino,2023-A
+2017,UVA20173889,M,Mexicana,Mérida,2003-04-26,Repetidor,Centro,Cbtis 95,Tizimín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Agosto-Diciembre
+2017,UVA20172482,M,NA,Tizimín,2002-01-08,Reinscrito,NA,Prepa Abierta,Tizimín,Licenciatura,Lic. en Diseño De Modas,Matutino,2023-A
+2017,UVA20176915,M,Mexicana,Tizimín,1997-10-11,Reinscrito,Chuburná,Prepa Abierta,Tizimín,Ingeniería,Lic. en Derecho,Vespertino,Enero-Junio
+2017,UVA20175134,M,NA,Valladolid,2003-10-28,Nuevo,Francisco De Montejo,Conalep Mérida,Tizimín,Licenciatura,Lic. en Enfermería,Vespertino,2023-A
+2017,UVA20171500,NA,Mexicana,Valladolid,1997-03-14,Nuevo,Centro,NA,Tizimín,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,Enero-Junio
+2017,UVA20174597,F,Mexicana,Tizimín,2001-09-14,Repetidor,Itzimná,NA,Tizimín,Licenciatura,Lic. en Educación,Vespertino,Enero-Junio
+2017,UVA20172366,F,Mexicana,NA,2005-12-22,Equivalencia,Itzimná,Prepa Abierta,Umán,Licenciatura,Lic. en Educación,Matutino,2023-A
+2017,UVA20175506,M,Mexicana,Valladolid,2005-04-22,Nuevo,Francisco De Montejo,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Nutrición,Vespertino,2023-A
+2017,UVA20173451,F,Mexicana,Valladolid,2004-08-26,Repetidor,Centro,Cbtis 95,NA,Ingeniería,Lic. en Fisioterapia,Matutino,2024-B
+2017,UVA20176135,M,Mexicana,Valladolid,1995-09-25,Nuevo,Chuburná,NA,NA,Licenciatura,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20171833,NA,Mexicana,Mérida,1996-07-10,Reinscrito,Itzimná,Cbtis 95,NA,Ingeniería,Lic. en Admin. De Empresas,Matutino,2024-B
+2017,UVA20175894,M,Mexicana,Mérida,1995-03-01,Repetidor,Itzimná,NA,NA,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20175837,M,NA,Valladolid,2001-01-03,Repetidor,Centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+2017,UVA20173663,M,NA,Mérida,2001-07-10,Nuevo,Centro,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Gastronomía,Vespertino,Agosto-Diciembre
+2017,UVA20173418,M,NA,Tizimín,2002-03-15,Nuevo,NA,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Derecho,Matutino,Enero-Junio
+2017,UVA20177338,F,NA,Valladolid,1996-09-05,Repetidor,Chuburná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Ing. en Procesos De Manufactura,Matutino,Enero-Junio
+2017,UVA20173879,F,Mexicana,Mérida,1996-02-21,Nuevo,Francisco De Montejo,Conalep Mérida,Kanasín,Ingeniería,Lic. en Educación,Matutino,Enero-Junio
+2017,UVA20179211,F,NA,Cancún,1998-06-01,Equivalencia,Centro,NA,Tizimín,Ingeniería,Lic. en Diseño De Modas,Vespertino,2023-A
+2017,UVA20171102,F,Mexicana,Mérida,2005-12-07,Equivalencia,Francisco De Montejo,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Vespertino,2024-B
+2017,UVA20173649,F,Mexicana,Tizimín,2001-08-25,Repetidor,Centro,Conalep Mérida,Kanasín,Licenciatura,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20176499,M,Mexicana,NA,2003-03-16,Reinscrito,NA,NA,Tizimín,Licenciatura,Lic. en Nutrición,Matutino,2023-A
+2017,UVA20174758,M,NA,NA,1995-05-07,Equivalencia,Centro,Cbtis 95,Tizimín,Ingeniería,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+2017,UVA20171500,NA,NA,Mérida,2004-04-04,Repetidor,Centro,NA,NA,Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+2017,UVA20177598,F,Mexicana,Valladolid,2003-07-25,Nuevo,NA,Prepa Abierta,Tizimín,Ingeniería,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20171033,M,Mexicana,NA,1996-12-23,Equivalencia,Centro,Conalep Mérida,Umán,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20171105,F,Mexicana,NA,2004-07-01,Reinscrito,Centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20172162,F,NA,Cancún,1995-07-31,Equivalencia,Chuburná,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20179701,F,Mexicana,Tizimín,2003-02-09,Equivalencia,NA,NA,Tizimín,Licenciatura,Lic. en Gastronomía,Matutino,2023-A
+2017,UVA20171349,F,NA,Cancún,1999-10-17,Repetidor,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20173444,M,Mexicana,Mérida,1995-07-22,Equivalencia,Itzimná,Cbtis 95,Tizimín,Ingeniería,Ing. en Procesos De Manufactura,Vespertino,Agosto-Diciembre
+2017,UVA20173694,M,NA,Cancún,1996-06-23,Reinscrito,Centro,Conalep Mérida,Kanasín,Ingeniería,Lic. en Contabilidad,Matutino,Agosto-Diciembre
+2017,UVA20171921,M,Mexicana,Mérida,2003-03-28,Reinscrito,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Psicología,Matutino,Enero-Junio
+2017,UVA20171208,F,Mexicana,Tizimín,2001-08-12,Nuevo,Francisco De Montejo,NA,Kanasín,Ingeniería,Ing. en Procesos De Manufactura,Vespertino,2024-B
+2017,UVA20174263,M,Mexicana,Mérida,2005-12-13,Nuevo,NA,NA,Kanasín,Licenciatura,Lic. en Criminología,Vespertino,Agosto-Diciembre
+2017,UVA20179677,M,Mexicana,NA,1997-03-03,Nuevo,NA,Conalep Mérida,Kanasín,Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+2017,UVA20173443,NA,Mexicana,Tizimín,1996-11-06,Reinscrito,Francisco De Montejo,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20175055,F,Mexicana,Cancún,2004-04-27,Reinscrito,Itzimná,NA,Kanasín,Licenciatura,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20173774,M,Mexicana,Tizimín,2001-07-24,Equivalencia,Itzimná,NA,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Matutino,2024-B
+2017,UVA20175842,F,NA,NA,1996-12-18,Nuevo,Centro,Prepa Abierta,Kanasín,Ingeniería,Ing. Civil,Matutino,2024-B
+2017,UVA20172780,M,Mexicana,Cancún,2000-09-18,Equivalencia,Itzimná,NA,Tizimín,Ingeniería,Lic. en Admin. De Empresas,Matutino,2023-A
+2017,UVA20176858,M,Mexicana,Mérida,1997-06-27,Nuevo,NA,Cbtis 95,NA,Ingeniería,Lic. en Nutrición,Matutino,Agosto-Diciembre
+2017,UVA20175858,F,Mexicana,Mérida,1998-01-23,Equivalencia,Chuburná,Cbtis 95,Kanasín,Ingeniería,Lic. en Admin. De Empresas,Matutino,Enero-Junio
+2017,UVA20174694,NA,Mexicana,Mérida,2002-07-16,Repetidor,Centro,NA,Tizimín,Ingeniería,Lic. en Derecho,Vespertino,2024-B
+2017,UVA20173048,NA,NA,Mérida,1998-02-05,Equivalencia,Itzimná,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Ing. Civil,Matutino,Enero-Junio
+2017,UVA20175714,F,NA,Tizimín,2001-01-24,Nuevo,Centro,NA,NA,Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20176345,M,NA,Valladolid,2002-11-06,Reinscrito,Centro,Preparatoria Estatal No. 1,Tizimín,Licenciatura,Lic. en Criminología,Vespertino,Enero-Junio
+2017,UVA20179605,F,NA,Valladolid,1998-10-06,Equivalencia,Itzimná,Prepa Abierta,Tizimín,Ingeniería,Lic. en Psicología,Vespertino,2024-B
+2017,UVA20178244,F,NA,Cancún,2002-12-10,Reinscrito,Centro,NA,Umán,Licenciatura,Lic. en Gastronomía,Vespertino,Enero-Junio
+2017,UVA20171578,M,Mexicana,Tizimín,2001-07-22,Nuevo,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Ing. en Procesos De Manufactura,Vespertino,Enero-Junio
+2017,UVA20172135,F,NA,Valladolid,1995-06-01,Repetidor,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20179975,NA,NA,Cancún,1995-08-26,Repetidor,Centro,Prepa Abierta,Umán,Ingeniería,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20179977,NA,NA,Valladolid,1999-11-29,Reinscrito,Francisco De Montejo,Cbtis 95,Kanasín,Licenciatura,Lic. en Educación,Vespertino,2024-B
+2017,UVA20176705,M,Mexicana,NA,2003-02-24,Repetidor,Centro,NA,Kanasín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Agosto-Diciembre
+2017,UVA20175807,M,Mexicana,Tizimín,1995-12-09,Repetidor,Itzimná,Cbtis 95,NA,Licenciatura,Lic. en Nutrición,Vespertino,Agosto-Diciembre
+2017,UVA20175122,M,Mexicana,Cancún,1999-11-16,Repetidor,NA,Prepa Abierta,"Mérida, Yucatán",Ingeniería,Lic. en Criminología,Matutino,2023-A
+2017,UVA20175031,M,NA,NA,1996-07-01,Equivalencia,Itzimná,NA,Kanasín,Licenciatura,Lic. en Derecho,Matutino,Agosto-Diciembre
+2017,UVA20175879,F,Mexicana,Mérida,1998-07-30,Repetidor,Chuburná,NA,Tizimín,Ingeniería,Lic. en Psicología,Matutino,2024-B
+2017,UVA20179558,F,Mexicana,Valladolid,1996-04-28,Equivalencia,Francisco De Montejo,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Admin. De Empresas,Vespertino,Agosto-Diciembre
+2017,UVA20172170,F,Mexicana,Cancún,1999-07-23,Repetidor,NA,NA,Umán,Licenciatura,Lic. en Educación,Matutino,2023-A
+2017,UVA20178406,F,NA,NA,1997-01-28,Nuevo,Itzimná,Cbtis 95,Tizimín,Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20177847,F,Mexicana,Cancún,2005-11-21,Nuevo,Centro,Prepa Abierta,Tizimín,Ingeniería,Lic. en Fisioterapia,Matutino,Enero-Junio
+2017,UVA20178592,M,NA,Valladolid,1995-06-28,Equivalencia,Centro,NA,Kanasín,Ingeniería,Ing. Civil,Vespertino,2024-B
+2017,UVA20177232,M,NA,Tizimín,2005-09-24,Equivalencia,Centro,Cbtis 95,"Mérida, Yucatán",Licenciatura,Lic. en Enfermería,Vespertino,Agosto-Diciembre
+2017,UVA20177465,F,NA,Mérida,2002-11-29,Nuevo,Centro,NA,Kanasín,Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20175050,M,Mexicana,Cancún,2004-01-02,Nuevo,Francisco De Montejo,Prepa Abierta,NA,Ingeniería,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20172049,M,NA,Tizimín,2000-02-22,Reinscrito,Centro,Prepa Abierta,NA,Licenciatura,Lic. en Enfermería,Vespertino,2023-A
+2017,UVA20172870,M,Mexicana,NA,1996-06-22,Equivalencia,Centro,Conalep Mérida,Kanasín,Ingeniería,Lic. en Arquitectura,Vespertino,2023-A
+2017,UVA20179992,F,Mexicana,Tizimín,1996-12-25,Nuevo,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20171805,F,Mexicana,Valladolid,2002-04-17,Repetidor,Centro,Cbtis 95,Tizimín,Ingeniería,Lic. en Derecho,Matutino,Enero-Junio
+2017,UVA20171458,M,NA,Mérida,2002-01-20,Reinscrito,Centro,Prepa Abierta,Tizimín,Licenciatura,Lic. en Arquitectura,Matutino,2023-A
+2017,UVA20178881,M,Mexicana,NA,2005-10-11,Nuevo,Itzimná,Cbtis 95,NA,Licenciatura,Lic. en Arquitectura,Vespertino,2024-B
+2017,UVA20177231,F,Mexicana,Mérida,2002-01-20,Equivalencia,Centro,NA,Tizimín,Licenciatura,Lic. en Contabilidad,Matutino,2023-A
+2017,UVA20179939,NA,Mexicana,Valladolid,2005-02-16,Nuevo,NA,Conalep Mérida,NA,Licenciatura,Lic. en Psicología,Vespertino,2024-B
+2017,UVA20176722,F,Mexicana,Cancún,1997-01-19,Reinscrito,Francisco De Montejo,NA,Tizimín,Licenciatura,Lic. en Enfermería,Matutino,Enero-Junio
+2017,UVA20178160,F,Mexicana,NA,1999-05-10,Nuevo,Francisco De Montejo,Conalep Mérida,"Mérida, Yucatán",Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20179593,M,Mexicana,NA,1997-06-19,Nuevo,Chuburná,Cbtis 95,Tizimín,Licenciatura,Lic. en Admin. De Empresas,Vespertino,2024-B
+2017,UVA20171108,M,NA,Mérida,2001-09-16,Equivalencia,Chuburná,Cbtis 95,Kanasín,Licenciatura,Ing. Civil,Vespertino,2023-A
+2017,UVA20176738,F,NA,Valladolid,2004-08-07,Reinscrito,Francisco De Montejo,Conalep Mérida,Kanasín,Licenciatura,Lic. en Derecho,Matutino,2024-B
+2017,UVA20176695,M,Mexicana,Mérida,2000-11-23,Repetidor,Centro,NA,NA,Licenciatura,Lic. en Psicología,Matutino,Agosto-Diciembre
+2017,UVA20177000,F,Mexicana,Valladolid,2003-12-08,Reinscrito,Chuburná,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20176460,M,NA,Cancún,2002-04-14,Repetidor,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Admin. De Empresas,Matutino,Agosto-Diciembre
+2017,UVA20177973,M,Mexicana,NA,2002-06-21,Reinscrito,Francisco De Montejo,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Contabilidad,Matutino,Enero-Junio
+2017,UVA20178127,F,Mexicana,NA,2001-09-29,Repetidor,Centro,Conalep Mérida,NA,Ingeniería,Ing. Civil,Vespertino,2023-A
+2017,UVA20178119,F,Mexicana,Cancún,2000-09-15,Nuevo,Centro,Prepa Abierta,Tizimín,Licenciatura,Lic. en Gastronomía,Matutino,Agosto-Diciembre
+2017,UVA20177144,NA,Mexicana,Cancún,2000-04-17,Reinscrito,Itzimná,Prepa Abierta,NA,Ingeniería,Ing. Civil,Vespertino,2023-A
+2017,UVA20178563,F,Mexicana,NA,2005-10-30,Reinscrito,Chuburná,Conalep Mérida,Tizimín,Ingeniería,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20173873,M,Mexicana,NA,2001-09-27,Reinscrito,Itzimná,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Odontología,Matutino,2024-B
+2017,UVA20171502,M,NA,NA,2005-12-30,Equivalencia,Centro,NA,NA,Licenciatura,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20179654,F,Mexicana,Valladolid,1996-09-20,Repetidor,NA,Cbtis 95,Tizimín,Ingeniería,Ing. Civil,Matutino,Enero-Junio
+2017,UVA20178017,F,Mexicana,Valladolid,2001-08-08,Repetidor,Itzimná,NA,Umán,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20179557,NA,Mexicana,Cancún,2003-06-14,Repetidor,Francisco De Montejo,Conalep Mérida,NA,Ingeniería,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20172805,M,Mexicana,Tizimín,2005-05-10,Nuevo,Itzimná,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20173936,F,Mexicana,Cancún,1995-07-11,Reinscrito,Francisco De Montejo,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Derecho,Matutino,Agosto-Diciembre
+2017,UVA20173057,M,Mexicana,NA,2005-08-17,Reinscrito,Centro,NA,Tizimín,Licenciatura,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20172937,M,Mexicana,NA,1997-06-11,Repetidor,Chuburná,NA,Umán,Ingeniería,Lic. en Contabilidad,Matutino,2023-A
+2017,UVA20172251,F,Mexicana,NA,2000-05-11,Reinscrito,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20177717,M,Mexicana,Valladolid,2004-10-25,Equivalencia,NA,NA,NA,Licenciatura,Lic. en Enfermería,Matutino,2024-B
+2017,UVA20172001,F,Mexicana,Valladolid,2005-06-11,Repetidor,Chuburná,NA,Umán,Licenciatura,Lic. en Nutrición,Matutino,2023-A
+2017,UVA20177607,M,Mexicana,Mérida,2002-05-10,Equivalencia,Francisco De Montejo,Conalep Mérida,Kanasín,Licenciatura,Lic. en Nutrición,Matutino,2023-A
+2017,UVA20171771,M,NA,Mérida,2003-03-26,Reinscrito,Chuburná,Conalep Mérida,NA,Ingeniería,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20174529,NA,Mexicana,Valladolid,2002-03-02,Reinscrito,NA,NA,Umán,Licenciatura,Lic. en Derecho,Vespertino,2023-A
+2017,UVA20177288,M,Mexicana,NA,2001-12-11,Equivalencia,Centro,NA,Tizimín,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,2023-A
+2017,UVA20179926,M,NA,Tizimín,2001-08-10,Equivalencia,NA,NA,Umán,Ingeniería,Lic. en Contabilidad,Matutino,2024-B
+2017,UVA20174058,F,Mexicana,Valladolid,1996-03-18,Reinscrito,Itzimná,Conalep Mérida,Umán,Licenciatura,Lic. en Gastronomía,Vespertino,2023-A
+2017,UVA20178388,M,Mexicana,Valladolid,2003-03-05,Equivalencia,Itzimná,Conalep Mérida,Umán,Licenciatura,Lic. en Gastronomía,Vespertino,2023-A
+2017,UVA20175248,M,Mexicana,Cancún,1999-05-22,Repetidor,NA,Conalep Mérida,Tizimín,Licenciatura,Lic. en Criminología,Matutino,2023-A
+2017,UVA20177279,F,Mexicana,Mérida,2002-04-15,Reinscrito,NA,Preparatoria Estatal No. 1,NA,Licenciatura,Ing. Civil,Vespertino,Agosto-Diciembre
+2017,UVA20177145,M,Mexicana,Valladolid,2004-06-08,Nuevo,Centro,Conalep Mérida,Kanasín,Licenciatura,Lic. en Admin. De Empresas,Vespertino,Agosto-Diciembre
+2017,UVA20176086,NA,NA,Cancún,2001-12-20,Repetidor,Centro,NA,NA,Licenciatura,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20177592,F,Mexicana,Mérida,2005-06-09,Nuevo,Itzimná,Cbtis 95,"Mérida, Yucatán",Licenciatura,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20179251,NA,Mexicana,Cancún,2001-11-29,Reinscrito,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Nutrición,Matutino,2024-B
+2017,UVA20179430,M,Mexicana,Valladolid,1997-11-13,Nuevo,Centro,Conalep Mérida,NA,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20177430,NA,NA,Cancún,2000-11-21,Repetidor,Centro,NA,Kanasín,Ingeniería,Lic. en Derecho,Matutino,Enero-Junio
+2017,UVA20173881,M,NA,Valladolid,2004-06-11,Equivalencia,Itzimná,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Fisioterapia,Vespertino,2023-A
+2017,UVA20173034,M,NA,Mérida,1997-11-27,Nuevo,NA,Cbtis 95,Kanasín,Ingeniería,Lic. en Derecho,Vespertino,Agosto-Diciembre
+2017,UVA20174870,M,NA,NA,2001-03-18,Repetidor,NA,NA,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,Vespertino,Enero-Junio
+2017,UVA20173685,F,NA,Valladolid,2001-02-11,Repetidor,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20175069,M,Mexicana,Valladolid,2005-10-25,Nuevo,Chuburná,Prepa Abierta,NA,Ingeniería,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20172607,F,Mexicana,Cancún,2004-05-21,Nuevo,Chuburná,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Arquitectura,Vespertino,Enero-Junio
+2017,UVA20173278,M,NA,Tizimín,2001-10-30,Reinscrito,Centro,NA,Kanasín,Licenciatura,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20178873,M,NA,Mérida,2005-03-31,Nuevo,Centro,NA,NA,Licenciatura,Lic. en Arquitectura,Matutino,2024-B
+2017,UVA20171335,F,NA,Tizimín,1996-01-06,Nuevo,Centro,Preparatoria Estatal No. 1,Tizimín,Ingeniería,Lic. en Criminología,Vespertino,2024-B
+2017,UVA20179600,M,Mexicana,Valladolid,2004-04-02,Nuevo,Centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Enero-Junio
+2017,UVA20179582,M,NA,Tizimín,1996-02-10,Repetidor,NA,Preparatoria Estatal No. 1,Kanasín,Ingeniería,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20178076,M,Mexicana,NA,1996-02-10,Nuevo,Francisco De Montejo,Cbtis 95,NA,Ingeniería,Lic. en Educación,Vespertino,2023-A
+2017,UVA20178056,F,Mexicana,NA,2004-05-16,Repetidor,Francisco De Montejo,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,Matutino,2023-A
+2017,UVA20175107,F,Mexicana,NA,1996-11-29,Repetidor,Centro,NA,Kanasín,Licenciatura,Lic. en Odontología,Vespertino,2024-B
+2017,UVA20177379,M,NA,Valladolid,1999-11-10,Reinscrito,Francisco De Montejo,Cbtis 95,NA,Ingeniería,Lic. en Admin. De Empresas,Matutino,2024-B
+2017,UVA20172178,F,NA,NA,2002-07-30,Reinscrito,Chuburná,NA,Kanasín,Licenciatura,Lic. en Diseño De Modas,Vespertino,Enero-Junio
+2017,UVA20178712,NA,Mexicana,Mérida,1997-06-30,Reinscrito,Itzimná,Cbtis 95,NA,Ingeniería,Ing. en Procesos De Manufactura,Vespertino,Enero-Junio
+2017,UVA20172947,F,Mexicana,NA,1997-04-16,Reinscrito,Centro,Preparatoria Estatal No. 1,Kanasín,Licenciatura,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20175975,NA,Mexicana,Tizimín,1997-03-31,Equivalencia,Centro,NA,Tizimín,Ingeniería,Lic. en Gastronomía,Matutino,2024-B
+2017,UVA20178323,M,Mexicana,Mérida,1996-01-02,Repetidor,NA,Prepa Abierta,NA,Licenciatura,Lic. en Arquitectura,Vespertino,2023-A
+2017,UVA20179237,M,NA,Tizimín,2003-07-24,Reinscrito,Centro,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Psicología,Matutino,Enero-Junio
+2017,UVA20175908,NA,Mexicana,Valladolid,2005-07-10,Repetidor,Centro,Preparatoria Estatal No. 1,"Mérida, Yucatán",Licenciatura,Lic. en Odontología,Matutino,2023-A
+2017,UVA20175569,F,Mexicana,Cancún,1999-08-13,Nuevo,Centro,Prepa Abierta,Tizimín,Licenciatura,Lic. en Criminología,Matutino,2024-B
+2017,UVA20173095,F,Mexicana,Tizimín,2004-06-12,Repetidor,Francisco De Montejo,NA,NA,Ingeniería,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20178164,M,Mexicana,Tizimín,2001-03-30,Repetidor,Chuburná,NA,Kanasín,Licenciatura,Lic. en Psicología,Matutino,Agosto-Diciembre
+2017,UVA20176899,F,NA,Valladolid,2001-07-09,Repetidor,Francisco De Montejo,NA,"Mérida, Yucatán",Licenciatura,Lic. en Diseño De Modas,Matutino,Enero-Junio
+2017,UVA20173721,F,Mexicana,Mérida,1996-10-23,Nuevo,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Nutrición,Matutino,Enero-Junio
+2017,UVA20171799,M,NA,Valladolid,2001-04-27,Reinscrito,Chuburná,Conalep Mérida,Kanasín,Ingeniería,Lic. en Contabilidad,Matutino,Enero-Junio
+2017,UVA20175294,M,Mexicana,NA,2004-04-18,Repetidor,NA,Preparatoria Estatal No. 1,NA,Licenciatura,Ing. Civil,Matutino,2023-A
+2017,UVA20171239,F,Mexicana,Valladolid,1997-11-29,Repetidor,NA,Prepa Abierta,NA,Licenciatura,Lic. en Contabilidad,Matutino,Agosto-Diciembre
+2017,UVA20172187,M,NA,Mérida,2001-09-02,Nuevo,Chuburná,Prepa Abierta,Kanasín,Ingeniería,Lic. en Educación,Matutino,Agosto-Diciembre
+2017,UVA20174211,NA,Mexicana,Cancún,2002-10-01,Nuevo,Chuburná,NA,Tizimín,Ingeniería,Ing. Civil,Vespertino,2023-A
+2017,UVA20175090,F,NA,Tizimín,2003-03-26,Repetidor,Centro,NA,Umán,Ingeniería,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20176724,M,Mexicana,Cancún,2001-03-05,Nuevo,Centro,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Lic. en Educación,Vespertino,Agosto-Diciembre
+2017,UVA20179287,F,Mexicana,Tizimín,1997-02-14,Reinscrito,Itzimná,Conalep Mérida,"Mérida, Yucatán",Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20172003,M,Mexicana,Valladolid,2002-11-04,Repetidor,Centro,Cbtis 95,NA,Ingeniería,Ing. en Procesos De Manufactura,Vespertino,Agosto-Diciembre
+2017,UVA20179899,F,NA,Mérida,2002-01-08,Equivalencia,NA,Preparatoria Estatal No. 1,Umán,Ingeniería,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20179171,M,NA,Mérida,2001-05-13,Equivalencia,Centro,NA,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,Vespertino,Enero-Junio
+2017,UVA20174577,F,Mexicana,Valladolid,2001-12-02,Nuevo,Francisco De Montejo,NA,"Mérida, Yucatán",Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20179906,M,Mexicana,Valladolid,2005-06-30,Equivalencia,Itzimná,Conalep Mérida,NA,Ingeniería,Lic. en Gastronomía,Matutino,Enero-Junio
+2017,UVA20171646,M,NA,Mérida,1997-11-02,Repetidor,Centro,Prepa Abierta,Umán,Licenciatura,Lic. en Criminología,Vespertino,2024-B
+2017,UVA20177480,NA,Mexicana,Tizimín,1997-04-19,Reinscrito,Centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20173296,NA,Mexicana,Valladolid,2001-08-04,Repetidor,Centro,NA,Tizimín,Ingeniería,Lic. en Educación,Vespertino,Enero-Junio
+2017,UVA20171822,M,NA,Cancún,2004-03-10,Repetidor,NA,NA,NA,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,Agosto-Diciembre
+2017,UVA20171309,F,Mexicana,Valladolid,1997-04-30,Reinscrito,Francisco De Montejo,NA,Tizimín,Licenciatura,Ing. en Procesos De Manufactura,Matutino,Agosto-Diciembre
+2017,UVA20176188,M,NA,Cancún,2005-08-12,Nuevo,Centro,NA,"Mérida, Yucatán",Licenciatura,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20177798,F,NA,Valladolid,1996-05-03,Nuevo,Francisco De Montejo,Preparatoria Estatal No. 1,Umán,Licenciatura,Ing. en Procesos De Manufactura,Vespertino,Agosto-Diciembre
+2017,UVA20171276,F,NA,Cancún,2000-08-22,Nuevo,Centro,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Psicología,Vespertino,Agosto-Diciembre
+2017,UVA20174378,NA,Mexicana,Valladolid,1999-01-01,Reinscrito,NA,Cbtis 95,NA,Ingeniería,Ing. Civil,Matutino,Agosto-Diciembre
+2017,UVA20178128,NA,NA,Valladolid,2005-11-11,Equivalencia,NA,NA,Umán,Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20171474,F,Mexicana,Cancún,1996-12-23,Reinscrito,Itzimná,NA,Umán,Ingeniería,Lic. en Nutrición,Vespertino,Enero-Junio
+2017,UVA20171775,M,NA,Mérida,2002-01-15,Nuevo,Centro,NA,NA,Licenciatura,Lic. en Arquitectura,Matutino,Enero-Junio
+2017,UVA20178530,M,Mexicana,Cancún,1995-12-04,Equivalencia,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Fisioterapia,Vespertino,Enero-Junio
+2017,UVA20176408,F,Mexicana,NA,2005-06-18,Reinscrito,Francisco De Montejo,Preparatoria Estatal No. 1,Umán,Licenciatura,Lic. en Diseño De Modas,Vespertino,2023-A
+2017,UVA20176815,F,Mexicana,NA,2004-06-05,Nuevo,Francisco De Montejo,Cbtis 95,Umán,Ingeniería,Lic. en Gastronomía,Matutino,Agosto-Diciembre
+2017,UVA20179004,NA,Mexicana,NA,2004-09-24,Nuevo,Centro,Prepa Abierta,Kanasín,Ingeniería,Lic. en Gastronomía,Matutino,Agosto-Diciembre
+2017,UVA20173304,M,Mexicana,Mérida,1995-12-11,Nuevo,Chuburná,Conalep Mérida,NA,Licenciatura,Lic. en Criminología,Vespertino,2023-A
+2017,UVA20173809,F,NA,Cancún,1997-10-07,Equivalencia,Centro,Prepa Abierta,Tizimín,Ingeniería,Lic. en Odontología,Vespertino,2023-A
+2017,UVA20177220,M,NA,Tizimín,2002-02-17,Equivalencia,Chuburná,Prepa Abierta,Umán,Licenciatura,Lic. en Contabilidad,Vespertino,2023-A
+2017,UVA20171646,M,Mexicana,Mérida,2004-09-29,Equivalencia,Itzimná,NA,NA,Ingeniería,Lic. en Derecho,Vespertino,Agosto-Diciembre
+2017,UVA20172549,F,Mexicana,Mérida,1998-02-20,Repetidor,Centro,Prepa Abierta,NA,Ingeniería,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20176524,M,NA,NA,1997-09-05,Nuevo,Francisco De Montejo,Cbtis 95,NA,Licenciatura,Ing. Civil,Matutino,2024-B
+2017,UVA20179022,M,NA,Tizimín,2001-01-13,Equivalencia,Centro,NA,Tizimín,Ingeniería,Lic. en Contabilidad,Vespertino,Enero-Junio
+2017,UVA20174386,F,Mexicana,NA,2002-08-04,Reinscrito,Chuburná,Conalep Mérida,Tizimín,Ingeniería,Ing. Civil,Vespertino,Enero-Junio
+2017,UVA20178422,F,Mexicana,Tizimín,1998-05-05,Equivalencia,Francisco De Montejo,NA,Tizimín,Ingeniería,Lic. en Gastronomía,Vespertino,Enero-Junio
+2017,UVA20174137,F,NA,Cancún,2002-04-03,Reinscrito,Francisco De Montejo,Conalep Mérida,Umán,Ingeniería,Lic. en Derecho,Matutino,2024-B
+2017,UVA20174782,F,NA,Cancún,1998-06-05,Equivalencia,Centro,Prepa Abierta,"Mérida, Yucatán",Licenciatura,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20178306,F,Mexicana,Tizimín,1999-09-09,Repetidor,NA,Prepa Abierta,Tizimín,Ingeniería,Lic. en Enfermería,Matutino,Agosto-Diciembre
+2017,UVA20179110,NA,Mexicana,NA,1999-06-03,Equivalencia,Centro,NA,Kanasín,Licenciatura,Lic. en Psicología,Matutino,2023-A
+2017,UVA20177958,F,NA,Mérida,1995-12-10,Repetidor,NA,Conalep Mérida,Tizimín,Licenciatura,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20178788,F,Mexicana,Valladolid,2000-06-30,Equivalencia,NA,Preparatoria Estatal No. 1,"Mérida, Yucatán",Ingeniería,Lic. en Psicología,Vespertino,Enero-Junio
+2017,UVA20176523,M,Mexicana,Valladolid,1997-09-01,Nuevo,Centro,Preparatoria Estatal No. 1,NA,Ingeniería,Lic. en Contabilidad,Matutino,2024-B
+2017,UVA20179380,F,Mexicana,Valladolid,2001-07-12,Nuevo,Centro,NA,Umán,Licenciatura,Lic. en Admin. De Empresas,Vespertino,2023-A
+2017,UVA20174994,NA,NA,Mérida,2002-01-10,Nuevo,Centro,Cbtis 95,Umán,Ingeniería,Lic. en Admin. De Empresas,Vespertino,2024-B
+2017,UVA20176037,F,Mexicana,Cancún,1997-12-25,Nuevo,Centro,Conalep Mérida,Kanasín,Ingeniería,Lic. en Arquitectura,Vespertino,2024-B
+2017,UVA20178679,M,NA,NA,1995-09-28,Equivalencia,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Odontología,Matutino,Enero-Junio
+2017,UVA20177387,F,NA,Tizimín,1999-05-17,Repetidor,NA,NA,NA,Ingeniería,Lic. en Arquitectura,Vespertino,Agosto-Diciembre
+2017,UVA20176107,NA,Mexicana,NA,1997-04-07,Nuevo,Francisco De Montejo,Prepa Abierta,Tizimín,Licenciatura,Ing. Civil,Vespertino,2023-A
+2017,UVA20178337,M,NA,Cancún,1998-07-04,Repetidor,Centro,NA,Tizimín,Ingeniería,Lic. en Psicología,Vespertino,2023-A
+2017,UVA20173588,F,NA,Tizimín,2001-09-07,Repetidor,Centro,Cbtis 95,"Mérida, Yucatán",Ingeniería,Lic. en Criminología,Vespertino,2023-A
+2017,UVA20178577,M,Mexicana,Cancún,2004-11-07,Reinscrito,Francisco De Montejo,NA,NA,Ingeniería,Lic. en Enfermería,Matutino,2023-A
+2017,UVA20174168,F,Mexicana,NA,1998-05-16,Repetidor,Itzimná,Cbtis 95,Tizimín,Ingeniería,Lic. en Fisioterapia,Matutino,Enero-Junio
+2017,UVA20176888,M,Mexicana,Cancún,2003-04-20,Nuevo,Itzimná,Cbtis 95,Tizimín,Licenciatura,Lic. en Enfermería,Matutino,2024-B
+2017,UVA20174115,F,Mexicana,Valladolid,1996-11-14,Nuevo,Itzimná,Prepa Abierta,Kanasín,Licenciatura,Lic. en Criminología,Matutino,Enero-Junio
+2017,UVA20172543,F,Mexicana,NA,1997-10-20,Reinscrito,Chuburná,Prepa Abierta,Kanasín,Ingeniería,Lic. en Psicología,Matutino,2024-B
+2017,UVA20171475,NA,NA,Tizimín,1998-01-07,Nuevo,NA,NA,Tizimín,Ingeniería,Lic. en Contabilidad,Vespertino,Agosto-Diciembre
+2017,UVA20174402,M,Mexicana,Tizimín,2004-01-29,Equivalencia,Francisco De Montejo,Prepa Abierta,NA,Ingeniería,Lic. en Gastronomía,Vespertino,2024-B
+2017,UVA20179651,F,Mexicana,Cancún,1999-06-02,Nuevo,Centro,NA,Tizimín,Licenciatura,Lic. en Nutrición,Vespertino,2024-B
+2017,UVA20172205,M,Mexicana,Tizimín,1998-12-30,Equivalencia,Francisco De Montejo,NA,"Mérida, Yucatán",Licenciatura,Ing. Civil,Matutino,Enero-Junio
+2017,UVA20179412,M,Mexicana,Tizimín,2005-06-24,Repetidor,NA,Cbtis 95,NA,Licenciatura,Ing. Civil,Matutino,Enero-Junio
+2017,UVA20174100,M,NA,Mérida,1997-08-06,Reinscrito,Centro,Conalep Mérida,Umán,Licenciatura,Lic. en Psicología,Vespertino,2023-A

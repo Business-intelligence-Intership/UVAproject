@@ -39,9 +39,9 @@ CARRERA_SEMESTRE = [
 
 TIPO_INGRESO = ["Nuevo", "Repetidor", "Reinscrito", "Equivalencia"]
 
-SEXO_SUCIO = ["M", "F", "Masculino", "Femenino", "H", "Fem", ""]
+SEXO_SUCIO = ["M", "F", "Masculino", "Femenino", "H", "Fem"]
 
-NACIONALIDAD_SUCIA = ["Mexicana", "mexicano", "MX", "México", "N/A", ""]
+NACIONALIDAD_SUCIA = ["Mexicana", "mexicano", "MX", "México"]
 
 COLONIAS = [
     "Centro",
@@ -75,7 +75,6 @@ COLONIAS = [
     "Mulsay",
     "Brisas",
     "San Antonio Kaua",
-    ""
 ]
 
 NIVELES = ["Licenciatura", "Ingeniería", "LIC", "ING"]

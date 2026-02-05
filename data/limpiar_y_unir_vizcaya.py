@@ -100,9 +100,12 @@ def limpiar_ciclo(ciclo: str) -> str:
         return "Enero-Junio"
     if c in ["agosto-diciembre", "agosto diciembre", "ago-dic", "ago dic"]:
         return "Agosto-Diciembre"
-
     if re.match(r"^\d{4}-[abAB]$", ciclo):
         return ciclo.upper()
+    if "-" in ciclo:
+        partes = ciclo.split("-")
+        partes = [p.strip().capitalize() for p in partes]
+        return "-".join(partes)
 
     return estandarizar_titulo(ciclo)
 

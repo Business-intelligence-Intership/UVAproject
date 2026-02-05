@@ -18,24 +18,23 @@ ANIOS = {
 }
 
 CARRERAS_CUATRI = [
-    "Ing. Civil",
-    "Ing. en Procesos de Manufactura",
-    "Lic. en Admin. de Empresas",
-    "Lic. en Arquitectura",
-    "Lic. en Contabilidad",
-    "Lic. en Criminología",
-    "Lic. en Derecho",
-    "Lic. en Diseño de Modas",
-    "Lic. en Enfermería",
-    "Lic. en Educación",
-    "Lic. en Fisioterapia",
-    "Lic. en Gastronomía",
-    "Lic. en Nutrición",
-    "Lic. en Psicología"
+    "Ingeniería Civil",
+    "Administración de Empresas",
+    "Arquitectura",
+    "Contabilidad",
+    "Criminología",
+    "Derecho",
+    "Diseño de Modas",
+    "Educación",
+    "Enfermería",
+    "Fisioterapia",
+    "Gastronomía",
+    "Nutrición",
+    "Psicología"
 ]
 
 CARRERA_SEMESTRE = [
-    "Lic. en Odontología", 
+    "Odontología", 
 ]
 
 TIPO_INGRESO = ["Nuevo", "Repetidor", "Reinscrito", "Equivalencia"]
@@ -150,9 +149,7 @@ ESCUELAS = [
     "UNIVERSIDAD CNCI",
     "COBAY CELESTUN",
     "COLEGIO DE BACHILLERES DEL ESTADO DE CAMPECHE",
-    "COBACAM-CAMPECHE",
     "COLEGIO DE BACHILLERES CHIAPAS",
-    "COBACH CHIAPAS",
     "COLEGIO DE BACHILLERES QUINTANA ROO",
     "COLEGIO BACHILLERES TABASCO",
     "COLEGIO BACHILLERES DE TABASCO 46",
@@ -289,201 +286,199 @@ MODALIDAD = [
     "Mixto/Sabatino"
 ]
 
-UBICACIONES_ESCUELA = [
-    "Calle 19 91, Ciudad Ninguno, Cacalchén, Yucatán. Cp. 97460", # COBAY CACALCHEN
-    "Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.", # PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL
-    "Calle 33 #140 Entre calle 20 A y 22 Col, Chuburná de Hidalgo, 97205 Mérida, Yuc.", # UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS
-    "NA", # ACUERDO 286
-    "Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.", # ALIANZ COMUNIDAD ESTUDIANTIL
-    "C. 64 602, entre 75, 97000 Mérida, Yucatán", # ALIANZA DE CAMIONEROS
-    "Calle 23 s/n x 44a y 44b CCT 31EBH0004B, Mérida, Mexico, 97219", # PLANTEL AZTECA
-    "NA", # BACHILLERATO EN LINEA UADY
-    "Boulevard Benito Juárez 1404, Monclova, Coahuila de Zaragoza.", # BACHILLERES AMERICAS
-    "Calle 25 S/N, Brisas del Pasaje, 97144 Mérida, Yuc.", # BETANCOURT - BRISAS
-    "97115 Mérida, Yucatán·", # FELIPE ESCALANTE RUZ BRISAS Calle 24
-    "97810 Samahil, Yuc.", # BACHILLERATO COMUNITARIO SAMAHIL
-    "Calle 4, 21 Y 25, C. 4 SN, Centro, 97620 Buctzotz, Yucatán", # COBAY BUCTOZTZ
-    "97470 Tixkokob, Yucatán", # COBAY TIXKOKOB
-    "Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.", # CBTIS 111 CANCUN
-    "C. 13 101 por 60, 97205 Mérida, Yucatán", # CBETIS 120
-    "24902, Calle 22-A 4100, Fátima, 24902 Calkiní, Camp.", # CBTIS 126 CAMPECHE
-    "Calle 27 369, Edesio Carrillo Puerto, 97430 Motul de Carrillo, 97430", # CBTIS 80
-    "C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.", # COLEGIO AMERICANO
-    "50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.", # COBACH COZUMEL
-    "Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.", # COBAY CHENKU
-    "97580 Homún, Yucatán", # COBAY HOMUN
-    "Calle 20 x 11 carretera a Tibolón, 40 X 11, 97690 Sotuta, Yucatán", # COBAY SOTUTA
-    "C. 30, 97960 Tzucacab, Yuc.", # COBAY TZUCACAB
-    "Ex-Hacienda Xmatkuil A.P. 970 Xmatkuil, 97139 Mérida, Yuc.", # CBTA 13 XMATKUIL
-    "C. 22, 97920 Yaxcabá, Yuc.", # COBAY YAXCABA
-    "Unnamed Road, 97825 Abalá, Yuc.", # COBAY ABALA
-    "CALLE DEL BARRO, Av. Poblado Islas Agrarias # 1201, 21600 Mexicali, B.C.", # PREPARATORIA ABIERTA CALAFIA
-    "Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.", # VICTOR J. MANZANILLA J. - CANSAHCAB
-    "Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.", # CBTIS 28 COZUMEL
-    "C. 107, Santa Rosa, 97279 Mérida, Yuc.", # COLEGIO BENITO JUAREZ GARCIA
-    "97315 Mérida, Yucatán", # CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO
-    "C. 30 102, Guadalupe, 97540 Izamal, Yuc.", # CBTA 165
-    "C. 30 102, Guadalupe, 97540 Izamal, Yuc.", # CBTA IZAMAL 185
-    "Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.", # CBTIS 95
-    "C. 13 101 por 60, Loma Bonita, 97205 Mérida, Yuc.", # CBTIS 120 MÉRIDA
-    "Calle 51, Francisco de Montejo, Mérida, Yucatán", # CARLOS CASTILLO PERAZA 
-    "C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.", # UNIVERSIDAD AUTÓNOMA DEL CARMEN
-    "C. 21 216, entre 60 Y 62, Zona Dorada II, 97226 Mérida, Yuc.", # CENTRO EDUCATIVO SIGLO XXI
-    "Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.", # CECYTE
-    "C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.", # CECYTE QUINTANA ROO
-    "Jardines del Nte., 97139 Mérida, Yuc.", # CEC Y TES
-    "Calle 21, Periférico Poniente, Colonia San Juan Bautista, 97200 Mérida, Yuc.", # CEDART ERMILO ABREU GÓMEZ
-    "C. 60 316-por 27 y 29, Señorial, 97059 Mérida, Yuc.", # CEEAC
-    "Calle 22 Nte, Entre 50 y, Calle 55 Pte. &, Ejidal, 77712 Playa del Carmen, Q.R.", # CEIC PLAYA DEL CARMEN
-    "Calle 21 No. 357A-x 26, San Pedro Cholul, 97138 Mérida, Yuc.", # CELA
-    "C. 50 454, Centro, 97000 Mérida, Yuc.", # CENTRO EDUCATIVO MARIA GONZALEZ PALMA
-    "C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.", # COREM MERIDA
-    "289 College Ave W, Guelph, ON N1G 1S9, Canada", # CENTENNIAL COLLEGIATE VOCATIONAL INSTITUTE
-    "C. 76 11-A'-1, Residencial Pensiones VI, 97217 Mérida, Yuc.", # CENTRO ESCOLAR ROCHAVI
-    "C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.", # CESMAC
-    "C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.", # CETESC
-    "C. 55 No. 728, Pacabtún, 97160 Mérida, Yuc.", # CETIS 112
-    "Av. Lomas Verdes 2, Rancho Viejo, 91303 Banderilla, Ver.", # CETIS 134
-    "Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.", # CETIS 68
-    "Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán", # CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17
-    "C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.", # COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB
-    "97305 Mérida, Yucatán", # COBAY CHOLUL
-    "Fracc, C. 27 150, San Miguel, 97140 Mérida, Yuc.", # CEMA
-    "Calle 56 No. 508 Altos Centro, Mérida", # UNIVERSIDAD CNCI
-    "C. 6 6480, Benito Juárez, 97367 Celestún, Yuc.", # COBAY CELESTUN
-    "Calle Castillo Oliver No. 14, entre Lorenzo Alfaro Alomía y Avenida Miguel Alemán área Ah-Kim-Pech, C.P. 24014, San Francisco de Campeche, Campeche", # COLEGIO DE BACHILLERES DEL ESTADO DE CAMPECHE
-    "Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.", # COLEGIO DE BACHILLERES CHIAPAS
-    "Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.", # COBACH CHIAPAS
-    "Calle 12 Entre Avenida 30, 77710 Playa del Carmen", # COLEGIO DE BACHILLERES QUINTANA ROO
-    "Av. Paseo La Choca 100, Multiochenta, 86085 Villahermosa, Tab.", # COLEGIO BACHILLERES TABASCO
-    "Villa las Flores, 86780 Jonuta, Tab.", # COLEGIO BACHILLERES DE TABASCO 46
-    "2000,, Av. Paseo La Choca 100, Parque Tabasco, 86035 Villahermosa, Tab.", # COBATAB
-    "Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.", # COLEGIO DE BACHILLERES No. 8 TABASCO
-    "C. 37 entre 72 y 74, Centro, 97320 Progreso, Yuc.", # COBAY PROGRESO
-    "Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán", # COBAY 5
-    "21 SN, Colonia las Palmas, Acanceh, Yucatán, México", # COBAY ACANCEH
-    "Calle 26 No. 107 Int. 0sn, Villa Baca, Baca, Yucatán", # COBAY BACA
-    "Hunucma - Caucel 56, Caucel, 97314 Caucel, Yuc.", # COBAY CAUCEL
-    "50 Avenida Sur, C. 27 Sur, San Miguel I, Cozumel, Q.R.", # COLEGIO DE BACHILLERES PLANTEL COZUMEL
-    "Calle 23, entre 20 y 22 s/n. colonia Emiliano Zapata, Dzidzantún", # COBAY DZIDZANTUN
-    "Calle 20, Colonia Salida, Halachó, Yucatán", # COBAY HALACHO
-    "Calle 14 S/N x 33, 97370 Kanasín, Yucatán", # COBAY KANASIN
-    "Calle 13 0 S/N Kimbilá, Yuc.", # COBAY KIMBILA
-    "Calle 18 SN, Kinchil, Yucatán", # COBAY KINCHIL
-    "Calle 34 No. 420 B x 35, Col. López Mateos, Mérida, Yucatán.", # COLEGIO DE BACHILLERES DE YUCATAN
-    "Calle 12 x 15 y 17 carretera hacienda Guadalupe, 97340 Chicxulub, Yucatán", # COBAY CHICXULUB PUEBLO
-    "Av. 1o. de Mayo x 107 y 109, 97279 Mérida, Yucatán", # COBAY SANTA ROSA
-    "Calle 21 entre Calle 44, Tekit, Yucatán", # COBAY TEKIT
-    "Calle 28 Carretera Tecoh - Telchaquillo, Tecoh, Yucatán", # COBAY TECOH
-    "Calle 41 x 24 y 24A Col. Santiago, Ticul, Yucatán.", # COBAY TICUL
-    "Calle 16 S/n X 10 Y 12 Col. Cepeda Peraza, Umán, Yucatán", # COBAY UMAN
-    "Calle 32 S/N, Fernando Novelo, 97780 Valladolid, Yucatan", # COBAY VALLADOLID
-    "Calle 132 x 42, Xoclán Carmelitas, 97245 Mérida, Yucatán", # COBAY XOCLAN
-    "Calle 21, 97315 San José Tzal, Yucatán", # PLANTEL COBAY SAN JOSE TZAL
-    "Calle 23 57, 97910 Teabo, Yucatán", # COBAY TEABO
-    "Calle 48-B S/N por Calle 31, Centro, 97702 Tizimín, Yucatán", # COBAY TIZIMIN
-    "Av. Miguel Hidalgo Y Costilla S/N Colonia Guadalupe, C.P 78890, José María Morelos, Quintana Roo", # COLEGIO DE BACHILLERES PLANTEL JMM
-    "Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.", # COBAY SEYE
-    "Calle 75, 542 A, Centro, Mérida, Yucatán", # COLEGIO MESOAMERICANO
-    "Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán", # COLEGIO DEL GOLFO DE MERIDA
-    "Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico", # COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO
-    "Calle 59 No. 729, Fraccionamiento Pacabtún, Mérida, Yucatán", # COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA
-    "Tablaje Catastral 31,800, Col. Polígono Chuburná, entre los km 38 y 39 del Periférico Poniente, Mérida, Yucatán", # CONALEP MERIDA
-    "Av Fidel Velázquez 849, 97169 Mérida, Yucatán", # CONRADO MENENDEZ DIAZ
-    "Km 2 carretera Cuzama Homun, Cuzamá, Yucatán", # COBAY CUZAMA
-    "Calle 65 583, 97000 Mérida, Yucatán", # CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO
-    "Calle 5 x 18 S/n, 97133 Mérida, Yucatán", # CUM
-    "Calle 60 No. 106 X 21 Y 23, 97205 Mérida, Yucatán ", # CENTRO UNIVERSITARIO MONTEJO
-    "Calle 26 #254 x 37, Limones, CP 97219, Mérida, Yucatán, México.", # COLEGIO YUCATAN
-    "Calle 15 230, Col. Miraflores, CP 97179, Mérida, Yucatán", # DAVID ALFARO SIQUEIROS MIRAFLORES
-    "Av. Yucatán No. 524-1 x 22 y 24, Maya, 97134 Mérida, Yucatán, ", # EDUCACION INTEGRAL Y ACTIVA EDAI
-    "Calle 64 x 57 y 59 No.485, Centro, 97000 Mérida, Yucatán", # COLEGIO EDUCACION Y PATRIA
-    "Calle 59 No. 624, Barrio Santiago, Mérida, Yucatán", # ELIGIO ANCONA
-    "Carretera Justo Sierra-El Desengaño Candelaria, Campeche", # EMSAD 07 EL DESENGAÑO
-    "Av. Observatorio 170, Observatorio, Miguel Hidalgo, 11860 Ciudad de México, CDMX.", # ENEP UNAM SEP
-    "Calle 96 653 X 51A y 59, Ciudad Caucel, 97300 Mérida, Yucatán", # ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO
-    "Calle 59 Num. Ext. 821 Balcones Iii, Ciudad Caucel , Mérida, Yucatán", # PREPARATORIA ESTATAL NUM. 10
-    "Calle 47 No. 514-A x 62 y 64 Col. Centro C.P. 97000, Mérida, Yucatán", # FRANCISCO DE MONTEJO Y LEON
-    "Calle 78 541, Col. Centro, CP 97000, Mérida, Yucatán", # FRANCISCO REPETO MILAN
-    "Calle 60 602, Col. Centro, CP 97000, Mérida, Yucatán", # GONZALO CAMARA ZAVALA
-    "Calle 26 No. Sn, Colonia Itzimna, Hunucmá, Yucatán", # COBAY HUNUCMA
-    "Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán", # IBCEY
-    "Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.", # INSTITUTO FELTON
-    "Calle 4 242, 08100 Ciudad de México, México", # IMEI - CIUDAD DE MEXICO
-    "Calle 31-A 520, 97140 Mérida, Yucatán", # INCI - ALEMAN
-    "S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México", # INEVE
-    "Periférico Norte km. 2.5, San Ramón Nte, 97117 Mérida, Yucatán", # INSTITUTO PATRIA
-    "Calle 62 No. 373, Colonia Centro, Mérida, Yucatán", # INSTITUTO COMERCIAL BANCARIO
-    "Calle 65 230, 97179 Mérida, Yucatán ", # INSTITUTO DAVID ALFARO
-    "Calle 50 290, Roma, 97218 Mérida, Yucatán", # INSTITUTO MEXICO
-    "Calle 15 Poniente 109, 97190 Mérida, Yucatán", # JOSE MARIA MORELOS Y PAVON
-    "Calle 59, 615E X 80 y 82, 97000 Mérida, Yucatán", # JOSE VASCONCELOS
-    "Calle 67, NO. 437 entre Calle 40 y Calle 38, Mérida, Yucatán", # JOSEFINA ROSADO DE PATRON
-    "Calle 65 543.A, Parque Santiago, Centro, 97000 Mérida, Yucatán", # PREPARATORIA JUVENTUS
-    "Calle 14 por 31, Komchen, 97300 Komchén, Yucatán", # COBAY KOMCHEN
-    "Gobernadores No. 295 Huanal, 24070 Campeche, Campeche", # LUIS PASTEUR - CAMPECHE
-    "Colina de la Rumorosa no.70 Fracc. Boulevares, Naucalpan, Estado de México.", # LA SALLE BOULEVARES
-    "Calle 35 No. Sn, Colonia Cuauhtemoc, Ciudad Del Carmen, Carmen, Campeche C.P. 24170",  # PREPARATORIA LAFAYETTE
-    "Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158", # LUIS ALVAREZ BARRET
-    "Calle 25B x 10 Colonia Lázaro Cárdenas 421, 97219 Mérida, Yucatán", # MAHATMA GANDHI
-    "C. 83 681F, 97320 Progreso, Yucatán", # CETMAR-PROGRESO
-    "Carlos Alberto Madrazo 90, 86800 Teapa, Tabasco", # COLEGIO MANUEL SANCHEZ MARMOL
-    "C. 69 452, 97000 Mérida, Yucatán", # MANUEL CRESCENCIO REJON
-    "Calle 61 322, 97169 Mérida, Yucatán", # MEXICANA DEL MAYAB
-    "Paseo de Montejo No.444, Centro, 97000 Mérida, Yucatán", # PREPARATORIA MODELO
-    "Calle 19, colonia Ninguno, municipio Muna, Yucatán, C.P. 97840", # PREPARATORIA MUNA
-    "Calle 51 por 50 y 48 #472 Col. Centro, C.P.97000, Mérida, Yucatán", # UNIVERSIDAD DE MUNDO MAYA
-    "Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán", # COBAY PLANTEL PETO
-    "Calle 12, 97149 Mérida, Yucatán", # PREPARATORIA 7
-    "Acanceh, 97380 112 Calle 25, 97380 Acanceh, Yucatán", # PREPA ACANCEH
-    "Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán", # PREPA ABIERTA
-    "Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",  # PREPARATORIA LIBRE
-    "N/A", # PREPA LIBRE SEP
-    "C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán", # PREPARATORIA ESTATAL No. 8
-    "Calle 57A 744, 97160 Mérida", # PREPARATORIA ESTATAL CTM #3
-    "en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán", # PREPA 1
-    "Calle 59-C LOTE 950, 97000 Mérida, Yucatán", # PREPARATORIA 11
-    "Calle 57A 744, 97160 Mérida", # PREPARATORIA ESTATAL 3
-    "Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yucatán", # PREPA 4 CANSAHCAB
-    "Calle 67 por 50, 97000 Mérida, Yucatán", # PREPARATORIA #5 AGUSTIN FRANCO VILLANUEVA
-    "Calle 12, 97149 Mérida, Yucatán", # PREPA 7
-    "C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán", # PREPARATORIA NO. 8
-    "C. 12-D 2a, 97370 Kanasín, Yucatán", # VICTOR MANUEL CERVERA PACHECO
-    "Calle 20 Pedregales De Tanlum Mérida, Yucatán CP. 97210", # PREPARATORIA ESTATAL 2
-    "C. 72 453, 97000 Mérida, Yucatán", # PREPARATORIA MEXICO
-    "Calle 5 Sur N, 97139 Mérida, Yucatán", # PREPARATORIA MIGUEL ANGEL
-    "C. 44 145-7, 97320 Progreso, Yucatán", # PREPARATORIA PROGRESO
-    "Calle Ninguno 0, Colonia Ninguno, Yaxcabá, Yucatán. Cp. 97927", # PREPARATORIA DE TAHDZIBICHEN
-    "Calle 61 # 551 x 70 y 72, Col. Centro, CP. 97000 Mérida, Yucatán", # PREPARATORIA YUCATAN
-    "en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán", # PREPARATORIA 1 UADY
-    "Calle 185 sin número X 90-B y 92 San Luis Sur y Avenida 86 Mérida, Yucatán", # PREPARATORIA 3 UADY
-    "En Calle 20 S/N, Colonia Ninguno, Cansahcab, Yucatán", # PREPARATORIA 4
-    "YUC 31, 97880 Oxkutzcab, Yucatán",  # PREPARATORIA ESTATAL No. 9
-    "Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",  # PRONACE
-    "Calle 72 Av. Reforma #453 x 51 y 53, Centro, CP 97000, Mérida, Yucatán", # REPUBLICA DE MEXICO
-    "Calle 21 102B x 20 y 22, 97400 Telchac, Yucatán", # RICARDO FLORES MAGÓN
-    "Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán", # ROGERS HALL
-    "Calle 46-b Serapio Rendon, Mérida, Yucatán CP. 97285", # SERAPIO RENDÓN
-    "Cll 20 302, 97205 Mérida, Yucatán", # SALVADOR ALVARADO
-    "C. 58 480B, 97000 Mérida, Yucatán", # COLEGIO SAN AGUSTIN
-    "Calle 21 216, Mérida, Yucatán", # SIGLO XXI
-    "N/A", # SERVICIO NACIONAL DE BACHILLERATO EN LINEA
-    "Calle 55 s/n x 78 y 84 Fraccionamiento Vivah, 97970 Tekax, Yucatán", # COBAY TEKAX
-    "Calle 53 Diagonal S/N, 97302 Mérida, Yucatán", # UNIVERSIDAD TECMILENIO
-    "C. 22 148, 97348 Yaxkukul, Yucatán", # TELEBACHILLERATO
-    "C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán", # COBAY TICUL
-    "Calle 18 No. 175, 97860 Ticul, Yucatán", # JOSE DOLORES RODRIGUEZ TICUL
-    "C. 25 entre 17 y 19, 97386 Tixpéhual, Yucatán", # COBAY TIXPEUAL
-    "Av Concordia, 24180 Carmen, Campeche", # UNACAR - CAMPUS II
-    "Calle 185 20, 97315 Mérida, Yucatán", # UABIC
-    "Calle 59C 204, 97238 Mérida, Yucatán", # PREPARATORIA 2 UADY
-    "C. 58 480B, 97000 Mérida, Yucatán", # SAN AGUSTIN
-    "Primera s/n, Col. Círculo, CP 88640, Reynosa, Tamaulipas, México", # UNIVERSIDAD MEXICO AMERICANA DEL NORTE A.C.
-    "CALLE GUILLERMO PRIETO 8, XALAPA VERACRUZ DE IGNACIO DE LA LLAVE", # UPAV VERACRUZ
-    "Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán", # UPP PREPA
-    "Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán", # UVM
-    "Av Observatorio 170-P. B, Observatorio, Miguel Hidalgo, 11860 Ciudad de México", # ESCUELA NACIONAL PREPARATORIA 4 VIDAL CASTAÑEDA Y
-]
+UBICACIONES_ESCUELA = {
+"COBAY CACALCHEN": "Calle 19 91, Ciudad Ninguno, Cacalchén, Yucatán. Cp. 97460",
+"PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL": "Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",
+"UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS": "Calle 33 #140 Entre calle 20 A y 22 Col, Chuburná de Hidalgo, 97205 Mérida, Yuc.",
+"ACUERDO 286": "NA",
+"ALIANZ COMUNIDAD ESTUDIANTIL": "Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.",
+"ALIANZA DE CAMIONEROS": "C. 64 602, entre 75, 97000 Mérida, Yucatán",
+"PLANTEL AZTECA": "Calle 23 s/n x 44a y 44b CCT 31EBH0004B, Mérida, Mexico, 97219",
+"BACHILLERATO EN LINEA UADY": "NA",
+"BACHILLERES AMERICAS": "Boulevard Benito Juárez 1404, Monclova, Coahuila de Zaragoza.",
+"BETANCOURT - BRISAS": "Calle 25 S/N, Brisas del Pasaje, 97144 Mérida, Yuc.",
+"FELIPE ESCALANTE RUZ - BRISAS": "97115 Mérida, Yucatán·",
+"BACHILLERATO COMUNITARIO SAMAHIL": "97810 Samahil, Yuc.",
+"COBAY BUCTOZTZ": "Calle 4, 21 Y 25, C. 4 SN, Centro, 97620 Buctzotz, Yucatán",
+"COBAY TIXKOKOB": "97470 Tixkokob, Yucatán",
+"CBTIS 111 CANCUN": "Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.",
+"CBETIS 120": "C. 13 101 por 60, 97205 Mérida, Yucatán",
+"CBTIS 126 CAMPECHE": "24902, Calle 22-A 4100, Fátima, 24902 Calkiní, Camp.",
+"CBTIS 80": "Calle 27 369, Edesio Carrillo Puerto, 97430 Motul de Carrillo, 97430",
+"COLEGIO AMERICANO": "C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",
+"COBACH COZUMEL": "50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.",
+"COBAY CHENKU": "Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",
+"COBAY HOMUN": "97580 Homún, Yucatán",
+"COBAY SOTUTA": "Calle 20 x 11 carretera a Tibolón, 40 X 11, 97690 Sotuta, Yucatán",
+"COBAY TZUCACAB": "C. 30, 97960 Tzucacab, Yuc.",
+"CBTA 13 XMATKUIL": "Ex-Hacienda Xmatkuil A.P. 970 Xmatkuil, 97139 Mérida, Yuc.",
+"COBAY YAXCABA": "C. 22, 97920 Yaxcabá, Yuc.",
+"COBAY ABALA": "Unnamed Road, 97825 Abalá, Yuc.",
+"PREPARATORIA ABIERTA CALAFIA": "CALLE DEL BARRO, Av. Poblado Islas Agrarias # 1201, 21600 Mexicali, B.C.",
+"VICTOR J. MANZANILLA J. - CANSAHCAB": "Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.",
+"CBTIS 28 COZUMEL": "Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.",
+"COLEGIO BENITO JUAREZ GARCIA": "C. 107, Santa Rosa, 97279 Mérida, Yuc.",
+"CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO": "97315 Mérida, Yucatán",
+"CBTA 165": "C. 30 102, Guadalupe, 97540 Izamal, Yuc.",
+"CBTA IZAMAL 185": "C. 30 102, Guadalupe, 97540 Izamal, Yuc.",
+"CBTIS 95": "Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.",
+"CBTIS 120 MÉRIDA": "C. 13 101 por 60, Loma Bonita, 97205 Mérida, Yuc.",
+"CARLOS CASTILLO PERAZA": "Calle 51, Francisco de Montejo, Mérida, Yucatán",
+"UNIVERSIDAD AUTONOMA DEL CARMEN": "C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",
+"CENTRO EDUCATIVO SIGLO XXI": "C. 21 216, entre 60 Y 62, Zona Dorada II, 97226 Mérida, Yuc.",
+"CECYTE": "Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.",
+"CECYTE QUINTANA ROO": "C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",
+"CEC Y TES": "Jardines del Nte., 97139 Mérida, Yuc.",
+"CEDART ERMILO ABREU GÓMEZ": "Calle 21, Periférico Poniente, Colonia San Juan Bautista, 97200 Mérida, Yuc.",
+"CEEAC": "C. 60 316-por 27 y 29, Señorial, 97059 Mérida, Yuc.",
+"CEIC PLAYA DEL CARMEN": "Calle 22 Nte, Entre 50 y, Calle 55 Pte. &, Ejidal, 77712 Playa del Carmen, Q.R.",
+"CELA": "Calle 21 No. 357A-x 26, San Pedro Cholul, 97138 Mérida, Yuc.",
+"CENTRO EDUCATIVO MARIA GONZALEZ PALMA": "C. 50 454, Centro, 97000 Mérida, Yuc.",
+"COREM MERIDA": "C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.",
+"CENTENNIAL COLLEGIATE VOCATIONAL INSTITUTE": "289 College Ave W, Guelph, ON N1G 1S9, Canada",
+"CENTRO ESCOLAR ROCHAVI": "C. 76 11-A'-1, Residencial Pensiones VI, 97217 Mérida, Yuc.",
+"CESMAC": "C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.",
+"CETESC": "C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.",
+"CETIS 112": "C. 55 No. 728, Pacabtún, 97160 Mérida, Yuc.",
+"CETIS 134": "Av. Lomas Verdes 2, Rancho Viejo, 91303 Banderilla, Ver.",
+"CETIS 68": "Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.",
+"CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17": "Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán",
+"COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB": "C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",
+"COBAY CHOLUL": "97305 Mérida, Yucatán",
+"CEMA": "Fracc, C. 27 150, San Miguel, 97140 Mérida, Yuc.",
+"UNIVERSIDAD CNCI": "Calle 56 No. 508 Altos Centro, Mérida",
+"COBAY CELESTUN": "C. 6 6480, Benito Juárez, 97367 Celestún, Yuc.",
+"COLEGIO DE BACHILLERES DEL ESTADO DE CAMPECHE": "Calle Castillo Oliver No. 14, entre Lorenzo Alfaro Alomía y Avenida Miguel Alemán área Ah-Kim-Pech, C.P. 24014, San Francisco de Campeche, Campeche",
+"COLEGIO DE BACHILLERES CHIAPAS": "Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",
+"COLEGIO DE BACHILLERES QUINTANA ROO": "Calle 12 Entre Avenida 30, 77710 Playa del Carmen",
+"COLEGIO BACHILLERES TABASCO": "Av. Paseo La Choca 100, Multiochenta, 86085 Villahermosa, Tab.",
+"COLEGIO BACHILLERES DE TABASCO 46": "Villa las Flores, 86780 Jonuta, Tab.",
+"COBATAB": "2000,, Av. Paseo La Choca 100, Parque Tabasco, 86035 Villahermosa, Tab.",
+"COLEGIO DE BACHILLERES No. 8 TABASCO": "Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.",
+"COBAY PROGRESO": "C. 37 entre 72 y 74, Centro, 97320 Progreso, Yuc.",
+"COBAY 5": "Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",
+"COBAY ACANCEH": "21 SN, Colonia las Palmas, Acanceh, Yucatán, México",
+"COBAY BACA": "Calle 26 No. 107 Int. 0sn, Villa Baca, Baca, Yucatán",
+"COBAY CAUCEL": "Hunucma - Caucel 56, Caucel, 97314 Caucel, Yuc.",
+"COLEGIO DE BACHILLERES PLANTEL COZUMEL": "50 Avenida Sur, C. 27 Sur, San Miguel I, Cozumel, Q.R.",
+"COBAY DZIDZANTUN": "Calle 23, entre 20 y 22 s/n. colonia Emiliano Zapata, Dzidzantún",
+"COBAY HALACHO": "Calle 20, Colonia Salida, Halachó, Yucatán",
+"COBAY KANASIN": "Calle 14 S/N x 33, 97370 Kanasín, Yucatán",
+"COBAY KIMBILA": "Calle 13 0 S/N Kimbilá, Yuc.",
+"COBAY KINCHIL": "Calle 18 SN, Kinchil, Yucatán",
+"COLEGIO DE BACHILLERES DE YUCATAN": "Calle 34 No. 420 B x 35, Col. López Mateos, Mérida, Yucatán.",
+"COBAY CHICXULUB PUEBLO": "Calle 12 x 15 y 17 carretera hacienda Guadalupe, 97340 Chicxulub, Yucatán",
+"COBAY SANTA ROSA": "Av. 1o. de Mayo x 107 y 109, 97279 Mérida, Yucatán",
+"COBAY TEKIT": "Calle 21 entre Calle 44, Tekit, Yucatán",
+"COBAY TECOH": "Calle 28 Carretera Tecoh - Telchaquillo, Tecoh, Yucatán",
+"COBAY TICUL": "C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",
+"COBAY UMAN": "Calle 16 S/n X 10 Y 12 Col. Cepeda Peraza, Umán, Yucatán",
+"COBAY VALLADOLID": "Calle 32 S/N, Fernando Novelo, 97780 Valladolid, Yucatan",
+"COBAY XOCLAN": "Calle 132 x 42, Xoclán Carmelitas, 97245 Mérida, Yucatán",
+"PLANTEL COBAY SAN JOSE TZAL": "Calle 21, 97315 San José Tzal, Yucatán",
+"COBAY TEABO": "Calle 23 57, 97910 Teabo, Yucatán",
+"COBAY TIZIMIN": "Calle 48-B S/N por Calle 31, Centro, 97702 Tizimín, Yucatán",
+"COLEGIO DE BACHILLERES PLANTEL JMM": "Av. Miguel Hidalgo Y Costilla S/N Colonia Guadalupe, C.P 78890, José María Morelos, Quintana Roo",
+"COBAY SEYE": "Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",
+"COLEGIO MESOAMERICANO": "Calle 75, 542 A, Centro, Mérida, Yucatán",
+"COLEGIO DEL GOLFO DE MERIDA": "Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán",
+"COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO": "Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico",
+"COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA": "Calle 59 No. 729, Fraccionamiento Pacabtún, Mérida, Yucatán",
+"CONALEP MERIDA": "Tablaje Catastral 31,800, Col. Polígono Chuburná, entre los km 38 y 39 del Periférico Poniente, Mérida, Yucatán",
+"CONRADO MENENDEZ DIAZ": "Av Fidel Velázquez 849, 97169 Mérida, Yucatán",
+"COBAY CUZAMA": "Km 2 carretera Cuzama Homun, Cuzamá, Yucatán",
+"CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO": "Calle 65 583, 97000 Mérida, Yucatán",
+"CUM": "Calle 5 x 18 S/n, 97133 Mérida, Yucatán",
+"CENTRO UNIVERSITARIO MONTEJO": "Calle 60 No. 106 X 21 Y 23, 97205 Mérida, Yucatán ",
+"COLEGIO YUCATAN": "Calle 26 #254 x 37, Limones, CP 97219, Mérida, Yucatán, México.",
+"DAVID ALFARO SIQUEIROS MIRAFLORES": "Calle 15 230, Col. Miraflores, CP 97179, Mérida, Yucatán",
+"EDUCACION INTEGRAL Y ACTIVA EDAI": "Av. Yucatán No. 524-1 x 22 y 24, Maya, 97134 Mérida, Yucatán, ",
+"COLEGIO EDUCACION Y PATRIA": "Calle 64 x 57 y 59 No.485, Centro, 97000 Mérida, Yucatán",
+"ELIGIO ANCONA": "Calle 59 No. 624, Barrio Santiago, Mérida, Yucatán",
+"EMSAD 07 EL DESENGAÑO": "Carretera Justo Sierra-El Desengaño Candelaria, Campeche",
+"ENEP UNAM SEP": "Av. Observatorio 170, Observatorio, Miguel Hidalgo, 11860 Ciudad de México, CDMX.",
+"ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO": "Calle 96 653 X 51A y 59, Ciudad Caucel, 97300 Mérida, Yucatán",
+"PREPARATORIA ESTATAL NUM. 10": "Calle 59 Num. Ext. 821 Balcones Iii, Ciudad Caucel , Mérida, Yucatán",
+"FRANCISCO DE MONTEJO Y LEON": "Calle 47 No. 514-A x 62 y 64 Col. Centro C.P. 97000, Mérida, Yucatán",
+"FRANCISCO REPETO MILAN": "Calle 78 541, Col. Centro, CP 97000, Mérida, Yucatán",
+"GONZALO CAMARA ZAVALA": "Calle 60 602, Col. Centro, CP 97000, Mérida, Yucatán",
+"COBAY HUNUCMA": "Calle 26 No. Sn, Colonia Itzimna, Hunucmá, Yucatán",
+"IBCEY": "Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán",
+"INSTITUTO FELTON": "Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",
+"IMEI - CIUDAD DE MEXICO": "Calle 4 242, 08100 Ciudad de México, México",
+"INCI - ALEMAN": "Calle 31-A 520, 97140 Mérida, Yucatán",
+"INEVE": "S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",
+"INSTITUTO PATRIA": "Periférico Norte km. 2.5, San Ramón Nte, 97117 Mérida, Yucatán",
+"INSTITUTO COMERCIAL BANCARIO": "Calle 62 No. 373, Colonia Centro, Mérida, Yucatán",
+"INSTITUTO DAVID ALFARO": "Calle 65 230, 97179 Mérida, Yucatán ",
+"INSTITUTO MEXICO": "Calle 50 290, Roma, 97218 Mérida, Yucatán",
+"JOSE MARIA MORELOS Y PAVON": "Calle 15 Poniente 109, 97190 Mérida, Yucatán",
+"JOSE VASCONCELOS": "Calle 59, 615E X 80 y 82, 97000 Mérida, Yucatán",
+"JOSEFINA ROSADO DE PATRON": "Calle 67, NO. 437 entre Calle 40 y Calle 38, Mérida, Yucatán",
+"PREPARATORIA JUVENTUS": "Calle 65 543.A, Parque Santiago, Centro, 97000 Mérida, Yucatán",
+"COBAY KOMCHEN": "Calle 14 por 31, Komchen, 97300 Komchén, Yucatán",
+"LUIS PASTEUR - CAMPECHE": "Gobernadores No. 295 Huanal, 24070 Campeche, Campeche",
+"LA SALLE BOULLEWARES": "Colina de la Rumorosa no.70 Fracc. Boulevares, Naucalpan, Estado de México.",
+"PREPARATORIA LAFAYETTE": "Calle 35 No. Sn, Colonia Cuauhtemoc, Ciudad Del Carmen, Carmen, Campeche C.P. 24170",
+"LUIS ALVAREZ BARRET": "Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158",
+"MAHATMA GANDHI": "Calle 25B x 10 Colonia Lázaro Cárdenas 421, 97219 Mérida, Yucatán",
+"CETMAR-PROGRESO": "C. 83 681F, 97320 Progreso, Yucatán",
+"COLEGIO MANUEL SANCHEZ MARMOL": "Carlos Alberto Madrazo 90, 86800 Teapa, Tabasco",
+"MANUEL CRESCENCIO REJON": "C. 69 452, 97000 Mérida, Yucatán",
+"MEXICANA DEL MAYAB": "Calle 61 322, 97169 Mérida, Yucatán",
+"PREPARATORIA MODELO": "Paseo de Montejo No.444, Centro, 97000 Mérida, Yucatán",
+"PREPARATORIA MUNA": "Calle 19, colonia Ninguno, municipio Muna, Yucatán, C.P. 97840",
+"UNIVERSIDAD DE MUNDO MAYA": "Calle 51 por 50 y 48 #472 Col. Centro, C.P.97000, Mérida, Yucatán",
+"COBAY PLANTEL PETO": "Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",
+"PREPARATORIA 7": "Calle 12, 97149 Mérida, Yucatán",
+"PREPA ACANCEH": "Acanceh, 97380 112 Calle 25, 97380 Acanceh, Yucatán",
+"PREPA ABIERTA": "Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán",
+"PREPARATORIA LIBRE": "Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",
+"PREPA LIBRE SEP": "N/A",
+"PREPARATORIA ESTATAL No. 8": "C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",
+"PREPARATORIA ESTATAL CTM #3": "Calle 57A 744, 97160 Mérida",
+"PREPA 1": "en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán",
+"PREPARATORIA 11": "Calle 59-C LOTE 950, 97000 Mérida, Yucatán",
+"PREPARATORIA ESTATAL 3": "Calle 57A 744, 97160 Mérida",
+"PREPA 4 CANSAHCAB": "Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yucatán",
+"PREPARATORIA #5 AGUSTIN FRANCO VILLANUEVA": "Calle 67 por 50, 97000 Mérida, Yucatán",
+"PREPA 7": "Calle 12, 97149 Mérida, Yucatán",
+"PREPARATORIA NO. 8": "C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",
+"VICTOR MANUEL CERVERA PACHECO": "C. 12-D 2a, 97370 Kanasín, Yucatán",
+"PREPARATORIA ESTATAL 2": "Calle 20 Pedregales De Tanlum Mérida, Yucatán CP. 97210",
+"PREPARATORIA MEXICO": "C. 72 453, 97000 Mérida, Yucatán",
+"PREPARATORIA MIGUEL ANGEL": "Calle 5 Sur N, 97139 Mérida, Yucatán",
+"PREPARATORIA PROGRESO": "C. 44 145-7, 97320 Progreso, Yucatán",
+"PREPARATORIA DE TAHDZIBICHEN": "Calle Ninguno 0, Colonia Ninguno, Yaxcabá, Yucatán. Cp. 97927",
+"PREPARATORIA YUCATAN": "Calle 61 # 551 x 70 y 72, Col. Centro, CP. 97000 Mérida, Yucatán",
+"PREPARATORIA 1 UADY": "en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán",
+"PREPARATORIA 3 UADY": "Calle 185 sin número X 90-B y 92 San Luis Sur y Avenida 86 Mérida, Yucatán",
+"PREPARATORIA 4": "En Calle 20 S/N, Colonia Ninguno, Cansahcab, Yucatán",
+"PREPARATORIA ESTATAL No. 9": "YUC 31, 97880 Oxkutzcab, Yucatán",
+"PRONACE": "Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",
+"REPUBLICA DE MEXICO": "Calle 72 Av. Reforma #453 x 51 y 53, Centro, CP 97000, Mérida, Yucatán",
+"RICARDO FLORES MAGÓN": "Calle 21 102B x 20 y 22, 97400 Telchac, Yucatán",
+"ROGERS HALL": "Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",
+"SERAPIO RENDÓN": "Calle 46-b Serapio Rendon, Mérida, Yucatán CP. 97285",
+"SALVADOR ALVARADO": "Cll 20 302, 97205 Mérida, Yucatán",
+"COLEGIO SAN AGUSTIN": "C. 58 480B, 97000 Mérida, Yucatán",
+"SIGLO XXI": "Calle 21 216, Mérida, Yucatán",
+"SERVICIO NACIONAL DE BACHILLERATO EN LINEA": "N/A",
+"COBAY TEKAX": "Calle 55 s/n x 78 y 84 Fraccionamiento Vivah, 97970 Tekax, Yucatán",
+"UNIVERSIDAD TECMILENIO": "Calle 53 Diagonal S/N, 97302 Mérida, Yucatán",
+"TELEBACHILLERATO": "C. 22 148, 97348 Yaxkukul, Yucatán",
+"JOSE DOLORES RODRIGUEZ TICUL": "Calle 18 No. 175, 97860 Ticul, Yucatán",
+"COBAY TIXPEUAL": "C. 25 entre 17 y 19, 97386 Tixpéhual, Yucatán",
+"UNACAR - CAMPUS II": "Av Concordia, 24180 Carmen, Campeche",
+"UABIC": "Calle 185 20, 97315 Mérida, Yucatán",
+"PREPARATORIA 2 UADY": "Calle 59C 204, 97238 Mérida, Yucatán",
+"SAN AGUSTIN": "C. 58 480B, 97000 Mérida, Yucatán",
+"UNIVERSIDAD MEXICO AMERICANA DEL NORTE A.C.": "Primera s/n, Col. Círculo, CP 88640, Reynosa, Tamaulipas, México",
+"UPAV VERACRUZ": "CALLE GUILLERMO PRIETO 8, XALAPA VERACRUZ DE IGNACIO DE LA LLAVE",
+"UPP PREPA": "Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán",
+"UVM": "Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán",
+"ESCUELA NACIONAL PREPARATORIA 4 VIDAL CASTAÑEDA Y": "Av Observatorio 170-P. B, Observatorio, Miguel Hidalgo, 11860 Ciudad de México",
+}
 
 os.makedirs("csv_vizcaya", exist_ok=True)
 
@@ -497,12 +492,12 @@ CLAVES_CARRERA = {
         "Mixto/Sabatino": "20"
     },
 
-    "Ciencias de la Educación": {
+    "Educación": {
         "Escolarizada": "02",
         "Mixto/Sabatino": "31"
     },
 
-    "Contaduría Pública": {
+    "Contabilidad": {
         "Escolarizada": "12",
         "Mixto/Sabatino": "32"
     },
@@ -618,8 +613,8 @@ for anio, total in ANIOS.items():
 
             # ---------- ESCUELA ----------
             escuela = random.choice(ESCUELAS)
-            ubicacion_escuela = UBICACIONES_ESCUELA.get(escuela, "")
-
+            ubicacion_escuela = UBICACIONES_ESCUELA[escuela]
+            
             writer.writerow([
                 matricula_sucia(anio, clave_carrera),
                 random.choice(SEXO_SUCIO),

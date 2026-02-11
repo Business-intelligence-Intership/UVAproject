@@ -1,0 +1,645 @@
+matricula,sexo,nacionalidad,lugar_nacimiento,fecha_nacimiento,tipo_ingreso,colonia,escuela_procedencia,modalidad,ubicacion_escuela_procedencia,nivel,carrera,turno,ciclo
+1812039,M,MX,San Lorenzo,02-05-1996,Repetidor,Wallis,INSTITUTO FELTON,Escolarizada,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",Licenciatura,Contaduría Pública Escolar,MAT,Enero-Abril
+1812015,Masculino,Mexicana,Michoacán,2004-07-29,Repetidor,Xoclán,MEXICANA DEL MAYAB,Escolarizada,"Calle 61 322, 97169 Mérida, Yucatán",LIC,Contaduría Pública Escolar,Vespertino,Mayo-Agosto
+1817019,Fem,MX,Aguascalientes,03-20-2000,Reinscrito,Altabrisa,PREPARATORIA MEXICO,Escolarizada,"C. 72 453, 97000 Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1835020,Fem,México,Monterrey,2001-05-14,Equivalencia,Temozón Norte,ACUERDO 286,Mixto/Sabatino,NA,LIC,Derecho MIX,MAT,Enero-Abril
+1810007,H,mexicano,Tabasco,05/09/2000,Reinscrito,Juan Pablo II,BACHILLERATO EN LINEA UADY,Escolarizada,NA,Licenciatura,Fisioterapia Escolar,VESP,Septiembre-Diciembre
+1808032,Masculino,mexicano,Yucatán,2003-06-04,Repetidor,Mulsay,PREPARATORIA MUNA,Escolarizada,"Calle 19, colonia Ninguno, municipio Muna, Yucatán, C.P. 97840",Licenciatura,Derecho Escolar,MAT,Septiembre-Diciembre
+1817047,M,Mexicana,Campeche,05/05/2000,Reinscrito,Temozón Norte,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1817013,M,MX,Chiapas,1995-07-28,Equivalencia,Chuburná de Hidalgo,CETIS 112,Escolarizada,"C. 55 No. 728, Pacabtún, 97160 Mérida, Yuc.",LIC,Odontología,MAT,Agosto-Diciembre
+1809026,Fem,MX,Chihuahua,14/06/2001,Nuevo,México,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolarizada,"C. 50 454, Centro, 97000 Mérida, Yuc.",LIC,Enfermería Escolar,MAT,Enero-Abril
+1817041,M,mexicano,Puebla,1996-08-15,Nuevo,Salvador Alvarado Sur,PRONACE,Escolarizada,"Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",LIC,Odontología,Vespertino,Enero-Junio
+1835002,H,México,Campeche,2004-12-02,Repetidor,Altabrisa,PREPA ABIERTA,Mixto/Sabatino,"Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán",LIC,Derecho MIX,Vespertino,Mayo-Agosto
+1802046,Fem,MX,Tamaulipas,10-12-1997,Repetidor,México,CEDART ERMILO ABREU GÓMEZ,Escolarizada,"Calle 21, Periférico Poniente, Colonia San Juan Bautista, 97200 Mérida, Yuc.",LIC,Ciencias De La Educación Escolar,Matutino,Enero-Abril
+1817016,M,México,Sinaloa,02/03/2002,Repetidor,Itzimná,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolarizada,"Calle 59 No. 729, Fraccionamiento Pacabtún, Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817030,Femenino,mexicano,Puebla,1998-04-12,Equivalencia,Centro,PREPARATORIA MEXICO,Escolarizada,"C. 72 453, 97000 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817003,Masculino,mexicano,Campeche,2005-10-18,Nuevo,Ciudad Caucel,INSTITUTO FELTON,Escolarizada,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1812005,Fem,mexicano,Ciudad de Mexico,20/12/2000,Nuevo,Xoclán,PREPA LIBRE SEP,Escolarizada,N/A,LIC,Contaduría Pública Escolar,VESP,Enero-Abril
+1833039,F,México,Chiapas,29/10/1999,Equivalencia,Salvador Alvarado Sur,CBTIS 120 MÉRIDA,Mixto/Sabatino,"C. 13 101 por 60, Loma Bonita, 97205 Mérida, Yuc.",Licenciatura,Diseño de Modas MIX,VESP,Mayo-Agosto
+1817012,Femenino,México,Chiapas,20/06/1998,Reinscrito,San Antonio Kaua,CBTIS 28 COZUMEL,Escolarizada,"Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.",LIC,Odontología,MAT,Enero-Junio
+1817024,F,mexicano,Aguascalientes,08-26-1995,Repetidor,Mulsay,COBAY TIXPEUAL,Escolarizada,"C. 25 entre 17 y 19, 97386 Tixpéhual, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1817040,H,México,Baja California,03/10/1997,Equivalencia,Pensiones,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolarizada,"Calle 96 653 X 51A y 59, Ciudad Caucel, 97300 Mérida, Yucatán",LIC,Odontología,Matutino,Agosto-Diciembre
+1801007,Masculino,México,Michoacán,1996-04-15,Equivalencia,Centro,UNIVERSIDAD MEXICO AMERICANA DEL NORTE A.C.,Escolarizada,"Primera s/n, Col. Círculo, CP 88640, Reynosa, Tamaulipas, México",LIC,Arquitectura Escolar,VESP,Enero-Abril
+1827021,Femenino,México,Campeche,06-29-2000,Nuevo,Altabrisa,CETESC,Mixto/Sabatino,"C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.",Licenciatura,Administración de Empresas MIX,Matutino,Enero-Abril
+1814032,M,Mexicana,Veracruz,2002-05-29,Nuevo,Emiliano Zapata Sur,CENTRO EDUCATIVO SIGLO XXI,Escolarizada,"C. 21 216, entre 60 Y 62, Zona Dorada II, 97226 Mérida, Yuc.",Licenciatura,Administración de Empresas Escolar,VESP,Enero-Abril
+1817004,Fem,mexicano,Aguascalientes,11-29-1996,Nuevo,Las Américas,UPP PREPA,Escolarizada,"Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1837015,F,mexicano,Veracruz,1999-02-08,Repetidor,Brisas,COBAY TICUL,Mixto/Sabatino,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",ING,Ingeniería Civil MIX,Vespertino,Enero-Abril
+1817034,M,México,San Lorenzo,03-04-1998,Reinscrito,San Ramón Sur,CBTA IZAMAL 185,Escolarizada,"C. 30 102, Guadalupe, 97540 Izamal, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817049,M,mexicano,Veracruz,2001-07-02,Reinscrito,Juan Pablo II,COBAY ABALA,Escolarizada,"Unnamed Road, 97825 Abalá, Yuc.",LIC,Odontología,Vespertino,Enero-Junio
+1817040,Masculino,mexicano,Veracruz,1996-05-13,Reinscrito,Montecristo,COBAY PLANTEL PETO,Escolarizada,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1802005,Femenino,México,Quintana Roo,12/08/1998,Reinscrito,México,COBAY CHENKU,Escolarizada,"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",LIC,Ciencias De La Educación Escolar,MAT,Mayo-Agosto
+1817031,Masculino,MX,Tamaulipas,09-19-2000,Nuevo,Altabrisa,UPAV VERACRUZ,Escolarizada,"CALLE GUILLERMO PRIETO 8, XALAPA VERACRUZ DE IGNACIO DE LA LLAVE",Licenciatura,Odontología,MAT,Enero-Junio
+1827011,Femenino,mexicano,Chihuahua,08/05/2001,Nuevo,San Ramón Norte,CBTIS 28 COZUMEL,Mixto/Sabatino,"Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.",LIC,Administración de Empresas MIX,Matutino,Mayo-Agosto
+1827041,Masculino,MX,Puebla,09-06-1998,Repetidor,Montes de Amé,COBAY TICUL,Mixto/Sabatino,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",LIC,Administración de Empresas MIX,MAT,Mayo-Agosto
+1825040,Masculino,mexicano,Chihuahua,09/06/1999,Equivalencia,Ciudad Caucel,ACUERDO 286,Mixto/Sabatino,NA,LIC,Nutrición MIX,Matutino,Mayo-Agosto
+1806047,Masculino,Mexicana,Yucatán,21/08/2004,Repetidor,Miguel Alemán,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolarizada,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",Licenciatura,Diseño de Modas Escolar,Matutino,Mayo-Agosto
+1817031,H,MX,Monterrey,18/03/1998,Equivalencia,Chuburná de Hidalgo,PREPARATORIA 2 UADY,Escolarizada,"Calle 59C 204, 97238 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1827042,Fem,Mexicana,Quintana Roo,26/05/2002,Equivalencia,Nueva Kukulcán,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Mixto/Sabatino,"Calle 59 No. 729, Fraccionamiento Pacabtún, Mérida, Yucatán",LIC,Administración de Empresas MIX,VESP,Mayo-Agosto
+1810045,H,MX,Tamaulipas,01-19-2000,Repetidor,Pensiones,COBAY PROGRESO,Escolarizada,"C. 37 entre 72 y 74, Centro, 97320 Progreso, Yuc.",LIC,Fisioterapia Escolar,MAT,Septiembre-Diciembre
+1833007,H,MX,Puebla,11-05-2001,Reinscrito,Francisco de Montejo,COLEGIO SAN AGUSTIN,Mixto/Sabatino,"C. 58 480B, 97000 Mérida, Yucatán",Licenciatura,Diseño de Modas MIX,Vespertino,Septiembre-Diciembre
+1808010,Fem,Mexicana,Yucatán,10/02/2005,Nuevo,Temozón Norte,CBTIS 126 CAMPECHE,Escolarizada,"24902, Calle 22-A 4100, Fátima, 24902 Calkiní, Camp.",Licenciatura,Derecho Escolar,MAT,Mayo-Agosto
+1810026,Femenino,Mexicana,San Lorenzo,1997-11-09,Reinscrito,Ciudad Caucel,FRANCISCO REPETO MILAN,Escolarizada,"Calle 78 541, Col. Centro, CP 97000, Mérida, Yucatán",Licenciatura,Fisioterapia Escolar,Vespertino,Mayo-Agosto
+1832010,H,México,Puebla,1997-05-20,Repetidor,Emiliano Zapata Sur,COLEGIO BACHILLERES TABASCO,Mixto/Sabatino,"Av. Paseo La Choca 100, Multiochenta, 86085 Villahermosa, Tab.",Licenciatura,Contaduría Pública MIX,Vespertino,Enero-Abril
+1817037,H,Mexicana,Tamaulipas,04-05-2002,Equivalencia,San Ramón Sur,CONRADO MENENDEZ DIAZ,Escolarizada,"Av Fidel Velázquez 849, 97169 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817018,Masculino,MX,Tamaulipas,25/04/1997,Reinscrito,Miguel Alemán,"COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO",Escolarizada,"Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico",LIC,Odontología,Matutino,Enero-Junio
+1817049,M,México,Campeche,02/07/2001,Equivalencia,San Antonio Kaua,COLEGIO DE BACHILLERES No. 8 TABASCO,Escolarizada,"Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1828019,H,Mexicana,Baja California,1996-02-26,Reinscrito,Altabrisa,GONZALO CAMARA ZAVALA,Mixto/Sabatino,"Calle 60 602, Col. Centro, CP 97000, Mérida, Yucatán",LIC,Psicología MIX,VESP,Mayo-Agosto
+1809016,M,México,Chiapas,2001-02-03,Repetidor,Campestre,UNIVERSIDAD MEXICO AMERICANA DEL NORTE A.C.,Escolarizada,"Primera s/n, Col. Círculo, CP 88640, Reynosa, Tamaulipas, México",Licenciatura,Enfermería Escolar,MAT,Septiembre-Diciembre
+1817039,H,mexicano,Aguascalientes,12-19-1995,Equivalencia,Campestre,COBAY YAXCABA,Escolarizada,"C. 22, 97920 Yaxcabá, Yuc.",Licenciatura,Odontología,Vespertino,Enero-Junio
+1804017,F,MX,Michoacán,05/06/1996,Equivalencia,San Ramón Norte,COREM MERIDA,Escolarizada,"C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.",Licenciatura,Gastronomía Escolar,Matutino,Septiembre-Diciembre
+1832042,Fem,MX,San Lorenzo,21/11/1995,Nuevo,San Ramón Sur,COBAY VALLADOLID,Mixto/Sabatino,"Calle 32 S/N, Fernando Novelo, 97780 Valladolid, Yucatan",LIC,Contaduría Pública MIX,Matutino,Septiembre-Diciembre
+1817020,Masculino,México,Tabasco,06-24-1996,Nuevo,Brisas,VICTOR J. MANZANILLA J. - CANSAHCAB,Escolarizada,"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817002,F,mexicano,Campeche,25/04/2002,Repetidor,Altabrisa,CBTIS 126 CAMPECHE,Escolarizada,"24902, Calle 22-A 4100, Fátima, 24902 Calkiní, Camp.",LIC,Odontología,MAT,Enero-Junio
+1817027,H,Mexicana,Chiapas,02-27-1996,Nuevo,Dzityá,CBTIS 111 CANCUN,Escolarizada,"Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1813034,Fem,MX,Tamaulipas,2002-02-28,Equivalencia,Dzityá,COBAY TZUCACAB,Escolarizada,"C. 30, 97960 Tzucacab, Yuc.",Licenciatura,Nutrición Escolar,MAT,Septiembre-Diciembre
+1815018,Femenino,MX,Sinaloa,1999-08-23,Nuevo,Brisas,UPP PREPA,Escolarizada,"Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán",LIC,Psicología Escolar,VESP,Enero-Abril
+1816001,Masculino,Mexicana,Chiapas,1997-07-28,Equivalencia,México,ROGERS HALL,Escolarizada,"Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",LIC,Criminología Escolar,MAT,Septiembre-Diciembre
+1809013,H,México,Puebla,12-29-1996,Equivalencia,Dzityá,COLEGIO DE BACHILLERES PLANTEL JMM,Escolarizada,"Av. Miguel Hidalgo Y Costilla S/N Colonia Guadalupe, C.P 78890, José María Morelos, Quintana Roo",LIC,Enfermería Escolar,Matutino,Enero-Abril
+1815030,Fem,mexicano,Aguascalientes,05/12/2004,Reinscrito,Las Américas,SALVADOR ALVARADO,Escolarizada,"Cll 20 302, 97205 Mérida, Yucatán",LIC,Psicología Escolar,Vespertino,Enero-Abril
+1817040,Femenino,MX,Quintana Roo,29/04/2005,Reinscrito,Ciudad Caucel,UNIVERSIDAD AUTONOMA DEL CARMEN,Escolarizada,"C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",LIC,Odontología,Matutino,Agosto-Diciembre
+1817010,H,México,Michoacán,08-25-2000,Nuevo,Salvador Alvarado Sur,CETIS 134,Escolarizada,"Av. Lomas Verdes 2, Rancho Viejo, 91303 Banderilla, Ver.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1836036,F,México,Campeche,2002-01-30,Nuevo,Mulsay,MEXICANA DEL MAYAB,Mixto/Sabatino,"Calle 61 322, 97169 Mérida, Yucatán",LIC,Gastronomía MIX,Matutino,Septiembre-Diciembre
+1828009,Masculino,México,Tabasco,12-30-2005,Repetidor,México,COBAY CUZAMA,Mixto/Sabatino,"Km 2 carretera Cuzama Homun, Cuzamá, Yucatán",LIC,Psicología MIX,Matutino,Enero-Abril
+1817044,Femenino,MX,Sinaloa,04-29-1999,Nuevo,Mulsay,MAHATMA GANDHI,Escolarizada,"Calle 25B x 10 Colonia Lázaro Cárdenas 421, 97219 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817033,Fem,México,Monterrey,1995-01-20,Equivalencia,Temozón Norte,FRANCISCO REPETO MILAN,Escolarizada,"Calle 78 541, Col. Centro, CP 97000, Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1817029,H,Mexicana,Tabasco,01/05/2000,Repetidor,Altabrisa,FRANCISCO DE MONTEJO Y LEON,Escolarizada,"Calle 47 No. 514-A x 62 y 64 Col. Centro C.P. 97000, Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Enero-Junio
+1817035,F,Mexicana,Michoacán,1995-04-04,Equivalencia,Salvador Alvarado Sur,PREPARATORIA ESTATAL CTM #3,Escolarizada,"Calle 57A 744, 97160 Mérida",LIC,Odontología,Vespertino,Agosto-Diciembre
+1820008,Femenino,México,Puebla,07-03-2005,Nuevo,Jardines del Norte,ALIANZA DE CAMIONEROS,Mixto/Sabatino,"C. 64 602, entre 75, 97000 Mérida, Yucatán",Licenciatura,Arquitectura MIX,MAT,Enero-Abril
+1817014,H,MX,Veracruz,1995-01-31,Reinscrito,Montecristo,INSTITUTO COMERCIAL BANCARIO,Escolarizada,"Calle 62 No. 373, Colonia Centro, Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1816015,Femenino,MX,Yucatán,26/05/2000,Nuevo,Temozón Norte,EMSAD 07 EL DESENGAÑO,Escolarizada,"Carretera Justo Sierra-El Desengaño Candelaria, Campeche",LIC,Criminología Escolar,MAT,Enero-Abril
+1817042,F,México,Puebla,1997-07-12,Reinscrito,Pensiones,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolarizada,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",LIC,Odontología,MAT,Enero-Junio
+1817026,M,MX,San Lorenzo,12-12-2003,Repetidor,Brisas,LA SALLE BOULLEWARES,Escolarizada,"Colina de la Rumorosa no.70 Fracc. Boulevares, Naucalpan, Estado de México.",Licenciatura,Odontología,Matutino,Enero-Junio
+1837023,Femenino,MX,Quintana Roo,10/02/1996,Reinscrito,Juan Pablo II,PREPARATORIA YUCATAN,Mixto/Sabatino,"Calle 61 # 551 x 70 y 72, Col. Centro, CP. 97000 Mérida, Yucatán",Ingeniería,Ingeniería Civil MIX,VESP,Enero-Abril
+1817002,M,Mexicana,Monterrey,1996-10-14,Repetidor,Montecristo,ALIANZ COMUNIDAD ESTUDIANTIL,Escolarizada,"Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.",Licenciatura,Odontología,MAT,Enero-Junio
+1817038,Masculino,mexicano,Tabasco,10-01-1999,Repetidor,Francisco de Montejo,IBCEY,Escolarizada,"Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1820038,M,México,Baja California,17/05/1997,Repetidor,Campestre,COLEGIO SAN AGUSTIN,Mixto/Sabatino,"C. 58 480B, 97000 Mérida, Yucatán",Licenciatura,Arquitectura MIX,Vespertino,Mayo-Agosto
+1828004,F,mexicano,Quintana Roo,07-29-2003,Repetidor,San Antonio Kaua,MAHATMA GANDHI,Mixto/Sabatino,"Calle 25B x 10 Colonia Lázaro Cárdenas 421, 97219 Mérida, Yucatán",LIC,Psicología MIX,MAT,Mayo-Agosto
+1833016,F,Mexicana,Sinaloa,07-03-2004,Equivalencia,San Ramón Sur,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Mixto/Sabatino,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",Licenciatura,Diseño de Modas MIX,Matutino,Enero-Abril
+1835036,F,MX,Tamaulipas,03-31-2001,Repetidor,Salvador Alvarado Sur,CBTIS 80,Mixto/Sabatino,"Calle 27 369, Edesio Carrillo Puerto, 97430 Motul de Carrillo, 97430",Licenciatura,Derecho MIX,Vespertino,Mayo-Agosto
+1817025,Femenino,México,Chihuahua,03-18-2003,Equivalencia,Wallis,COLEGIO SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1808029,H,Mexicana,Tabasco,10-20-2005,Equivalencia,Brisas,VICTOR MANUEL CERVERA PACHECO,Escolarizada,"C. 12-D 2a, 97370 Kanasín, Yucatán",Licenciatura,Derecho Escolar,Matutino,Enero-Abril
+1817033,Masculino,México,Monterrey,1995-07-25,Nuevo,Francisco de Montejo,CARLOS CASTILLO PERAZA,Escolarizada,"Calle 51, Francisco de Montejo, Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817040,M,mexicano,Veracruz,05-21-2000,Equivalencia,Chuburná de Hidalgo,PREPARATORIA ESTATAL No. 8,Escolarizada,"C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817003,Masculino,Mexicana,Monterrey,1995-03-29,Nuevo,Pensiones,LA SALLE BOULLEWARES,Escolarizada,"Colina de la Rumorosa no.70 Fracc. Boulevares, Naucalpan, Estado de México.",Licenciatura,Odontología,Matutino,Enero-Junio
+1827009,F,MX,Aguascalientes,1996-08-17,Nuevo,Xoclán,COBAY TICUL,Mixto/Sabatino,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",LIC,Administración de Empresas MIX,Matutino,Enero-Abril
+1808025,Fem,Mexicana,Quintana Roo,1997-09-29,Reinscrito,Mulsay,CENTRO ESCOLAR ROCHAVI,Escolarizada,"C. 76 11-A'-1, Residencial Pensiones VI, 97217 Mérida, Yuc.",Licenciatura,Derecho Escolar,VESP,Enero-Abril
+1817045,M,mexicano,Tabasco,08-04-1996,Reinscrito,García Ginerés,ALIANZA DE CAMIONEROS,Escolarizada,"C. 64 602, entre 75, 97000 Mérida, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1817016,Femenino,mexicano,Tamaulipas,03-29-1999,Repetidor,Emiliano Zapata Sur,COBAY KOMCHEN,Escolarizada,"Calle 14 por 31, Komchen, 97300 Komchén, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1808037,F,Mexicana,Monterrey,1996-04-07,Repetidor,Jardines del Norte,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",LIC,Derecho Escolar,MAT,Septiembre-Diciembre
+1817049,Masculino,mexicano,Monterrey,06-30-1996,Equivalencia,México,PRONACE,Escolarizada,"Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817016,F,MX,Tabasco,19/10/2004,Equivalencia,Montecristo,COBACH COZUMEL,Escolarizada,"50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.",LIC,Odontología,MAT,Enero-Junio
+1817024,H,México,Quintana Roo,05-02-2002,Equivalencia,Salvador Alvarado Sur,UVM,Escolarizada,"Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817044,H,México,Puebla,14/09/2002,Reinscrito,Altabrisa,CEC Y TES,Escolarizada,"Jardines del Nte., 97139 Mérida, Yuc.",Licenciatura,Odontología,VESP,Enero-Junio
+1838019,Fem,mexicano,Quintana Roo,04/11/1996,Equivalencia,Centro,PREPARATORIA ESTATAL CTM #3,Mixto/Sabatino,"Calle 57A 744, 97160 Mérida",Ingeniería,Ingeniería De Procesos De Manufactura MIX,Matutino,Mayo-Agosto
+1817038,Masculino,México,Chihuahua,04-29-1999,Reinscrito,Las Américas,COBAY TEABO,Escolarizada,"Calle 23 57, 97910 Teabo, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817016,Fem,mexicano,Veracruz,09-21-1998,Repetidor,Jardines del Norte,ROGERS HALL,Escolarizada,"Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1833003,F,MX,Tabasco,01-10-1999,Equivalencia,Brisas,INSTITUTO COMERCIAL BANCARIO,Mixto/Sabatino,"Calle 62 No. 373, Colonia Centro, Mérida, Yucatán",Licenciatura,Diseño de Modas MIX,Matutino,Septiembre-Diciembre
+1817003,H,Mexicana,Puebla,18/05/1998,Repetidor,Brisas,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolarizada,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",LIC,Odontología,Matutino,Enero-Junio
+1817016,Fem,mexicano,Monterrey,1995-09-01,Equivalencia,Salvador Alvarado Sur,PREPA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1837025,M,mexicano,Baja California,2003-02-15,Equivalencia,Juan Pablo II,CONRADO MENENDEZ DIAZ,Mixto/Sabatino,"Av Fidel Velázquez 849, 97169 Mérida, Yucatán",ING,Ingeniería Civil MIX,Matutino,Enero-Abril
+1812021,F,México,Yucatán,1995-02-06,Equivalencia,Ciudad Caucel,GONZALO CAMARA ZAVALA,Escolarizada,"Calle 60 602, Col. Centro, CP 97000, Mérida, Yucatán",Licenciatura,Contaduría Pública Escolar,MAT,Mayo-Agosto
+1832003,Femenino,México,Michoacán,1996-05-31,Equivalencia,Las Américas,PRONACE,Mixto/Sabatino,"Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",Licenciatura,Contaduría Pública MIX,VESP,Septiembre-Diciembre
+1816044,Masculino,México,San Lorenzo,09-02-2005,Nuevo,Brisas,FELIPE ESCALANTE RUZ - BRISAS,Escolarizada,"97115 Mérida, Yucatán·",Licenciatura,Criminología Escolar,VESP,Septiembre-Diciembre
+1817014,M,México,Chihuahua,1998-10-28,Reinscrito,Mulsay,INSTITUTO PATRIA,Escolarizada,"Periférico Norte km. 2.5, San Ramón Nte, 97117 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1801032,H,México,Yucatán,10-07-1997,Reinscrito,Las Américas,CECYTE QUINTANA ROO,Escolarizada,"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",Licenciatura,Arquitectura Escolar,Vespertino,Septiembre-Diciembre
+1817026,F,México,Yucatán,08-07-2002,Repetidor,Wallis,PREPARATORIA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1836024,F,MX,Chihuahua,01-26-2004,Repetidor,Miguel Alemán,COBAY HUNUCMA,Mixto/Sabatino,"Calle 26 No. Sn, Colonia Itzimna, Hunucmá, Yucatán",LIC,Gastronomía MIX,Vespertino,Mayo-Agosto
+1828032,Femenino,Mexicana,Tabasco,09/03/1995,Repetidor,Brisas,BACHILLERATO COMUNITARIO SAMAHIL,Mixto/Sabatino,"97810 Samahil, Yuc.",LIC,Psicología MIX,Matutino,Enero-Abril
+1817023,M,México,Ciudad de Mexico,23/04/1997,Equivalencia,San Antonio Kaua,PREPARATORIA JUVENTUS,Escolarizada,"Calle 65 543.A, Parque Santiago, Centro, 97000 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1817022,Fem,Mexicana,Aguascalientes,08-04-1998,Nuevo,Nueva Kukulcán,JOSE MARIA MORELOS Y PAVON,Escolarizada,"Calle 15 Poniente 109, 97190 Mérida, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817001,H,Mexicana,Puebla,10-29-1999,Repetidor,San Ramón Norte,COBAY KANASIN,Escolarizada,"Calle 14 S/N x 33, 97370 Kanasín, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817009,Masculino,mexicano,Monterrey,27/07/1997,Equivalencia,Mayapán,DAVID ALFARO SIQUEIROS MIRAFLORES,Escolarizada,"Calle 15 230, Col. Miraflores, CP 97179, Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1838044,M,Mexicana,Tabasco,1997-04-22,Equivalencia,Xoclán,ESCUELA NACIONAL PREPARATORIA 4 VIDAL CASTAÑEDA Y,Mixto/Sabatino,"Av Observatorio 170-P. B, Observatorio, Miguel Hidalgo, 11860 Ciudad de México",ING,Ingeniería De Procesos De Manufactura MIX,VESP,Enero-Abril
+1817034,Masculino,MX,Tamaulipas,16/05/1995,Equivalencia,Juan Pablo II,IBCEY,Escolarizada,"Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1817020,M,mexicano,Monterrey,09/09/1995,Repetidor,Miguel Alemán,COBAY KANASIN,Escolarizada,"Calle 14 S/N x 33, 97370 Kanasín, Yucatán",LIC,Odontología,Matutino,Agosto-Diciembre
+1825035,M,mexicano,Yucatán,01-05-2000,Reinscrito,Montes de Amé,BACHILLERES AMERICAS,Mixto/Sabatino,"Boulevard Benito Juárez 1404, Monclova, Coahuila de Zaragoza.",Licenciatura,Nutrición MIX,MAT,Mayo-Agosto
+1817015,Fem,México,Tamaulipas,04/06/1999,Repetidor,Francisco de Montejo,CENTRO ESCOLAR ROCHAVI,Escolarizada,"C. 76 11-A'-1, Residencial Pensiones VI, 97217 Mérida, Yuc.",Licenciatura,Odontología,Vespertino,Enero-Junio
+1835010,Fem,Mexicana,Canada,1996-07-14,Repetidor,San Antonio Kaua,COBAY TICUL,Mixto/Sabatino,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",LIC,Derecho MIX,MAT,Mayo-Agosto
+1804017,Femenino,mexicano,Canada,2004-07-26,Repetidor,Brisas,CBTIS 28 COZUMEL,Escolarizada,"Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.",LIC,Gastronomía Escolar,Vespertino,Septiembre-Diciembre
+1817037,F,MX,San Lorenzo,08-17-2003,Repetidor,Xoclán,COBAY PLANTEL PETO,Escolarizada,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1809016,H,mexicano,Chihuahua,10-18-1996,Repetidor,Centro,COBAY KANASIN,Escolarizada,"Calle 14 S/N x 33, 97370 Kanasín, Yucatán",LIC,Enfermería Escolar,MAT,Septiembre-Diciembre
+1817029,Masculino,MX,Puebla,05-19-2005,Nuevo,Las Américas,COBAY CAUCEL,Escolarizada,"Hunucma - Caucel 56, Caucel, 97314 Caucel, Yuc.",LIC,Odontología,Matutino,Enero-Junio
+1804009,F,Mexicana,Campeche,14/01/2005,Reinscrito,Francisco de Montejo,PREPARATORIA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",LIC,Gastronomía Escolar,MAT,Enero-Abril
+1817032,F,Mexicana,Quintana Roo,10-11-1995,Repetidor,Emiliano Zapata Sur,PREPARATORIA 2 UADY,Escolarizada,"Calle 59C 204, 97238 Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817046,Femenino,MX,San Lorenzo,02-16-1995,Equivalencia,San Antonio Kaua,IBCEY,Escolarizada,"Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1835015,Masculino,México,Veracruz,08-16-1997,Repetidor,Jardines del Norte,CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO,Mixto/Sabatino,"97315 Mérida, Yucatán",LIC,Derecho MIX,Matutino,Enero-Abril
+1817023,Fem,mexicano,Chiapas,21/04/1998,Reinscrito,Jardines del Norte,CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17,Escolarizada,"Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1810027,F,mexicano,Baja California,19/11/1999,Equivalencia,García Ginerés,CARLOS CASTILLO PERAZA,Escolarizada,"Calle 51, Francisco de Montejo, Mérida, Yucatán",Licenciatura,Fisioterapia Escolar,MAT,Mayo-Agosto
+1817030,F,mexicano,Aguascalientes,26/10/1995,Nuevo,García Ginerés,CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO,Escolarizada,"97315 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1817005,M,México,Yucatán,18/02/2003,Equivalencia,Brisas,CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO,Escolarizada,"97315 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1837034,H,Mexicana,Quintana Roo,2005-04-20,Repetidor,Salvador Alvarado Sur,INEVE,Mixto/Sabatino,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",ING,Ingeniería Civil MIX,MAT,Enero-Abril
+1817015,M,MX,Tamaulipas,09-23-1997,Equivalencia,Jardines del Norte,PREPARATORIA ESTATAL NUM. 10,Escolarizada,"Calle 59 Num. Ext. 821 Balcones Iii, Ciudad Caucel , Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1836020,F,Mexicana,Puebla,2003-02-02,Reinscrito,Ciudad Caucel,COBAY BUCTOZTZ,Mixto/Sabatino,"Calle 4, 21 Y 25, C. 4 SN, Centro, 97620 Buctzotz, Yucatán",Licenciatura,Gastronomía MIX,Matutino,Enero-Abril
+1817031,H,Mexicana,Tamaulipas,09-01-1997,Equivalencia,Nueva Kukulcán,INSTITUTO FELTON,Escolarizada,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",LIC,Odontología,VESP,Enero-Junio
+1815031,F,mexicano,Quintana Roo,03/03/2002,Reinscrito,Dolores Otero,CBTA 13 XMATKUIL,Escolarizada,"Ex-Hacienda Xmatkuil A.P. 970 Xmatkuil, 97139 Mérida, Yuc.",LIC,Psicología Escolar,MAT,Enero-Abril
+1817024,Masculino,MX,Quintana Roo,12-24-2001,Reinscrito,Temozón Norte,COBAY ACANCEH,Escolarizada,"21 SN, Colonia las Palmas, Acanceh, Yucatán, México",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1808003,H,MX,Michoacán,02-23-2000,Repetidor,San Ramón Sur,COLEGIO EDUCACION Y PATRIA,Escolarizada,"Calle 64 x 57 y 59 No.485, Centro, 97000 Mérida, Yucatán",LIC,Derecho Escolar,VESP,Mayo-Agosto
+1808004,H,mexicano,Sinaloa,14/03/1998,Reinscrito,San Ramón Sur,COBAY SEYE,Escolarizada,"Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",LIC,Derecho Escolar,Vespertino,Mayo-Agosto
+1817033,Femenino,Mexicana,Quintana Roo,11-05-1996,Repetidor,Nueva Kukulcán,PREPA 1,Escolarizada,"en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817028,Femenino,México,Tabasco,04/12/2005,Equivalencia,Brisas,PREPARATORIA LIBRE,Escolarizada,"Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",LIC,Odontología,Matutino,Enero-Junio
+1804005,Masculino,MX,Canada,1995-10-19,Repetidor,Francisco de Montejo,PREPARATORIA LAFAYETTE,Escolarizada,"Calle 35 No. Sn, Colonia Cuauhtemoc, Ciudad Del Carmen, Carmen, Campeche C.P. 24170",LIC,Gastronomía Escolar,Vespertino,Enero-Abril
+1817038,Fem,mexicano,Puebla,20/08/1997,Nuevo,Bojórquez,COLEGIO MANUEL SANCHEZ MARMOL,Escolarizada,"Carlos Alberto Madrazo 90, 86800 Teapa, Tabasco",LIC,Odontología,MAT,Agosto-Diciembre
+1817005,F,Mexicana,Aguascalientes,07-13-1999,Nuevo,Wallis,BACHILLERATO COMUNITARIO SAMAHIL,Escolarizada,"97810 Samahil, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1828046,Femenino,mexicano,Chiapas,30/06/2005,Equivalencia,Jardines del Norte,COBAY CELESTUN,Mixto/Sabatino,"C. 6 6480, Benito Juárez, 97367 Celestún, Yuc.",LIC,Psicología MIX,VESP,Septiembre-Diciembre
+1817001,F,MX,Campeche,12/08/1999,Nuevo,Montecristo,MANUEL CRESCENCIO REJON,Escolarizada,"C. 69 452, 97000 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1831041,F,Mexicana,Aguascalientes,06-12-2002,Repetidor,Miguel Alemán,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Mixto/Sabatino,"50 Avenida Sur, C. 27 Sur, San Miguel I, Cozumel, Q.R.",Licenciatura,Ciencias De La Educación MIX,Vespertino,Enero-Abril
+1806035,H,México,Veracruz,2000-03-02,Repetidor,Xoclán,VICTOR MANUEL CERVERA PACHECO,Escolarizada,"C. 12-D 2a, 97370 Kanasín, Yucatán",LIC,Diseño de Modas Escolar,Vespertino,Septiembre-Diciembre
+1820006,Masculino,México,Campeche,14/04/1997,Equivalencia,Centro,COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB,Mixto/Sabatino,"C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",Licenciatura,Arquitectura MIX,Vespertino,Septiembre-Diciembre
+1817045,F,México,Campeche,2000-12-17,Nuevo,Dzityá,CENTRO UNIVERSITARIO MONTEJO,Escolarizada,"Calle 60 No. 106 X 21 Y 23, 97205 Mérida, Yucatán ",LIC,Odontología,Vespertino,Agosto-Diciembre
+1838033,H,mexicano,Monterrey,1996-07-13,Nuevo,Ciudad Caucel,ALIANZA DE CAMIONEROS,Mixto/Sabatino,"C. 64 602, entre 75, 97000 Mérida, Yucatán",Ingeniería,Ingeniería De Procesos De Manufactura MIX,VESP,Mayo-Agosto
+1817024,Masculino,México,San Lorenzo,2004-05-12,Reinscrito,Bojórquez,CETESC,Escolarizada,"C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.",LIC,Odontología,Matutino,Enero-Junio
+1817034,Fem,México,Sinaloa,1997-04-28,Equivalencia,Dolores Otero,COBAY BACA,Escolarizada,"Calle 26 No. 107 Int. 0sn, Villa Baca, Baca, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1802036,Femenino,mexicano,Monterrey,02-01-1999,Nuevo,México,PREPARATORIA ESTATAL CTM #3,Escolarizada,"Calle 57A 744, 97160 Mérida",Licenciatura,Ciencias De La Educación Escolar,VESP,Mayo-Agosto
+1836023,H,MX,Veracruz,18/01/1997,Nuevo,Itzimná,COBAY 5,Mixto/Sabatino,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",LIC,Gastronomía MIX,Matutino,Mayo-Agosto
+1804021,M,México,Tabasco,09/04/1997,Repetidor,San Ramón Norte,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolarizada,"C. 50 454, Centro, 97000 Mérida, Yuc.",LIC,Gastronomía Escolar,Matutino,Enero-Abril
+1808028,Masculino,mexicano,Chihuahua,1995-08-12,Reinscrito,Altabrisa,PREPA ABIERTA,Escolarizada,"Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán",LIC,Derecho Escolar,Matutino,Mayo-Agosto
+1817043,Masculino,México,Tamaulipas,12/08/2001,Nuevo,Temozón Norte,COLEGIO MANUEL SANCHEZ MARMOL,Escolarizada,"Carlos Alberto Madrazo 90, 86800 Teapa, Tabasco",LIC,Odontología,VESP,Enero-Junio
+1817048,F,MX,Ciudad de Mexico,1997-10-18,Nuevo,Dzityá,JOSE VASCONCELOS,Escolarizada,"Calle 59, 615E X 80 y 82, 97000 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1835049,Masculino,México,Quintana Roo,22/03/1998,Reinscrito,Altabrisa,COBAY TECOH,Mixto/Sabatino,"Calle 28 Carretera Tecoh - Telchaquillo, Tecoh, Yucatán",Licenciatura,Derecho MIX,Vespertino,Septiembre-Diciembre
+1817002,F,mexicano,Sinaloa,17/12/2003,Reinscrito,García Ginerés,CECYTE,Escolarizada,"Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1828015,Femenino,mexicano,Aguascalientes,1995-06-15,Reinscrito,Centro,COBAY KINCHIL,Mixto/Sabatino,"Calle 18 SN, Kinchil, Yucatán",LIC,Psicología MIX,MAT,Enero-Abril
+1817004,Fem,Mexicana,San Lorenzo,25/08/1995,Reinscrito,Francisco de Montejo,COLEGIO DE BACHILLERES DE YUCATAN,Escolarizada,"Calle 34 No. 420 B x 35, Col. López Mateos, Mérida, Yucatán.",LIC,Odontología,Matutino,Enero-Junio
+1817004,Masculino,MX,Chihuahua,18/03/2002,Equivalencia,Dzityá,FELIPE ESCALANTE RUZ - BRISAS,Escolarizada,"97115 Mérida, Yucatán·",LIC,Odontología,Matutino,Enero-Junio
+1804027,Masculino,Mexicana,Monterrey,22/04/1999,Reinscrito,Jardines del Norte,CETIS 112,Escolarizada,"C. 55 No. 728, Pacabtún, 97160 Mérida, Yuc.",LIC,Gastronomía Escolar,VESP,Septiembre-Diciembre
+1817012,Femenino,MX,Michoacán,01-25-2000,Repetidor,Dolores Otero,COLEGIO DEL GOLFO DE MERIDA,Escolarizada,"Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1828040,Fem,México,Monterrey,18/05/1999,Repetidor,Itzimná,CECYTE,Mixto/Sabatino,"Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.",Licenciatura,Psicología MIX,VESP,Septiembre-Diciembre
+1833002,F,mexicano,Chiapas,11/06/1997,Nuevo,Salvador Alvarado Sur,RICARDO FLORES MAGÓN,Mixto/Sabatino,"Calle 21 102B x 20 y 22, 97400 Telchac, Yucatán",Licenciatura,Diseño de Modas MIX,MAT,Enero-Abril
+1808014,H,Mexicana,Michoacán,11/07/1995,Reinscrito,Centro,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolarizada,"Calle 59 No. 729, Fraccionamiento Pacabtún, Mérida, Yucatán",LIC,Derecho Escolar,VESP,Mayo-Agosto
+1820002,F,Mexicana,Michoacán,20/02/1998,Nuevo,San Antonio Kaua,PREPARATORIA 4,Mixto/Sabatino,"En Calle 20 S/N, Colonia Ninguno, Cansahcab, Yucatán",LIC,Arquitectura MIX,VESP,Septiembre-Diciembre
+1817005,M,MX,Michoacán,08/06/2004,Repetidor,Jardines del Norte,COLEGIO DEL GOLFO DE MERIDA,Escolarizada,"Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817050,Masculino,México,Chihuahua,04-07-1996,Nuevo,Miguel Alemán,INCI - ALEMAN,Escolarizada,"Calle 31-A 520, 97140 Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1825019,Masculino,México,Sinaloa,06-27-1995,Nuevo,Nueva Kukulcán,PREPARATORIA PROGRESO,Mixto/Sabatino,"C. 44 145-7, 97320 Progreso, Yucatán",LIC,Nutrición MIX,Vespertino,Mayo-Agosto
+1817023,Femenino,mexicano,Quintana Roo,02/04/1995,Equivalencia,Salvador Alvarado Sur,COBAY VALLADOLID,Escolarizada,"Calle 32 S/N, Fernando Novelo, 97780 Valladolid, Yucatan",LIC,Odontología,Vespertino,Enero-Junio
+1837037,Fem,MX,Sinaloa,2004-09-26,Equivalencia,San Antonio Kaua,MAHATMA GANDHI,Mixto/Sabatino,"Calle 25B x 10 Colonia Lázaro Cárdenas 421, 97219 Mérida, Yucatán",ING,Ingeniería Civil MIX,MAT,Enero-Abril
+1817009,F,Mexicana,Monterrey,22/07/2003,Reinscrito,Montecristo,COBAY TIXPEUAL,Escolarizada,"C. 25 entre 17 y 19, 97386 Tixpéhual, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817018,H,México,Puebla,15/12/2004,Reinscrito,Mayapán,COBAY KANASIN,Escolarizada,"Calle 14 S/N x 33, 97370 Kanasín, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1817008,Femenino,mexicano,Baja California,1997-01-01,Nuevo,Mayapán,PREPARATORIA 4,Escolarizada,"En Calle 20 S/N, Colonia Ninguno, Cansahcab, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1816018,Femenino,MX,Canada,2004-10-25,Reinscrito,Las Américas,COBAY CACALCHEN,Escolarizada,"Calle 19 91, Ciudad Ninguno, Cacalchén, Yucatán. Cp. 97460",LIC,Criminología Escolar,VESP,Mayo-Agosto
+1804022,M,Mexicana,Ciudad de Mexico,12-02-2005,Equivalencia,Brisas,COLEGIO YUCATAN,Escolarizada,"Calle 26 #254 x 37, Limones, CP 97219, Mérida, Yucatán, México.",LIC,Gastronomía Escolar,VESP,Mayo-Agosto
+1817005,H,mexicano,Campeche,16/01/1996,Reinscrito,Emiliano Zapata Sur,VICTOR J. MANZANILLA J. - CANSAHCAB,Escolarizada,"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.",Licenciatura,Odontología,Matutino,Enero-Junio
+1817033,H,México,Baja California,05-07-2003,Reinscrito,Ciudad Caucel,CEEAC,Escolarizada,"C. 60 316-por 27 y 29, Señorial, 97059 Mérida, Yuc.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817048,Fem,México,San Lorenzo,09-04-1997,Equivalencia,Las Américas,CBTIS 120 MÉRIDA,Escolarizada,"C. 13 101 por 60, Loma Bonita, 97205 Mérida, Yuc.",LIC,Odontología,Vespertino,Enero-Junio
+1837004,M,mexicano,Ciudad de Mexico,04-18-1995,Repetidor,Montes de Amé,COBAY YAXCABA,Mixto/Sabatino,"C. 22, 97920 Yaxcabá, Yuc.",Ingeniería,Ingeniería Civil MIX,Vespertino,Mayo-Agosto
+1817016,M,México,Veracruz,05-26-1995,Repetidor,Montes de Amé,CETESC,Escolarizada,"C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.",LIC,Odontología,VESP,Agosto-Diciembre
+1813036,H,Mexicana,Canada,2005-11-03,Reinscrito,Montecristo,COBAY KIMBILA,Escolarizada,"Calle 13 0 S/N Kimbilá, Yuc.",Licenciatura,Nutrición Escolar,Vespertino,Mayo-Agosto
+1808002,Femenino,MX,Campeche,19/04/2004,Repetidor,México,SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",Licenciatura,Derecho Escolar,VESP,Enero-Abril
+1817009,Fem,Mexicana,San Lorenzo,01-08-2000,Reinscrito,Juan Pablo II,COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB,Escolarizada,"C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817021,M,Mexicana,Canada,2003-06-27,Repetidor,Temozón Norte,PREPARATORIA ESTATAL No. 9,Escolarizada,"YUC 31, 97880 Oxkutzcab, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817023,H,mexicano,Yucatán,16/12/1995,Reinscrito,Montes de Amé,PREPARATORIA ESTATAL CTM #3,Escolarizada,"Calle 57A 744, 97160 Mérida",Licenciatura,Odontología,Vespertino,Enero-Junio
+1810030,Femenino,mexicano,Yucatán,31/03/1999,Equivalencia,San Ramón Norte,PREPARATORIA MIGUEL ANGEL,Escolarizada,"Calle 5 Sur N, 97139 Mérida, Yucatán",LIC,Fisioterapia Escolar,Matutino,Mayo-Agosto
+1802017,Femenino,Mexicana,Ciudad de Mexico,1997-11-24,Reinscrito,Mulsay,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolarizada,"C. 50 454, Centro, 97000 Mérida, Yuc.",LIC,Ciencias De La Educación Escolar,VESP,Septiembre-Diciembre
+1817028,Masculino,México,Sinaloa,2005-02-13,Nuevo,San Antonio Kaua,LUIS PASTEUR - CAMPECHE,Escolarizada,"Gobernadores No. 295 Huanal, 24070 Campeche, Campeche",LIC,Odontología,Matutino,Enero-Junio
+1806010,F,MX,Aguascalientes,04/10/2003,Repetidor,México,COLEGIO MESOAMERICANO,Escolarizada,"Calle 75, 542 A, Centro, Mérida, Yucatán",Licenciatura,Diseño de Modas Escolar,Matutino,Septiembre-Diciembre
+1802012,F,México,Quintana Roo,2003-10-04,Nuevo,Dzityá,PREPARATORIA 2 UADY,Escolarizada,"Calle 59C 204, 97238 Mérida, Yucatán",LIC,Ciencias De La Educación Escolar,VESP,Septiembre-Diciembre
+1820037,M,MX,Michoacán,07-31-1996,Repetidor,Las Américas,ACUERDO 286,Mixto/Sabatino,NA,LIC,Arquitectura MIX,Matutino,Enero-Abril
+1816002,Masculino,Mexicana,Michoacán,1996-07-07,Equivalencia,San Ramón Sur,PREPA ABIERTA,Escolarizada,"Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán",LIC,Criminología Escolar,VESP,Septiembre-Diciembre
+1817018,H,mexicano,Chiapas,21/08/2005,Nuevo,San Ramón Norte,PREPARATORIA MEXICO,Escolarizada,"C. 72 453, 97000 Mérida, Yucatán",LIC,Odontología,Matutino,Agosto-Diciembre
+1817005,H,Mexicana,Sinaloa,04-27-1996,Reinscrito,Salvador Alvarado Sur,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolarizada,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",LIC,Odontología,Vespertino,Enero-Junio
+1817008,F,Mexicana,Chihuahua,07-20-2001,Nuevo,Dolores Otero,COBAY ACANCEH,Escolarizada,"21 SN, Colonia las Palmas, Acanceh, Yucatán, México",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817010,M,México,Chiapas,1995-07-27,Equivalencia,San Antonio Kaua,INSTITUTO DAVID ALFARO,Escolarizada,"Calle 65 230, 97179 Mérida, Yucatán ",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1813028,Masculino,mexicano,Veracruz,06-30-2002,Repetidor,Emiliano Zapata Sur,INEVE,Escolarizada,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",LIC,Nutrición Escolar,VESP,Mayo-Agosto
+1817029,M,MX,Veracruz,05-11-1996,Equivalencia,Montes de Amé,COBAY HALACHO,Escolarizada,"Calle 20, Colonia Salida, Halachó, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1817046,H,Mexicana,Yucatán,01-22-2004,Nuevo,Jardines del Norte,COBAY TIXKOKOB,Escolarizada,"97470 Tixkokob, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817001,H,MX,Monterrey,10-24-1999,Repetidor,Wallis,TELEBACHILLERATO,Escolarizada,"C. 22 148, 97348 Yaxkukul, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1814002,Masculino,Mexicana,Chiapas,12-31-2003,Repetidor,Chuburná de Hidalgo,COBAY TIXKOKOB,Escolarizada,"97470 Tixkokob, Yucatán",LIC,Administración de Empresas Escolar,MAT,Enero-Abril
+1802004,Masculino,Mexicana,Sinaloa,08-08-1995,Nuevo,Juan Pablo II,COLEGIO DE BACHILLERES No. 8 TABASCO,Escolarizada,"Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.",LIC,Ciencias De La Educación Escolar,VESP,Enero-Abril
+1812011,Femenino,Mexicana,Yucatán,2002-04-22,Repetidor,San Antonio Kaua,BACHILLERATO EN LINEA UADY,Escolarizada,NA,LIC,Contaduría Pública Escolar,Vespertino,Mayo-Agosto
+1835034,H,Mexicana,Quintana Roo,06-16-2005,Repetidor,Miguel Alemán,VICTOR J. MANZANILLA J. - CANSAHCAB,Mixto/Sabatino,"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.",LIC,Derecho MIX,Vespertino,Enero-Abril
+1817033,Masculino,México,Veracruz,2001-10-20,Nuevo,Montes de Amé,COBAY UMAN,Escolarizada,"Calle 16 S/n X 10 Y 12 Col. Cepeda Peraza, Umán, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1817033,H,México,Campeche,09-02-2000,Repetidor,Miguel Alemán,COBAY SEYE,Escolarizada,"Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",LIC,Odontología,Matutino,Enero-Junio
+1817048,Fem,Mexicana,Yucatán,1996-08-18,Equivalencia,Emiliano Zapata Sur,COBAY TECOH,Escolarizada,"Calle 28 Carretera Tecoh - Telchaquillo, Tecoh, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1817041,F,MX,Puebla,09-20-2002,Repetidor,Mulsay,INSTITUTO FELTON,Escolarizada,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817047,F,Mexicana,Monterrey,2001-12-18,Nuevo,Pensiones,FRANCISCO REPETO MILAN,Escolarizada,"Calle 78 541, Col. Centro, CP 97000, Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1802012,Femenino,MX,Quintana Roo,07-23-1995,Reinscrito,Dolores Otero,COBAY TIZIMIN,Escolarizada,"Calle 48-B S/N por Calle 31, Centro, 97702 Tizimín, Yucatán",Licenciatura,Ciencias De La Educación Escolar,Vespertino,Septiembre-Diciembre
+1835047,Masculino,mexicano,San Lorenzo,02/02/2000,Repetidor,Dolores Otero,COBAY TZUCACAB,Mixto/Sabatino,"C. 30, 97960 Tzucacab, Yuc.",LIC,Derecho MIX,Matutino,Mayo-Agosto
+1817024,Femenino,MX,Yucatán,02-11-2000,Nuevo,Dolores Otero,PREPA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1817001,H,MX,Aguascalientes,29/11/1998,Nuevo,Nueva Kukulcán,COBAY SEYE,Escolarizada,"Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1808009,M,MX,Canada,05/04/1995,Nuevo,Montecristo,COLEGIO DE BACHILLERES DE YUCATAN,Escolarizada,"Calle 34 No. 420 B x 35, Col. López Mateos, Mérida, Yucatán.",LIC,Derecho Escolar,VESP,Enero-Abril
+1817031,Masculino,México,Tamaulipas,30/06/1998,Nuevo,Miguel Alemán,COLEGIO MESOAMERICANO,Escolarizada,"Calle 75, 542 A, Centro, Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1808032,M,México,Chiapas,12-03-1996,Reinscrito,San Antonio Kaua,UNIVERSIDAD CNCI,Escolarizada,"Calle 56 No. 508 Altos Centro, Mérida",Licenciatura,Derecho Escolar,Matutino,Septiembre-Diciembre
+1813011,H,MX,Veracruz,09-28-2005,Equivalencia,Pensiones,CENTENNIAL COLLEGIATE VOCATIONAL INSTITUTE,Escolarizada,"289 College Ave W, Guelph, ON N1G 1S9, Canada",Licenciatura,Nutrición Escolar,Matutino,Septiembre-Diciembre
+1831027,Femenino,Mexicana,Sinaloa,10-05-2000,Repetidor,Montes de Amé,UPP PREPA,Mixto/Sabatino,"Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán",Licenciatura,Ciencias De La Educación MIX,Matutino,Mayo-Agosto
+1801046,Fem,mexicano,Tabasco,2004-03-22,Equivalencia,Altabrisa,CBTA 13 XMATKUIL,Escolarizada,"Ex-Hacienda Xmatkuil A.P. 970 Xmatkuil, 97139 Mérida, Yuc.",Licenciatura,Arquitectura Escolar,VESP,Mayo-Agosto
+1831039,H,mexicano,Tabasco,1995-03-20,Reinscrito,San Ramón Sur,INCI - ALEMAN,Mixto/Sabatino,"Calle 31-A 520, 97140 Mérida, Yucatán",Licenciatura,Ciencias De La Educación MIX,VESP,Mayo-Agosto
+1817028,F,mexicano,Sinaloa,2003-02-10,Equivalencia,Brisas,PREPARATORIA YUCATAN,Escolarizada,"Calle 61 # 551 x 70 y 72, Col. Centro, CP. 97000 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1835038,M,MX,Quintana Roo,1998-11-01,Nuevo,San Antonio Kaua,JOSE MARIA MORELOS Y PAVON,Mixto/Sabatino,"Calle 15 Poniente 109, 97190 Mérida, Yucatán",LIC,Derecho MIX,Matutino,Septiembre-Diciembre
+1817026,H,México,Chiapas,10/10/1999,Repetidor,Mulsay,COLEGIO AMERICANO,Escolarizada,"C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",LIC,Odontología,MAT,Enero-Junio
+1804017,M,Mexicana,Tamaulipas,2002-06-25,Equivalencia,García Ginerés,UNIVERSIDAD DE MUNDO MAYA,Escolarizada,"Calle 51 por 50 y 48 #472 Col. Centro, C.P.97000, Mérida, Yucatán",LIC,Gastronomía Escolar,VESP,Enero-Abril
+1817036,Masculino,Mexicana,Yucatán,02-17-1995,Reinscrito,Wallis,UVM,Escolarizada,"Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1808048,H,MX,Monterrey,09/01/1995,Reinscrito,Dolores Otero,COBAY CUZAMA,Escolarizada,"Km 2 carretera Cuzama Homun, Cuzamá, Yucatán",LIC,Derecho Escolar,Matutino,Enero-Abril
+1814004,M,MX,Baja California,1995-11-28,Nuevo,Itzimná,COLEGIO SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",LIC,Administración de Empresas Escolar,MAT,Enero-Abril
+1817042,F,mexicano,Aguascalientes,11-17-1997,Equivalencia,Wallis,PREPARATORIA MIGUEL ANGEL,Escolarizada,"Calle 5 Sur N, 97139 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1812047,Fem,Mexicana,Quintana Roo,2001-03-05,Reinscrito,Campestre,COBAY HALACHO,Escolarizada,"Calle 20, Colonia Salida, Halachó, Yucatán",LIC,Contaduría Pública Escolar,Vespertino,Septiembre-Diciembre
+1817019,Masculino,mexicano,San Lorenzo,02/07/1998,Nuevo,Emiliano Zapata Sur,LA SALLE BOULLEWARES,Escolarizada,"Colina de la Rumorosa no.70 Fracc. Boulevares, Naucalpan, Estado de México.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1825047,M,Mexicana,Veracruz,2002-02-09,Repetidor,Pensiones,CARLOS CASTILLO PERAZA,Mixto/Sabatino,"Calle 51, Francisco de Montejo, Mérida, Yucatán",Licenciatura,Nutrición MIX,Matutino,Mayo-Agosto
+1831023,Femenino,mexicano,Aguascalientes,10-14-2002,Repetidor,Montes de Amé,UNIVERSIDAD MEXICO AMERICANA DEL NORTE A.C.,Mixto/Sabatino,"Primera s/n, Col. Círculo, CP 88640, Reynosa, Tamaulipas, México",LIC,Ciencias De La Educación MIX,Matutino,Enero-Abril
+1817026,Fem,México,Chihuahua,07-18-2001,Nuevo,Miguel Alemán,PLANTEL AZTECA,Escolarizada,"Calle 23 s/n x 44a y 44b CCT 31EBH0004B, Mérida, Mexico, 97219",LIC,Odontología,MAT,Enero-Junio
+1812010,Femenino,Mexicana,Veracruz,2000-04-26,Equivalencia,San Ramón Norte,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",LIC,Contaduría Pública Escolar,Matutino,Mayo-Agosto
+1817011,M,México,Aguascalientes,02-01-1998,Reinscrito,Dolores Otero,ALIANZA DE CAMIONEROS,Escolarizada,"C. 64 602, entre 75, 97000 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817018,H,México,Aguascalientes,07/06/2002,Repetidor,Pensiones,CBTIS 111 CANCUN,Escolarizada,"Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.",Licenciatura,Odontología,VESP,Enero-Junio
+1817029,M,México,Aguascalientes,22/06/2001,Equivalencia,Ciudad Caucel,SIGLO XXI,Escolarizada,"Calle 21 216, Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Enero-Junio
+1832039,H,Mexicana,Baja California,12-18-1996,Equivalencia,Emiliano Zapata Sur,CBETIS 120,Mixto/Sabatino,"C. 13 101 por 60, 97205 Mérida, Yucatán",Licenciatura,Contaduría Pública MIX,MAT,Mayo-Agosto
+1817029,Femenino,MX,Veracruz,01-23-1998,Nuevo,Chuburná de Hidalgo,INCI - ALEMAN,Escolarizada,"Calle 31-A 520, 97140 Mérida, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1825041,Fem,México,Campeche,04/11/1999,Reinscrito,Montecristo,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Mixto/Sabatino,"Calle 59 No. 729, Fraccionamiento Pacabtún, Mérida, Yucatán",Licenciatura,Nutrición MIX,Vespertino,Mayo-Agosto
+1817011,F,México,Quintana Roo,2005-05-05,Reinscrito,Montecristo,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolarizada,"Calle 96 653 X 51A y 59, Ciudad Caucel, 97300 Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817002,H,MX,Aguascalientes,19/07/1999,Repetidor,Francisco de Montejo,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1810019,Masculino,México,Chiapas,13/09/1997,Equivalencia,Juan Pablo II,ROGERS HALL,Escolarizada,"Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",LIC,Fisioterapia Escolar,VESP,Mayo-Agosto
+1813002,Fem,mexicano,Quintana Roo,1998-08-29,Repetidor,Bojórquez,COBAY YAXCABA,Escolarizada,"C. 22, 97920 Yaxcabá, Yuc.",Licenciatura,Nutrición Escolar,MAT,Mayo-Agosto
+1817003,M,mexicano,Monterrey,18/12/2003,Equivalencia,Nueva Kukulcán,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolarizada,"C. 50 454, Centro, 97000 Mérida, Yuc.",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1804009,Masculino,Mexicana,Yucatán,2002-08-28,Equivalencia,Montecristo,PREPARATORIA ESTATAL 3,Escolarizada,"Calle 57A 744, 97160 Mérida",Licenciatura,Gastronomía Escolar,VESP,Enero-Abril
+1835029,Femenino,Mexicana,Chiapas,14/07/1996,Equivalencia,San Ramón Norte,PLANTEL COBAY SAN JOSE TZAL,Mixto/Sabatino,"Calle 21, 97315 San José Tzal, Yucatán",LIC,Derecho MIX,Matutino,Septiembre-Diciembre
+1825037,M,México,Yucatán,01/02/1999,Repetidor,Chuburná de Hidalgo,COBAY CHOLUL,Mixto/Sabatino,"97305 Mérida, Yucatán",LIC,Nutrición MIX,VESP,Septiembre-Diciembre
+1817038,F,MX,Aguascalientes,2001-07-03,Nuevo,Ciudad Caucel,PRONACE,Escolarizada,"Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",LIC,Odontología,MAT,Agosto-Diciembre
+1825008,F,mexicano,Monterrey,15/04/1997,Reinscrito,Jardines del Norte,SALVADOR ALVARADO,Mixto/Sabatino,"Cll 20 302, 97205 Mérida, Yucatán",Licenciatura,Nutrición MIX,VESP,Septiembre-Diciembre
+1816041,Masculino,Mexicana,Quintana Roo,02-13-2000,Repetidor,Chuburná de Hidalgo,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",LIC,Criminología Escolar,VESP,Mayo-Agosto
+1817040,Femenino,MX,Sinaloa,27/07/1999,Equivalencia,Wallis,JOSE MARIA MORELOS Y PAVON,Escolarizada,"Calle 15 Poniente 109, 97190 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1817020,M,mexicano,Sinaloa,16/03/1999,Reinscrito,Xoclán,CETESC,Escolarizada,"C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.",Licenciatura,Odontología,Matutino,Enero-Junio
+1827019,H,Mexicana,Yucatán,1998-03-06,Repetidor,Juan Pablo II,PREPA 1,Mixto/Sabatino,"en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán",LIC,Administración de Empresas MIX,Matutino,Mayo-Agosto
+1814013,Fem,México,Canada,07-27-1998,Equivalencia,Francisco de Montejo,COBAY KINCHIL,Escolarizada,"Calle 18 SN, Kinchil, Yucatán",LIC,Administración de Empresas Escolar,Vespertino,Septiembre-Diciembre
+1831043,Femenino,Mexicana,Aguascalientes,04-20-2003,Equivalencia,Mayapán,COLEGIO DE BACHILLERES QUINTANA ROO,Mixto/Sabatino,"Calle 12 Entre Avenida 30, 77710 Playa del Carmen",Licenciatura,Ciencias De La Educación MIX,VESP,Enero-Abril
+1817047,H,México,Michoacán,02-15-2000,Equivalencia,Centro,COLEGIO BACHILLERES DE TABASCO 46,Escolarizada,"Villa las Flores, 86780 Jonuta, Tab.",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1801046,Fem,Mexicana,Monterrey,08-21-1996,Nuevo,Las Américas,COBAY TICUL,Escolarizada,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",LIC,Arquitectura Escolar,Vespertino,Enero-Abril
+1814004,H,México,San Lorenzo,14/07/2000,Nuevo,Chuburná de Hidalgo,PREPARATORIA 4,Escolarizada,"En Calle 20 S/N, Colonia Ninguno, Cansahcab, Yucatán",Licenciatura,Administración de Empresas Escolar,VESP,Septiembre-Diciembre
+1817003,Femenino,mexicano,Yucatán,2003-02-23,Repetidor,Salvador Alvarado Sur,COLEGIO SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1815018,Femenino,mexicano,Puebla,18/04/2003,Nuevo,Bojórquez,COLEGIO SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",Licenciatura,Psicología Escolar,VESP,Enero-Abril
+1817031,Femenino,mexicano,Ciudad de Mexico,2000-04-29,Equivalencia,Francisco de Montejo,PREPARATORIA 3 UADY,Escolarizada,"Calle 185 sin número X 90-B y 92 San Luis Sur y Avenida 86 Mérida, Yucatán",LIC,Odontología,Matutino,Agosto-Diciembre
+1817011,Fem,Mexicana,San Lorenzo,1996-05-09,Repetidor,Las Américas,CECYTE QUINTANA ROO,Escolarizada,"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1838021,F,MX,Puebla,1995-10-29,Reinscrito,San Antonio Kaua,BETANCOURT - BRISAS,Mixto/Sabatino,"Calle 25 S/N, Brisas del Pasaje, 97144 Mérida, Yuc.",ING,Ingeniería De Procesos De Manufactura MIX,Vespertino,Mayo-Agosto
+1816027,Fem,MX,Tamaulipas,10-17-1998,Repetidor,San Ramón Sur,UNIVERSIDAD AUTONOMA DEL CARMEN,Escolarizada,"C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",Licenciatura,Criminología Escolar,Vespertino,Septiembre-Diciembre
+1838006,F,mexicano,San Lorenzo,14/01/1998,Repetidor,Temozón Norte,COBAY TECOH,Mixto/Sabatino,"Calle 28 Carretera Tecoh - Telchaquillo, Tecoh, Yucatán",Ingeniería,Ingeniería De Procesos De Manufactura MIX,VESP,Septiembre-Diciembre
+1817012,Femenino,mexicano,Tabasco,2005-05-27,Equivalencia,San Ramón Sur,PREPARATORIA ESTATAL 3,Escolarizada,"Calle 57A 744, 97160 Mérida",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1814036,Fem,MX,Baja California,24/11/2005,Nuevo,Wallis,IMEI - CIUDAD DE MEXICO,Escolarizada,"Calle 4 242, 08100 Ciudad de México, México",LIC,Administración de Empresas Escolar,Vespertino,Enero-Abril
+1817009,Femenino,México,San Lorenzo,31/12/2002,Equivalencia,San Ramón Norte,COBAY CHENKU,Escolarizada,"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",LIC,Odontología,VESP,Enero-Junio
+1817035,M,MX,Tamaulipas,31/03/2001,Nuevo,Emiliano Zapata Sur,COLEGIO MESOAMERICANO,Escolarizada,"Calle 75, 542 A, Centro, Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1827019,M,México,Yucatán,2000-01-12,Repetidor,Miguel Alemán,COBAY TEKIT,Mixto/Sabatino,"Calle 21 entre Calle 44, Tekit, Yucatán",LIC,Administración de Empresas MIX,MAT,Mayo-Agosto
+1802004,Masculino,México,Aguascalientes,2002-11-05,Nuevo,Brisas,CONRADO MENENDEZ DIAZ,Escolarizada,"Av Fidel Velázquez 849, 97169 Mérida, Yucatán",Licenciatura,Ciencias De La Educación Escolar,Vespertino,Septiembre-Diciembre
+1825034,H,México,Monterrey,1996-03-21,Equivalencia,Chuburná de Hidalgo,CECYTE QUINTANA ROO,Mixto/Sabatino,"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",Licenciatura,Nutrición MIX,MAT,Enero-Abril
+1814003,Femenino,mexicano,Monterrey,1996-02-13,Reinscrito,Miguel Alemán,INEVE,Escolarizada,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",Licenciatura,Administración de Empresas Escolar,MAT,Mayo-Agosto
+1810040,Femenino,México,Chiapas,11/12/1998,Nuevo,Pensiones,COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB,Escolarizada,"C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",Licenciatura,Fisioterapia Escolar,Matutino,Enero-Abril
+1804023,H,México,Puebla,20/07/1995,Equivalencia,Chuburná de Hidalgo,CBTIS 95,Escolarizada,"Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.",LIC,Gastronomía Escolar,VESP,Septiembre-Diciembre
+1808047,M,MX,Michoacán,1995-09-03,Repetidor,Dolores Otero,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",Licenciatura,Derecho Escolar,Matutino,Mayo-Agosto
+1815041,Femenino,México,Tabasco,10-13-2004,Nuevo,Nueva Kukulcán,CENTRO ESCOLAR ROCHAVI,Escolarizada,"C. 76 11-A'-1, Residencial Pensiones VI, 97217 Mérida, Yuc.",Licenciatura,Psicología Escolar,VESP,Mayo-Agosto
+1817049,Femenino,México,Sinaloa,1995-04-15,Equivalencia,Altabrisa,COREM MERIDA,Escolarizada,"C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.",LIC,Odontología,MAT,Agosto-Diciembre
+1817019,F,MX,San Lorenzo,05-24-2002,Equivalencia,Xoclán,CESMAC,Escolarizada,"C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.",LIC,Odontología,VESP,Agosto-Diciembre
+1804013,Fem,mexicano,Quintana Roo,1996-05-04,Reinscrito,Francisco de Montejo,PREPARATORIA LIBRE,Escolarizada,"Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",LIC,Gastronomía Escolar,Matutino,Septiembre-Diciembre
+1817049,Masculino,Mexicana,Puebla,08-12-2005,Equivalencia,Altabrisa,SIGLO XXI,Escolarizada,"Calle 21 216, Mérida, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817034,Masculino,mexicano,Yucatán,08-18-1996,Repetidor,Brisas,PREPARATORIA ESTATAL No. 8,Escolarizada,"C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817004,F,Mexicana,Quintana Roo,08-24-2005,Reinscrito,Miguel Alemán,COLEGIO BACHILLERES DE TABASCO 46,Escolarizada,"Villa las Flores, 86780 Jonuta, Tab.",LIC,Odontología,VESP,Agosto-Diciembre
+1816038,H,Mexicana,Tabasco,17/07/2003,Reinscrito,Dzityá,PREPA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",Licenciatura,Criminología Escolar,MAT,Mayo-Agosto
+1817009,Fem,Mexicana,Canada,01-05-2005,Reinscrito,Altabrisa,ACUERDO 286,Escolarizada,NA,Licenciatura,Odontología,VESP,Enero-Junio
+1817050,Femenino,México,Chiapas,08-17-1999,Equivalencia,Xoclán,UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS,Escolarizada,"Calle 33 #140 Entre calle 20 A y 22 Col, Chuburná de Hidalgo, 97205 Mérida, Yuc.",LIC,Odontología,MAT,Enero-Junio
+1815034,H,mexicano,Chihuahua,1998-07-04,Reinscrito,Wallis,COBAY SANTA ROSA,Escolarizada,"Av. 1o. de Mayo x 107 y 109, 97279 Mérida, Yucatán",Licenciatura,Psicología Escolar,VESP,Enero-Abril
+1825038,F,Mexicana,Veracruz,2002-04-27,Repetidor,Las Américas,PREPARATORIA ESTATAL 3,Mixto/Sabatino,"Calle 57A 744, 97160 Mérida",Licenciatura,Nutrición MIX,Vespertino,Enero-Abril
+1817016,Fem,Mexicana,San Lorenzo,11-20-2001,Repetidor,Altabrisa,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817017,F,México,Canada,12-25-1997,Repetidor,San Ramón Norte,COLEGIO BENITO JUAREZ GARCIA,Escolarizada,"C. 107, Santa Rosa, 97279 Mérida, Yuc.",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1801012,F,México,Aguascalientes,22/04/1999,Nuevo,Mayapán,UVM,Escolarizada,"Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán",Licenciatura,Arquitectura Escolar,Matutino,Septiembre-Diciembre
+1802031,M,Mexicana,Puebla,03-03-1998,Nuevo,Montes de Amé,PREPARATORIA ESTATAL CTM #3,Escolarizada,"Calle 57A 744, 97160 Mérida",Licenciatura,Ciencias De La Educación Escolar,VESP,Septiembre-Diciembre
+1817043,Fem,mexicano,Chihuahua,2002-08-31,Equivalencia,Dolores Otero,ACUERDO 286,Escolarizada,NA,LIC,Odontología,Matutino,Enero-Junio
+1813003,Fem,MX,Sinaloa,31/07/2000,Reinscrito,Altabrisa,JOSEFINA ROSADO DE PATRON,Escolarizada,"Calle 67, NO. 437 entre Calle 40 y Calle 38, Mérida, Yucatán",Licenciatura,Nutrición Escolar,MAT,Septiembre-Diciembre
+1832009,Femenino,MX,Baja California,16/03/2001,Equivalencia,Temozón Norte,COBAY CHENKU,Mixto/Sabatino,"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",Licenciatura,Contaduría Pública MIX,Matutino,Mayo-Agosto
+1809045,M,MX,Chihuahua,08/12/2004,Reinscrito,San Ramón Norte,COLEGIO SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",LIC,Enfermería Escolar,MAT,Septiembre-Diciembre
+1801001,H,mexicano,Chihuahua,10-21-2003,Reinscrito,Mulsay,LUIS PASTEUR - CAMPECHE,Escolarizada,"Gobernadores No. 295 Huanal, 24070 Campeche, Campeche",Licenciatura,Arquitectura Escolar,Vespertino,Septiembre-Diciembre
+1806037,H,MX,Sinaloa,17/10/1995,Reinscrito,Itzimná,PLANTEL COBAY SAN JOSE TZAL,Escolarizada,"Calle 21, 97315 San José Tzal, Yucatán",LIC,Diseño de Modas Escolar,Matutino,Mayo-Agosto
+1828028,Femenino,Mexicana,Tamaulipas,16/06/2001,Reinscrito,Bojórquez,BACHILLERATO EN LINEA UADY,Mixto/Sabatino,NA,Licenciatura,Psicología MIX,Matutino,Septiembre-Diciembre
+1833046,H,MX,Puebla,18/04/1995,Repetidor,Jardines del Norte,CBTA 13 XMATKUIL,Mixto/Sabatino,"Ex-Hacienda Xmatkuil A.P. 970 Xmatkuil, 97139 Mérida, Yuc.",LIC,Diseño de Modas MIX,Vespertino,Mayo-Agosto
+1817030,H,México,Quintana Roo,08-05-2002,Reinscrito,Montecristo,SERAPIO RENDÓN,Escolarizada,"Calle 46-b Serapio Rendon, Mérida, Yucatán CP. 97285",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1827004,Masculino,mexicano,Tabasco,1999-02-17,Reinscrito,Jardines del Norte,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Mixto/Sabatino,"Calle 96 653 X 51A y 59, Ciudad Caucel, 97300 Mérida, Yucatán",LIC,Administración de Empresas MIX,MAT,Enero-Abril
+1815030,Masculino,México,Tamaulipas,12-15-1996,Repetidor,Jardines del Norte,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolarizada,"C. 50 454, Centro, 97000 Mérida, Yuc.",Licenciatura,Psicología Escolar,MAT,Septiembre-Diciembre
+1812022,Fem,Mexicana,Quintana Roo,12-28-1997,Repetidor,Miguel Alemán,COLEGIO DE BACHILLERES QUINTANA ROO,Escolarizada,"Calle 12 Entre Avenida 30, 77710 Playa del Carmen",LIC,Contaduría Pública Escolar,Vespertino,Enero-Abril
+1835024,F,México,Yucatán,30/06/2001,Equivalencia,Las Américas,MANUEL CRESCENCIO REJON,Mixto/Sabatino,"C. 69 452, 97000 Mérida, Yucatán",Licenciatura,Derecho MIX,Matutino,Septiembre-Diciembre
+1816044,Masculino,MX,Yucatán,16/06/1995,Nuevo,Temozón Norte,PREPARATORIA MODELO,Escolarizada,"Paseo de Montejo No.444, Centro, 97000 Mérida, Yucatán",LIC,Criminología Escolar,VESP,Mayo-Agosto
+1817014,F,MX,Canada,2004-11-12,Nuevo,San Antonio Kaua,CBTA IZAMAL 185,Escolarizada,"C. 30 102, Guadalupe, 97540 Izamal, Yuc.",Licenciatura,Odontología,VESP,Enero-Junio
+1817007,M,Mexicana,Quintana Roo,09-16-2005,Repetidor,Mulsay,COBAY SOTUTA,Escolarizada,"Calle 20 x 11 carretera a Tibolón, 40 X 11, 97690 Sotuta, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1827039,M,mexicano,Chihuahua,2002-11-29,Nuevo,Ciudad Caucel,COREM MERIDA,Mixto/Sabatino,"C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.",LIC,Administración de Empresas MIX,Matutino,Mayo-Agosto
+1809045,Fem,Mexicana,Aguascalientes,01/06/1996,Reinscrito,Campestre,INSTITUTO COMERCIAL BANCARIO,Escolarizada,"Calle 62 No. 373, Colonia Centro, Mérida, Yucatán",LIC,Enfermería Escolar,Matutino,Enero-Abril
+1804044,F,México,Puebla,2001-10-23,Equivalencia,Bojórquez,SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",LIC,Gastronomía Escolar,Vespertino,Septiembre-Diciembre
+1827039,F,MX,Campeche,2005-05-28,Nuevo,San Ramón Sur,COBAY 5,Mixto/Sabatino,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",Licenciatura,Administración de Empresas MIX,Vespertino,Enero-Abril
+1817024,Femenino,México,Veracruz,1998-05-01,Repetidor,Dzityá,INSTITUTO FELTON,Escolarizada,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1832009,M,MX,Ciudad de Mexico,07/07/2003,Equivalencia,Jardines del Norte,COBAY TEKIT,Mixto/Sabatino,"Calle 21 entre Calle 44, Tekit, Yucatán",LIC,Contaduría Pública MIX,VESP,Septiembre-Diciembre
+1825012,H,MX,Puebla,08-04-2000,Reinscrito,Brisas,CEMA,Mixto/Sabatino,"Fracc, C. 27 150, San Miguel, 97140 Mérida, Yuc.",Licenciatura,Nutrición MIX,Vespertino,Enero-Abril
+1817035,F,MX,Chihuahua,04-17-1996,Repetidor,Montes de Amé,PLANTEL AZTECA,Escolarizada,"Calle 23 s/n x 44a y 44b CCT 31EBH0004B, Mérida, Mexico, 97219",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1832027,H,mexicano,Sinaloa,1995-04-19,Repetidor,San Ramón Norte,CETESC,Mixto/Sabatino,"C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.",LIC,Contaduría Pública MIX,MAT,Enero-Abril
+1817033,Masculino,México,Yucatán,2005-09-04,Reinscrito,Itzimná,COBAY TEKIT,Escolarizada,"Calle 21 entre Calle 44, Tekit, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1813005,Masculino,mexicano,San Lorenzo,2004-12-03,Reinscrito,Xoclán,"COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO",Escolarizada,"Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico",LIC,Nutrición Escolar,MAT,Septiembre-Diciembre
+1801013,F,Mexicana,Yucatán,09/01/2003,Equivalencia,Montecristo,CBTIS 95,Escolarizada,"Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.",LIC,Arquitectura Escolar,Vespertino,Septiembre-Diciembre
+1838016,Masculino,MX,Canada,2002-01-14,Repetidor,Mulsay,COREM MERIDA,Mixto/Sabatino,"C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.",ING,Ingeniería De Procesos De Manufactura MIX,MAT,Enero-Abril
+1817007,Fem,México,Chihuahua,2003-09-11,Nuevo,Bojórquez,UPP PREPA,Escolarizada,"Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1817048,Fem,México,Puebla,23/11/1997,Reinscrito,Las Américas,MEXICANA DEL MAYAB,Escolarizada,"Calle 61 322, 97169 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1838016,Fem,México,Campeche,12-21-2001,Equivalencia,Bojórquez,UPAV VERACRUZ,Mixto/Sabatino,"CALLE GUILLERMO PRIETO 8, XALAPA VERACRUZ DE IGNACIO DE LA LLAVE",ING,Ingeniería De Procesos De Manufactura MIX,Matutino,Mayo-Agosto
+1806047,Fem,México,Chihuahua,09/12/1999,Nuevo,Temozón Norte,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",Licenciatura,Diseño de Modas Escolar,MAT,Enero-Abril
+1817027,Femenino,MX,Sinaloa,20/03/2003,Equivalencia,Dzityá,COBAY TIZIMIN,Escolarizada,"Calle 48-B S/N por Calle 31, Centro, 97702 Tizimín, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817037,H,México,Puebla,19/07/2003,Repetidor,Wallis,COBAY SANTA ROSA,Escolarizada,"Av. 1o. de Mayo x 107 y 109, 97279 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1817022,M,Mexicana,Ciudad de Mexico,18/11/2005,Repetidor,Wallis,PREPARATORIA ESTATAL NUM. 10,Escolarizada,"Calle 59 Num. Ext. 821 Balcones Iii, Ciudad Caucel , Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817041,Femenino,Mexicana,Puebla,08-11-1999,Reinscrito,Brisas,CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17,Escolarizada,"Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1827008,F,mexicano,Yucatán,2005-02-25,Nuevo,San Ramón Norte,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Mixto/Sabatino,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",Licenciatura,Administración de Empresas MIX,Vespertino,Enero-Abril
+1831009,Masculino,mexicano,Ciudad de Mexico,1998-08-18,Nuevo,San Antonio Kaua,COBAY CHENKU,Mixto/Sabatino,"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",Licenciatura,Ciencias De La Educación MIX,MAT,Mayo-Agosto
+1817013,Femenino,México,Quintana Roo,17/06/1999,Repetidor,Las Américas,CEDART ERMILO ABREU GÓMEZ,Escolarizada,"Calle 21, Periférico Poniente, Colonia San Juan Bautista, 97200 Mérida, Yuc.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817014,H,Mexicana,Michoacán,12-01-1998,Equivalencia,Mayapán,CENTRO UNIVERSITARIO MONTEJO,Escolarizada,"Calle 60 No. 106 X 21 Y 23, 97205 Mérida, Yucatán ",LIC,Odontología,VESP,Enero-Junio
+1817048,M,México,Quintana Roo,01-30-1999,Nuevo,San Ramón Norte,PREPARATORIA MUNA,Escolarizada,"Calle 19, colonia Ninguno, municipio Muna, Yucatán, C.P. 97840",Licenciatura,Odontología,MAT,Enero-Junio
+1817001,F,mexicano,Chiapas,1996-04-11,Nuevo,Pensiones,PREPA ABIERTA,Escolarizada,"Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Enero-Junio
+1817048,Femenino,México,Sinaloa,02-11-1995,Repetidor,Jardines del Norte,LUIS ALVAREZ BARRET,Escolarizada,"Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158",LIC,Odontología,Vespertino,Enero-Junio
+1817042,F,Mexicana,Chihuahua,2005-01-11,Equivalencia,Itzimná,CETIS 134,Escolarizada,"Av. Lomas Verdes 2, Rancho Viejo, 91303 Banderilla, Ver.",LIC,Odontología,Matutino,Enero-Junio
+1815021,F,MX,Yucatán,01-03-2005,Equivalencia,Bojórquez,COBAY PLANTEL PETO,Escolarizada,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",LIC,Psicología Escolar,Vespertino,Enero-Abril
+1801042,Masculino,MX,Chiapas,1998-12-16,Repetidor,Mulsay,COBAY BACA,Escolarizada,"Calle 26 No. 107 Int. 0sn, Villa Baca, Baca, Yucatán",Licenciatura,Arquitectura Escolar,Vespertino,Enero-Abril
+1817042,M,México,Veracruz,15/08/2003,Reinscrito,Montecristo,COBAY YAXCABA,Escolarizada,"C. 22, 97920 Yaxcabá, Yuc.",Licenciatura,Odontología,MAT,Enero-Junio
+1817019,Fem,Mexicana,Veracruz,06-20-1999,Repetidor,Francisco de Montejo,COBAY CACALCHEN,Escolarizada,"Calle 19 91, Ciudad Ninguno, Cacalchén, Yucatán. Cp. 97460",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817048,H,MX,Sinaloa,29/12/1998,Reinscrito,Xoclán,ALIANZA DE CAMIONEROS,Escolarizada,"C. 64 602, entre 75, 97000 Mérida, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1814012,Fem,MX,Baja California,12-23-1998,Equivalencia,Las Américas,COBAY TICUL,Escolarizada,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",LIC,Administración de Empresas Escolar,MAT,Mayo-Agosto
+1815043,Masculino,MX,Canada,13/12/1999,Reinscrito,Itzimná,COBAY CHENKU,Escolarizada,"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",Licenciatura,Psicología Escolar,MAT,Septiembre-Diciembre
+1812035,F,MX,Ciudad de Mexico,06/06/2005,Nuevo,Mulsay,CBTIS 80,Escolarizada,"Calle 27 369, Edesio Carrillo Puerto, 97430 Motul de Carrillo, 97430",Licenciatura,Contaduría Pública Escolar,VESP,Enero-Abril
+1802049,Femenino,mexicano,Ciudad de Mexico,27/08/1998,Reinscrito,Dolores Otero,CARLOS CASTILLO PERAZA,Escolarizada,"Calle 51, Francisco de Montejo, Mérida, Yucatán",Licenciatura,Ciencias De La Educación Escolar,Vespertino,Septiembre-Diciembre
+1817040,H,mexicano,Ciudad de Mexico,08/11/1997,Equivalencia,Xoclán,ACUERDO 286,Escolarizada,NA,LIC,Odontología,Vespertino,Agosto-Diciembre
+1817046,H,MX,Michoacán,21/05/2001,Reinscrito,Centro,PREPARATORIA ESTATAL 3,Escolarizada,"Calle 57A 744, 97160 Mérida",LIC,Odontología,VESP,Enero-Junio
+1817035,M,mexicano,Quintana Roo,2002-02-03,Equivalencia,Las Américas,CENTRO UNIVERSITARIO MONTEJO,Escolarizada,"Calle 60 No. 106 X 21 Y 23, 97205 Mérida, Yucatán ",LIC,Odontología,MAT,Enero-Junio
+1831027,Fem,México,Tamaulipas,2003-04-28,Repetidor,Miguel Alemán,COBAY SEYE,Mixto/Sabatino,"Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",LIC,Ciencias De La Educación MIX,VESP,Enero-Abril
+1802004,F,MX,Yucatán,06-01-2002,Nuevo,Xoclán,CECYTE,Escolarizada,"Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.",LIC,Ciencias De La Educación Escolar,MAT,Mayo-Agosto
+1817001,Femenino,México,Michoacán,1998-02-10,Equivalencia,Emiliano Zapata Sur,COBAY ACANCEH,Escolarizada,"21 SN, Colonia las Palmas, Acanceh, Yucatán, México",Licenciatura,Odontología,VESP,Enero-Junio
+1836016,F,mexicano,Aguascalientes,09-18-1999,Repetidor,Montes de Amé,UVM,Mixto/Sabatino,"Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán",Licenciatura,Gastronomía MIX,Vespertino,Enero-Abril
+1817007,Femenino,México,Canada,07-27-1997,Reinscrito,Miguel Alemán,COLEGIO DE BACHILLERES CHIAPAS,Escolarizada,"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",LIC,Odontología,MAT,Agosto-Diciembre
+1817041,Fem,México,Aguascalientes,31/03/2000,Reinscrito,Altabrisa,PREPARATORIA ESTATAL No. 8,Escolarizada,"C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1817011,F,mexicano,Aguascalientes,2004-12-29,Repetidor,Salvador Alvarado Sur,VICTOR J. MANZANILLA J. - CANSAHCAB,Escolarizada,"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817017,Masculino,MX,Canada,04-23-2003,Nuevo,Mayapán,COBAY TEKIT,Escolarizada,"Calle 21 entre Calle 44, Tekit, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1838001,F,mexicano,Monterrey,05-24-1995,Equivalencia,Salvador Alvarado Sur,ACUERDO 286,Mixto/Sabatino,NA,ING,Ingeniería De Procesos De Manufactura MIX,MAT,Mayo-Agosto
+1817036,F,mexicano,Puebla,06-14-2003,Reinscrito,Miguel Alemán,COBAY CAUCEL,Escolarizada,"Hunucma - Caucel 56, Caucel, 97314 Caucel, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817050,H,mexicano,Tabasco,2001-09-24,Nuevo,San Antonio Kaua,CETIS 68,Escolarizada,"Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.",LIC,Odontología,VESP,Agosto-Diciembre
+1817044,Femenino,mexicano,Quintana Roo,24/03/1997,Equivalencia,Mulsay,INCI - ALEMAN,Escolarizada,"Calle 31-A 520, 97140 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1806048,H,Mexicana,Baja California,04-10-2001,Nuevo,Mulsay,COLEGIO DE BACHILLERES CHIAPAS,Escolarizada,"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",LIC,Diseño de Modas Escolar,MAT,Mayo-Agosto
+1817045,F,MX,Tabasco,26/09/1996,Equivalencia,Francisco de Montejo,PREPARATORIA #5 AGUSTIN FRANCO VILLANUEVA,Escolarizada,"Calle 67 por 50, 97000 Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817022,Femenino,México,Chiapas,05/10/1996,Equivalencia,Altabrisa,INSTITUTO PATRIA,Escolarizada,"Periférico Norte km. 2.5, San Ramón Nte, 97117 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1801011,Femenino,Mexicana,Tabasco,10-25-2004,Nuevo,Chuburná de Hidalgo,ROGERS HALL,Escolarizada,"Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",LIC,Arquitectura Escolar,MAT,Enero-Abril
+1817021,Femenino,MX,Quintana Roo,03/08/1995,Repetidor,Montes de Amé,PREPARATORIA LAFAYETTE,Escolarizada,"Calle 35 No. Sn, Colonia Cuauhtemoc, Ciudad Del Carmen, Carmen, Campeche C.P. 24170",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817032,H,México,Canada,2005-10-12,Repetidor,San Antonio Kaua,COBAY TZUCACAB,Escolarizada,"C. 30, 97960 Tzucacab, Yuc.",Licenciatura,Odontología,Vespertino,Enero-Junio
+1827031,Masculino,MX,Puebla,1995-07-28,Equivalencia,Miguel Alemán,COLEGIO DE BACHILLERES No. 8 TABASCO,Mixto/Sabatino,"Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.",Licenciatura,Administración de Empresas MIX,Vespertino,Mayo-Agosto
+1817047,Masculino,MX,Canada,27/05/1996,Nuevo,Xoclán,CBTA 165,Escolarizada,"C. 30 102, Guadalupe, 97540 Izamal, Yuc.",LIC,Odontología,Vespertino,Enero-Junio
+1825005,Femenino,Mexicana,San Lorenzo,05/12/2003,Reinscrito,Emiliano Zapata Sur,COBAY 5,Mixto/Sabatino,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",Licenciatura,Nutrición MIX,VESP,Septiembre-Diciembre
+1804044,Masculino,Mexicana,Campeche,02/11/1996,Equivalencia,Wallis,PREPARATORIA 4,Escolarizada,"En Calle 20 S/N, Colonia Ninguno, Cansahcab, Yucatán",LIC,Gastronomía Escolar,Matutino,Enero-Abril
+1817036,Femenino,MX,Michoacán,05-03-1997,Equivalencia,Temozón Norte,COBAY PLANTEL PETO,Escolarizada,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817026,Femenino,MX,Puebla,1995-12-27,Equivalencia,Montecristo,COBACH COZUMEL,Escolarizada,"50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817027,F,mexicano,Campeche,1998-01-10,Repetidor,Miguel Alemán,COLEGIO DE BACHILLERES CHIAPAS,Escolarizada,"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817040,Fem,mexicano,Aguascalientes,2001-05-20,Reinscrito,Francisco de Montejo,PREPARATORIA 2 UADY,Escolarizada,"Calle 59C 204, 97238 Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1802032,Femenino,México,Aguascalientes,02/10/1998,Reinscrito,Montes de Amé,JOSE MARIA MORELOS Y PAVON,Escolarizada,"Calle 15 Poniente 109, 97190 Mérida, Yucatán",LIC,Ciencias De La Educación Escolar,VESP,Mayo-Agosto
+1817037,F,México,Yucatán,1996-04-20,Repetidor,Pensiones,COBAY SOTUTA,Escolarizada,"Calle 20 x 11 carretera a Tibolón, 40 X 11, 97690 Sotuta, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1817047,M,MX,Quintana Roo,12-13-1998,Repetidor,Las Américas,LUIS ALVAREZ BARRET,Escolarizada,"Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158",Licenciatura,Odontología,MAT,Enero-Junio
+1827032,F,mexicano,Baja California,05-15-2000,Repetidor,Pensiones,UPAV VERACRUZ,Mixto/Sabatino,"CALLE GUILLERMO PRIETO 8, XALAPA VERACRUZ DE IGNACIO DE LA LLAVE",Licenciatura,Administración de Empresas MIX,VESP,Mayo-Agosto
+1817021,M,Mexicana,Canada,31/01/2004,Equivalencia,Juan Pablo II,VICTOR MANUEL CERVERA PACHECO,Escolarizada,"C. 12-D 2a, 97370 Kanasín, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817020,H,Mexicana,Canada,06-19-1998,Nuevo,Altabrisa,PREPARATORIA ESTATAL No. 8,Escolarizada,"C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817031,M,MX,Puebla,01-20-2004,Repetidor,Juan Pablo II,COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB,Escolarizada,"C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",Licenciatura,Odontología,Matutino,Enero-Junio
+1808038,Masculino,Mexicana,Veracruz,2001-12-07,Repetidor,Bojórquez,JOSE VASCONCELOS,Escolarizada,"Calle 59, 615E X 80 y 82, 97000 Mérida, Yucatán",Licenciatura,Derecho Escolar,Vespertino,Mayo-Agosto
+1836048,Masculino,MX,Quintana Roo,2001-09-20,Reinscrito,San Ramón Sur,CELA,Mixto/Sabatino,"Calle 21 No. 357A-x 26, San Pedro Cholul, 97138 Mérida, Yuc.",Licenciatura,Gastronomía MIX,Matutino,Enero-Abril
+1817044,F,Mexicana,Veracruz,2000-07-19,Repetidor,Salvador Alvarado Sur,PREPA ABIERTA,Escolarizada,"Calle 31-A por 8, Col. San Esteban, C. P. 97149, Mérida, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1809021,M,mexicano,Tamaulipas,11-06-1999,Nuevo,Chuburná de Hidalgo,PREPARATORIA PROGRESO,Escolarizada,"C. 44 145-7, 97320 Progreso, Yucatán",LIC,Enfermería Escolar,Vespertino,Mayo-Agosto
+1833033,M,mexicano,Quintana Roo,1995-08-07,Equivalencia,Ciudad Caucel,COBACH COZUMEL,Mixto/Sabatino,"50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.",Licenciatura,Diseño de Modas MIX,MAT,Mayo-Agosto
+1806041,Masculino,México,Ciudad de Mexico,11-02-2005,Repetidor,Las Américas,COLEGIO AMERICANO,Escolarizada,"C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",Licenciatura,Diseño de Modas Escolar,MAT,Septiembre-Diciembre
+1817014,F,México,San Lorenzo,12/09/1997,Equivalencia,Dzityá,LUIS ALVAREZ BARRET,Escolarizada,"Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158",Licenciatura,Odontología,Vespertino,Enero-Junio
+1827034,Masculino,México,Canada,30/11/1999,Nuevo,Bojórquez,JOSE MARIA MORELOS Y PAVON,Mixto/Sabatino,"Calle 15 Poniente 109, 97190 Mérida, Yucatán",Licenciatura,Administración de Empresas MIX,MAT,Septiembre-Diciembre
+1833032,H,México,Aguascalientes,01-26-2005,Repetidor,Bojórquez,ROGERS HALL,Mixto/Sabatino,"Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",Licenciatura,Diseño de Modas MIX,Vespertino,Septiembre-Diciembre
+1817037,Fem,México,Puebla,2001-03-10,Equivalencia,San Antonio Kaua,COLEGIO AMERICANO,Escolarizada,"C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",LIC,Odontología,Matutino,Agosto-Diciembre
+1817034,Fem,Mexicana,Sinaloa,1996-03-24,Nuevo,Montes de Amé,COBAY KIMBILA,Escolarizada,"Calle 13 0 S/N Kimbilá, Yuc.",Licenciatura,Odontología,Matutino,Enero-Junio
+1828039,H,mexicano,Aguascalientes,2001-01-02,Reinscrito,Jardines del Norte,COBAY PROGRESO,Mixto/Sabatino,"C. 37 entre 72 y 74, Centro, 97320 Progreso, Yuc.",LIC,Psicología MIX,Vespertino,Mayo-Agosto
+1815038,Fem,MX,Campeche,22/06/1996,Repetidor,Wallis,LA SALLE BOULLEWARES,Escolarizada,"Colina de la Rumorosa no.70 Fracc. Boulevares, Naucalpan, Estado de México.",Licenciatura,Psicología Escolar,MAT,Septiembre-Diciembre
+1817029,Masculino,Mexicana,Puebla,2001-06-20,Nuevo,Emiliano Zapata Sur,SERAPIO RENDÓN,Escolarizada,"Calle 46-b Serapio Rendon, Mérida, Yucatán CP. 97285",LIC,Odontología,MAT,Agosto-Diciembre
+1817020,Masculino,Mexicana,Campeche,20/04/2001,Reinscrito,San Ramón Sur,CBTA 165,Escolarizada,"C. 30 102, Guadalupe, 97540 Izamal, Yuc.",LIC,Odontología,MAT,Agosto-Diciembre
+1817021,H,México,Quintana Roo,1997-08-27,Reinscrito,Pensiones,COBAY 5,Escolarizada,"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1832006,Femenino,Mexicana,Puebla,2004-03-11,Reinscrito,Bojórquez,CBTA IZAMAL 185,Mixto/Sabatino,"C. 30 102, Guadalupe, 97540 Izamal, Yuc.",LIC,Contaduría Pública MIX,Matutino,Septiembre-Diciembre
+1817016,F,Mexicana,Puebla,10/10/1996,Nuevo,Xoclán,PREPARATORIA YUCATAN,Escolarizada,"Calle 61 # 551 x 70 y 72, Col. Centro, CP. 97000 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1838001,Femenino,MX,Baja California,1996-05-03,Equivalencia,Altabrisa,INCI - ALEMAN,Mixto/Sabatino,"Calle 31-A 520, 97140 Mérida, Yucatán",ING,Ingeniería De Procesos De Manufactura MIX,Vespertino,Septiembre-Diciembre
+1833007,H,Mexicana,Chiapas,1997-04-17,Reinscrito,Juan Pablo II,COBAY TEABO,Mixto/Sabatino,"Calle 23 57, 97910 Teabo, Yucatán",LIC,Diseño de Modas MIX,MAT,Septiembre-Diciembre
+1817035,Fem,Mexicana,Chiapas,1999-02-21,Repetidor,Centro,PREPA 4 CANSAHCAB,Escolarizada,"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1837046,Fem,México,Puebla,2005-08-16,Repetidor,San Ramón Sur,COLEGIO DEL GOLFO DE MERIDA,Mixto/Sabatino,"Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán",Ingeniería,Ingeniería Civil MIX,Matutino,Enero-Abril
+1812035,M,México,Yucatán,1998-01-21,Nuevo,Dzityá,ESCUELA NACIONAL PREPARATORIA 4 VIDAL CASTAÑEDA Y,Escolarizada,"Av Observatorio 170-P. B, Observatorio, Miguel Hidalgo, 11860 Ciudad de México",LIC,Contaduría Pública Escolar,MAT,Enero-Abril
+1817042,H,Mexicana,Yucatán,2003-04-27,Equivalencia,Brisas,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolarizada,"Calle 59, s/n 102-A y 106, Cd Caucel, 97314 Mérida, Yuc.",LIC,Odontología,MAT,Agosto-Diciembre
+1817015,Femenino,México,Puebla,1996-10-04,Equivalencia,México,IBCEY,Escolarizada,"Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1814038,Femenino,MX,Baja California,02/12/2005,Equivalencia,Centro,COBAY TICUL,Escolarizada,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",LIC,Administración de Empresas Escolar,Vespertino,Enero-Abril
+1817002,Fem,México,Tabasco,01-07-1996,Nuevo,Montes de Amé,JOSE MARIA MORELOS Y PAVON,Escolarizada,"Calle 15 Poniente 109, 97190 Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1835015,Femenino,Mexicana,Canada,12/02/2005,Nuevo,Juan Pablo II,CBTIS 95,Mixto/Sabatino,"Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.",LIC,Derecho MIX,Vespertino,Enero-Abril
+1828032,Femenino,mexicano,Baja California,2001-07-21,Reinscrito,Salvador Alvarado Sur,INSTITUTO FELTON,Mixto/Sabatino,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",LIC,Psicología MIX,Vespertino,Enero-Abril
+1817026,Femenino,Mexicana,Chihuahua,28/12/1997,Equivalencia,Xoclán,MEXICANA DEL MAYAB,Escolarizada,"Calle 61 322, 97169 Mérida, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817018,F,México,Ciudad de Mexico,05-07-2001,Nuevo,Dzityá,COBAY TZUCACAB,Escolarizada,"C. 30, 97960 Tzucacab, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817049,F,MX,Baja California,07-22-2005,Repetidor,Nueva Kukulcán,COBAY CACALCHEN,Escolarizada,"Calle 19 91, Ciudad Ninguno, Cacalchén, Yucatán. Cp. 97460",Licenciatura,Odontología,Matutino,Enero-Junio
+1817010,Femenino,México,Baja California,24/09/2004,Repetidor,Temozón Norte,CBTIS 80,Escolarizada,"Calle 27 369, Edesio Carrillo Puerto, 97430 Motul de Carrillo, 97430",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817006,H,MX,Quintana Roo,1996-10-12,Reinscrito,San Ramón Norte,CECYTE QUINTANA ROO,Escolarizada,"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",LIC,Odontología,MAT,Agosto-Diciembre
+1817029,F,MX,Aguascalientes,1996-01-18,Reinscrito,Temozón Norte,UNIVERSIDAD TECMILENIO,Escolarizada,"Calle 53 Diagonal S/N, 97302 Mérida, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1816046,M,Mexicana,Michoacán,2005-07-21,Repetidor,Montes de Amé,PREPA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",LIC,Criminología Escolar,Matutino,Mayo-Agosto
+1817013,Masculino,mexicano,San Lorenzo,1995-01-15,Nuevo,Miguel Alemán,COBAY HALACHO,Escolarizada,"Calle 20, Colonia Salida, Halachó, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1801031,H,México,Yucatán,1999-05-06,Nuevo,San Antonio Kaua,PRONACE,Escolarizada,"Calle 62 #685 x 45 y 43, Fracc. Pedregales, C.P. 97300, Cd. Caucel",LIC,Arquitectura Escolar,Vespertino,Enero-Abril
+1817015,Masculino,México,Monterrey,06/07/1999,Equivalencia,San Antonio Kaua,CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO,Escolarizada,"97315 Mérida, Yucatán",LIC,Odontología,Matutino,Agosto-Diciembre
+1817013,Femenino,mexicano,Campeche,1998-06-28,Equivalencia,Brisas,CBTIS 111 CANCUN,Escolarizada,"Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817015,Masculino,mexicano,Canada,04-26-1995,Reinscrito,Dzityá,COREM MERIDA,Escolarizada,"C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817047,Fem,MX,Yucatán,2002-02-10,Repetidor,Pensiones,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolarizada,"Calle 96 653 X 51A y 59, Ciudad Caucel, 97300 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1812039,H,mexicano,Tamaulipas,01/06/1999,Repetidor,Dolores Otero,COLEGIO DE BACHILLERES QUINTANA ROO,Escolarizada,"Calle 12 Entre Avenida 30, 77710 Playa del Carmen",Licenciatura,Contaduría Pública Escolar,Matutino,Septiembre-Diciembre
+1817015,F,México,Yucatán,17/03/2003,Reinscrito,Bojórquez,CETMAR-PROGRESO,Escolarizada,"C. 83 681F, 97320 Progreso, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1806024,M,MX,Canada,1996-09-26,Nuevo,Emiliano Zapata Sur,RICARDO FLORES MAGÓN,Escolarizada,"Calle 21 102B x 20 y 22, 97400 Telchac, Yucatán",Licenciatura,Diseño de Modas Escolar,MAT,Enero-Abril
+1817042,Masculino,Mexicana,Chihuahua,29/09/2003,Repetidor,Dzityá,MEXICANA DEL MAYAB,Escolarizada,"Calle 61 322, 97169 Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817048,Masculino,Mexicana,Ciudad de Mexico,1995-08-22,Repetidor,San Ramón Norte,COBAY TIXKOKOB,Escolarizada,"97470 Tixkokob, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1817006,H,Mexicana,Aguascalientes,07-29-2002,Nuevo,Altabrisa,COLEGIO DE BACHILLERES CHIAPAS,Escolarizada,"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817035,M,MX,Sinaloa,09/08/2003,Nuevo,Montecristo,EMSAD 07 EL DESENGAÑO,Escolarizada,"Carretera Justo Sierra-El Desengaño Candelaria, Campeche",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817025,F,Mexicana,Quintana Roo,1998-06-18,Equivalencia,Juan Pablo II,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolarizada,"50 Avenida Sur, C. 27 Sur, San Miguel I, Cozumel, Q.R.",LIC,Odontología,Matutino,Enero-Junio
+1817041,Femenino,MX,Puebla,09/12/1995,Nuevo,Montes de Amé,CECYTE QUINTANA ROO,Escolarizada,"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817013,Fem,Mexicana,San Lorenzo,2003-04-17,Equivalencia,Montecristo,BETANCOURT - BRISAS,Escolarizada,"Calle 25 S/N, Brisas del Pasaje, 97144 Mérida, Yuc.",LIC,Odontología,Vespertino,Enero-Junio
+1817005,Masculino,mexicano,Canada,1996-12-18,Repetidor,San Antonio Kaua,COLEGIO BACHILLERES DE TABASCO 46,Escolarizada,"Villa las Flores, 86780 Jonuta, Tab.",LIC,Odontología,VESP,Enero-Junio
+1817025,H,México,Campeche,1995-09-21,Nuevo,Mulsay,IBCEY,Escolarizada,"Calle 31b #360 X 26 y 28, Col. Adolfo López Mateos, Mérida, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1817003,Masculino,México,Sinaloa,05-18-1999,Reinscrito,García Ginerés,COBAY CELESTUN,Escolarizada,"C. 6 6480, Benito Juárez, 97367 Celestún, Yuc.",LIC,Odontología,Matutino,Agosto-Diciembre
+1817043,M,Mexicana,Baja California,03-11-2000,Reinscrito,Chuburná de Hidalgo,COBAY KIMBILA,Escolarizada,"Calle 13 0 S/N Kimbilá, Yuc.",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1812014,Femenino,MX,Baja California,15/01/2004,Reinscrito,Campestre,COLEGIO DE BACHILLERES QUINTANA ROO,Escolarizada,"Calle 12 Entre Avenida 30, 77710 Playa del Carmen",Licenciatura,Contaduría Pública Escolar,MAT,Septiembre-Diciembre
+1806026,H,Mexicana,Sinaloa,01-01-2004,Reinscrito,Wallis,COLEGIO DEL GOLFO DE MERIDA,Escolarizada,"Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán",LIC,Diseño de Modas Escolar,Vespertino,Mayo-Agosto
+1837023,Masculino,México,Monterrey,10-31-2002,Equivalencia,Miguel Alemán,COBAY YAXCABA,Mixto/Sabatino,"C. 22, 97920 Yaxcabá, Yuc.",ING,Ingeniería Civil MIX,Vespertino,Enero-Abril
+1817037,Masculino,Mexicana,Aguascalientes,1997-09-21,Nuevo,Miguel Alemán,COBAY ABALA,Escolarizada,"Unnamed Road, 97825 Abalá, Yuc.",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817007,H,MX,Quintana Roo,10-19-2000,Nuevo,Pensiones,CBTIS 111 CANCUN,Escolarizada,"Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.",LIC,Odontología,MAT,Agosto-Diciembre
+1817016,M,mexicano,Aguascalientes,05/12/1998,Reinscrito,Nueva Kukulcán,GONZALO CAMARA ZAVALA,Escolarizada,"Calle 60 602, Col. Centro, CP 97000, Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817018,Fem,MX,Chihuahua,1998-07-10,Nuevo,Wallis,UNIVERSIDAD AUTONOMA DEL CARMEN,Escolarizada,"C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",LIC,Odontología,MAT,Agosto-Diciembre
+1817033,Fem,MX,Ciudad de Mexico,1996-03-14,Nuevo,Altabrisa,COLEGIO DE BACHILLERES QUINTANA ROO,Escolarizada,"Calle 12 Entre Avenida 30, 77710 Playa del Carmen",LIC,Odontología,MAT,Enero-Junio
+1812008,M,mexicano,Chiapas,2002-02-24,Equivalencia,Itzimná,CETIS 68,Escolarizada,"Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.",Licenciatura,Contaduría Pública Escolar,VESP,Septiembre-Diciembre
+1817019,H,mexicano,Veracruz,1999-08-10,Equivalencia,Mayapán,ESCUELA NACIONAL PREPARATORIA 4 VIDAL CASTAÑEDA Y,Escolarizada,"Av Observatorio 170-P. B, Observatorio, Miguel Hidalgo, 11860 Ciudad de México",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1817046,Fem,México,Monterrey,1995-07-20,Reinscrito,Centro,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1817009,H,México,Sinaloa,06-21-2004,Equivalencia,Dzityá,PREPARATORIA MODELO,Escolarizada,"Paseo de Montejo No.444, Centro, 97000 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1801011,Masculino,mexicano,Monterrey,1999-08-25,Equivalencia,Miguel Alemán,UNIVERSIDAD TECMILENIO,Escolarizada,"Calle 53 Diagonal S/N, 97302 Mérida, Yucatán",LIC,Arquitectura Escolar,Vespertino,Mayo-Agosto
+1825024,H,mexicano,Yucatán,02-07-1998,Reinscrito,Xoclán,SERVICIO NACIONAL DE BACHILLERATO EN LINEA,Mixto/Sabatino,N/A,Licenciatura,Nutrición MIX,MAT,Mayo-Agosto
+1817024,F,México,Sinaloa,01-10-2002,Nuevo,Ciudad Caucel,UNIVERSIDAD AUTONOMA DEL CARMEN,Escolarizada,"C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",Licenciatura,Odontología,Vespertino,Enero-Junio
+1817045,H,mexicano,Campeche,1999-08-14,Equivalencia,Pensiones,PREPARATORIA 1 UADY,Escolarizada,"en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817005,M,Mexicana,Sinaloa,07-09-2002,Reinscrito,San Ramón Norte,CENTENNIAL COLLEGIATE VOCATIONAL INSTITUTE,Escolarizada,"289 College Ave W, Guelph, ON N1G 1S9, Canada",Licenciatura,Odontología,Vespertino,Enero-Junio
+1812049,F,Mexicana,Monterrey,1995-01-22,Nuevo,García Ginerés,COLEGIO EDUCACION Y PATRIA,Escolarizada,"Calle 64 x 57 y 59 No.485, Centro, 97000 Mérida, Yucatán",LIC,Contaduría Pública Escolar,Vespertino,Mayo-Agosto
+1806041,F,MX,Puebla,1998-11-25,Nuevo,San Antonio Kaua,COLEGIO DE BACHILLERES QUINTANA ROO,Escolarizada,"Calle 12 Entre Avenida 30, 77710 Playa del Carmen",LIC,Diseño de Modas Escolar,MAT,Mayo-Agosto
+1810015,Fem,Mexicana,Baja California,10-22-2001,Equivalencia,Pensiones,COBATAB,Escolarizada,"2000,, Av. Paseo La Choca 100, Parque Tabasco, 86035 Villahermosa, Tab.",LIC,Fisioterapia Escolar,MAT,Septiembre-Diciembre
+1825023,Masculino,Mexicana,Campeche,02-10-2003,Reinscrito,Francisco de Montejo,UVM,Mixto/Sabatino,"Calle 79 500, Dzityá Polígono, 97302 Mérida, Yucatán",Licenciatura,Nutrición MIX,VESP,Enero-Abril
+1820017,Femenino,México,Puebla,09-12-1997,Repetidor,Jardines del Norte,EDUCACION INTEGRAL Y ACTIVA EDAI,Mixto/Sabatino,"Av. Yucatán No. 524-1 x 22 y 24, Maya, 97134 Mérida, Yucatán, ",LIC,Arquitectura MIX,Matutino,Septiembre-Diciembre
+1838011,Masculino,Mexicana,Michoacán,10-24-2000,Reinscrito,Mulsay,CENTRO EDUCATIVO SIGLO XXI,Mixto/Sabatino,"C. 21 216, entre 60 Y 62, Zona Dorada II, 97226 Mérida, Yuc.",Ingeniería,Ingeniería De Procesos De Manufactura MIX,MAT,Enero-Abril
+1801013,Masculino,México,Michoacán,11-05-1998,Reinscrito,Jardines del Norte,CEC Y TES,Escolarizada,"Jardines del Nte., 97139 Mérida, Yuc.",Licenciatura,Arquitectura Escolar,VESP,Enero-Abril
+1816009,Fem,Mexicana,Ciudad de Mexico,18/06/1997,Repetidor,Mayapán,LUIS ALVAREZ BARRET,Escolarizada,"Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158",LIC,Criminología Escolar,VESP,Enero-Abril
+1838017,Masculino,mexicano,San Lorenzo,21/09/1996,Equivalencia,Xoclán,CBETIS 120,Mixto/Sabatino,"C. 13 101 por 60, 97205 Mérida, Yucatán",Ingeniería,Ingeniería De Procesos De Manufactura MIX,MAT,Septiembre-Diciembre
+1817017,H,MX,Chiapas,03-15-2003,Nuevo,Jardines del Norte,CBETIS 120,Escolarizada,"C. 13 101 por 60, 97205 Mérida, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1832045,F,México,Aguascalientes,09-27-2002,Nuevo,México,COLEGIO AMERICANO,Mixto/Sabatino,"C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",Licenciatura,Contaduría Pública MIX,Vespertino,Septiembre-Diciembre
+1817003,F,México,Chihuahua,2002-07-08,Equivalencia,Pensiones,INSTITUTO PATRIA,Escolarizada,"Periférico Norte km. 2.5, San Ramón Nte, 97117 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1810003,M,MX,Yucatán,21/12/1999,Equivalencia,Montes de Amé,COBATAB,Escolarizada,"2000,, Av. Paseo La Choca 100, Parque Tabasco, 86035 Villahermosa, Tab.",LIC,Fisioterapia Escolar,MAT,Enero-Abril
+1820035,M,México,Canada,06-13-1996,Reinscrito,México,PREPARATORIA LAFAYETTE,Mixto/Sabatino,"Calle 35 No. Sn, Colonia Cuauhtemoc, Ciudad Del Carmen, Carmen, Campeche C.P. 24170",LIC,Arquitectura MIX,VESP,Mayo-Agosto
+1837006,F,MX,Baja California,05-11-2000,Repetidor,Francisco de Montejo,CESMAC,Mixto/Sabatino,"C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.",Ingeniería,Ingeniería Civil MIX,VESP,Enero-Abril
+1825006,Femenino,México,Chihuahua,2002-04-10,Nuevo,Montes de Amé,INEVE,Mixto/Sabatino,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",LIC,Nutrición MIX,VESP,Mayo-Agosto
+1838001,F,mexicano,Aguascalientes,10-23-2002,Reinscrito,Las Américas,COLEGIO AMERICANO,Mixto/Sabatino,"C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.",Ingeniería,Ingeniería De Procesos De Manufactura MIX,MAT,Septiembre-Diciembre
+1817038,M,México,Baja California,08-15-2001,Nuevo,Ciudad Caucel,PLANTEL AZTECA,Escolarizada,"Calle 23 s/n x 44a y 44b CCT 31EBH0004B, Mérida, Mexico, 97219",LIC,Odontología,VESP,Enero-Junio
+1817024,Fem,mexicano,Aguascalientes,12-13-2004,Nuevo,Miguel Alemán,JOSEFINA ROSADO DE PATRON,Escolarizada,"Calle 67, NO. 437 entre Calle 40 y Calle 38, Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817010,F,Mexicana,Tamaulipas,13/01/1997,Equivalencia,Montecristo,COBAY BACA,Escolarizada,"Calle 26 No. 107 Int. 0sn, Villa Baca, Baca, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817044,Masculino,Mexicana,Tabasco,1999-02-23,Repetidor,Centro,COLEGIO DE BACHILLERES CHIAPAS,Escolarizada,"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",Licenciatura,Odontología,MAT,Enero-Junio
+1815015,F,MX,Tamaulipas,09-11-1997,Reinscrito,Temozón Norte,IMEI - CIUDAD DE MEXICO,Escolarizada,"Calle 4 242, 08100 Ciudad de México, México",LIC,Psicología Escolar,MAT,Mayo-Agosto
+1810019,M,MX,Veracruz,27/06/1995,Repetidor,Temozón Norte,PREPARATORIA MUNA,Escolarizada,"Calle 19, colonia Ninguno, municipio Muna, Yucatán, C.P. 97840",Licenciatura,Fisioterapia Escolar,Vespertino,Septiembre-Diciembre
+1836011,Femenino,mexicano,Monterrey,1998-12-18,Nuevo,Bojórquez,FELIPE ESCALANTE RUZ - BRISAS,Mixto/Sabatino,"97115 Mérida, Yucatán·",LIC,Gastronomía MIX,MAT,Enero-Abril
+1814009,F,Mexicana,Aguascalientes,1998-08-28,Reinscrito,Montes de Amé,PREPARATORIA MEXICO,Escolarizada,"C. 72 453, 97000 Mérida, Yucatán",Licenciatura,Administración de Empresas Escolar,MAT,Septiembre-Diciembre
+1832028,Fem,Mexicana,Aguascalientes,17/08/2000,Reinscrito,Mayapán,PREPARATORIA LIBRE,Mixto/Sabatino,"Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",Licenciatura,Contaduría Pública MIX,MAT,Septiembre-Diciembre
+1809027,Masculino,mexicano,Monterrey,03-08-2001,Repetidor,México,COBAY TZUCACAB,Escolarizada,"C. 30, 97960 Tzucacab, Yuc.",Licenciatura,Enfermería Escolar,VESP,Enero-Abril
+1828049,H,mexicano,Baja California,06-25-2005,Reinscrito,Montes de Amé,"COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO",Mixto/Sabatino,"Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico",Licenciatura,Psicología MIX,VESP,Mayo-Agosto
+1817008,M,Mexicana,Quintana Roo,28/01/1998,Nuevo,Mulsay,ALIANZ COMUNIDAD ESTUDIANTIL,Escolarizada,"Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.",LIC,Odontología,VESP,Enero-Junio
+1838023,M,mexicano,Michoacán,2002-10-04,Repetidor,Temozón Norte,COBAY TEABO,Mixto/Sabatino,"Calle 23 57, 97910 Teabo, Yucatán",ING,Ingeniería De Procesos De Manufactura MIX,VESP,Mayo-Agosto
+1817015,Femenino,Mexicana,Sinaloa,2002-04-04,Equivalencia,San Ramón Norte,COLEGIO DE BACHILLERES No. 8 TABASCO,Escolarizada,"Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.",LIC,Odontología,VESP,Agosto-Diciembre
+1833049,Femenino,MX,Chiapas,04-27-1998,Equivalencia,Ciudad Caucel,CEC Y TES,Mixto/Sabatino,"Jardines del Nte., 97139 Mérida, Yuc.",LIC,Diseño de Modas MIX,VESP,Mayo-Agosto
+1831032,Femenino,mexicano,Aguascalientes,04-03-2005,Equivalencia,Las Américas,ENEP UNAM SEP,Mixto/Sabatino,"Av. Observatorio 170, Observatorio, Miguel Hidalgo, 11860 Ciudad de México, CDMX.",Licenciatura,Ciencias De La Educación MIX,Vespertino,Mayo-Agosto
+1806031,H,MX,Sinaloa,02-12-1995,Equivalencia,México,COLEGIO YUCATAN,Escolarizada,"Calle 26 #254 x 37, Limones, CP 97219, Mérida, Yucatán, México.",Licenciatura,Diseño de Modas Escolar,MAT,Enero-Abril
+1817015,F,México,Campeche,03-13-1998,Reinscrito,Francisco de Montejo,COBAY DZIDZANTUN,Escolarizada,"Calle 23, entre 20 y 22 s/n. colonia Emiliano Zapata, Dzidzantún",LIC,Odontología,MAT,Enero-Junio
+1820042,F,Mexicana,Yucatán,30/10/1999,Equivalencia,Chuburná de Hidalgo,UNACAR - CAMPUS II,Mixto/Sabatino,"Av Concordia, 24180 Carmen, Campeche",LIC,Arquitectura MIX,VESP,Mayo-Agosto
+1817049,M,Mexicana,Chihuahua,04-06-1998,Reinscrito,Salvador Alvarado Sur,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1835031,Fem,México,Yucatán,08/04/1996,Nuevo,Campestre,LUIS ALVAREZ BARRET,Mixto/Sabatino,"Calle 53 # 373, Entre 32 y 24. Chuminópolis, Chuminópolis, Mexico, 97158",LIC,Derecho MIX,MAT,Enero-Abril
+1817025,Masculino,México,Veracruz,2001-02-04,Repetidor,Dzityá,PREPARATORIA JUVENTUS,Escolarizada,"Calle 65 543.A, Parque Santiago, Centro, 97000 Mérida, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817032,F,Mexicana,San Lorenzo,2003-09-30,Reinscrito,Altabrisa,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1810026,Masculino,Mexicana,Yucatán,01/08/2004,Repetidor,Jardines del Norte,CESMAC,Escolarizada,"C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.",Licenciatura,Fisioterapia Escolar,VESP,Enero-Abril
+1817024,Femenino,MX,Canada,1995-11-28,Equivalencia,Las Américas,ALIANZ COMUNIDAD ESTUDIANTIL,Escolarizada,"Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1836031,M,México,Baja California,02-11-1995,Nuevo,Nueva Kukulcán,UNACAR - CAMPUS II,Mixto/Sabatino,"Av Concordia, 24180 Carmen, Campeche",LIC,Gastronomía MIX,Matutino,Septiembre-Diciembre
+1806016,H,Mexicana,Monterrey,2005-06-19,Reinscrito,Las Américas,SALVADOR ALVARADO,Escolarizada,"Cll 20 302, 97205 Mérida, Yucatán",LIC,Diseño de Modas Escolar,Matutino,Enero-Abril
+1817006,M,mexicano,Michoacán,2004-10-26,Repetidor,Dzityá,COLEGIO DEL GOLFO DE MERIDA,Escolarizada,"Av. Itzaes No. 476-P Col. Centro, 97000 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817010,Masculino,México,Veracruz,1997-03-31,Reinscrito,Centro,PREPARATORIA #5 AGUSTIN FRANCO VILLANUEVA,Escolarizada,"Calle 67 por 50, 97000 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1817017,Masculino,MX,Chiapas,1996-01-04,Equivalencia,Temozón Norte,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1817042,Masculino,Mexicana,Monterrey,03-24-1996,Reinscrito,Montecristo,COLEGIO DE BACHILLERES PLANTEL JMM,Escolarizada,"Av. Miguel Hidalgo Y Costilla S/N Colonia Guadalupe, C.P 78890, José María Morelos, Quintana Roo",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1817003,Masculino,Mexicana,Campeche,06-14-1999,Repetidor,Chuburná de Hidalgo,PREPA LIBRE SEP,Escolarizada,N/A,Licenciatura,Odontología,Vespertino,Enero-Junio
+1806007,H,México,Ciudad de Mexico,08-23-2003,Equivalencia,San Ramón Sur,CETIS 68,Escolarizada,"Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.",Licenciatura,Diseño de Modas Escolar,MAT,Mayo-Agosto
+1831031,Femenino,Mexicana,Baja California,2003-10-21,Nuevo,Altabrisa,COBAY KANASIN,Mixto/Sabatino,"Calle 14 S/N x 33, 97370 Kanasín, Yucatán",Licenciatura,Ciencias De La Educación MIX,MAT,Septiembre-Diciembre
+1817048,Fem,MX,Tamaulipas,27/07/1997,Reinscrito,Centro,COLEGIO BACHILLERES DE TABASCO 46,Escolarizada,"Villa las Flores, 86780 Jonuta, Tab.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1820025,Fem,México,Michoacán,19/05/2001,Nuevo,Montes de Amé,COBAY KINCHIL,Mixto/Sabatino,"Calle 18 SN, Kinchil, Yucatán",LIC,Arquitectura MIX,MAT,Septiembre-Diciembre
+1815039,M,México,Aguascalientes,1997-06-17,Equivalencia,Salvador Alvarado Sur,PREPARATORIA 1 UADY,Escolarizada,"en CIL-UADY, Calle 41 entre 14, 97150 Mérida, Yucatán",Licenciatura,Psicología Escolar,Matutino,Enero-Abril
+1817013,H,MX,Aguascalientes,1999-07-16,Reinscrito,Altabrisa,INSTITUTO MEXICO,Escolarizada,"Calle 50 290, Roma, 97218 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817015,F,Mexicana,Ciudad de Mexico,2001-02-02,Nuevo,Ciudad Caucel,COBAY TICUL,Escolarizada,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",Licenciatura,Odontología,Vespertino,Agosto-Diciembre
+1828044,M,México,Campeche,05/02/1995,Nuevo,Wallis,UABIC,Mixto/Sabatino,"Calle 185 20, 97315 Mérida, Yucatán",Licenciatura,Psicología MIX,MAT,Mayo-Agosto
+1820005,Fem,Mexicana,Tabasco,1999-11-29,Nuevo,Nueva Kukulcán,RICARDO FLORES MAGÓN,Mixto/Sabatino,"Calle 21 102B x 20 y 22, 97400 Telchac, Yucatán",LIC,Arquitectura MIX,Vespertino,Enero-Abril
+1817007,M,mexicano,Ciudad de Mexico,05-09-2002,Nuevo,Nueva Kukulcán,INEVE,Escolarizada,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",Licenciatura,Odontología,Vespertino,Enero-Junio
+1813007,Masculino,mexicano,Puebla,2000-04-11,Reinscrito,Francisco de Montejo,ALIANZ COMUNIDAD ESTUDIANTIL,Escolarizada,"Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.",LIC,Nutrición Escolar,Vespertino,Enero-Abril
+1817029,F,MX,Chihuahua,09-03-2000,Nuevo,Mulsay,IMEI - CIUDAD DE MEXICO,Escolarizada,"Calle 4 242, 08100 Ciudad de México, México",Licenciatura,Odontología,MAT,Enero-Junio
+1816021,H,Mexicana,Chiapas,2004-04-01,Reinscrito,San Ramón Sur,PREPARATORIA 3 UADY,Escolarizada,"Calle 185 sin número X 90-B y 92 San Luis Sur y Avenida 86 Mérida, Yucatán",Licenciatura,Criminología Escolar,MAT,Septiembre-Diciembre
+1827047,H,Mexicana,San Lorenzo,02-24-1999,Nuevo,Mulsay,CBTIS 126 CAMPECHE,Mixto/Sabatino,"24902, Calle 22-A 4100, Fátima, 24902 Calkiní, Camp.",Licenciatura,Administración de Empresas MIX,VESP,Mayo-Agosto
+1808031,F,MX,Puebla,01/04/1995,Repetidor,Brisas,COBACH COZUMEL,Escolarizada,"50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.",LIC,Derecho Escolar,VESP,Septiembre-Diciembre
+1806012,F,MX,San Lorenzo,12-01-1999,Equivalencia,Mayapán,ALIANZ COMUNIDAD ESTUDIANTIL,Escolarizada,"Calle 24 No 318 y 320, San Pedro Cholul, 97138 Mérida, Yuc.",LIC,Diseño de Modas Escolar,Vespertino,Septiembre-Diciembre
+1817026,Fem,Mexicana,Canada,05-10-1996,Nuevo,Wallis,UPP PREPA,Escolarizada,"Av Jacinto Canek 739, Paseo de las Fuentes, 97230 Mérida, Yucatán",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1810043,Masculino,mexicano,Baja California,29/04/1997,Repetidor,Dolores Otero,FELIPE ESCALANTE RUZ - BRISAS,Escolarizada,"97115 Mérida, Yucatán·",LIC,Fisioterapia Escolar,VESP,Septiembre-Diciembre
+1810041,H,mexicano,Chihuahua,06/02/2005,Nuevo,Jardines del Norte,COLEGIO MESOAMERICANO,Escolarizada,"Calle 75, 542 A, Centro, Mérida, Yucatán",LIC,Fisioterapia Escolar,MAT,Septiembre-Diciembre
+1817027,Femenino,México,Chihuahua,10-30-2005,Reinscrito,Juan Pablo II,SALVADOR ALVARADO,Escolarizada,"Cll 20 302, 97205 Mérida, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1832031,Masculino,México,Baja California,10/02/1995,Equivalencia,Campestre,PREPARATORIA ESTATAL 2,Mixto/Sabatino,"Calle 20 Pedregales De Tanlum Mérida, Yucatán CP. 97210",LIC,Contaduría Pública MIX,VESP,Septiembre-Diciembre
+1817011,F,MX,Michoacán,23/10/1997,Equivalencia,Xoclán,COLEGIO DE BACHILLERES DE YUCATAN,Escolarizada,"Calle 34 No. 420 B x 35, Col. López Mateos, Mérida, Yucatán.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1810046,M,México,Tamaulipas,10/05/2002,Equivalencia,Brisas,COBAY BACA,Escolarizada,"Calle 26 No. 107 Int. 0sn, Villa Baca, Baca, Yucatán",LIC,Fisioterapia Escolar,Matutino,Enero-Abril
+1817032,H,MX,Chiapas,2003-03-31,Nuevo,Mulsay,UNIVERSIDAD MEXICO AMERICANA DEL NORTE A.C.,Escolarizada,"Primera s/n, Col. Círculo, CP 88640, Reynosa, Tamaulipas, México",Licenciatura,Odontología,Matutino,Enero-Junio
+1832021,Masculino,MX,Michoacán,14/05/1997,Equivalencia,Xoclán,UNIVERSIDAD CNCI,Mixto/Sabatino,"Calle 56 No. 508 Altos Centro, Mérida",LIC,Contaduría Pública MIX,Matutino,Mayo-Agosto
+1809002,F,Mexicana,Monterrey,2002-09-29,Reinscrito,San Ramón Norte,CONALEP MERIDA,Escolarizada,"Tablaje Catastral 31,800, Col. Polígono Chuburná, entre los km 38 y 39 del Periférico Poniente, Mérida, Yucatán",LIC,Enfermería Escolar,VESP,Enero-Abril
+1828016,M,MX,San Lorenzo,2003-05-26,Reinscrito,Dzityá,BACHILLERES AMERICAS,Mixto/Sabatino,"Boulevard Benito Juárez 1404, Monclova, Coahuila de Zaragoza.",Licenciatura,Psicología MIX,Matutino,Septiembre-Diciembre
+1817014,M,Mexicana,Aguascalientes,16/07/1999,Reinscrito,San Ramón Sur,UNIVERSIDAD AUTONOMA DEL CARMEN,Escolarizada,"C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",Licenciatura,Odontología,Matutino,Enero-Junio
+1832047,Fem,MX,Campeche,2002-02-11,Reinscrito,Nueva Kukulcán,COBAY SEYE,Mixto/Sabatino,"Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",LIC,Contaduría Pública MIX,Vespertino,Septiembre-Diciembre
+1817044,F,Mexicana,Chiapas,15/11/2002,Nuevo,Juan Pablo II,CBETIS 120,Escolarizada,"C. 13 101 por 60, 97205 Mérida, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817013,H,México,Veracruz,2004-07-07,Nuevo,Montes de Amé,COBAY CHENKU,Escolarizada,"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.",LIC,Odontología,Vespertino,Enero-Junio
+1833006,Femenino,México,Ciudad de Mexico,27/04/2004,Equivalencia,Juan Pablo II,PREPARATORIA MUNA,Mixto/Sabatino,"Calle 19, colonia Ninguno, municipio Muna, Yucatán, C.P. 97840",LIC,Diseño de Modas MIX,Matutino,Enero-Abril
+1817018,M,mexicano,Tabasco,1998-12-26,Nuevo,Dzityá,COLEGIO DE BACHILLERES No. 8 TABASCO,Escolarizada,"Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1833039,M,Mexicana,Quintana Roo,04-29-1997,Equivalencia,Mayapán,COBAY TICUL,Mixto/Sabatino,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",Licenciatura,Diseño de Modas MIX,MAT,Septiembre-Diciembre
+1827001,H,Mexicana,Puebla,07-27-1996,Reinscrito,Altabrisa,PREPARATORIA MIGUEL ANGEL,Mixto/Sabatino,"Calle 5 Sur N, 97139 Mérida, Yucatán",Licenciatura,Administración de Empresas MIX,Matutino,Mayo-Agosto
+1817027,Masculino,Mexicana,Campeche,01-20-2002,Nuevo,Xoclán,PREPARATORIA JUVENTUS,Escolarizada,"Calle 65 543.A, Parque Santiago, Centro, 97000 Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1817018,Masculino,México,Quintana Roo,03-23-2000,Nuevo,Bojórquez,COBAY SEYE,Escolarizada,"Calle Sin Referencia, Pueblo Seyé, Yucatán, C.P. 97570.",Licenciatura,Odontología,Vespertino,Enero-Junio
+1810035,Fem,MX,Tabasco,03/10/2004,Nuevo,Montes de Amé,CARLOS CASTILLO PERAZA,Escolarizada,"Calle 51, Francisco de Montejo, Mérida, Yucatán",Licenciatura,Fisioterapia Escolar,VESP,Mayo-Agosto
+1802030,M,MX,San Lorenzo,09/05/1999,Nuevo,Campestre,FRANCISCO DE MONTEJO Y LEON,Escolarizada,"Calle 47 No. 514-A x 62 y 64 Col. Centro C.P. 97000, Mérida, Yucatán",LIC,Ciencias De La Educación Escolar,Matutino,Septiembre-Diciembre
+1817034,Masculino,México,Ciudad de Mexico,2000-10-18,Reinscrito,Ciudad Caucel,INEVE,Escolarizada,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",LIC,Odontología,Vespertino,Agosto-Diciembre
+1836029,Femenino,México,Veracruz,09-05-1996,Repetidor,Mulsay,CECYTE QUINTANA ROO,Mixto/Sabatino,"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.",Licenciatura,Gastronomía MIX,MAT,Mayo-Agosto
+1817002,M,Mexicana,Veracruz,1995-07-26,Nuevo,Brisas,COBAY BUCTOZTZ,Escolarizada,"Calle 4, 21 Y 25, C. 4 SN, Centro, 97620 Buctzotz, Yucatán",LIC,Odontología,VESP,Enero-Junio
+1817037,M,mexicano,Canada,02/06/2003,Equivalencia,México,JOSE DOLORES RODRIGUEZ TICUL,Escolarizada,"Calle 18 No. 175, 97860 Ticul, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1808034,Fem,mexicano,Aguascalientes,13/09/1997,Equivalencia,Montecristo,FRANCISCO REPETO MILAN,Escolarizada,"Calle 78 541, Col. Centro, CP 97000, Mérida, Yucatán",Licenciatura,Derecho Escolar,VESP,Mayo-Agosto
+1817019,Femenino,mexicano,Campeche,07-20-2003,Equivalencia,Juan Pablo II,BACHILLERES AMERICAS,Escolarizada,"Boulevard Benito Juárez 1404, Monclova, Coahuila de Zaragoza.",Licenciatura,Odontología,MAT,Enero-Junio
+1817022,H,Mexicana,San Lorenzo,22/02/2004,Reinscrito,Juan Pablo II,SALVADOR ALVARADO,Escolarizada,"Cll 20 302, 97205 Mérida, Yucatán",LIC,Odontología,VESP,Agosto-Diciembre
+1804013,Fem,Mexicana,Tamaulipas,2004-12-02,Reinscrito,Campestre,"COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO",Escolarizada,"Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico",LIC,Gastronomía Escolar,Vespertino,Enero-Abril
+1825010,F,MX,Monterrey,18/06/1995,Equivalencia,Dolores Otero,PREPARATORIA 11,Mixto/Sabatino,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",LIC,Nutrición MIX,Vespertino,Mayo-Agosto
+1817044,Femenino,mexicano,Puebla,23/09/2004,Nuevo,San Ramón Norte,PREPA 7,Escolarizada,"Calle 12, 97149 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1810014,H,MX,San Lorenzo,22/10/1995,Reinscrito,Francisco de Montejo,PLANTEL COBAY SAN JOSE TZAL,Escolarizada,"Calle 21, 97315 San José Tzal, Yucatán",Licenciatura,Fisioterapia Escolar,MAT,Mayo-Agosto
+1837008,Fem,Mexicana,Monterrey,1996-12-29,Equivalencia,San Antonio Kaua,PREPARATORIA ESTATAL CTM #3,Mixto/Sabatino,"Calle 57A 744, 97160 Mérida",Ingeniería,Ingeniería Civil MIX,VESP,Enero-Abril
+1817039,Femenino,MX,Veracruz,02-21-2003,Repetidor,Montes de Amé,PREPARATORIA 11,Escolarizada,"Calle 59-C LOTE 950, 97000 Mérida, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817009,H,mexicano,Baja California,1998-10-26,Nuevo,Salvador Alvarado Sur,LUIS PASTEUR - CAMPECHE,Escolarizada,"Gobernadores No. 295 Huanal, 24070 Campeche, Campeche",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1817033,Fem,México,San Lorenzo,04-18-1997,Nuevo,Mayapán,CONRADO MENENDEZ DIAZ,Escolarizada,"Av Fidel Velázquez 849, 97169 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1831005,F,México,Tamaulipas,12-05-2004,Nuevo,Mayapán,CELA,Mixto/Sabatino,"Calle 21 No. 357A-x 26, San Pedro Cholul, 97138 Mérida, Yuc.",LIC,Ciencias De La Educación MIX,Matutino,Enero-Abril
+1808010,F,México,Baja California,02-02-2003,Nuevo,Jardines del Norte,CETIS 68,Escolarizada,"Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.",LIC,Derecho Escolar,MAT,Mayo-Agosto
+1817025,Masculino,México,Baja California,11-16-1999,Nuevo,Miguel Alemán,PREPARATORIA ESTATAL 2,Escolarizada,"Calle 20 Pedregales De Tanlum Mérida, Yucatán CP. 97210",LIC,Odontología,Vespertino,Enero-Junio
+1817030,H,mexicano,Chihuahua,2003-10-10,Repetidor,San Ramón Sur,PREPARATORIA ESTATAL 3,Escolarizada,"Calle 57A 744, 97160 Mérida",LIC,Odontología,VESP,Agosto-Diciembre
+1810011,M,Mexicana,Quintana Roo,2002-09-12,Reinscrito,Xoclán,UABIC,Escolarizada,"Calle 185 20, 97315 Mérida, Yucatán",LIC,Fisioterapia Escolar,Vespertino,Enero-Abril
+1817048,F,Mexicana,Ciudad de Mexico,1997-08-22,Repetidor,Salvador Alvarado Sur,FRANCISCO DE MONTEJO Y LEON,Escolarizada,"Calle 47 No. 514-A x 62 y 64 Col. Centro C.P. 97000, Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1816038,Masculino,MX,Campeche,04-09-2000,Repetidor,Francisco de Montejo,CESMAC,Escolarizada,"C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.",Licenciatura,Criminología Escolar,MAT,Enero-Abril
+1804002,Masculino,México,Ciudad de Mexico,07/10/1995,Nuevo,Ciudad Caucel,COLEGIO BENITO JUAREZ GARCIA,Escolarizada,"C. 107, Santa Rosa, 97279 Mérida, Yuc.",Licenciatura,Gastronomía Escolar,Matutino,Mayo-Agosto
+1832046,H,MX,Sinaloa,06-13-1998,Repetidor,Montes de Amé,BACHILLERATO EN LINEA UADY,Mixto/Sabatino,NA,LIC,Contaduría Pública MIX,Matutino,Mayo-Agosto
+1817019,Femenino,Mexicana,Tabasco,04-23-2004,Repetidor,Mayapán,PREPARATORIA ESTATAL 3,Escolarizada,"Calle 57A 744, 97160 Mérida",Licenciatura,Odontología,MAT,Enero-Junio
+1812019,H,mexicano,San Lorenzo,1995-11-24,Nuevo,Temozón Norte,COBAY XOCLAN,Escolarizada,"Calle 132 x 42, Xoclán Carmelitas, 97245 Mérida, Yucatán",Licenciatura,Contaduría Pública Escolar,Matutino,Enero-Abril
+1833036,Femenino,MX,Baja California,07-15-2001,Equivalencia,San Antonio Kaua,COLEGIO BENITO JUAREZ GARCIA,Mixto/Sabatino,"C. 107, Santa Rosa, 97279 Mérida, Yuc.",LIC,Diseño de Modas MIX,Vespertino,Enero-Abril
+1806016,H,mexicano,Monterrey,2002-06-30,Equivalencia,Brisas,CENTRO UNIVERSITARIO MONTEJO,Escolarizada,"Calle 60 No. 106 X 21 Y 23, 97205 Mérida, Yucatán ",Licenciatura,Diseño de Modas Escolar,MAT,Enero-Abril
+1817012,M,México,Tamaulipas,11-08-1997,Equivalencia,Campestre,COBAY ACANCEH,Escolarizada,"21 SN, Colonia las Palmas, Acanceh, Yucatán, México",Licenciatura,Odontología,VESP,Enero-Junio
+1810030,Fem,MX,Puebla,15/02/2003,Equivalencia,Bojórquez,FRANCISCO DE MONTEJO Y LEON,Escolarizada,"Calle 47 No. 514-A x 62 y 64 Col. Centro C.P. 97000, Mérida, Yucatán",Licenciatura,Fisioterapia Escolar,Matutino,Septiembre-Diciembre
+1825011,Femenino,MX,Veracruz,2000-12-26,Reinscrito,Mulsay,UNIVERSIDAD TECMILENIO,Mixto/Sabatino,"Calle 53 Diagonal S/N, 97302 Mérida, Yucatán",LIC,Nutrición MIX,MAT,Mayo-Agosto
+1817013,Femenino,mexicano,Veracruz,06-26-2000,Reinscrito,Dolores Otero,COBAY YAXCABA,Escolarizada,"C. 22, 97920 Yaxcabá, Yuc.",Licenciatura,Odontología,VESP,Agosto-Diciembre
+1815021,F,mexicano,Tabasco,1999-06-02,Equivalencia,Bojórquez,"COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO",Escolarizada,"Mansiones de Monte Sereno, 22 C. 3, San Lorenzo, 00754, Puerto Rico",LIC,Psicología Escolar,Matutino,Mayo-Agosto
+1817027,Fem,mexicano,Ciudad de Mexico,2000-04-24,Nuevo,Nueva Kukulcán,ESCUELA NACIONAL PREPARATORIA 4 VIDAL CASTAÑEDA Y,Escolarizada,"Av Observatorio 170-P. B, Observatorio, Miguel Hidalgo, 11860 Ciudad de México",LIC,Odontología,Matutino,Agosto-Diciembre
+1817003,F,mexicano,Chiapas,1998-03-31,Repetidor,Montecristo,UNACAR - CAMPUS II,Escolarizada,"Av Concordia, 24180 Carmen, Campeche",Licenciatura,Odontología,Matutino,Enero-Junio
+1817014,Femenino,mexicano,Campeche,02-08-2000,Equivalencia,Dolores Otero,UNIVERSIDAD DE MUNDO MAYA,Escolarizada,"Calle 51 por 50 y 48 #472 Col. Centro, C.P.97000, Mérida, Yucatán",Licenciatura,Odontología,Vespertino,Enero-Junio
+1837001,Masculino,México,Quintana Roo,29/11/2002,Repetidor,Montecristo,PREPARATORIA ESTATAL 3,Mixto/Sabatino,"Calle 57A 744, 97160 Mérida",Ingeniería,Ingeniería Civil MIX,Matutino,Enero-Abril
+1817007,M,México,Michoacán,11-04-2000,Reinscrito,Emiliano Zapata Sur,COBAY YAXCABA,Escolarizada,"C. 22, 97920 Yaxcabá, Yuc.",LIC,Odontología,Vespertino,Agosto-Diciembre
+1817046,Fem,MX,Monterrey,16/09/1999,Nuevo,Montecristo,IMEI - CIUDAD DE MEXICO,Escolarizada,"Calle 4 242, 08100 Ciudad de México, México",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817049,Masculino,mexicano,Canada,04-12-2005,Nuevo,Brisas,JOSE VASCONCELOS,Escolarizada,"Calle 59, 615E X 80 y 82, 97000 Mérida, Yucatán",Licenciatura,Odontología,MAT,Agosto-Diciembre
+1837028,Fem,México,Yucatán,06-01-2000,Reinscrito,México,PREPARATORIA ESTATAL No. 8,Mixto/Sabatino,"C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",ING,Ingeniería Civil MIX,MAT,Mayo-Agosto
+1814004,H,MX,Tamaulipas,02-04-1999,Equivalencia,Las Américas,CEIC PLAYA DEL CARMEN,Escolarizada,"Calle 22 Nte, Entre 50 y, Calle 55 Pte. &, Ejidal, 77712 Playa del Carmen, Q.R.",Licenciatura,Administración de Empresas Escolar,VESP,Septiembre-Diciembre
+1817042,H,Mexicana,Tabasco,2003-05-26,Nuevo,Miguel Alemán,COLEGIO SAN AGUSTIN,Escolarizada,"C. 58 480B, 97000 Mérida, Yucatán",LIC,Odontología,Vespertino,Agosto-Diciembre
+1836008,Masculino,MX,Chiapas,06-30-2005,Nuevo,Jardines del Norte,INEVE,Mixto/Sabatino,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",LIC,Gastronomía MIX,VESP,Enero-Abril
+1815046,H,MX,Tamaulipas,1995-02-20,Nuevo,Miguel Alemán,INEVE,Escolarizada,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",Licenciatura,Psicología Escolar,MAT,Septiembre-Diciembre
+1817038,Femenino,México,Yucatán,01-08-2001,Reinscrito,Brisas,BACHILLERES AMERICAS,Escolarizada,"Boulevard Benito Juárez 1404, Monclova, Coahuila de Zaragoza.",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1825006,Masculino,MX,Puebla,03-02-2001,Equivalencia,Francisco de Montejo,UNIVERSIDAD CNCI,Mixto/Sabatino,"Calle 56 No. 508 Altos Centro, Mérida",Licenciatura,Nutrición MIX,MAT,Mayo-Agosto
+1817024,Fem,Mexicana,Yucatán,18/09/1998,Repetidor,San Antonio Kaua,JOSEFINA ROSADO DE PATRON,Escolarizada,"Calle 67, NO. 437 entre Calle 40 y Calle 38, Mérida, Yucatán",Licenciatura,Odontología,MAT,Enero-Junio
+1817025,Masculino,mexicano,Chihuahua,04-12-2004,Repetidor,Campestre,CETMAR-PROGRESO,Escolarizada,"C. 83 681F, 97320 Progreso, Yucatán",Licenciatura,Odontología,Vespertino,Enero-Junio
+1817047,Fem,MX,Aguascalientes,2001-07-06,Nuevo,Campestre,COLEGIO EDUCACION Y PATRIA,Escolarizada,"Calle 64 x 57 y 59 No.485, Centro, 97000 Mérida, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817019,Femenino,Mexicana,Canada,02/08/1999,Reinscrito,Brisas,COBAY CACALCHEN,Escolarizada,"Calle 19 91, Ciudad Ninguno, Cacalchén, Yucatán. Cp. 97460",LIC,Odontología,VESP,Agosto-Diciembre
+1801030,Fem,mexicano,Canada,2005-12-22,Nuevo,Xoclán,PREPARATORIA MIGUEL ANGEL,Escolarizada,"Calle 5 Sur N, 97139 Mérida, Yucatán",LIC,Arquitectura Escolar,Vespertino,Mayo-Agosto
+1817008,H,MX,Puebla,13/10/1998,Repetidor,Mulsay,CELA,Escolarizada,"Calle 21 No. 357A-x 26, San Pedro Cholul, 97138 Mérida, Yuc.",Licenciatura,Odontología,VESP,Enero-Junio
+1817021,Fem,Mexicana,Campeche,20/06/1995,Repetidor,Ciudad Caucel,COBAY CHICXULUB PUEBLO,Escolarizada,"Calle 12 x 15 y 17 carretera hacienda Guadalupe, 97340 Chicxulub, Yucatán",LIC,Odontología,Vespertino,Enero-Junio
+1817035,Femenino,mexicano,Sinaloa,02-11-2000,Repetidor,Brisas,COBAY CELESTUN,Escolarizada,"C. 6 6480, Benito Juárez, 97367 Celestún, Yuc.",Licenciatura,Odontología,VESP,Enero-Junio
+1817023,H,MX,Sinaloa,24/01/2003,Reinscrito,García Ginerés,UNIVERSIDAD AUTONOMA DEL CARMEN,Escolarizada,"C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.",Licenciatura,Odontología,Matutino,Enero-Junio
+1817031,M,mexicano,Quintana Roo,2002-01-02,Reinscrito,Miguel Alemán,PREPARATORIA NO. 8,Escolarizada,"C. 51, Francisco de Montejo II X 58 y 60, 97203 Mérida, Yucatán",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1817022,Masculino,Mexicana,Veracruz,06/09/2003,Nuevo,Brisas,COBATAB,Escolarizada,"2000,, Av. Paseo La Choca 100, Parque Tabasco, 86035 Villahermosa, Tab.",LIC,Odontología,MAT,Agosto-Diciembre
+1835013,Femenino,MX,Chiapas,07-21-1996,Reinscrito,Salvador Alvarado Sur,COLEGIO DE BACHILLERES CHIAPAS,Mixto/Sabatino,"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.",LIC,Derecho MIX,Matutino,Enero-Abril
+1817001,H,México,Sinaloa,1999-02-12,Nuevo,San Ramón Sur,COBAY TEKAX,Escolarizada,"Calle 55 s/n x 78 y 84 Fraccionamiento Vivah, 97970 Tekax, Yucatán",LIC,Odontología,MAT,Agosto-Diciembre
+1817017,Femenino,mexicano,Chihuahua,07-03-1999,Repetidor,Bojórquez,PREPARATORIA #5 AGUSTIN FRANCO VILLANUEVA,Escolarizada,"Calle 67 por 50, 97000 Mérida, Yucatán",LIC,Odontología,MAT,Enero-Junio
+1836028,F,mexicano,Chiapas,29/09/2005,Repetidor,Mayapán,COBAY CHOLUL,Mixto/Sabatino,"97305 Mérida, Yucatán",LIC,Gastronomía MIX,Matutino,Enero-Abril
+1835049,Femenino,mexicano,Ciudad de Mexico,10-30-1995,Reinscrito,Mayapán,PREPARATORIA LIBRE,Mixto/Sabatino,"Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",LIC,Derecho MIX,VESP,Mayo-Agosto
+1838012,M,MX,Tamaulipas,09-11-1996,Reinscrito,San Antonio Kaua,INEVE,Mixto/Sabatino,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",Ingeniería,Ingeniería De Procesos De Manufactura MIX,MAT,Septiembre-Diciembre
+1806047,M,mexicano,Campeche,18/01/2000,Equivalencia,Dolores Otero,CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17,Escolarizada,"Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán",LIC,Diseño de Modas Escolar,MAT,Septiembre-Diciembre
+1817042,H,MX,Puebla,16/08/1998,Reinscrito,San Antonio Kaua,CBTIS 28 COZUMEL,Escolarizada,"Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.",LIC,Odontología,Matutino,Agosto-Diciembre
+1813029,Masculino,México,San Lorenzo,11-15-2004,Nuevo,Salvador Alvarado Sur,COBAY SANTA ROSA,Escolarizada,"Av. 1o. de Mayo x 107 y 109, 97279 Mérida, Yucatán",Licenciatura,Nutrición Escolar,Vespertino,Septiembre-Diciembre
+1817042,Femenino,mexicano,Yucatán,27/02/2005,Reinscrito,Dolores Otero,CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17,Escolarizada,"Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán",Licenciatura,Odontología,VESP,Enero-Junio
+1837024,M,MX,Tamaulipas,11-18-1997,Equivalencia,Las Américas,COLEGIO BACHILLERES DE TABASCO 46,Mixto/Sabatino,"Villa las Flores, 86780 Jonuta, Tab.",Ingeniería,Ingeniería Civil MIX,MAT,Mayo-Agosto
+1838021,Fem,México,Yucatán,08-26-2005,Reinscrito,Temozón Norte,CBTIS 28 COZUMEL,Mixto/Sabatino,"Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.",ING,Ingeniería De Procesos De Manufactura MIX,MAT,Mayo-Agosto
+1801009,Fem,mexicano,Chiapas,04-30-1995,Equivalencia,Centro,INSTITUTO FELTON,Escolarizada,"Calle 47-A #274 y 276 x 46 y 48 Fracc, Francisco de Montejo, 97203 Mérida, Yuc.",LIC,Arquitectura Escolar,Vespertino,Mayo-Agosto
+1808033,Fem,MX,Quintana Roo,24/04/1995,Nuevo,García Ginerés,COBAY HOMUN,Escolarizada,"97580 Homún, Yucatán",Licenciatura,Derecho Escolar,MAT,Mayo-Agosto
+1802011,M,México,Ciudad de Mexico,12/02/1995,Nuevo,Bojórquez,PREPARATORIA LIBRE,Escolarizada,"Calle Benito Juárez, Av. Soledad 707, 78430 Soledad de Graciano Sánchez, S.L.P.",LIC,Ciencias De La Educación Escolar,Matutino,Septiembre-Diciembre
+1806040,F,MX,Aguascalientes,02-15-1998,Equivalencia,Francisco de Montejo,COBAY TICUL,Escolarizada,"C. 41 X 24 Y 24A Col. Santiago, 97370 Kanasín, Yucatán",Licenciatura,Diseño de Modas Escolar,Vespertino,Mayo-Agosto
+1809033,Fem,MX,San Lorenzo,03-26-2002,Reinscrito,Xoclán,CEC Y TES,Escolarizada,"Jardines del Nte., 97139 Mérida, Yuc.",LIC,Enfermería Escolar,VESP,Mayo-Agosto
+1801022,Fem,MX,Quintana Roo,21/01/1995,Repetidor,Miguel Alemán,COBAY HALACHO,Escolarizada,"Calle 20, Colonia Salida, Halachó, Yucatán",LIC,Arquitectura Escolar,MAT,Septiembre-Diciembre
+1816039,Masculino,mexicano,Puebla,2001-06-20,Repetidor,Montes de Amé,PREPARATORIA #5 AGUSTIN FRANCO VILLANUEVA,Escolarizada,"Calle 67 por 50, 97000 Mérida, Yucatán",Licenciatura,Criminología Escolar,MAT,Enero-Abril
+1827012,Fem,mexicano,Tamaulipas,09/09/2003,Reinscrito,Francisco de Montejo,CONALEP MERIDA,Mixto/Sabatino,"Tablaje Catastral 31,800, Col. Polígono Chuburná, entre los km 38 y 39 del Periférico Poniente, Mérida, Yucatán",LIC,Administración de Empresas MIX,VESP,Mayo-Agosto
+1817033,M,mexicano,Canada,1998-01-13,Nuevo,Salvador Alvarado Sur,CBTIS 95,Escolarizada,"Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.",Licenciatura,Odontología,Matutino,Agosto-Diciembre
+1816036,M,Mexicana,Chihuahua,2005-03-27,Reinscrito,Juan Pablo II,CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO,Escolarizada,"97315 Mérida, Yucatán",Licenciatura,Criminología Escolar,Vespertino,Septiembre-Diciembre
+1801017,Femenino,Mexicana,Baja California,2005-07-21,Nuevo,Wallis,ROGERS HALL,Escolarizada,"Calle 21 No. 131 x 32 y 36 Col. Buenavista, Mérida, Yucatán",LIC,Arquitectura Escolar,MAT,Mayo-Agosto
+1808032,Fem,MX,Michoacán,06/08/2004,Repetidor,Miguel Alemán,PREPARATORIA PROGRESO,Escolarizada,"C. 44 145-7, 97320 Progreso, Yucatán",LIC,Derecho Escolar,Vespertino,Mayo-Agosto
+1801017,Femenino,MX,Michoacán,2002-01-16,Repetidor,Itzimná,JOSE VASCONCELOS,Escolarizada,"Calle 59, 615E X 80 y 82, 97000 Mérida, Yucatán",Licenciatura,Arquitectura Escolar,Matutino,Mayo-Agosto
+1827031,M,mexicano,Puebla,03/03/1998,Nuevo,Mulsay,CECYTE,Mixto/Sabatino,"Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.",Licenciatura,Administración de Empresas MIX,MAT,Septiembre-Diciembre
+1812019,F,mexicano,Campeche,2001-10-15,Repetidor,Ciudad Caucel,INEVE,Escolarizada,"S. Lorenzo 141, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, México",LIC,Contaduría Pública Escolar,VESP,Enero-Abril
+1817048,H,MX,Campeche,2002-09-29,Equivalencia,Dzityá,COBAY ABALA,Escolarizada,"Unnamed Road, 97825 Abalá, Yuc.",Licenciatura,Odontología,VESP,Enero-Junio
+1836046,M,MX,Quintana Roo,23/10/2005,Reinscrito,México,CBTA IZAMAL 185,Mixto/Sabatino,"C. 30 102, Guadalupe, 97540 Izamal, Yuc.",LIC,Gastronomía MIX,Matutino,Mayo-Agosto
+1815003,M,Mexicana,Campeche,12/11/1999,Repetidor,Dzityá,ACUERDO 286,Escolarizada,NA,Licenciatura,Psicología Escolar,Matutino,Mayo-Agosto
+1801014,Femenino,MX,Chihuahua,01-31-2001,Equivalencia,Itzimná,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolarizada,"50 Avenida Sur, C. 27 Sur, San Miguel I, Cozumel, Q.R.",Licenciatura,Arquitectura Escolar,Vespertino,Mayo-Agosto
+1817013,H,mexicano,Baja California,06-14-1996,Equivalencia,García Ginerés,COBAY KOMCHEN,Escolarizada,"Calle 14 por 31, Komchen, 97300 Komchén, Yucatán",LIC,Odontología,Matutino,Enero-Junio
+1817004,H,MX,Baja California,16/01/1999,Repetidor,Emiliano Zapata Sur,CEDART ERMILO ABREU GÓMEZ,Escolarizada,"Calle 21, Periférico Poniente, Colonia San Juan Bautista, 97200 Mérida, Yuc.",LIC,Odontología,MAT,Agosto-Diciembre
+1831008,M,MX,Chihuahua,04-05-2001,Nuevo,Salvador Alvarado Sur,VICTOR J. MANZANILLA J. - CANSAHCAB,Mixto/Sabatino,"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.",LIC,Ciencias De La Educación MIX,Vespertino,Enero-Abril
+1817041,M,MX,Sinaloa,2004-09-19,Equivalencia,Chuburná de Hidalgo,CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17,Escolarizada,"Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán",Licenciatura,Odontología,Matutino,Enero-Junio
+1817045,M,MX,Sinaloa,07/10/1997,Repetidor,Dolores Otero,ENEP UNAM SEP,Escolarizada,"Av. Observatorio 170, Observatorio, Miguel Hidalgo, 11860 Ciudad de México, CDMX.",Licenciatura,Odontología,Matutino,Enero-Junio
+1820013,Femenino,mexicano,Veracruz,12/05/2002,Equivalencia,México,PREPARATORIA MIGUEL ANGEL,Mixto/Sabatino,"Calle 5 Sur N, 97139 Mérida, Yucatán",Licenciatura,Arquitectura MIX,Matutino,Septiembre-Diciembre
+1837045,Masculino,Mexicana,Chiapas,04-25-2003,Nuevo,San Ramón Sur,PREPARATORIA 3 UADY,Mixto/Sabatino,"Calle 185 sin número X 90-B y 92 San Luis Sur y Avenida 86 Mérida, Yucatán",Ingeniería,Ingeniería Civil MIX,VESP,Enero-Abril
+1804021,Masculino,Mexicana,Tabasco,07-10-1999,Nuevo,Centro,PLANTEL AZTECA,Escolarizada,"Calle 23 s/n x 44a y 44b CCT 31EBH0004B, Mérida, Mexico, 97219",Licenciatura,Gastronomía Escolar,Vespertino,Mayo-Agosto
+1817010,F,Mexicana,Campeche,28/03/2005,Repetidor,Campestre,COBAY VALLADOLID,Escolarizada,"Calle 32 S/N, Fernando Novelo, 97780 Valladolid, Yucatan",Licenciatura,Odontología,MAT,Enero-Junio

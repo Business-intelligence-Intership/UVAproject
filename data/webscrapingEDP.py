@@ -181,7 +181,7 @@ def procesar(lista):
     return data
 
 def guardar_csv(data):
-    with open("escuelas_clasificadas_final.csv", "w", newline="", encoding="utf-8") as f:
+    with open("escuelas_clasificadas_final_2.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=data[0].keys())
         writer.writeheader()
         writer.writerows(data)
@@ -191,6 +191,7 @@ def guardar_csv(data):
 # =========================
 if __name__ == "__main__":
     escuelas = [
+<<<<<<< HEAD
     "COBAY CACALCHEN",
     "PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL",
     "UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS",
@@ -205,13 +206,24 @@ if __name__ == "__main__":
     "BENITO JUAREZ DE TANTOYUCA VERACRUZ",
     "BETANCOURT -BRISAS",
     "COLEGIO BLAS PASCAL",
+=======
+   "COBAY CACALCHEN",
+   "PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL",
+   "UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS",
+   "ACUERDO 286",
+   "ALIANZA DE CAMIONEROS",
+   "BACHILLERATO EN LINEA UADY",
+   "BETANCOURT -BRISAS",    
+>>>>>>> Valeria
     "FELIPE ESCALANTE RUZ - BRISAS",
     "BACHILLERATO COMUNITARIO SAMAHIL",
     "COBAY BUCTOZTZ",
     "COBAY TIXKOKOB",
+<<<<<<< HEAD
     "CBTIS 111  CANCUN",
+=======
+>>>>>>> Valeria
     "CBETIS 120",
-    "CBTIS 126 CAMPECHE",
     "CBTIS 80",
     "COLEGIO AMERICANO",
     "COBACH COZUMEL",
@@ -221,21 +233,29 @@ if __name__ == "__main__":
     "COBAY TZUCACAB",
     "CBTA 13  XMATKUIL",
     "COBAY YAXCABA",
-    "COBAY ABALA",
     "PREPARATORIA ABIERTA CALAFIA",
+<<<<<<< HEAD
     "VICTOR J. MANZANILLA J. -CANSAHCAB",
     "CBTIS 28- COZUMEL",
     "COLEGIO BENITO JUAREZ GARCIA",
     "Centro de Bachillerato Tecnologico Agropecuario",
+=======
+    "CBTIS 28 COZUMEL",
+    "CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO",
+>>>>>>> Valeria
     "CBTA 165",
     "CBTA 178",
     "CBTIS 95",
-    "CBTIS 120 MÉRIDA",
+    "CENTRO DE BACHILLERATO TECNOLOGICO INDUSTRIAL Y DE SERVICIOS",
     "CARLOS CASTILLO PERAZA",
+<<<<<<< HEAD
     "CENTRO EDUCATIVO SIGLO XXI",
+=======
+>>>>>>> Valeria
     "CECYTE",
     "CECYTE PLANTEL POMUCH",
     "CECYTE QUINTANA ROO",
+<<<<<<< HEAD
     "CECYTE 16 TABASCO",
     "CEC Y TES",
     "CEDART Ermilo Abreu Gómez",
@@ -262,6 +282,26 @@ if __name__ == "__main__":
     "COLEGIO BACHILLERES TABASCO",
     "COBATAB",
     "COLEGIO DE BACHILLERES No.8 TABASCO",
+=======
+    "CEDART Ermilo Abreu Gómez",
+    "CEEAC",
+    "CEIC PLAYA DEL CARMEN",
+    "CENTRO EDUCATIVO MARIA GONZALEZ PALMA",
+    "COREM MERIDA",
+    "CENTRO ESCOLAR ROCHAVI",
+    "CETIS 112",
+    "CETIS 134",
+    "CETIS 68",
+    "COBAY CHOLUL",
+    "CEMA",
+    "UNIVERSIDAD CNCI",
+    "Colegio de Bachilleres del Estado de Campeche",
+    "COBACAM-CAMPECHE",
+    "COLEGIO DE BACHILLERES CHIAPAS",
+    "COLEGIO DE BACHILLERES QUINTANA ROO",
+    "COLEGIO BACHILLERES TABASCO",
+    "COLEGIO BACHILLERES DE TABASCO 46",
+>>>>>>> Valeria
     "COBAY PROGRESO",
     "COBAY 5",
     "COBAY ACANCEH",
@@ -269,7 +309,6 @@ if __name__ == "__main__":
     "COBAY CAUCEL",
     "COLEGIO DE BACHILLERES PLANTEL COZUMEL",
     "COBAY DZIDZANTUN",
-    "COBAY HALACHO",
     "COBAY KANASIN",
     "COBAY KIMBILA",
     "COBAY KINCHIL",
@@ -279,23 +318,35 @@ if __name__ == "__main__":
     "COBAY TECOH",
     "COBAY TICUL",
     "COBAY UMAN",
-    "COBAY VALLADOLID",
     "COBAY XOCLAN",
+<<<<<<< HEAD
     "PLANTEL COBAY SAN JOSE TZAL",
     "COBAY TEABO",
     "COBAY TIZIMIN",
     "COLEGIO DE BACHILLERES, PLANTEL JMM",
+=======
+>>>>>>> Valeria
     "COBAY SEYE",
     "COLEGIO MESOAMERICANO",
-    "COLEGIO DEL GOLFO DE MERIDA",
     "COMPLUTENSE CENTRO INTEGRADO, INC. SAN LORENZO",
+<<<<<<< HEAD
+=======
+    "CONALEP PLANTEL COZUMEL",
+    "COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA",
+>>>>>>> Valeria
     "CONALEP MERIDA",
     "CONALEP QUINTANA ROO",
     "CONRADO MENENDEZ DIAZ",
+<<<<<<< HEAD
     "CONSUELO ZAVALA",
+=======
+    "CRISMAR",
+    "CONALEP TIZIMIN",
+>>>>>>> Valeria
     "COBAY CUZAMA",
     "CUDEC",
     "CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO",
+<<<<<<< HEAD
     "CUM",
     "COLEGIO YUCATAN",
     "DAVID ALAFARO SIQUEIROS MIRAFLORES",
@@ -307,33 +358,55 @@ if __name__ == "__main__":
     "ELOISA PATRONN ROSADO",
     "EMSAD 07 EL DESENGAÑO",
     "ENEP UNAM SEP",
+=======
+    "COLEGIO YUCATAN",
+    "DAVID ALAFARO SIQUEIROS MIRAFLORES",
+    "COLEGIO EDUCACION Y PATRIA",
+    "ELIGIO ANCONA",
+    "ELOISA PATRONN ROSADO",
+    "ENP4 VIDAL CASTAÑEDA Y NAJERA",
+>>>>>>> Valeria
     "ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO",
     "PREPARATORIA ESTATAL NUM. 10",
     "PREPARATORIA ESTATAL #6 ALIANZA DE CAMIONEROS",
     "FRANCISCO DE MONTEJO Y LEON",
-    "FRANCISCO REPETO MILAN",
     "GONZALO CAMARA ZAVALA",
     "COBAY HUNUCMA",
     "INSTITUTO FELTON",
     "INCI - ALEMAN",
+<<<<<<< HEAD
     "INEVE",
     "INSTITUTO COMERCIAL BANCARIO",
     "Instituto David Alfaro",
+=======
+    "INSTITUTO PATRIA",
+    "INSTITUTO COMERCIAL BANCARIO",
+>>>>>>> Valeria
     "INSTITUTO MEXICO",
-    "JOSE MARIA MORELOS Y PAVON",
+    "ITECOS",
     "JOSE VASCONCELOS",
-    "JOSEFINA ROSADO DE PATRON",
     "PREPARATORIA JUVENTUS",
+<<<<<<< HEAD
     "cobay komchen",
     "PREPARATRIA LAFAYETTE",
     "LUIS ALVAREZ BARRET",
     "MAHATMA GANDHI",
     "CETMAR-PROGRESO",
+=======
+    "COBAY KOMCHEN",
+    "LUIS PASTEUR - CAMPECHE",
+    "LIBERTADES DE AMERICA",
+    "LUIS ALVAREZ BARRET",
+    "MAHATMA GANDHI",
+    "CETMAR-PROGRESO",
+    "COLEGIA MANUEL SANCHEZ MARMOL",
+>>>>>>> Valeria
     "MANUEL CRESCENCIO REJON",
     "MEXICANA DEL MAYAB",
     "PREPARATORIA MODELO",
     "CENTRO EDUCATIVO MOTULEÑO",
     "PREPARATORIA MUNA",
+<<<<<<< HEAD
     "COBAY PLANTEL PETO",
     "PREPA ACANCEH",
     "PREPARATORIA BENITO JUAREZ CDAD DEL CARMEN",
@@ -361,6 +434,9 @@ if __name__ == "__main__":
     "PREPARATORIA 4",
     "PRONACE",
     "REPUBLICA DE MEXICO"
+=======
+    "UNIVERSIDAD DE MUNDO MAYA"
+>>>>>>> Valeria
     ]
 
     data = procesar(escuelas)

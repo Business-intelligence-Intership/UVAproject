@@ -1,0 +1,1057 @@
+matricula,sexo,nacionalidad,lugar_nacimiento,fecha_nacimiento,colonia,escuela_procedencia,modalidad,ubicacion_escuela_procedencia,nivel,carrera,turno,ciclo
+202000000,Mujer,Mexicana,Quintana Roo,2004-07-23,San Ramón Sur,COBAY TECOH,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000001,Mujer,Mexicana,Yucatán,2005-06-28,Ciudad Caucel,COBAY CUZAMA,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000002,Mujer,Mexicana,Yucatán,1993-07-17,García Ginerés,COBACAM-CAMPECHE,Mixto,Merida,Licenciatura,Criminología,Sabatino,2020-1
+202000003,Hombre,Mexicana,Yucatán,2006-04-02,Dzityá,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000004,Mujer,Mexicana,Tabasco,2008-07-05,Wallis,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000005,Mujer,Mexicana,Yucatán,2007-12-12,San Ramón Norte,COBAY ABALA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000006,Mujer,Mexicana,Yucatán,2005-04-28,Jardines del Norte,COBAY KANASIN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000007,Mujer,Mexicana,Quintana Roo,2002-12-04,San Ramón Norte,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000008,Hombre,Mexicana,Yucatán,2008-04-08,Dzityá,FRANCISCO REPETO MILAN,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2020-1
+202000009,Hombre,Mexicana,Yucatán,2007-02-10,México,COBAY TEKIT,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000010,Mujer,Mexicana,Yucatán,2004-08-08,San Antonio Kaua,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000011,Mujer,Mexicana,Quintana Roo,2006-01-21,Chuburná de Hidalgo,PREPARATORIA MEXICO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000012,Hombre,Mexicana,Yucatán,2008-03-30,Xoclán,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2020-1
+202000013,Hombre,Mexicana,Yucatán,2008-06-09,Xoclán,COLEGIO DE BACHILLERES QUINTANA ROO,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000014,Hombre,Mexicana,Yucatán,2002-09-13,San Ramón Norte,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000015,Mujer,Mexicana,Yucatán,1993-03-12,San Ramón Norte,COBAY SOTUTA,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000016,Mujer,Mexicana,Yucatán,1989-12-18,México,COBAY DZIDZANTUN,Mixto,Municipio,Licenciatura,Enfermería,Sabatino,2020-1
+202000017,Mujer,Mexicana,Yucatán,1999-05-28,Bojórquez,CUM,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000018,Mujer,Mexicana,Tabasco,2004-03-19,Dzityá,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000019,Mujer,Mexicana,Yucatán,2003-09-10,Las Américas,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000020,Hombre,Mexicana,Yucatán,2005-06-14,Jardines del Norte,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000021,Hombre,Mexicana,Yucatán,2009-01-09,Mulsay,PREPARATORIA ESTATAL 3,Escolar,Merida,Licenciatura,Ing. Manufactura,Vespertino,2020-1
+202000022,Hombre,Mexicana,Yucatán,2005-02-06,San Ramón Sur,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000023,Hombre,Mexicana,Campeche,2007-08-28,Nueva Kukulcán,CBTIS 80,Escolar,Municipio,Licenciatura,Fisioterapia,Matutino,2020-1
+202000024,Mujer,Mexicana,Yucatán,2005-02-10,San Ramón Norte,INSTITUTO FELTON,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000025,Mujer,Mexicana,Campeche,1997-05-29,Campestre,COBAY UMAN,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000026,Hombre,Mexicana,Yucatán,2006-01-11,Wallis,DIEGO RIVERA,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000027,Mujer,Mexicana,Yucatán,2006-11-28,Pensiones,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000028,Hombre,Mexicana,Yucatán,2006-10-02,Nueva Kukulcán,COBAY CHENKU,Escolar,Municipio,Licenciatura,Odontología,Matutino,2020-1
+202000029,Mujer,Mexicana,Tabasco,2008-08-13,San Ramón Norte,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Mixto,Merida,Licenciatura,Criminología,Sabatino,2020-1
+202000030,Hombre,Mexicana,Yucatán,2003-10-10,Dolores Otero,UNACAR- CAMPUS II,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202000031,Hombre,Mexicana,Quintana Roo,2004-12-05,Salvador Alvarado Sur,PREPARATORIA ESTATAL 2,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000032,Mujer,Mexicana,Yucatán,1999-05-19,Ciudad Caucel,COLEGIO BACHILLERES OAXACA,Mixto,Foraneo,Licenciatura,Gastronomía,Sabatino,2020-1
+202000033,Mujer,Mexicana,Yucatán,2008-07-11,Juan Pablo II,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000034,Hombre,Mexicana,Campeche,2005-10-29,Francisco de Montejo,CBTA 13  XMATKUIL,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000035,Mujer,Mexicana,Quintana Roo,2006-10-12,Montecristo,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000036,Hombre,Mexicana,Yucatán,2007-06-26,San Ramón Sur,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000037,Mujer,Mexicana,Yucatán,1999-12-30,Mayapán,DIEGO RIVERA,Mixto,Merida,Licenciatura,Criminología,Sabatino,2020-1
+202000038,Hombre,Mexicana,Yucatán,2005-03-04,Nueva Kukulcán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000039,Mujer,Mexicana,Tabasco,2005-09-16,México,COBAY BACA,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000040,Mujer,Mexicana,Yucatán,1992-05-25,Pensiones,CONALEP MERIDA,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000041,Hombre,Mexicana,Yucatán,2001-08-05,Itzimná,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000042,Mujer,Mexicana,Yucatán,2007-01-14,Altabrisa,COBAY TECOH,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000043,Hombre,Mexicana,Yucatán,2007-12-17,Dzityá,PREPARATORIA ESTATAL 3,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000044,Mujer,Mexicana,Yucatán,2006-02-07,San Ramón Sur,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000045,Hombre,Mexicana,Yucatán,1989-05-21,Salvador Alvarado Sur,COBAY TEKIT,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000046,Hombre,Mexicana,Yucatán,2006-10-16,Dolores Otero,INSTITUTO MEXICO,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000047,Hombre,Mexicana,Yucatán,1993-07-19,Ciudad Caucel,CUM,Mixto,Merida,Licenciatura,Odontología,Sabatino,2020-1
+202000048,Mujer,Mexicana,Yucatán,2006-08-12,Las Américas,COBAY TEKIT,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000049,Mujer,Mexicana,Yucatán,2004-10-05,Bojórquez,INSTITUTO PATRIA,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2020-1
+202000050,Mujer,Mexicana,Quintana Roo,2007-05-29,Itzimná,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000051,Hombre,Mexicana,Yucatán,2001-05-21,Mulsay,COLEGIO AMERICANO,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000052,Hombre,Mexicana,Tabasco,2002-10-19,Chuburná de Hidalgo,COBAY BACA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000053,Mujer,Mexicana,Yucatán,2005-11-24,Mulsay,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Odontología,Vespertino,2020-1
+202000054,Hombre,Mexicana,Yucatán,2007-05-03,Miguel Alemán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000055,Hombre,Mexicana,Quintana Roo,2005-06-27,San Ramón Sur,CBTIS 80,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000056,Mujer,Mexicana,Campeche,2003-10-24,Chuburná de Hidalgo,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000057,Mujer,Mexicana,Yucatán,2002-10-15,México,PREPARATORIA ESTATAL 3,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000058,Hombre,Extranjera,Colombia,2007-05-30,Emiliano Zapata Sur,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000059,Mujer,Mexicana,Yucatán,2006-12-07,Dolores Otero,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000060,Mujer,Mexicana,Campeche,1997-07-20,García Ginerés,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000061,Mujer,Mexicana,Yucatán,2008-03-10,Juan Pablo II,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000062,Mujer,Mexicana,Yucatán,2008-10-14,Brisas,COLEGIO BACHILLERES TABASCO,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000063,Hombre,Mexicana,Yucatán,2008-05-08,García Ginerés,COBAY BACA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000064,Hombre,Mexicana,Yucatán,2003-09-08,Mulsay,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000065,Mujer,Mexicana,Tabasco,1993-10-03,Dzityá,SALVADOR ALVARADO,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000066,Hombre,Mexicana,Yucatán,1991-08-08,Mulsay,COBAY TIXPEUAL,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2020-1
+202000067,Mujer,Mexicana,Campeche,2002-11-17,Jardines del Norte,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000068,Hombre,Mexicana,Yucatán,2006-03-19,Mayapán,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202000069,Mujer,Mexicana,Yucatán,1995-11-01,Francisco de Montejo,CBTIS 28- COZUMEL,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000070,Hombre,Mexicana,Yucatán,2006-11-21,Altabrisa,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000071,Hombre,Mexicana,Yucatán,1991-03-11,Brisas,PREPARATORIA NO. 8,Mixto,Foraneo,Licenciatura,Nutrición,Sabatino,2020-1
+202000072,Hombre,Mexicana,Tabasco,2007-05-02,Centro,COLEGIO AMERICANO,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000073,Mujer,Mexicana,Yucatán,2008-08-03,Wallis,COBAY CUZAMA,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000074,Mujer,Mexicana,Yucatán,2007-07-15,Mulsay,INCI - ALEMAN,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000075,Hombre,Mexicana,Yucatán,2008-10-30,Dzityá,PREPARATORIA 7,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2020-1
+202000076,Hombre,Mexicana,Yucatán,2003-12-25,Centro,PREPARATORIA ESTATAL NUM. 10,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2020-1
+202000077,Mujer,Mexicana,Quintana Roo,2006-11-10,Brisas,COBAY 5,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000078,Mujer,Mexicana,Yucatán,2007-01-05,Mulsay,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000079,Mujer,Mexicana,Yucatán,1994-02-24,México,COLEGIO DE BACHILLERES DE YUCATAN,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000080,Hombre,Mexicana,Campeche,2005-06-11,San Ramón Norte,CBTIS 80,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000081,Mujer,Mexicana,Yucatán,2008-08-27,Temozón Norte,COBAY BACA,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000082,Hombre,Mexicana,Yucatán,2005-05-29,Montes de Amé,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Ing. Civil,Vespertino,2020-1
+202000083,Mujer,Mexicana,Yucatán,2006-11-07,Salvador Alvarado Sur,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2020-1
+202000084,Hombre,Extranjera,Estados Unidos,2006-03-11,Mayapán,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000085,Mujer,Mexicana,Yucatán,2007-09-16,García Ginerés,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000086,Hombre,Mexicana,Yucatán,2008-10-09,Mulsay,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000087,Hombre,Mexicana,Quintana Roo,2006-08-14,Juan Pablo II,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000088,Mujer,Mexicana,Yucatán,2003-09-30,Juan Pablo II,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000089,Mujer,Mexicana,Tabasco,2004-04-09,Dzityá,COBAY ABALA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000090,Hombre,Mexicana,Yucatán,2008-06-14,México,COLEGIO MESOAMERICANO,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000091,Hombre,Mexicana,Yucatán,2006-06-16,Dzityá,PREPARATORIA ESTATAL NO. 9,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000092,Mujer,Mexicana,Quintana Roo,1997-07-16,Montecristo,COBAY HOMUN,Mixto,Municipio,Licenciatura,Fisioterapia,Sabatino,2020-1
+202000093,Mujer,Mexicana,Yucatán,2007-09-12,Dzityá,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000094,Mujer,Mexicana,Yucatán,1993-11-19,Dolores Otero,PREPARATORIA MUNA,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000095,Hombre,Mexicana,Yucatán,1999-08-10,México,ATENEO DE MERIDA,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000096,Mujer,Mexicana,Quintana Roo,2006-04-29,Ciudad Caucel,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000097,Mujer,Mexicana,Yucatán,2007-12-23,Las Américas,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2020-1
+202000098,Mujer,Mexicana,Yucatán,2006-05-27,Dolores Otero,PREPARATORIA MIGUEL ANGEL,Escolar,Foraneo,Licenciatura,Fisioterapia,Matutino,2020-1
+202000099,Mujer,Mexicana,Yucatán,1994-03-21,Wallis,COBAY CACALCHEN,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000100,Hombre,Mexicana,Tabasco,2002-05-07,Miguel Alemán,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000101,Mujer,Mexicana,Yucatán,2003-05-26,Miguel Alemán,COLEGIO YUCATAN,Escolar,Foraneo,Licenciatura,Administración,Matutino,2020-1
+202000102,Hombre,Mexicana,Yucatán,2006-01-25,Dolores Otero,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Fisioterapia,Matutino,2020-1
+202000103,Hombre,Mexicana,Yucatán,1997-03-24,San Antonio Kaua,CBTIS 111  CANCUN,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000104,Mujer,Mexicana,Tabasco,2006-12-08,Altabrisa,PREPARATORIA MODELO,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000105,Hombre,Mexicana,Yucatán,1992-03-01,Montes de Amé,COBAY DZIDZANTUN,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000106,Mujer,Mexicana,Yucatán,2009-02-24,Montecristo,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000107,Mujer,Mexicana,Yucatán,1999-03-24,Dzityá,INSTITUTO COMERCIAL BANCARIO,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000108,Hombre,Mexicana,Yucatán,2007-06-25,Ciudad Caucel,CEMA,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000109,Mujer,Mexicana,Yucatán,2005-09-30,Xoclán,CBTIS 95,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000110,Mujer,Mexicana,Quintana Roo,2008-03-15,Bojórquez,EDUCACION  INTEGRAL Y ACTIVA EDAI,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000111,Mujer,Mexicana,Yucatán,2009-01-18,Montecristo,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000112,Mujer,Mexicana,Tabasco,2004-10-14,Salvador Alvarado Sur,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000113,Hombre,Mexicana,Quintana Roo,2006-05-12,San Ramón Sur,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000114,Mujer,Mexicana,Campeche,2005-03-06,Juan Pablo II,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000115,Hombre,Mexicana,Yucatán,2008-03-15,Itzimná,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000116,Mujer,Mexicana,Yucatán,2004-07-24,Dolores Otero,COBAY SEYE,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000117,Mujer,Mexicana,Yucatán,2006-06-19,Temozón Norte,Centro de Bachillerato Tecnológico Industrial y de,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000118,Hombre,Mexicana,Yucatán,2005-03-23,Montecristo,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000119,Mujer,Mexicana,Quintana Roo,2005-02-09,Chuburná de Hidalgo,CEIC PLAYA DEL CARMEN,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000120,Mujer,Extranjera,Estados Unidos,1990-08-04,Wallis,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202000121,Hombre,Mexicana,Yucatán,1996-10-19,Bojórquez,TELEBACHILLERATO,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000122,Mujer,Mexicana,Quintana Roo,2006-04-21,Francisco de Montejo,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Enfermería,Vespertino,2020-1
+202000123,Mujer,Mexicana,Yucatán,2006-04-02,Jardines del Norte,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000124,Mujer,Mexicana,Tabasco,2006-05-20,Mayapán,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000125,Hombre,Mexicana,Yucatán,1998-11-16,Campestre,CEIC PLAYA DEL CARMEN,Mixto,Foraneo,Licenciatura,Arquitectura,Sabatino,2020-1
+202000126,Mujer,Mexicana,Yucatán,2009-03-28,San Antonio Kaua,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000127,Mujer,Mexicana,Quintana Roo,1996-10-21,Dolores Otero,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000128,Hombre,Mexicana,Campeche,2004-05-13,Juan Pablo II,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Enfermería,Matutino,2020-1
+202000129,Hombre,Mexicana,Yucatán,2006-03-06,Las Américas,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2020-1
+202000130,Hombre,Mexicana,Yucatán,2005-03-19,Miguel Alemán,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000131,Hombre,Mexicana,Quintana Roo,1994-05-27,Montes de Amé,COBAY TECOH,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000132,Hombre,Mexicana,Quintana Roo,2005-05-09,Miguel Alemán,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000133,Hombre,Mexicana,Yucatán,2008-05-17,Mayapán,CETMAR-PROGRESO,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000134,Mujer,Mexicana,Yucatán,2006-10-16,Salvador Alvarado Sur,PREPARATORIA ESTATAL 3,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000135,Hombre,Mexicana,Quintana Roo,2003-08-15,Francisco de Montejo,COBAY HOMUN,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000136,Mujer,Mexicana,Tabasco,1993-02-22,Itzimná,COBAY HUNUCMA,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000137,Mujer,Mexicana,Yucatán,2008-01-10,Emiliano Zapata Sur,COBAY ABALA,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000138,Hombre,Mexicana,Yucatán,1988-11-03,Miguel Alemán,PREPARATORIA ESTATAL NO. 9,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000139,Mujer,Mexicana,Yucatán,2005-06-26,México,COBAY SOTUTA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000140,Mujer,Mexicana,Yucatán,1994-10-14,Itzimná,COBAY CAUCEL,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000141,Hombre,Mexicana,Tabasco,2007-10-16,García Ginerés,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000142,Hombre,Mexicana,Yucatán,2004-03-21,San Ramón Norte,CEDART Ermilo Abreu Gómez,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000143,Mujer,Mexicana,Yucatán,2005-03-26,San Ramón Sur,COBAY SEYE,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000144,Mujer,Extranjera,Colombia,2008-01-26,Ciudad Caucel,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000145,Mujer,Mexicana,Campeche,2003-01-04,Miguel Alemán,COLEGIO DE BACHILLERES QUINTANA ROO,Mixto,Foraneo,Licenciatura,Derecho,Sabatino,2020-1
+202000146,Hombre,Mexicana,Campeche,2001-02-26,Francisco de Montejo,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000147,Mujer,Mexicana,Yucatán,2006-10-22,Montes de Amé,INCI - ALEMAN,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000148,Mujer,Mexicana,Yucatán,1993-05-03,Pensiones,COBAY KANASIN,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000149,Hombre,Mexicana,Yucatán,2006-09-12,San Ramón Sur,PREPARATORIA ESTATAL 2,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000150,Hombre,Extranjera,Colombia,2009-04-03,Dolores Otero,DIEGO RIVERA,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2020-1
+202000151,Mujer,Mexicana,Yucatán,2005-01-15,Montes de Amé,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000152,Hombre,Mexicana,Campeche,2008-09-07,Francisco de Montejo,SAN AGUSTIN,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000153,Hombre,Mexicana,Yucatán,2005-09-12,Salvador Alvarado Sur,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000154,Hombre,Mexicana,Yucatán,2003-03-15,Mayapán,COLEGIO AMERICANO,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000155,Hombre,Mexicana,Tabasco,2006-04-11,Juan Pablo II,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000156,Mujer,Mexicana,Tabasco,2003-04-14,Salvador Alvarado Sur,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000157,Hombre,Mexicana,Quintana Roo,2006-03-01,Las Américas,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202000158,Hombre,Mexicana,Yucatán,2006-06-25,Dzityá,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000159,Mujer,Mexicana,Campeche,2007-10-22,Chuburná de Hidalgo,SAN AGUSTIN,Escolar,Merida,Licenciatura,Enfermería,Matutino,2020-1
+202000160,Hombre,Mexicana,Yucatán,1986-05-18,Miguel Alemán,COBAY SANTA ROSA,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000161,Mujer,Mexicana,Yucatán,2005-08-05,Mayapán,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000162,Mujer,Mexicana,Yucatán,2008-10-29,Ciudad Caucel,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000163,Hombre,Mexicana,Yucatán,2004-09-21,Nueva Kukulcán,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000164,Hombre,Mexicana,Campeche,2007-04-01,San Antonio Kaua,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000165,Mujer,Mexicana,Yucatán,2008-02-09,Campestre,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000166,Hombre,Mexicana,Yucatán,2006-11-25,Jardines del Norte,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000167,Mujer,Mexicana,Quintana Roo,2000-06-28,Ciudad Caucel,COBAY 5,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000168,Mujer,Mexicana,Yucatán,1998-05-11,Wallis,PREPARATORIA MIGUEL ANGEL,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000169,Mujer,Mexicana,Yucatán,2007-01-26,Montecristo,DIEGO RIVERA,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000170,Hombre,Mexicana,Campeche,2006-02-26,Miguel Alemán,CBTIS 95,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000171,Mujer,Mexicana,Yucatán,2006-09-26,Emiliano Zapata Sur,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000172,Hombre,Mexicana,Campeche,2006-02-07,Pensiones,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Odontología,Matutino,2020-1
+202000173,Mujer,Mexicana,Yucatán,2005-03-31,Itzimná,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000174,Mujer,Mexicana,Yucatán,2007-02-18,San Antonio Kaua,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000175,Hombre,Mexicana,Quintana Roo,1992-09-30,Mayapán,PREPARATORIA ESTATAL NUM. 10,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000176,Mujer,Extranjera,Colombia,2009-02-27,Salvador Alvarado Sur,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000177,Hombre,Mexicana,Tabasco,1987-11-17,Wallis,COBAY PLANTEL PETO,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000178,Mujer,Mexicana,Yucatán,2008-05-16,México,CBTIS 111  CANCUN,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000179,Hombre,Mexicana,Yucatán,2008-07-27,Campestre,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000180,Mujer,Mexicana,Campeche,1996-08-14,Brisas,PREPARATORIA ABIERTA CALAFIA,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000181,Hombre,Mexicana,Quintana Roo,1985-01-23,San Antonio Kaua,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000182,Mujer,Mexicana,Yucatán,2006-02-11,Wallis,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000183,Mujer,Mexicana,Yucatán,2006-10-10,San Ramón Norte,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000184,Mujer,Mexicana,Yucatán,2006-10-17,Emiliano Zapata Sur,COBAY 5,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000185,Hombre,Mexicana,Yucatán,2006-11-19,Xoclán,CENTRO EDUCATIVO MOTULEÑO,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2020-1
+202000186,Hombre,Mexicana,Yucatán,2009-03-05,Emiliano Zapata Sur,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000187,Hombre,Mexicana,Yucatán,2007-03-20,Francisco de Montejo,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000188,Mujer,Mexicana,Yucatán,1990-11-24,Juan Pablo II,CONALEP MERIDA,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202000189,Hombre,Extranjera,Perú,2006-08-29,Altabrisa,COBAY SEYE,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000190,Mujer,Mexicana,Yucatán,2006-07-23,Emiliano Zapata Sur,COBAY UMAN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000191,Mujer,Mexicana,Yucatán,2005-07-10,San Antonio Kaua,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000192,Hombre,Mexicana,Yucatán,2006-06-14,Dzityá,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000193,Hombre,Mexicana,Campeche,2004-03-23,Wallis,COBAY KANASIN,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000194,Hombre,Mexicana,Yucatán,2009-03-06,Itzimná,MANUEL CRESCENCIO REJON,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2020-1
+202000195,Hombre,Mexicana,Yucatán,2004-06-23,Ciudad Caucel,COLEGIO AMERICANO,Escolar,Merida,Licenciatura,Odontología,Matutino,2020-1
+202000196,Mujer,Mexicana,Quintana Roo,2004-03-01,Xoclán,COBAY ABALA,Escolar,Municipio,Licenciatura,Educación,Matutino,2020-1
+202000197,Hombre,Mexicana,Tabasco,2008-06-06,Mulsay,LA SALLEBOULLEWARES,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000198,Mujer,Mexicana,Yucatán,2003-06-03,Pensiones,COLEGIO DE BACHILLERES DE YUCATAN,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2020-1
+202000199,Hombre,Mexicana,Yucatán,2006-10-12,Campestre,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000200,Hombre,Mexicana,Tabasco,2004-08-15,Temozón Norte,DIEGO RIVERA,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000201,Hombre,Mexicana,Yucatán,2008-05-06,García Ginerés,Centro de Estudios Tecnológicos del Mar No 17,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000202,Hombre,Mexicana,Yucatán,2005-11-02,Las Américas,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2020-1
+202000203,Hombre,Extranjera,Perú,2005-09-18,México,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Mixto,Foraneo,Licenciatura,Derecho,Sabatino,2020-1
+202000204,Mujer,Mexicana,Yucatán,2004-03-15,México,COBACAM-CAMPECHE,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000205,Mujer,Mexicana,Yucatán,2008-01-19,Montes de Amé,COBAY SANTA ROSA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000206,Mujer,Mexicana,Campeche,2005-08-05,Nueva Kukulcán,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000207,Hombre,Mexicana,Tabasco,2002-07-12,Temozón Norte,CBTIS 95,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000208,Hombre,Mexicana,Tabasco,2006-07-28,García Ginerés,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000209,Mujer,Mexicana,Yucatán,2000-10-25,Ciudad Caucel,SERAPIO RENDÓN,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000210,Hombre,Mexicana,Yucatán,1992-01-15,Montecristo,COBAY TIZIMIN,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000211,Mujer,Mexicana,Yucatán,2007-06-17,Bojórquez,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000212,Mujer,Mexicana,Yucatán,2006-09-25,Xoclán,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000213,Hombre,Mexicana,Yucatán,2007-03-03,San Ramón Sur,CBTA IZAMAL 185,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2020-1
+202000214,Mujer,Mexicana,Yucatán,2006-07-28,Mayapán,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000215,Hombre,Mexicana,Campeche,2005-04-05,Itzimná,UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000216,Hombre,Mexicana,Yucatán,2005-03-06,García Ginerés,VICTOR MANUEL CERVERA PACHECO,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000217,Mujer,Mexicana,Quintana Roo,2007-10-14,Wallis,PREPARATORIA 7,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000218,Mujer,Mexicana,Campeche,2005-07-09,Montes de Amé,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000219,Mujer,Mexicana,Campeche,2000-05-18,Itzimná,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000220,Mujer,Mexicana,Yucatán,2005-12-10,Jardines del Norte,PREPARATORIA LIBRE,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2020-1
+202000221,Mujer,Mexicana,Yucatán,2008-10-21,Salvador Alvarado Sur,Centro Universitario Montejo,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000222,Hombre,Mexicana,Quintana Roo,2007-03-28,San Ramón Sur,COBAY ACANCEH,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000223,Mujer,Mexicana,Quintana Roo,1997-01-31,Salvador Alvarado Sur,COBAY SANTA ROSA,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000224,Hombre,Mexicana,Yucatán,2000-03-17,Montes de Amé,CBTIS 111  CANCUN,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000225,Mujer,Mexicana,Yucatán,2005-03-13,Nueva Kukulcán,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000226,Mujer,Mexicana,Yucatán,2008-05-31,Brisas,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2020-1
+202000227,Mujer,Mexicana,Campeche,2009-01-05,Nueva Kukulcán,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000228,Mujer,Mexicana,Yucatán,2006-02-26,Las Américas,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000229,Mujer,Mexicana,Yucatán,2008-11-16,Miguel Alemán,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000230,Hombre,Mexicana,Yucatán,1994-10-12,San Ramón Norte,COBAY PLANTEL PETO,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000231,Hombre,Mexicana,Yucatán,2005-07-31,Salvador Alvarado Sur,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000232,Mujer,Mexicana,Yucatán,2005-12-14,Las Américas,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000233,Mujer,Mexicana,Yucatán,1998-06-17,San Ramón Norte,VICTOR MANUEL CERVERA PACHECO,Mixto,Merida,Licenciatura,Fisioterapia,Sabatino,2020-1
+202000234,Hombre,Mexicana,Yucatán,1990-07-15,Montes de Amé,SERAPIO RENDÓN,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202000235,Mujer,Mexicana,Yucatán,2004-07-31,México,COLEGIO YUCATAN,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2020-1
+202000236,Mujer,Mexicana,Yucatán,1998-03-26,Itzimná,COBAY CACALCHEN,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000237,Hombre,Mexicana,Yucatán,2006-06-27,Dolores Otero,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000238,Mujer,Mexicana,Yucatán,2007-06-03,San Ramón Norte,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000239,Mujer,Mexicana,Yucatán,2006-11-11,Mayapán,PREPARATORIA MEXICO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000240,Hombre,Extranjera,Perú,2007-02-03,Miguel Alemán,CONALEP MERIDA,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000241,Hombre,Extranjera,Perú,2006-06-13,Altabrisa,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Educación,Matutino,2020-1
+202000242,Mujer,Mexicana,Yucatán,2006-10-24,Las Américas,PREPARATORIA JUVENTUS,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000243,Hombre,Mexicana,Tabasco,2005-02-05,Brisas,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000244,Mujer,Mexicana,Yucatán,2004-07-10,Francisco de Montejo,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000245,Hombre,Mexicana,Tabasco,2007-07-31,Centro,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000246,Hombre,Extranjera,Estados Unidos,2004-11-15,San Antonio Kaua,COBAY 5,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000247,Hombre,Mexicana,Quintana Roo,2006-04-17,Francisco de Montejo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000248,Mujer,Mexicana,Campeche,2004-07-23,Salvador Alvarado Sur,COBAY KANASIN,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000249,Mujer,Mexicana,Tabasco,1995-11-27,Montes de Amé,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000250,Hombre,Mexicana,Yucatán,2006-10-19,García Ginerés,PREPARATORIA MODELO,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000251,Mujer,Mexicana,Yucatán,2009-03-08,Las Américas,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000252,Mujer,Mexicana,Quintana Roo,2005-08-01,Juan Pablo II,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Educación,Matutino,2020-1
+202000253,Hombre,Mexicana,Yucatán,2003-01-13,Salvador Alvarado Sur,COBAY CUZAMA,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000254,Hombre,Mexicana,Yucatán,2005-06-29,Francisco de Montejo,COBAY HOMUN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000255,Hombre,Mexicana,Yucatán,1989-09-28,Chuburná de Hidalgo,CBTIS 111  CANCUN,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000256,Mujer,Mexicana,Campeche,2008-11-10,Montes de Amé,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000257,Mujer,Mexicana,Yucatán,1993-08-30,Mayapán,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Fisioterapia,Sabatino,2020-1
+202000258,Mujer,Mexicana,Yucatán,2008-01-13,Xoclán,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000259,Hombre,Mexicana,Yucatán,2004-03-13,Emiliano Zapata Sur,COBAY ABALA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000260,Hombre,Mexicana,Tabasco,2008-06-23,García Ginerés,COBAY 5,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000261,Mujer,Mexicana,Yucatán,2004-05-26,Pensiones,COBAY SANTA ROSA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000262,Hombre,Mexicana,Yucatán,1997-10-01,Ciudad Caucel,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000263,Mujer,Mexicana,Campeche,1988-06-27,Campestre,CONALEP MERIDA,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000264,Mujer,Mexicana,Yucatán,2004-11-21,Wallis,EUREKA,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000265,Hombre,Mexicana,Tabasco,2008-10-14,Mulsay,COBAY CHICXULUB PUEBLO,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000266,Mujer,Mexicana,Tabasco,2005-07-12,Ciudad Caucel,CEMA,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000267,Mujer,Mexicana,Campeche,1994-10-09,Itzimná,COBAY CUZAMA,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2020-1
+202000268,Mujer,Mexicana,Tabasco,2006-01-25,Chuburná de Hidalgo,CBTIS 80,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000269,Mujer,Mexicana,Campeche,2005-11-19,Brisas,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Administración,Matutino,2020-1
+202000270,Hombre,Mexicana,Yucatán,2006-04-03,García Ginerés,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000271,Mujer,Mexicana,Yucatán,2005-10-02,Wallis,PREPARATORIA LIBRE,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000272,Hombre,Mexicana,Campeche,2005-02-16,Miguel Alemán,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000273,Mujer,Mexicana,Yucatán,2004-11-03,Altabrisa,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000274,Mujer,Mexicana,Quintana Roo,2007-11-10,Bojórquez,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000275,Hombre,Mexicana,Quintana Roo,2006-01-05,Pensiones,COBAY BACA,Escolar,Municipio,Licenciatura,Educación,Matutino,2020-1
+202000276,Hombre,Mexicana,Yucatán,1993-12-13,Altabrisa,COBAY KIMBILA,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000277,Mujer,Mexicana,Yucatán,1997-01-30,México,COBAY CAUCEL,Mixto,Municipio,Licenciatura,Fisioterapia,Sabatino,2020-1
+202000278,Hombre,Mexicana,Yucatán,2008-11-20,Brisas,COBAY KANASIN,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000279,Hombre,Mexicana,Yucatán,2008-10-18,Jardines del Norte,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000280,Mujer,Mexicana,Yucatán,2008-08-07,Jardines del Norte,COLEGIO AMERICANO,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000281,Hombre,Extranjera,Estados Unidos,2005-01-25,Nueva Kukulcán,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000282,Mujer,Mexicana,Yucatán,2005-12-11,Altabrisa,INSTITUTO COMERCIAL BANCARIO,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000283,Hombre,Mexicana,Yucatán,2005-04-03,Jardines del Norte,PREPARATORIA MEXICO,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000284,Mujer,Mexicana,Yucatán,2005-12-24,Nueva Kukulcán,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000285,Mujer,Mexicana,Tabasco,2001-08-21,Mayapán,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000286,Hombre,Mexicana,Tabasco,2007-05-12,Salvador Alvarado Sur,PREPARATORIA ESTATAL 2,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000287,Hombre,Mexicana,Quintana Roo,2008-05-27,Altabrisa,COLEGIO DE BACHILLERES CHIAPAS,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2020-1
+202000288,Mujer,Mexicana,Tabasco,2008-11-30,Itzimná,COLEGIO BACHILLERES OAXACA,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000289,Hombre,Mexicana,Yucatán,2006-02-19,Montecristo,PREPARATORIA ESTATAL 3,Escolar,Foraneo,Licenciatura,Ing. Civil,Vespertino,2020-1
+202000290,Mujer,Mexicana,Yucatán,2007-02-13,Montes de Amé,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000291,Hombre,Mexicana,Yucatán,2006-10-05,Salvador Alvarado Sur,COBAY ABALA,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2020-1
+202000292,Mujer,Mexicana,Yucatán,2005-05-11,Miguel Alemán,COBAY KANASIN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000293,Mujer,Mexicana,Tabasco,2008-02-08,Las Américas,COBAY TEKIT,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000294,Mujer,Mexicana,Quintana Roo,2006-03-07,Chuburná de Hidalgo,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000295,Hombre,Mexicana,Yucatán,2005-01-03,Montecristo,COREM MERIDA,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000296,Hombre,Mexicana,Quintana Roo,2001-11-23,Miguel Alemán,COBAY UMAN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000297,Mujer,Mexicana,Campeche,2004-04-16,Juan Pablo II,COBAY 5,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000298,Mujer,Mexicana,Quintana Roo,1992-01-31,Pensiones,ROGERS HALL,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000299,Mujer,Mexicana,Yucatán,2005-01-15,Brisas,COBAY 5,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000300,Mujer,Mexicana,Yucatán,2006-03-04,San Ramón Sur,BACHILLERATO TECNOLOGICO ESTADO DE MEXICO,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000301,Mujer,Mexicana,Campeche,2002-03-31,México,PREPARATORIA 2 UADY,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2020-1
+202000302,Mujer,Extranjera,Perú,2004-02-03,Juan Pablo II,CBETIS 120,Escolar,Merida,Licenciatura,Criminología,Vespertino,2020-1
+202000303,Mujer,Mexicana,Yucatán,1996-02-18,Chuburná de Hidalgo,COBAY TECOH,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000304,Mujer,Mexicana,Yucatán,2005-10-12,Chuburná de Hidalgo,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000305,Mujer,Mexicana,Yucatán,2004-09-21,San Antonio Kaua,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000306,Mujer,Mexicana,Yucatán,1996-07-18,Bojórquez,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000307,Hombre,Mexicana,Yucatán,2009-01-11,Salvador Alvarado Sur,DIEGO RIVERA,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000308,Hombre,Mexicana,Tabasco,2007-06-24,Chuburná de Hidalgo,COBAY ABALA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000309,Mujer,Mexicana,Campeche,2006-05-17,Temozón Norte,COBAY HOMUN,Escolar,Municipio,Licenciatura,Educación,Matutino,2020-1
+202000310,Mujer,Mexicana,Yucatán,2008-12-10,Wallis,COBAY TEKIT,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000311,Hombre,Mexicana,Yucatán,2008-12-15,Ciudad Caucel,COBAY BACA,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000312,Hombre,Mexicana,Yucatán,2004-01-30,García Ginerés,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000313,Mujer,Mexicana,Yucatán,2008-05-15,Dolores Otero,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000314,Mujer,Mexicana,Yucatán,2006-11-22,San Ramón Sur,CBTIS 95,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000315,Mujer,Mexicana,Yucatán,2005-02-22,Dzityá,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000316,Mujer,Mexicana,Yucatán,2005-07-22,Wallis,UNIVERSIDAD CNCI,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000317,Hombre,Mexicana,Yucatán,2004-04-28,San Antonio Kaua,COBAY CHENKU,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000318,Hombre,Mexicana,Yucatán,2008-07-05,Dzityá,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000319,Mujer,Mexicana,Yucatán,2008-11-14,Dzityá,CBTIS 80,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000320,Mujer,Mexicana,Yucatán,2008-12-01,Mulsay,COBAY UMAN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000321,Mujer,Mexicana,Yucatán,2005-08-15,Chuburná de Hidalgo,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000322,Mujer,Mexicana,Yucatán,2005-01-09,Itzimná,COBAY TECOH,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000323,Mujer,Mexicana,Yucatán,1997-10-14,Campestre,CBTIS 80,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000324,Mujer,Mexicana,Quintana Roo,2004-02-04,México,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000325,Hombre,Mexicana,Yucatán,2005-07-22,Juan Pablo II,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000326,Mujer,Mexicana,Quintana Roo,2006-03-12,San Ramón Norte,CECYTE,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000327,Mujer,Mexicana,Yucatán,2004-06-13,Pensiones,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000328,Mujer,Mexicana,Tabasco,2006-06-10,Nueva Kukulcán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000329,Hombre,Mexicana,Yucatán,2007-12-09,Mayapán,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000330,Hombre,Mexicana,Yucatán,1999-01-06,Nueva Kukulcán,Centro de Bachillerato Tecnológico Industrial y de,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000331,Hombre,Mexicana,Yucatán,2008-09-13,Altabrisa,COBAY CHENKU,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000332,Hombre,Mexicana,Tabasco,2007-03-03,Emiliano Zapata Sur,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2020-1
+202000333,Mujer,Mexicana,Yucatán,1997-02-05,García Ginerés,COBAY CHICXULUB PUEBLO,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000334,Mujer,Mexicana,Yucatán,2005-10-25,Mayapán,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000335,Hombre,Mexicana,Yucatán,2005-06-18,Emiliano Zapata Sur,BACHILLERATO TECNOLOGICO ESTADO DE MEXICO,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000336,Hombre,Mexicana,Yucatán,2005-05-02,San Ramón Norte,EUREKA,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000337,Hombre,Mexicana,Yucatán,2007-02-05,Brisas,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Fisioterapia,Matutino,2020-1
+202000338,Hombre,Mexicana,Yucatán,1997-04-04,Miguel Alemán,COBAY YAXCABA,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000339,Hombre,Mexicana,Quintana Roo,2005-04-17,Mayapán,CBTIS 80,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000340,Mujer,Mexicana,Yucatán,1997-02-23,Nueva Kukulcán,COBAY UMAN,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000341,Hombre,Mexicana,Yucatán,2008-02-11,Mulsay,CBTIS 95,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000342,Mujer,Mexicana,Yucatán,2008-04-09,Wallis,UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000343,Mujer,Mexicana,Yucatán,2007-01-01,San Ramón Norte,COBAY HOMUN,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000344,Hombre,Mexicana,Yucatán,2002-06-10,Itzimná,CONALEP MERIDA,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000345,Hombre,Mexicana,Campeche,1999-02-26,Montecristo,COBAY CUZAMA,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000346,Mujer,Mexicana,Yucatán,2004-01-17,Brisas,PREPARATORIA MUNA,Escolar,Merida,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000347,Mujer,Mexicana,Yucatán,2004-09-06,Dolores Otero,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000348,Mujer,Mexicana,Yucatán,2008-07-27,Montecristo,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000349,Hombre,Mexicana,Yucatán,2004-12-31,Pensiones,CONALEP MERIDA,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000350,Mujer,Mexicana,Yucatán,2004-12-27,Wallis,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000351,Mujer,Mexicana,Tabasco,2009-03-29,Wallis,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000352,Mujer,Mexicana,Quintana Roo,2005-10-08,Mulsay,COBAY UMAN,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000353,Mujer,Mexicana,Yucatán,1997-01-24,Temozón Norte,BETANCOURT -BRISAS,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000354,Hombre,Mexicana,Quintana Roo,2005-01-25,Brisas,COBAY SANTA ROSA,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000355,Hombre,Mexicana,Tabasco,2003-03-02,Chuburná de Hidalgo,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000356,Mujer,Mexicana,Yucatán,2006-11-15,San Antonio Kaua,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000357,Hombre,Mexicana,Tabasco,2004-02-29,México,LA SALLEBOULLEWARES,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000358,Mujer,Mexicana,Yucatán,2005-08-13,Mayapán,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000359,Mujer,Mexicana,Yucatán,1992-12-26,Mulsay,COBAY YAXCABA,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000360,Mujer,Mexicana,Yucatán,2005-06-03,Salvador Alvarado Sur,COLEGIO DE BACHILLERES DE YUCATAN,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000361,Mujer,Mexicana,Yucatán,2006-04-08,Chuburná de Hidalgo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000362,Mujer,Extranjera,Colombia,2008-08-19,Mayapán,COLEGIO BACHILLERES TABASCO,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2020-1
+202000363,Mujer,Extranjera,Colombia,2004-02-15,Juan Pablo II,COBAY SANTA ROSA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000364,Hombre,Mexicana,Yucatán,2006-05-02,Temozón Norte,PREPARATORIA MEXICO,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000365,Mujer,Mexicana,Yucatán,2004-11-25,México,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000366,Hombre,Mexicana,Quintana Roo,2002-02-15,San Antonio Kaua,TELEBACHILLERATO,Mixto,Foraneo,Licenciatura,Gastronomía,Sabatino,2020-1
+202000367,Hombre,Mexicana,Yucatán,2004-07-17,Wallis,COBAY 5,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000368,Hombre,Mexicana,Yucatán,2006-02-25,Temozón Norte,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000369,Mujer,Mexicana,Campeche,2004-11-19,García Ginerés,COBAY BACA,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000370,Mujer,Mexicana,Tabasco,2004-04-27,Dolores Otero,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000371,Hombre,Mexicana,Yucatán,2006-04-25,Dolores Otero,PREPARATORIA 7,Escolar,Merida,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000372,Mujer,Mexicana,Yucatán,2008-02-14,Campestre,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000373,Mujer,Mexicana,Campeche,2006-04-26,Brisas,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000374,Mujer,Mexicana,Yucatán,2004-10-26,Ciudad Caucel,COLEGIO DE BACHILLERES DE YUCATAN,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000375,Hombre,Mexicana,Tabasco,2003-05-28,Jardines del Norte,COABY TICUL,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2020-1
+202000376,Hombre,Mexicana,Quintana Roo,2004-09-30,Mulsay,COBAY TEKIT,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000377,Hombre,Mexicana,Yucatán,2005-06-04,Mayapán,COBAY KANASIN,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000378,Hombre,Extranjera,Estados Unidos,2003-04-28,Dolores Otero,COBAY TEKIT,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000379,Hombre,Mexicana,Yucatán,2005-02-05,Nueva Kukulcán,COLEGIO AMERICANO,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2020-1
+202000380,Hombre,Mexicana,Campeche,2006-04-04,San Ramón Norte,PREPARATORIA 7,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000381,Mujer,Mexicana,Yucatán,2005-09-10,Nueva Kukulcán,CETIS 112,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000382,Hombre,Mexicana,Quintana Roo,2007-04-20,Ciudad Caucel,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000383,Mujer,Mexicana,Yucatán,2006-08-30,Juan Pablo II,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000384,Mujer,Mexicana,Yucatán,2001-02-27,Nueva Kukulcán,COBAY TIXPEUAL,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000385,Hombre,Mexicana,Yucatán,1996-02-27,San Ramón Sur,COBAY SANTA ROSA,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000386,Mujer,Mexicana,Yucatán,2006-12-20,San Ramón Norte,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000387,Mujer,Mexicana,Campeche,2006-04-05,Jardines del Norte,CECYTE,Escolar,Merida,Licenciatura,Criminología,Vespertino,2020-1
+202000388,Hombre,Mexicana,Yucatán,2008-11-27,Montecristo,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000389,Hombre,Mexicana,Yucatán,2009-02-10,San Ramón Sur,PREPARATORIA MODELO,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000390,Hombre,Mexicana,Yucatán,2003-03-31,Montes de Amé,CETIS 112,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202000391,Hombre,Mexicana,Yucatán,2007-04-28,Dzityá,COBAY HOMUN,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000392,Hombre,Mexicana,Quintana Roo,2008-08-31,Wallis,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000393,Mujer,Mexicana,Tabasco,2005-06-23,Dolores Otero,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000394,Mujer,Mexicana,Tabasco,2007-09-27,Brisas,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000395,Hombre,Mexicana,Yucatán,2007-09-16,Brisas,COBAY CHENKU,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000396,Mujer,Mexicana,Quintana Roo,2005-11-08,Brisas,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000397,Mujer,Mexicana,Tabasco,2005-12-14,Montecristo,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000398,Mujer,Mexicana,Yucatán,1992-10-03,Chuburná de Hidalgo,PREPARATORIA ESTATAL 3,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2020-1
+202000399,Mujer,Mexicana,Yucatán,2007-01-15,San Ramón Norte,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Criminología,Matutino,2020-1
+202000400,Hombre,Mexicana,Yucatán,2005-11-26,Mulsay,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000401,Hombre,Mexicana,Yucatán,1988-06-07,Mulsay,COBAY CAUCEL,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000402,Mujer,Mexicana,Yucatán,1999-02-18,Las Américas,COBAY TEKIT,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000403,Mujer,Mexicana,Yucatán,2007-05-15,Chuburná de Hidalgo,CBTA IZAMAL 185,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2020-1
+202000404,Mujer,Mexicana,Yucatán,1998-11-11,Las Américas,CBTIS 95,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000405,Hombre,Mexicana,Yucatán,1988-04-08,Jardines del Norte,COBAY YAXCABA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000406,Mujer,Mexicana,Tabasco,2004-09-25,Temozón Norte,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000407,Hombre,Mexicana,Tabasco,2003-08-26,Mulsay,COBAY BACA,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000408,Mujer,Mexicana,Campeche,2008-05-22,Miguel Alemán,COBAY PLANTEL PETO,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000409,Hombre,Mexicana,Yucatán,2008-07-28,Dolores Otero,COBAY SEYE,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000410,Hombre,Mexicana,Yucatán,2006-08-15,Dzityá,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000411,Hombre,Mexicana,Yucatán,1995-11-30,San Ramón Norte,COBAY SEYE,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000412,Mujer,Mexicana,Yucatán,2001-02-02,Dolores Otero,CBTIS 28- COZUMEL,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000413,Mujer,Mexicana,Yucatán,2007-05-12,Miguel Alemán,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000414,Hombre,Mexicana,Campeche,2007-10-04,Montecristo,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000415,Mujer,Mexicana,Yucatán,2004-08-09,Juan Pablo II,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2020-1
+202000416,Mujer,Mexicana,Yucatán,2008-06-22,Salvador Alvarado Sur,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000417,Hombre,Mexicana,Yucatán,2005-03-18,Dolores Otero,CBTA 13  XMATKUIL,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000418,Mujer,Mexicana,Yucatán,2004-04-28,Montes de Amé,COBAY TEKIT,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000419,Hombre,Mexicana,Yucatán,2007-03-10,Altabrisa,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000420,Mujer,Mexicana,Yucatán,2003-12-29,Centro,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000421,Hombre,Mexicana,Yucatán,2005-10-28,Xoclán,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000422,Hombre,Mexicana,Yucatán,2005-04-11,Montecristo,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000423,Mujer,Mexicana,Yucatán,2007-01-18,Dzityá,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000424,Hombre,Mexicana,Yucatán,2004-01-24,Mayapán,PREPARATORIA MODELO,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000425,Mujer,Mexicana,Campeche,1989-06-15,Wallis,PREPARATORIA 7,Mixto,Merida,Licenciatura,Fisioterapia,Sabatino,2020-1
+202000426,Mujer,Mexicana,Yucatán,1988-06-27,Miguel Alemán,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000427,Mujer,Mexicana,Quintana Roo,2006-08-10,Francisco de Montejo,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000428,Mujer,Mexicana,Yucatán,2008-02-14,Las Américas,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000429,Hombre,Mexicana,Yucatán,2007-07-07,Altabrisa,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000430,Hombre,Mexicana,Yucatán,2007-04-16,Nueva Kukulcán,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000431,Mujer,Mexicana,Yucatán,2002-04-14,Altabrisa,Centro de Bachillerato Tecnológico Industrial y de,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000432,Mujer,Mexicana,Yucatán,2003-09-29,Montecristo,COBAY PLANTEL PETO,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000433,Mujer,Mexicana,Yucatán,2005-09-12,México,COBAY UMAN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000434,Hombre,Mexicana,Yucatán,2005-02-24,Miguel Alemán,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000435,Mujer,Extranjera,Colombia,2004-01-18,Emiliano Zapata Sur,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000436,Mujer,Mexicana,Yucatán,2008-04-08,Temozón Norte,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000437,Hombre,Mexicana,Yucatán,2006-06-22,Campestre,PREPARATORIA 7,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000438,Hombre,Mexicana,Yucatán,2005-08-19,Miguel Alemán,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000439,Mujer,Mexicana,Yucatán,1987-10-20,Jardines del Norte,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Mixto,Foraneo,Licenciatura,Enfermería,Sabatino,2020-1
+202000440,Mujer,Mexicana,Yucatán,2005-08-22,Pensiones,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000441,Hombre,Extranjera,Estados Unidos,2007-06-10,México,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000442,Hombre,Mexicana,Yucatán,1992-11-08,García Ginerés,COBAY ABALA,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000443,Hombre,Mexicana,Yucatán,2008-07-05,Salvador Alvarado Sur,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Criminología,Matutino,2020-1
+202000444,Hombre,Mexicana,Yucatán,2006-03-04,Juan Pablo II,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000445,Hombre,Mexicana,Yucatán,2007-05-20,Francisco de Montejo,CBTIS 95,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000446,Mujer,Mexicana,Yucatán,2005-07-20,Mulsay,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000447,Mujer,Mexicana,Campeche,2007-03-01,Montes de Amé,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000448,Mujer,Mexicana,Yucatán,2008-04-28,Chuburná de Hidalgo,CBTIS 80,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000449,Mujer,Mexicana,Yucatán,2009-02-19,Dolores Otero,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000450,Mujer,Mexicana,Yucatán,2001-03-07,México,BACHILLERES AMERICAS,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000451,Hombre,Mexicana,Yucatán,2007-10-29,Chuburná de Hidalgo,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000452,Mujer,Mexicana,Yucatán,2008-05-02,México,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000453,Mujer,Mexicana,Campeche,2003-04-23,Montes de Amé,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000454,Hombre,Extranjera,Colombia,2008-08-20,San Ramón Norte,COBAY UMAN,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000455,Hombre,Mexicana,Campeche,1996-09-04,San Antonio Kaua,COBAY CHENKU,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000456,Mujer,Mexicana,Yucatán,2006-07-08,Miguel Alemán,CEEAC,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202000457,Mujer,Mexicana,Yucatán,2006-09-21,Las Américas,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000458,Hombre,Mexicana,Yucatán,2008-05-17,Jardines del Norte,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000459,Mujer,Mexicana,Yucatán,2003-11-21,Mulsay,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000460,Mujer,Mexicana,Yucatán,2009-02-19,Dolores Otero,COLEGIO DE BACHILLERES QUINTANA ROO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000461,Mujer,Mexicana,Campeche,2005-07-21,Ciudad Caucel,PREPARATORIA LIBRE,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2020-1
+202000462,Mujer,Extranjera,Colombia,1994-09-24,Xoclán,COLEGIO DE BACHILLERES QUINTANA ROO,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000463,Hombre,Mexicana,Yucatán,2008-01-19,Wallis,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000464,Hombre,Mexicana,Yucatán,2008-02-12,Xoclán,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000465,Mujer,Mexicana,Yucatán,1988-08-01,San Ramón Sur,COBAY TEKIT,Mixto,Municipio,Licenciatura,Fisioterapia,Sabatino,2020-1
+202000466,Mujer,Mexicana,Quintana Roo,1995-06-26,Pensiones,COBAY CHENKU,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000467,Mujer,Mexicana,Yucatán,2006-08-07,San Antonio Kaua,COLEGIO DE BACHILLERES DE YUCATAN,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000468,Mujer,Mexicana,Yucatán,2008-07-22,Altabrisa,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolar,Merida,Licenciatura,Criminología,Vespertino,2020-1
+202000469,Mujer,Mexicana,Yucatán,2006-05-22,Miguel Alemán,BACHILLERATO TECNOLOGICO ESTADO DE MEXICO,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000470,Hombre,Mexicana,Yucatán,2007-06-11,Bojórquez,COBAY CUZAMA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000471,Mujer,Mexicana,Yucatán,2005-01-14,Brisas,PREPARATORIA MUNA,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202000472,Mujer,Mexicana,Yucatán,2008-06-16,Chuburná de Hidalgo,PREPARATORIA ESTATAL NUM. 10,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000473,Hombre,Mexicana,Yucatán,2008-12-27,San Ramón Sur,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000474,Mujer,Mexicana,Quintana Roo,2006-07-14,Emiliano Zapata Sur,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000475,Hombre,Mexicana,Yucatán,2000-01-30,Altabrisa,COBAY TECOH,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000476,Hombre,Mexicana,Yucatán,1997-02-26,Centro,COBAY 5,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000477,Mujer,Mexicana,Campeche,2005-11-19,Dzityá,EDUCACION  INTEGRAL Y ACTIVA EDAI,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000478,Hombre,Mexicana,Quintana Roo,1989-08-18,México,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000479,Hombre,Mexicana,Yucatán,2006-05-15,Centro,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000480,Mujer,Mexicana,Quintana Roo,1996-09-10,Campestre,CBTIS 28- COZUMEL,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000481,Mujer,Mexicana,Yucatán,2008-09-12,San Antonio Kaua,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000482,Hombre,Mexicana,Yucatán,2008-05-24,Dolores Otero,COBAY KANASIN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000483,Mujer,Mexicana,Yucatán,2003-02-05,Nueva Kukulcán,COBAY TECOH,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000484,Hombre,Mexicana,Yucatán,2004-05-08,Dolores Otero,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000485,Hombre,Mexicana,Yucatán,2003-11-05,Montes de Amé,COBAY BACA,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000486,Mujer,Mexicana,Yucatán,2002-11-20,Nueva Kukulcán,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000487,Hombre,Mexicana,Yucatán,1993-05-04,Wallis,LUIS ALVAREZ BARRET,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000488,Hombre,Mexicana,Yucatán,1995-12-20,San Antonio Kaua,COBAY TEKIT,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000489,Mujer,Mexicana,Yucatán,2006-10-29,Pensiones,COBAY UMAN,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000490,Mujer,Mexicana,Quintana Roo,2008-11-13,Miguel Alemán,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000491,Hombre,Mexicana,Yucatán,2007-03-31,San Ramón Sur,COBAY TEKIT,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000492,Mujer,Mexicana,Tabasco,2005-10-15,San Ramón Norte,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000493,Mujer,Mexicana,Yucatán,1998-02-21,Mayapán,PREPARATORIA 2 UADY,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000494,Hombre,Mexicana,Quintana Roo,2004-11-20,Temozón Norte,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000495,Mujer,Mexicana,Yucatán,2008-12-12,Montecristo,PREPARATORIA MIGUEL ANGEL,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000496,Mujer,Mexicana,Campeche,2007-12-25,Dzityá,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2020-1
+202000497,Mujer,Mexicana,Yucatán,2009-02-26,Centro,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000498,Mujer,Mexicana,Campeche,2002-09-02,San Ramón Norte,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000499,Hombre,Mexicana,Yucatán,1993-08-03,Chuburná de Hidalgo,CBTIS 80,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000500,Mujer,Mexicana,Campeche,2003-07-24,Salvador Alvarado Sur,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2020-1
+202000501,Mujer,Mexicana,Yucatán,2001-07-08,Salvador Alvarado Sur,COBAY SANTA ROSA,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000502,Hombre,Mexicana,Yucatán,2007-11-27,Ciudad Caucel,BACHILLERATO EN LINEA UADY,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000503,Hombre,Mexicana,Yucatán,2007-04-04,Bojórquez,FRANCISCO REPETO MILAN,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000504,Mujer,Mexicana,Yucatán,2004-12-19,Wallis,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000505,Mujer,Mexicana,Yucatán,2005-11-19,Pensiones,COBAY HOMUN,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000506,Hombre,Mexicana,Yucatán,1992-03-27,Nueva Kukulcán,EDUCACION  INTEGRAL Y ACTIVA EDAI,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000507,Hombre,Mexicana,Yucatán,2005-03-02,Temozón Norte,PREPARATORIA MIGUEL ANGEL,Escolar,Foraneo,Licenciatura,Educación,Vespertino,2020-1
+202000508,Hombre,Mexicana,Yucatán,1999-11-21,Dzityá,CBTIS 126 CAMPECHE,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000509,Hombre,Mexicana,Tabasco,2007-03-13,Brisas,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000510,Hombre,Mexicana,Yucatán,2007-07-23,Xoclán,PREPARATORIA 11,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000511,Hombre,Mexicana,Campeche,2004-05-04,Centro,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000512,Hombre,Mexicana,Yucatán,2007-09-10,Salvador Alvarado Sur,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000513,Mujer,Mexicana,Yucatán,2002-03-01,Mayapán,PREPARATORIA 7,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202000514,Mujer,Mexicana,Yucatán,2004-07-22,San Ramón Sur,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000515,Hombre,Mexicana,Yucatán,2004-01-12,Ciudad Caucel,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000516,Mujer,Mexicana,Yucatán,2007-06-24,Xoclán,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000517,Hombre,Mexicana,Yucatán,2006-10-09,México,COBAY KANASIN,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000518,Hombre,Mexicana,Yucatán,2004-10-16,Campestre,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Ing. Civil,Vespertino,2020-1
+202000519,Hombre,Mexicana,Yucatán,2007-04-25,Francisco de Montejo,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000520,Hombre,Mexicana,Yucatán,2009-01-21,Brisas,COBAY ABALA,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000521,Mujer,Mexicana,Yucatán,2005-08-28,Campestre,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000522,Mujer,Mexicana,Yucatán,2003-05-02,Mayapán,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2020-1
+202000523,Mujer,Mexicana,Yucatán,2006-09-03,Las Américas,COBAY XOCLAN,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000524,Hombre,Mexicana,Yucatán,2003-09-28,San Ramón Sur,SALVADOR ALVARADO,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000525,Hombre,Mexicana,Yucatán,2004-06-25,Montes de Amé,CBTIS 95,Mixto,Municipio,Licenciatura,Enfermería,Sabatino,2020-1
+202000526,Hombre,Mexicana,Yucatán,2008-08-27,San Antonio Kaua,CBTIS 111  CANCUN,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000527,Mujer,Mexicana,Campeche,2007-03-05,Altabrisa,ELIGIO ANCONA,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000528,Mujer,Mexicana,Yucatán,2007-05-05,Mulsay,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000529,Mujer,Mexicana,Yucatán,2003-03-29,Centro,CONALEP MERIDA,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000530,Mujer,Mexicana,Yucatán,2007-01-05,Montes de Amé,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000531,Mujer,Mexicana,Yucatán,2006-08-08,Itzimná,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000532,Hombre,Mexicana,Yucatán,2008-02-05,Juan Pablo II,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000533,Mujer,Mexicana,Yucatán,2005-09-19,Campestre,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000534,Mujer,Mexicana,Yucatán,2001-08-07,Xoclán,CONALEP MERIDA,Mixto,Merida,Licenciatura,Criminología,Sabatino,2020-1
+202000535,Mujer,Mexicana,Yucatán,2004-06-11,San Ramón Sur,COBACAM-CAMPECHE,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000536,Hombre,Mexicana,Yucatán,1994-04-28,Temozón Norte,COBAY UMAN,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000537,Mujer,Extranjera,Estados Unidos,2005-06-11,Salvador Alvarado Sur,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000538,Mujer,Extranjera,Colombia,2006-05-15,San Ramón Norte,COBAY UMAN,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000539,Mujer,Mexicana,Yucatán,2007-09-12,Juan Pablo II,COBAY 5,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000540,Hombre,Mexicana,Yucatán,2007-04-28,Salvador Alvarado Sur,CBTIS 95,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000541,Hombre,Mexicana,Yucatán,2001-02-21,Dzityá,COBAY KANASIN,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000542,Mujer,Mexicana,Quintana Roo,2005-07-27,Salvador Alvarado Sur,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000543,Hombre,Mexicana,Yucatán,2001-04-16,Montecristo,VICTOR MANUEL CERVERA PACHECO,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000544,Hombre,Mexicana,Yucatán,2006-11-17,Bojórquez,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000545,Mujer,Mexicana,Tabasco,2006-05-04,Ciudad Caucel,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2020-1
+202000546,Hombre,Mexicana,Tabasco,2007-09-26,Juan Pablo II,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000547,Mujer,Mexicana,Yucatán,2006-07-21,Xoclán,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000548,Hombre,Mexicana,Yucatán,2005-08-26,García Ginerés,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2020-1
+202000549,Hombre,Mexicana,Yucatán,2004-08-12,San Ramón Sur,CBETIS 120,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000550,Mujer,Mexicana,Yucatán,2000-01-15,San Antonio Kaua,UNIVERSIDAD CNCI,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000551,Hombre,Mexicana,Yucatán,2000-10-01,Juan Pablo II,PREPARATORIA 7,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000552,Mujer,Mexicana,Yucatán,2006-03-03,Altabrisa,COBAY CUZAMA,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000553,Hombre,Mexicana,Yucatán,1995-03-05,Salvador Alvarado Sur,CBTIS 80,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000554,Hombre,Mexicana,Yucatán,2007-07-30,Brisas,COBAY KANASIN,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000555,Hombre,Mexicana,Yucatán,2005-02-04,Pensiones,PREPA 1,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000556,Hombre,Mexicana,Yucatán,2005-09-13,Emiliano Zapata Sur,CBTIS 80,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000557,Hombre,Extranjera,Colombia,2005-04-06,Xoclán,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Mixto,Foraneo,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000558,Hombre,Mexicana,Yucatán,2007-10-12,Bojórquez,COBAY BACA,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000559,Mujer,Mexicana,Yucatán,2003-06-07,Brisas,COBAY UMAN,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000560,Hombre,Mexicana,Yucatán,2004-04-05,Las Américas,COBAY TECOH,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000561,Mujer,Mexicana,Yucatán,1999-10-26,Wallis,PREPARATORIA ESTATAL NO. 9,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2020-1
+202000562,Mujer,Mexicana,Yucatán,2009-04-05,Dolores Otero,CBTIS 95,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000563,Mujer,Mexicana,Yucatán,2004-05-04,Itzimná,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000564,Hombre,Mexicana,Yucatán,2006-03-18,Campestre,PREPARATORIA 7,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2020-1
+202000565,Hombre,Mexicana,Quintana Roo,2005-02-13,Campestre,PREPARATORIA ESTATAL NO. 9,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000566,Mujer,Mexicana,Yucatán,2001-01-05,Jardines del Norte,CBTIS 80,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000567,Hombre,Mexicana,Yucatán,2006-01-27,Wallis,BACHILLERATO TECNOLOGICO ESTADO DE MEXICO,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000568,Mujer,Mexicana,Yucatán,2006-04-30,Montes de Amé,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000569,Hombre,Mexicana,Quintana Roo,2003-04-27,México,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000570,Mujer,Mexicana,Yucatán,2007-06-05,San Ramón Norte,COBAY CHENKU,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000571,Mujer,Mexicana,Yucatán,2002-06-26,Jardines del Norte,PREPARATORIA 7,Mixto,Merida,Licenciatura,Educación,Sabatino,2020-1
+202000572,Hombre,Mexicana,Yucatán,2001-01-20,México,COBAY TEKIT,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000573,Hombre,Mexicana,Tabasco,2007-09-15,Chuburná de Hidalgo,CONRADO MENENDEZ DIAZ,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000574,Hombre,Mexicana,Yucatán,2009-02-17,Brisas,CECYTE QUINTANA ROO,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000575,Mujer,Mexicana,Yucatán,2000-09-24,México,COLEGIO BACHILLERES DE TABASCO 46,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000576,Hombre,Mexicana,Campeche,2005-09-25,Chuburná de Hidalgo,COBAY BACA,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000577,Hombre,Mexicana,Campeche,2007-04-04,Nueva Kukulcán,COREM MERIDA,Mixto,Merida,Licenciatura,Ing. Manufactura,Sabatino,2020-1
+202000578,Hombre,Mexicana,Campeche,1981-04-22,Centro,INSTITUTO ECOLE JOHNSON,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000579,Hombre,Mexicana,Quintana Roo,2007-02-28,San Ramón Norte,PREPARATORIA 11,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000580,Mujer,Mexicana,Campeche,2008-01-25,San Ramón Norte,COBAY UMAN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000581,Hombre,Mexicana,Quintana Roo,2006-06-15,García Ginerés,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000582,Mujer,Mexicana,Yucatán,2003-09-12,Dzityá,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000583,Hombre,Mexicana,Yucatán,2006-02-16,Montecristo,COBAY UMAN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000584,Hombre,Mexicana,Campeche,2005-12-05,Wallis,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000585,Mujer,Mexicana,Tabasco,2005-07-07,Montecristo,CONALEP MERIDA,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000586,Hombre,Mexicana,Yucatán,2003-02-14,Montes de Amé,COBAY SANTA ROSA,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000587,Mujer,Mexicana,Yucatán,1999-12-17,García Ginerés,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000588,Mujer,Mexicana,Yucatán,2005-01-03,San Antonio Kaua,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000589,Hombre,Mexicana,Yucatán,2007-09-25,Bojórquez,COBAY CHENKU,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000590,Mujer,Mexicana,Yucatán,2001-04-19,Temozón Norte,COBACAM-CAMPECHE,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000591,Mujer,Mexicana,Yucatán,2008-04-02,San Ramón Norte,COBAY SEYE,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000592,Mujer,Mexicana,Yucatán,2006-12-14,Dolores Otero,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000593,Mujer,Mexicana,Yucatán,2008-11-30,Centro,REPUBLICA DE MEXICO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000594,Mujer,Mexicana,Yucatán,2006-11-08,Ciudad Caucel,CBTIS 95,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000595,Mujer,Mexicana,Quintana Roo,2004-02-28,Montes de Amé,COLEGIO BACHILLERES OAXACA,Escolar,Merida,Licenciatura,Criminología,Vespertino,2020-1
+202000596,Mujer,Mexicana,Quintana Roo,2008-05-09,Las Américas,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000597,Mujer,Mexicana,Yucatán,2007-09-09,Pensiones,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000598,Mujer,Mexicana,Tabasco,2006-09-24,Brisas,PREPARATORIA MUNA,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2020-1
+202000599,Hombre,Mexicana,Yucatán,2002-11-01,Wallis,COBAY ABALA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000600,Hombre,Mexicana,Yucatán,2007-04-19,San Ramón Sur,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000601,Mujer,Mexicana,Yucatán,2005-07-21,México,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Foraneo,Licenciatura,Gastronomía,Matutino,2020-1
+202000602,Mujer,Mexicana,Yucatán,2006-08-27,Campestre,PREPA 1,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000603,Mujer,Mexicana,Tabasco,2008-11-16,Las Américas,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000604,Hombre,Mexicana,Yucatán,2006-08-29,San Ramón Norte,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000605,Mujer,Mexicana,Quintana Roo,2005-10-20,Montecristo,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000606,Mujer,Mexicana,Tabasco,1997-03-14,Itzimná,COBAY KANASIN,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000607,Mujer,Mexicana,Yucatán,2009-03-16,Francisco de Montejo,INSTITUTO PATRIA,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202000608,Hombre,Mexicana,Yucatán,2004-12-01,Montecristo,COBAY KANASIN,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000609,Hombre,Mexicana,Campeche,2007-02-18,Itzimná,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000610,Mujer,Mexicana,Tabasco,2008-05-17,Temozón Norte,COLEGIO BACHILLERES TABASCO,Escolar,Foraneo,Licenciatura,Enfermería,Vespertino,2020-1
+202000611,Mujer,Mexicana,Yucatán,2008-08-26,Las Américas,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000612,Mujer,Mexicana,Yucatán,2002-07-09,García Ginerés,COBAY UMAN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000613,Hombre,Mexicana,Quintana Roo,2008-09-21,Emiliano Zapata Sur,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000614,Mujer,Extranjera,Perú,2001-08-24,Montes de Amé,COBAY CAUCEL,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000615,Hombre,Mexicana,Tabasco,2004-10-16,Montecristo,CEDART Ermilo Abreu Gómez,Mixto,Foraneo,Licenciatura,Contaduría,Sabatino,2020-1
+202000616,Hombre,Mexicana,Tabasco,2002-05-06,Salvador Alvarado Sur,CARLOS CASTILLO PERAZA,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000617,Hombre,Extranjera,Colombia,2005-06-06,Ciudad Caucel,PREPARATORIA ESTATAL 2,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000618,Mujer,Mexicana,Yucatán,1998-06-18,García Ginerés,CBTIS 80,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000619,Hombre,Mexicana,Yucatán,2003-05-26,García Ginerés,PREPARATORIA MEXICO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000620,Hombre,Mexicana,Yucatán,1997-05-06,Itzimná,PREPARATORIA 2 UADY,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000621,Hombre,Mexicana,Yucatán,2003-11-15,Francisco de Montejo,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000622,Mujer,Mexicana,Quintana Roo,2007-12-26,Las Américas,CBTIS 80,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000623,Mujer,Mexicana,Yucatán,2007-06-16,Miguel Alemán,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000624,Mujer,Mexicana,Yucatán,2004-04-21,Pensiones,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000625,Hombre,Mexicana,Yucatán,1998-12-01,Altabrisa,COBAY CHIHUAHUA,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000626,Hombre,Mexicana,Tabasco,2009-03-26,San Ramón Sur,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000627,Mujer,Mexicana,Campeche,2004-03-01,San Antonio Kaua,CEMA,Mixto,Foraneo,Licenciatura,Educación,Sabatino,2020-1
+202000628,Hombre,Mexicana,Campeche,2008-11-25,Itzimná,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000629,Hombre,Mexicana,Yucatán,2004-10-01,Mayapán,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000630,Hombre,Mexicana,Yucatán,2007-01-30,Pensiones,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000631,Hombre,Mexicana,Campeche,2004-11-15,Montecristo,COBAY HOMUN,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000632,Mujer,Mexicana,Yucatán,2003-08-02,Centro,CECYTE,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202000633,Hombre,Mexicana,Yucatán,2006-07-20,Chuburná de Hidalgo,PREPARATORIA LIBRE,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2020-1
+202000634,Hombre,Mexicana,Yucatán,2002-07-05,San Antonio Kaua,TELEBACHILLERATO,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000635,Mujer,Mexicana,Yucatán,2006-03-02,Jardines del Norte,CBTA 13  XMATKUIL,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2020-1
+202000636,Mujer,Mexicana,Yucatán,1995-01-17,Francisco de Montejo,COLEGIO BACHILLERES TABASCO,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000637,Mujer,Mexicana,Yucatán,1994-10-07,Pensiones,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000638,Hombre,Mexicana,Yucatán,2005-04-19,Ciudad Caucel,UVM,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000639,Mujer,Mexicana,Yucatán,2008-07-24,Montes de Amé,COBAY CHENKU,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000640,Mujer,Mexicana,Yucatán,2008-10-05,Montes de Amé,COBAY YAXCABA,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000641,Hombre,Mexicana,Yucatán,2003-04-16,Brisas,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000642,Mujer,Mexicana,Yucatán,2006-10-15,Dzityá,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000643,Mujer,Mexicana,Yucatán,1997-10-19,Mulsay,COBAY CHICXULUB PUEBLO,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000644,Mujer,Mexicana,Yucatán,2005-11-22,Pensiones,PREPARATORIA ESTATAL NUM. 10,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000645,Mujer,Mexicana,Yucatán,2001-12-18,Nueva Kukulcán,COBAY UMAN,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000646,Hombre,Mexicana,Yucatán,2004-07-23,Francisco de Montejo,PREPA LIBRE SEP,Escolar,Foraneo,Licenciatura,Administración,Matutino,2020-1
+202000647,Mujer,Mexicana,Yucatán,1988-03-31,Juan Pablo II,JOSE VASCONCELOS,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000648,Hombre,Mexicana,Yucatán,2001-07-24,Montecristo,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Odontología,Vespertino,2020-1
+202000649,Mujer,Mexicana,Tabasco,2008-07-27,Campestre,JOSEFINA ROSADO DE PATRON,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000650,Mujer,Mexicana,Yucatán,2002-06-27,Montes de Amé,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000651,Mujer,Mexicana,Yucatán,2002-11-26,Chuburná de Hidalgo,PREPARATORIA ESTATAL NO. 9,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000652,Hombre,Mexicana,Yucatán,1997-11-23,México,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202000653,Hombre,Mexicana,Yucatán,1999-01-12,Centro,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Mixto,Foraneo,Licenciatura,Contaduría,Sabatino,2020-1
+202000654,Hombre,Mexicana,Campeche,2006-01-29,Bojórquez,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Criminología,Matutino,2020-1
+202000655,Hombre,Mexicana,Yucatán,1995-01-26,México,PREPARATORIA YUCATAN,Mixto,Merida,Licenciatura,Ing. Manufactura,Sabatino,2020-1
+202000656,Mujer,Mexicana,Yucatán,2004-04-19,Ciudad Caucel,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000657,Hombre,Mexicana,Campeche,2007-08-24,Campestre,CBTIS 80,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000658,Mujer,Mexicana,Yucatán,2006-11-18,Ciudad Caucel,COBAY TEKIT,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000659,Mujer,Extranjera,Colombia,2007-10-23,Chuburná de Hidalgo,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Criminología,Vespertino,2020-1
+202000660,Hombre,Mexicana,Yucatán,2006-09-15,San Ramón Sur,COBAY TECOH,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000661,Hombre,Mexicana,Quintana Roo,1989-10-07,San Ramón Sur,COBAY DZIDZANTUN,Mixto,Municipio,Licenciatura,Odontología,Sabatino,2020-1
+202000662,Mujer,Mexicana,Yucatán,2005-01-03,Jardines del Norte,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000663,Hombre,Mexicana,Yucatán,2006-08-05,Xoclán,PREPARATORIA 7,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000664,Hombre,Mexicana,Tabasco,2005-09-29,Wallis,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000665,Hombre,Mexicana,Yucatán,2003-02-28,Brisas,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000666,Hombre,Mexicana,Yucatán,2008-10-21,San Ramón Sur,FRANCISCO REPETO MILAN,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000667,Mujer,Mexicana,Yucatán,2008-07-16,Miguel Alemán,UNIVERSIDAD TECMILENIO,Escolar,Foraneo,Licenciatura,Educación,Matutino,2020-1
+202000668,Hombre,Mexicana,Yucatán,2002-10-08,Emiliano Zapata Sur,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000669,Mujer,Mexicana,Campeche,2005-11-14,Mulsay,COLEGIO AMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000670,Hombre,Mexicana,Yucatán,2006-10-09,Itzimná,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Fisioterapia,Matutino,2020-1
+202000671,Mujer,Mexicana,Yucatán,2008-03-14,Salvador Alvarado Sur,COBAY HOMUN,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000672,Mujer,Mexicana,Campeche,2005-09-17,Montecristo,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000673,Mujer,Extranjera,Estados Unidos,2001-08-18,Itzimná,DIEGO RIVERA,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000674,Mujer,Mexicana,Campeche,2002-10-26,Mulsay,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000675,Mujer,Mexicana,Yucatán,2005-09-10,Pensiones,PREPARATORIA ESTATAL NUM. 10,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000676,Mujer,Mexicana,Yucatán,1987-05-10,Altabrisa,PREPARATORIA MODELO,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000677,Hombre,Mexicana,Yucatán,2004-12-13,Pensiones,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000678,Mujer,Mexicana,Yucatán,2008-09-19,Mulsay,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000679,Hombre,Mexicana,Yucatán,2005-07-13,Mayapán,COBAY 5,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000680,Mujer,Mexicana,Yucatán,2009-02-08,Montes de Amé,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000681,Hombre,Mexicana,Tabasco,2006-07-28,Mulsay,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Ing. Manufactura,Matutino,2020-1
+202000682,Hombre,Mexicana,Yucatán,2004-03-29,Wallis,CEDART Ermilo Abreu Gómez,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2020-1
+202000683,Hombre,Mexicana,Yucatán,1998-09-13,Emiliano Zapata Sur,COBAY YAXCABA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000684,Mujer,Mexicana,Yucatán,2008-04-22,Dolores Otero,PREPARATORIA ESTATAL 2,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000685,Mujer,Mexicana,Yucatán,2005-11-08,Centro,BACHILLERATO TECNOLOGICO ESTADO DE MEXICO,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000686,Mujer,Mexicana,Yucatán,2005-11-19,Juan Pablo II,CONALEP MERIDA,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000687,Mujer,Mexicana,Quintana Roo,2008-03-31,Ciudad Caucel,COBAY HOMUN,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000688,Hombre,Mexicana,Yucatán,2009-01-25,Emiliano Zapata Sur,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000689,Hombre,Mexicana,Yucatán,2006-01-24,Juan Pablo II,PREPARATORIA PROGRESO,Mixto,Foraneo,Licenciatura,Arquitectura,Sabatino,2020-1
+202000690,Mujer,Mexicana,Campeche,2005-03-27,México,INSTITUTO FELTON,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202000691,Mujer,Mexicana,Yucatán,1999-02-01,San Ramón Sur,COBAY CHENKU,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000692,Hombre,Mexicana,Yucatán,2007-05-12,Francisco de Montejo,COLEGIO DE BACHILLERES QUINTANA ROO,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2020-1
+202000693,Hombre,Mexicana,Yucatán,2006-12-10,Campestre,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000694,Mujer,Mexicana,Yucatán,2005-03-27,Xoclán,CBTIS 80,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000695,Mujer,Mexicana,Yucatán,1999-06-26,Dzityá,Centro de Estudios Tecnológicos del Mar No 17,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000696,Hombre,Mexicana,Quintana Roo,2005-04-13,Temozón Norte,BETANCOURT -BRISAS,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000697,Hombre,Extranjera,Perú,2004-02-21,Emiliano Zapata Sur,COBAY TECOH,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2020-1
+202000698,Mujer,Mexicana,Tabasco,2006-05-27,Brisas,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000699,Hombre,Mexicana,Campeche,2006-12-04,Jardines del Norte,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000700,Mujer,Mexicana,Yucatán,2003-03-29,Montes de Amé,COBAY CUZAMA,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000701,Hombre,Mexicana,Yucatán,2004-12-18,Las Américas,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000702,Hombre,Mexicana,Quintana Roo,2008-02-08,Juan Pablo II,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000703,Hombre,Mexicana,Quintana Roo,2006-09-01,Dzityá,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000704,Mujer,Mexicana,Yucatán,2001-06-11,Montecristo,PREPARATORIA ABIERTA CALAFIA,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000705,Mujer,Mexicana,Yucatán,2000-07-22,Juan Pablo II,INSTITUTO FELTON,Mixto,Merida,Licenciatura,Enfermería,Sabatino,2020-1
+202000706,Hombre,Mexicana,Yucatán,2005-01-05,Xoclán,CBTIS 80,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000707,Mujer,Mexicana,Yucatán,2009-01-22,Temozón Norte,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000708,Mujer,Mexicana,Tabasco,2006-09-29,San Ramón Sur,CBTA 13  XMATKUIL,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2020-1
+202000709,Hombre,Mexicana,Campeche,2001-11-20,Francisco de Montejo,COBAY SEYE,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000710,Hombre,Mexicana,Yucatán,2008-12-05,Altabrisa,CBTIS 95,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2020-1
+202000711,Hombre,Mexicana,Campeche,2006-01-23,Miguel Alemán,CEDART Ermilo Abreu Gómez,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000712,Hombre,Mexicana,Yucatán,2006-07-14,Altabrisa,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Enfermería,Vespertino,2020-1
+202000713,Mujer,Mexicana,Yucatán,2008-12-23,Dzityá,INSTITUTO MEXICO,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202000714,Hombre,Mexicana,Yucatán,2007-02-03,Altabrisa,COBAY UMAN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000715,Mujer,Extranjera,Estados Unidos,1995-09-22,Montes de Amé,PREPARATORIA MODELO,Mixto,Foraneo,Licenciatura,Educación,Sabatino,2020-1
+202000716,Hombre,Mexicana,Yucatán,2005-05-30,Miguel Alemán,Centro Universitario Montejo,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2020-1
+202000717,Mujer,Mexicana,Yucatán,2008-09-30,Chuburná de Hidalgo,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202000718,Mujer,Mexicana,Yucatán,2009-02-12,Juan Pablo II,COLEGIO BACHILLERES TABASCO,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2020-1
+202000719,Mujer,Mexicana,Yucatán,2006-08-17,Dzityá,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2020-1
+202000720,Mujer,Mexicana,Yucatán,1994-09-03,Dzityá,COBAY DZIDZANTUN,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000721,Hombre,Mexicana,Quintana Roo,2006-01-15,Pensiones,COBAY TECOH,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000722,Mujer,Mexicana,Yucatán,1990-02-14,Jardines del Norte,COLEGIO EDUCACION Y PATRIA,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000723,Mujer,Mexicana,Yucatán,2006-12-18,Miguel Alemán,COBAY UMAN,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000724,Hombre,Mexicana,Tabasco,2004-04-26,Itzimná,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000725,Mujer,Mexicana,Yucatán,2007-09-12,Brisas,COBAY 5,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000726,Hombre,Mexicana,Tabasco,2007-02-26,Temozón Norte,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000727,Mujer,Mexicana,Campeche,2006-04-18,Nueva Kukulcán,COLEGIO BACHILLERES TABASCO,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202000728,Hombre,Mexicana,Quintana Roo,1991-11-25,Campestre,COBAY TIZIMIN,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000729,Mujer,Mexicana,Tabasco,2004-06-11,Brisas,COLEGIO DE BACHILLERES QUINTANA ROO,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000730,Hombre,Mexicana,Quintana Roo,1996-02-07,Nueva Kukulcán,LUIS ALVAREZ BARRET,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000731,Hombre,Mexicana,Tabasco,2005-02-12,San Ramón Norte,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000732,Hombre,Mexicana,Yucatán,2007-04-14,Emiliano Zapata Sur,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000733,Mujer,Mexicana,Quintana Roo,2009-02-20,Ciudad Caucel,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000734,Mujer,Mexicana,Yucatán,2005-12-10,Pensiones,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202000735,Hombre,Mexicana,Yucatán,2003-04-21,Nueva Kukulcán,COBAY KANASIN,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000736,Mujer,Mexicana,Tabasco,1995-06-29,Xoclán,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000737,Mujer,Mexicana,Quintana Roo,2001-05-30,Chuburná de Hidalgo,COBAY SEYE,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000738,Mujer,Mexicana,Campeche,1996-03-15,Mulsay,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000739,Hombre,Mexicana,Yucatán,2005-10-02,Montecristo,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Foraneo,Licenciatura,Odontología,Vespertino,2020-1
+202000740,Mujer,Mexicana,Yucatán,2008-11-28,Ciudad Caucel,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000741,Hombre,Mexicana,Yucatán,2008-10-01,México,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000742,Mujer,Extranjera,Estados Unidos,2000-10-05,Montecristo,COLEGIO DE BACHILLERES CHIAPAS,Mixto,Merida,Licenciatura,Enfermería,Sabatino,2020-1
+202000743,Hombre,Mexicana,Tabasco,2002-03-22,San Ramón Sur,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000744,Mujer,Mexicana,Yucatán,2005-08-09,Nueva Kukulcán,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202000745,Hombre,Mexicana,Yucatán,2006-08-24,San Ramón Sur,ROGERS HALL,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000746,Hombre,Mexicana,Campeche,2006-06-23,García Ginerés,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000747,Hombre,Mexicana,Tabasco,1999-02-27,Miguel Alemán,ALIANZA DE CAMIONEROS,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000748,Hombre,Mexicana,Yucatán,2002-12-16,Bojórquez,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000749,Hombre,Mexicana,Yucatán,2009-03-26,Altabrisa,PREPARATORIA MODELO,Escolar,Foraneo,Licenciatura,Odontología,Vespertino,2020-1
+202000750,Hombre,Mexicana,Yucatán,2006-12-04,San Antonio Kaua,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000751,Mujer,Mexicana,Tabasco,2006-02-02,Ciudad Caucel,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000752,Mujer,Mexicana,Yucatán,2005-10-24,San Antonio Kaua,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000753,Hombre,Mexicana,Quintana Roo,2007-12-03,Chuburná de Hidalgo,COBAY ABALA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000754,Hombre,Mexicana,Quintana Roo,2004-12-20,Montecristo,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000755,Mujer,Extranjera,Colombia,2004-12-21,Francisco de Montejo,EDUCACION  INTEGRAL Y ACTIVA EDAI,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000756,Hombre,Mexicana,Yucatán,2005-02-10,Ciudad Caucel,COBAY TEKIT,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000757,Hombre,Mexicana,Yucatán,2006-10-02,Dolores Otero,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000758,Mujer,Mexicana,Yucatán,2005-12-17,Nueva Kukulcán,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000759,Hombre,Mexicana,Yucatán,2007-08-05,Salvador Alvarado Sur,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000760,Mujer,Mexicana,Yucatán,2006-12-08,Las Américas,COBAY 5,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000761,Hombre,Mexicana,Yucatán,2001-07-17,Mayapán,COLEGIO MORALES FERNANDEZ DE LIZARDI,Mixto,Foraneo,Licenciatura,Derecho,Sabatino,2020-1
+202000762,Mujer,Extranjera,Estados Unidos,2006-04-18,Altabrisa,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000763,Hombre,Mexicana,Quintana Roo,1992-08-30,Emiliano Zapata Sur,COBAY CAUCEL,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202000764,Mujer,Mexicana,Yucatán,2004-12-20,Altabrisa,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000765,Mujer,Mexicana,Campeche,2005-01-15,San Ramón Sur,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000766,Mujer,Mexicana,Campeche,2007-09-08,Mayapán,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000767,Mujer,Mexicana,Yucatán,2008-10-11,Campestre,PREPARATORIA ABIERTA CALAFIA,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000768,Mujer,Mexicana,Yucatán,2006-05-31,Juan Pablo II,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2020-1
+202000769,Hombre,Mexicana,Yucatán,2003-12-21,Bojórquez,COBAY 5,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000770,Mujer,Mexicana,Yucatán,2007-08-15,San Ramón Sur,COBAY SEYE,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000771,Hombre,Mexicana,Tabasco,2005-10-27,Nueva Kukulcán,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000772,Mujer,Mexicana,Yucatán,1997-01-22,Mayapán,COBAY TECOH,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000773,Hombre,Mexicana,Campeche,2009-03-30,San Ramón Norte,CONALEP MERIDA,Escolar,Foraneo,Licenciatura,Ing. Civil,Vespertino,2020-1
+202000774,Mujer,Mexicana,Yucatán,2005-11-11,Ciudad Caucel,INSTITUTO FELTON,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202000775,Mujer,Mexicana,Yucatán,1998-01-03,Temozón Norte,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000776,Hombre,Mexicana,Tabasco,2007-12-04,Altabrisa,ALIANZA DE CAMIONEROS,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000777,Hombre,Mexicana,Yucatán,2008-08-08,Miguel Alemán,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000778,Hombre,Mexicana,Quintana Roo,2004-12-03,Wallis,COBAY ABALA,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000779,Hombre,Mexicana,Quintana Roo,2005-04-04,Centro,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000780,Mujer,Mexicana,Yucatán,2006-09-20,Campestre,JOSE VASCONCELOS,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000781,Mujer,Mexicana,Campeche,2007-10-11,Pensiones,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000782,Mujer,Mexicana,Quintana Roo,2007-03-15,Juan Pablo II,COBAY BACA,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000783,Hombre,Mexicana,Quintana Roo,2008-06-13,San Ramón Norte,COBAY BACA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000784,Hombre,Mexicana,Yucatán,1995-08-21,Salvador Alvarado Sur,COBAY ABALA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000785,Hombre,Mexicana,Yucatán,2005-09-07,Emiliano Zapata Sur,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202000786,Hombre,Mexicana,Tabasco,2004-10-05,García Ginerés,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000787,Hombre,Mexicana,Yucatán,1996-06-30,Centro,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000788,Mujer,Mexicana,Yucatán,2002-05-24,Salvador Alvarado Sur,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000789,Hombre,Mexicana,Yucatán,2008-03-11,Montes de Amé,DIEGO RIVERA,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000790,Hombre,Mexicana,Yucatán,2007-10-13,Centro,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000791,Mujer,Mexicana,Yucatán,2006-09-30,Campestre,COBAY ABALA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000792,Mujer,Mexicana,Yucatán,2007-03-26,Centro,SAN AGUSTIN,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000793,Mujer,Mexicana,Yucatán,2000-09-28,García Ginerés,Centro Universitario Montejo,Mixto,Foraneo,Licenciatura,Derecho,Sabatino,2020-1
+202000794,Hombre,Extranjera,Colombia,2004-06-25,Campestre,PREPARATORIA MEXICO,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000795,Hombre,Mexicana,Campeche,2004-12-10,Montecristo,COBAY UMAN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000796,Mujer,Mexicana,Yucatán,2004-05-09,Jardines del Norte,COBAY CUZAMA,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000797,Mujer,Mexicana,Campeche,2008-09-07,Pensiones,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000798,Mujer,Extranjera,Perú,2004-11-24,Emiliano Zapata Sur,COLEGIO AMERICANO,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2020-1
+202000799,Hombre,Mexicana,Yucatán,2006-12-28,Ciudad Caucel,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000800,Hombre,Extranjera,Estados Unidos,2008-01-29,San Antonio Kaua,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000801,Hombre,Mexicana,Yucatán,1991-04-25,Miguel Alemán,SIGLO XXI,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000802,Hombre,Mexicana,Yucatán,2006-10-26,Miguel Alemán,MANUEL CRESCENCIO REJON,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000803,Mujer,Extranjera,Perú,1996-09-19,San Antonio Kaua,COBAY VALLADOLID,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000804,Hombre,Mexicana,Quintana Roo,2003-06-08,San Antonio Kaua,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000805,Hombre,Mexicana,Campeche,2006-06-20,Pensiones,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000806,Mujer,Mexicana,Yucatán,2007-03-20,Jardines del Norte,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Ing. Civil,Vespertino,2020-1
+202000807,Mujer,Mexicana,Yucatán,2008-06-12,Campestre,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000808,Mujer,Mexicana,Tabasco,2006-12-05,Las Américas,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000809,Hombre,Mexicana,Campeche,1990-11-13,Temozón Norte,PREPARATORIA 11,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000810,Hombre,Mexicana,Yucatán,1994-08-21,Miguel Alemán,COBAY CUZAMA,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000811,Mujer,Mexicana,Quintana Roo,2005-12-10,Centro,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000812,Mujer,Mexicana,Yucatán,2005-09-14,Dzityá,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000813,Hombre,Mexicana,Yucatán,2009-03-06,Miguel Alemán,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000814,Hombre,Mexicana,Yucatán,2007-07-10,México,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000815,Hombre,Mexicana,Campeche,2008-03-27,Salvador Alvarado Sur,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000816,Hombre,Mexicana,Quintana Roo,2004-02-25,Mulsay,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2020-1
+202000817,Mujer,Mexicana,Tabasco,2002-09-07,Pensiones,COBAY SOTUTA,Escolar,Municipio,Licenciatura,Educación,Matutino,2020-1
+202000818,Mujer,Mexicana,Campeche,2002-12-01,San Ramón Norte,CBTIS 80,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000819,Mujer,Mexicana,Yucatán,1996-02-09,San Ramón Sur,COBAY ACANCEH,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000820,Mujer,Mexicana,Campeche,2005-02-18,Centro,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000821,Mujer,Mexicana,Quintana Roo,2004-10-23,Nueva Kukulcán,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000822,Hombre,Mexicana,Yucatán,2004-06-25,Juan Pablo II,COLEGIO MESOAMERICANO,Mixto,Foraneo,Licenciatura,Arquitectura,Sabatino,2020-1
+202000823,Hombre,Mexicana,Yucatán,1997-08-30,Pensiones,COBAY CHIHUAHUA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000824,Mujer,Mexicana,Yucatán,2004-04-16,Campestre,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202000825,Mujer,Mexicana,Yucatán,1993-06-20,Mayapán,PREPARATORIA YUCATAN,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2020-1
+202000826,Hombre,Mexicana,Yucatán,1993-07-20,Nueva Kukulcán,CBTIS 28- COZUMEL,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000827,Mujer,Mexicana,Tabasco,2000-02-11,Salvador Alvarado Sur,COBAY DZIDZANTUN,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000828,Hombre,Mexicana,Yucatán,2003-10-05,San Ramón Sur,COBAY KIMBILA,Mixto,Municipio,Licenciatura,Odontología,Sabatino,2020-1
+202000829,Hombre,Mexicana,Yucatán,2005-12-14,Las Américas,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000830,Hombre,Mexicana,Quintana Roo,1996-04-23,Xoclán,CBTIS 95,Mixto,Municipio,Licenciatura,Ing. Civil,Sabatino,2020-1
+202000831,Hombre,Mexicana,Yucatán,2001-10-27,Las Américas,JOSEFINA ROSADO DE PATRON,Escolar,Foraneo,Licenciatura,Administración,Matutino,2020-1
+202000832,Hombre,Mexicana,Yucatán,1998-02-04,Pensiones,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000833,Hombre,Mexicana,Yucatán,2005-11-06,Mulsay,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000834,Mujer,Mexicana,Yucatán,2006-08-11,Dolores Otero,COBAY CAUCEL,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000835,Hombre,Mexicana,Campeche,2005-07-03,Salvador Alvarado Sur,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000836,Mujer,Mexicana,Yucatán,2005-09-30,Montecristo,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000837,Hombre,Mexicana,Yucatán,2005-11-25,Ciudad Caucel,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202000838,Mujer,Mexicana,Yucatán,2003-12-31,San Antonio Kaua,COBAY TECOH,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000839,Mujer,Extranjera,Perú,2004-02-20,Emiliano Zapata Sur,CBTIS 95,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000840,Mujer,Mexicana,Quintana Roo,2007-04-16,Itzimná,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000841,Mujer,Mexicana,Yucatán,2009-01-18,México,COBAY TEKIT,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000842,Hombre,Extranjera,Perú,2005-03-21,Centro,CEDART Ermilo Abreu Gómez,Escolar,Foraneo,Licenciatura,Educación,Vespertino,2020-1
+202000843,Mujer,Mexicana,Quintana Roo,2005-08-02,Francisco de Montejo,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000844,Hombre,Mexicana,Yucatán,1999-05-12,San Antonio Kaua,PREPARATORIA ESTATAL NUM. 10,Mixto,Merida,Licenciatura,Psicología,Sabatino,2020-1
+202000845,Mujer,Mexicana,Yucatán,1993-08-06,Bojórquez,COBAY CACALCHEN,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202000846,Hombre,Mexicana,Yucatán,2005-01-16,Brisas,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Foraneo,Licenciatura,Administración,Matutino,2020-1
+202000847,Hombre,Mexicana,Yucatán,2006-09-29,Campestre,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202000848,Mujer,Mexicana,Quintana Roo,2007-12-18,Wallis,CEIC PLAYA DEL CARMEN,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000849,Mujer,Mexicana,Yucatán,2005-12-19,Montecristo,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000850,Mujer,Mexicana,Tabasco,2004-01-17,Altabrisa,EDUCACION  INTEGRAL Y ACTIVA EDAI,Mixto,Foraneo,Licenciatura,Arquitectura,Sabatino,2020-1
+202000851,Mujer,Extranjera,Perú,2007-07-09,García Ginerés,COREM MERIDA,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000852,Mujer,Mexicana,Yucatán,1996-10-22,Itzimná,CETMAR-PROGRESO,Mixto,Foraneo,Licenciatura,Enfermería,Sabatino,2020-1
+202000853,Mujer,Mexicana,Yucatán,2008-07-02,Jardines del Norte,COLEGIO DE BACHILLERES QUINTANA ROO,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000854,Hombre,Mexicana,Campeche,2005-11-26,Montes de Amé,CBTIS 95,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000855,Mujer,Mexicana,Yucatán,2008-09-15,Miguel Alemán,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000856,Mujer,Mexicana,Quintana Roo,2008-07-19,Chuburná de Hidalgo,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Criminología,Matutino,2020-1
+202000857,Mujer,Mexicana,Yucatán,1992-09-23,Emiliano Zapata Sur,COABY TICUL,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2020-1
+202000858,Mujer,Mexicana,Yucatán,2006-10-06,México,COBAY XOCLAN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000859,Mujer,Mexicana,Yucatán,1991-10-30,Chuburná de Hidalgo,COBAY TECOH,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000860,Mujer,Mexicana,Yucatán,2005-11-10,Montecristo,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000861,Mujer,Extranjera,Perú,2004-05-04,San Ramón Sur,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000862,Mujer,Mexicana,Yucatán,2006-06-23,Bojórquez,COBAY SEYE,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000863,Mujer,Mexicana,Yucatán,2003-12-31,Nueva Kukulcán,COBAY HOMUN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000864,Mujer,Mexicana,Yucatán,1999-03-04,Dolores Otero,COBAY ABALA,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000865,Mujer,Mexicana,Yucatán,2006-02-11,Montes de Amé,COBAY YAXCABA,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000866,Hombre,Mexicana,Yucatán,1999-03-15,García Ginerés,COBAY XOCLAN,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000867,Mujer,Mexicana,Yucatán,2005-10-21,Itzimná,PREPARATORIA MIGUEL ANGEL,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2020-1
+202000868,Mujer,Mexicana,Quintana Roo,2005-06-18,Brisas,PREPARATORIA 7,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202000869,Mujer,Mexicana,Tabasco,1992-08-24,Campestre,COBAY CHENKU,Mixto,Municipio,Licenciatura,Enfermería,Sabatino,2020-1
+202000870,Hombre,Mexicana,Yucatán,2004-12-02,San Ramón Norte,COBAY SEYE,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000871,Mujer,Mexicana,Yucatán,2007-05-14,Campestre,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000872,Hombre,Mexicana,Yucatán,2003-07-20,Mulsay,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000873,Mujer,Mexicana,Campeche,2004-06-08,Dzityá,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000874,Hombre,Mexicana,Yucatán,2006-05-10,Miguel Alemán,COLEGIO YUCATAN,Escolar,Merida,Licenciatura,Criminología,Vespertino,2020-1
+202000875,Hombre,Mexicana,Yucatán,1999-07-08,Nueva Kukulcán,PREPARATORIA MODELO,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000876,Mujer,Mexicana,Yucatán,2001-07-03,Nueva Kukulcán,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000877,Hombre,Mexicana,Tabasco,2007-01-20,México,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000878,Mujer,Mexicana,Yucatán,2008-10-25,Altabrisa,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000879,Mujer,Mexicana,Yucatán,2002-06-12,Francisco de Montejo,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000880,Hombre,Mexicana,Yucatán,2005-10-07,Mulsay,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000881,Hombre,Mexicana,Yucatán,2004-02-14,Wallis,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000882,Mujer,Mexicana,Yucatán,2003-07-08,Mayapán,SIGLO XXI,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2020-1
+202000883,Hombre,Mexicana,Yucatán,2003-07-08,Montes de Amé,COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000884,Hombre,Mexicana,Yucatán,2002-11-03,Pensiones,COBAY TZUCACAB,Escolar,Municipio,Licenciatura,Enfermería,Matutino,2020-1
+202000885,Mujer,Mexicana,Yucatán,2009-02-12,Chuburná de Hidalgo,COBAY SANTA ROSA,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000886,Mujer,Mexicana,Yucatán,2007-02-11,Mayapán,CBTIS 95,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202000887,Hombre,Mexicana,Yucatán,2009-03-23,Altabrisa,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000888,Hombre,Mexicana,Yucatán,2006-12-02,Mayapán,UNIVERSIDAD VIZCAYA DE LAS AMÉRICAS,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000889,Mujer,Mexicana,Yucatán,2007-12-07,Dzityá,COBAY XOCLAN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000890,Mujer,Mexicana,Yucatán,2007-03-07,Chuburná de Hidalgo,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000891,Mujer,Mexicana,Yucatán,2002-04-30,Dzityá,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000892,Mujer,Mexicana,Yucatán,2008-03-15,Las Américas,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2020-1
+202000893,Hombre,Mexicana,Tabasco,2003-08-01,Centro,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202000894,Mujer,Mexicana,Yucatán,2007-10-02,Montes de Amé,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000895,Mujer,Mexicana,Yucatán,2005-03-18,Chuburná de Hidalgo,COLEGIO DE BACHILLERES PLANTEL COZUMEL,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000896,Mujer,Mexicana,Yucatán,1999-02-20,Mulsay,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Mixto,Foraneo,Licenciatura,Contaduría,Sabatino,2020-1
+202000897,Mujer,Mexicana,Campeche,2006-02-25,Las Américas,COBACAM-CAMPECHE,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000898,Mujer,Mexicana,Yucatán,2005-11-11,Miguel Alemán,PREPARATORIA MUNA,Escolar,Foraneo,Licenciatura,Criminología,Vespertino,2020-1
+202000899,Hombre,Mexicana,Yucatán,2004-09-18,Nueva Kukulcán,BACHILLERATO EN LINEA UADY,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000900,Hombre,Mexicana,Quintana Roo,2006-02-01,Brisas,COLEGIO BACHILLERES OAXACA,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000901,Hombre,Extranjera,Perú,2001-11-21,Ciudad Caucel,UNIVERSIDAD CNCI,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000902,Hombre,Mexicana,Tabasco,2007-02-19,Pensiones,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202000903,Mujer,Mexicana,Yucatán,2006-01-01,Xoclán,COBAY XOCLAN,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000904,Mujer,Mexicana,Yucatán,2004-08-03,Ciudad Caucel,COLEGIO DE BACHILLERES CHIAPAS,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000905,Hombre,Mexicana,Yucatán,2004-06-11,Chuburná de Hidalgo,COBAY TZUCACAB,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000906,Hombre,Mexicana,Yucatán,2009-02-13,Wallis,COBAY SEYE,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000907,Mujer,Mexicana,Yucatán,2002-05-03,San Ramón Sur,CBTIS 126 CAMPECHE,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000908,Mujer,Mexicana,Tabasco,2006-09-19,Mayapán,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000909,Mujer,Mexicana,Campeche,2004-04-30,Campestre,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000910,Hombre,Mexicana,Yucatán,2006-12-03,San Ramón Norte,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000911,Mujer,Mexicana,Yucatán,2007-12-08,Mulsay,ALIANZA DE CAMIONEROS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2020-1
+202000912,Hombre,Mexicana,Yucatán,2004-12-23,México,COBAY CUZAMA,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000913,Mujer,Extranjera,Estados Unidos,1987-05-13,Dolores Otero,CBTIS 111  CANCUN,Mixto,Municipio,Licenciatura,Administración,Sabatino,2020-1
+202000914,Hombre,Mexicana,Tabasco,2005-02-20,Montecristo,COBAY BACA,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000915,Hombre,Mexicana,Yucatán,2007-02-11,Montecristo,PREPARATORIA ESTATAL CTM # 3,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2020-1
+202000916,Hombre,Mexicana,Yucatán,2008-05-22,Bojórquez,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000917,Hombre,Mexicana,Yucatán,2003-08-22,Altabrisa,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000918,Mujer,Mexicana,Yucatán,2008-09-28,Ciudad Caucel,Centro de Bachillerato Tecnológico Industrial y de,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000919,Mujer,Mexicana,Yucatán,2004-01-04,Brisas,COBAY SEYE,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000920,Mujer,Mexicana,Yucatán,2000-01-23,Brisas,VICTOR MANUEL CERVERA PACHECO,Mixto,Foraneo,Licenciatura,Enfermería,Sabatino,2020-1
+202000921,Mujer,Mexicana,Yucatán,2005-11-03,Mayapán,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000922,Mujer,Mexicana,Campeche,2007-08-15,San Ramón Norte,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000923,Mujer,Mexicana,Yucatán,2005-03-26,Dzityá,COLEGIO YUCATAN,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000924,Hombre,Mexicana,Quintana Roo,2006-02-25,Montecristo,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202000925,Mujer,Mexicana,Quintana Roo,2005-06-16,Salvador Alvarado Sur,CEMA,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000926,Hombre,Mexicana,Yucatán,2008-04-24,San Antonio Kaua,COBAY TIXPEUAL,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000927,Mujer,Mexicana,Campeche,2006-11-04,Las Américas,COBAY KANASIN,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000928,Hombre,Mexicana,Yucatán,2008-12-01,Temozón Norte,CBTIS 95,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000929,Hombre,Mexicana,Tabasco,2009-02-17,Dolores Otero,CEDART Ermilo Abreu Gómez,Escolar,Merida,Licenciatura,Educación,Vespertino,2020-1
+202000930,Hombre,Mexicana,Quintana Roo,2007-11-21,Dolores Otero,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000931,Mujer,Mexicana,Quintana Roo,2005-04-30,Montes de Amé,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000932,Hombre,Mexicana,Yucatán,2003-04-19,Montecristo,JOSE VASCONCELOS,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000933,Hombre,Mexicana,Yucatán,2003-01-28,Montes de Amé,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202000934,Mujer,Mexicana,Yucatán,1999-06-16,México,COBAY TECOH,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2020-1
+202000935,Hombre,Mexicana,Tabasco,2007-03-27,Montecristo,PREPARATORIA MEXICO,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000936,Mujer,Mexicana,Yucatán,2001-03-21,Dolores Otero,PREPARATORIA ABIERTA CALAFIA,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2020-1
+202000937,Mujer,Extranjera,Colombia,2006-09-02,Nueva Kukulcán,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000938,Hombre,Mexicana,Yucatán,2006-06-29,México,COBAY BACA,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000939,Mujer,Mexicana,Yucatán,2006-12-18,Francisco de Montejo,UNIVERSIDAD CNCI,Escolar,Foraneo,Licenciatura,Criminología,Matutino,2020-1
+202000940,Hombre,Mexicana,Yucatán,2007-01-24,Itzimná,COLEGIO YUCATAN,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202000941,Hombre,Mexicana,Yucatán,2003-08-21,García Ginerés,FRANCISCO REPETO MILAN,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202000942,Mujer,Mexicana,Yucatán,2008-04-14,Las Américas,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000943,Mujer,Mexicana,Campeche,2004-05-24,San Ramón Sur,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Foraneo,Licenciatura,Odontología,Matutino,2020-1
+202000944,Hombre,Mexicana,Yucatán,2005-09-03,Wallis,SERAPIO RENDÓN,Escolar,Foraneo,Licenciatura,Administración,Matutino,2020-1
+202000945,Mujer,Mexicana,Campeche,2007-04-26,Bojórquez,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2020-1
+202000946,Mujer,Extranjera,Colombia,2007-06-22,Miguel Alemán,PREPARATORIA ESTATAL 3,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202000947,Hombre,Mexicana,Yucatán,2005-11-08,Itzimná,COBAY KANASIN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000948,Mujer,Mexicana,Yucatán,2006-05-30,Pensiones,COBAY SEYE,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000949,Hombre,Mexicana,Yucatán,2007-05-05,Nueva Kukulcán,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000950,Mujer,Mexicana,Yucatán,2007-05-29,Mayapán,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000951,Mujer,Mexicana,Yucatán,2003-10-17,Jardines del Norte,COBAY CACALCHEN,Mixto,Municipio,Licenciatura,Educación,Sabatino,2020-1
+202000952,Hombre,Mexicana,Yucatán,2004-10-05,Mulsay,PREPARATORIA ESTATAL 3,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2020-1
+202000953,Hombre,Mexicana,Yucatán,2007-03-17,Francisco de Montejo,LA SALLEBOULLEWARES,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000954,Mujer,Mexicana,Yucatán,2005-07-05,Centro,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2020-1
+202000955,Mujer,Mexicana,Yucatán,1993-02-23,Itzimná,COBAY CHICXULUB PUEBLO,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000956,Hombre,Mexicana,Yucatán,2008-07-27,San Ramón Sur,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2020-1
+202000957,Hombre,Mexicana,Yucatán,2003-08-19,Altabrisa,VICTOR J. MANZANILLA J. -CANSAHCAB,Mixto,Merida,Licenciatura,Administración,Sabatino,2020-1
+202000958,Hombre,Mexicana,Campeche,2005-02-02,San Antonio Kaua,COLEGIO BACHILLERES OAXACA,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2020-1
+202000959,Hombre,Mexicana,Yucatán,2002-03-08,Ciudad Caucel,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000960,Hombre,Mexicana,Tabasco,2008-12-13,San Ramón Sur,PREPARATORIA ESTATAL NO. 9,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2020-1
+202000961,Mujer,Mexicana,Yucatán,2009-03-19,Juan Pablo II,COBAY XOCLAN,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202000962,Mujer,Mexicana,Yucatán,2009-01-06,Itzimná,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000963,Hombre,Mexicana,Quintana Roo,2006-04-04,Juan Pablo II,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Ing. Civil,Vespertino,2020-1
+202000964,Mujer,Mexicana,Yucatán,2006-05-12,Altabrisa,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202000965,Hombre,Mexicana,Yucatán,2006-11-21,Chuburná de Hidalgo,COLEGIO MORALES FERNANDEZ DE LIZARDI,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202000966,Hombre,Mexicana,Tabasco,2003-06-18,Las Américas,ATENEO DE MERIDA,Escolar,Merida,Licenciatura,Derecho,Matutino,2020-1
+202000967,Hombre,Extranjera,Perú,2003-04-27,Francisco de Montejo,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000968,Hombre,Mexicana,Yucatán,2006-11-19,Mayapán,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Contaduría,Matutino,2020-1
+202000969,Mujer,Mexicana,Yucatán,2004-06-03,San Ramón Sur,COBAY CHENKU,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000970,Mujer,Mexicana,Yucatán,2008-12-24,Las Américas,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202000971,Mujer,Mexicana,Tabasco,2002-08-12,Jardines del Norte,COBAY KANASIN,Escolar,Municipio,Licenciatura,Enfermería,Vespertino,2020-1
+202000972,Hombre,Mexicana,Yucatán,2003-10-28,Las Américas,PREPARATORIA ESTATAL 2,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2020-1
+202000973,Mujer,Mexicana,Yucatán,2006-11-09,Emiliano Zapata Sur,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Odontología,Matutino,2020-1
+202000974,Hombre,Mexicana,Tabasco,2009-02-07,San Ramón Sur,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202000975,Mujer,Mexicana,Yucatán,1997-05-14,Wallis,ELIGIO ANCONA,Mixto,Merida,Licenciatura,Derecho,Sabatino,2020-1
+202000976,Mujer,Mexicana,Tabasco,1992-07-06,Montes de Amé,COBAY CHICXULUB PUEBLO,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2020-1
+202000977,Mujer,Mexicana,Yucatán,2006-07-02,Dolores Otero,COBAY 5,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000978,Hombre,Mexicana,Yucatán,2002-10-04,García Ginerés,SIGLO XXI,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2020-1
+202000979,Hombre,Extranjera,Estados Unidos,2006-12-16,Ciudad Caucel,COBAY TIXPEUAL,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2020-1
+202000980,Hombre,Mexicana,Tabasco,2007-08-24,Dolores Otero,PREPARATORIA LIBRE,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2020-1
+202000981,Hombre,Mexicana,Yucatán,2007-03-16,García Ginerés,COLEGIO BACHILLERES TABASCO,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202000982,Hombre,Mexicana,Yucatán,2004-11-26,Las Américas,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000983,Mujer,Mexicana,Yucatán,2006-10-05,Montecristo,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202000984,Mujer,Mexicana,Yucatán,2008-12-26,Temozón Norte,COBAY ABALA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202000985,Mujer,Mexicana,Yucatán,2006-02-15,México,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Criminología,Matutino,2020-1
+202000986,Mujer,Mexicana,Yucatán,2004-04-19,Miguel Alemán,COBAY UMAN,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1
+202000987,Mujer,Extranjera,Estados Unidos,2007-12-28,Temozón Norte,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202000988,Hombre,Mexicana,Yucatán,2007-07-16,México,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202000989,Hombre,Mexicana,Yucatán,1997-12-03,San Ramón Sur,COBAY DZIDZANTUN,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202000990,Hombre,Mexicana,Yucatán,2006-07-10,San Antonio Kaua,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2020-1
+202000991,Hombre,Mexicana,Yucatán,2003-10-12,Temozón Norte,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000992,Hombre,Mexicana,Yucatán,2006-12-03,Francisco de Montejo,LUIS ALVAREZ BARRET,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202000993,Mujer,Mexicana,Yucatán,2007-08-14,Campestre,CBTIS 126 CAMPECHE,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2020-1
+202000994,Mujer,Mexicana,Quintana Roo,2007-10-07,San Ramón Sur,ROGERS HALL,Escolar,Foraneo,Licenciatura,Fisioterapia,Vespertino,2020-1
+202000995,Mujer,Mexicana,Quintana Roo,2005-11-06,Temozón Norte,ESCUELA PREPARATORIA JOSE DOLORES RODRIGUEZ TAMAYO,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202000996,Mujer,Mexicana,Tabasco,1999-07-25,Mayapán,COBAY 5,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202000997,Hombre,Mexicana,Yucatán,2005-09-23,Emiliano Zapata Sur,PREPARATORIA 11,Escolar,Merida,Licenciatura,Psicología,Vespertino,2020-1
+202000998,Mujer,Mexicana,Quintana Roo,2009-02-13,Altabrisa,COBAY DZIDZANTUN,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2020-1
+202000999,Mujer,Mexicana,Yucatán,2009-02-16,Mulsay,COBAY VALLADOLID,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202001000,Hombre,Mexicana,Yucatán,2008-06-18,San Ramón Sur,COBAY CHENKU,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202001001,Mujer,Mexicana,Yucatán,1993-04-18,Francisco de Montejo,CBTIS 95,Mixto,Municipio,Licenciatura,Fisioterapia,Sabatino,2020-1
+202001002,Mujer,Mexicana,Yucatán,2005-10-26,Pensiones,PREPARATORIA MODELO,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202001003,Mujer,Mexicana,Yucatán,2005-09-30,Itzimná,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2020-1
+202001004,Mujer,Mexicana,Yucatán,2003-08-17,México,COLEGIO AMERICANO,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202001005,Hombre,Mexicana,Yucatán,2005-01-19,Xoclán,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202001006,Hombre,Mexicana,Yucatán,2005-04-16,Itzimná,PREPARATORIA ESTATAL 3,Escolar,Foraneo,Licenciatura,Educación,Vespertino,2020-1
+202001007,Hombre,Mexicana,Yucatán,2008-01-31,Dolores Otero,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2020-1
+202001008,Hombre,Mexicana,Yucatán,2002-10-12,Emiliano Zapata Sur,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Educación,Vespertino,2020-1
+202001009,Hombre,Mexicana,Quintana Roo,2007-06-07,Montes de Amé,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202001010,Mujer,Mexicana,Yucatán,2008-10-23,Miguel Alemán,COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2020-1
+202001011,Hombre,Mexicana,Yucatán,2005-09-14,Montes de Amé,COBAY PLANTEL PETO,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2020-1
+202001012,Mujer,Mexicana,Campeche,2003-11-23,San Antonio Kaua,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2020-1
+202001013,Hombre,Mexicana,Campeche,2005-01-13,Pensiones,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202001014,Mujer,Mexicana,Yucatán,2004-05-11,Campestre,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2020-1
+202001015,Mujer,Mexicana,Yucatán,2008-06-01,Chuburná de Hidalgo,COBAY HUNUCMA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202001016,Hombre,Mexicana,Yucatán,2007-08-13,Brisas,FELIPE ESCALANTE RUZ - BRISAS,Escolar,Merida,Licenciatura,Administración,Vespertino,2020-1
+202001017,Mujer,Mexicana,Yucatán,2006-11-25,Dolores Otero,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2020-1
+202001018,Mujer,Mexicana,Yucatán,2005-05-02,México,COLEGIO DE BACHILLERES QUINTANA ROO,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202001019,Hombre,Mexicana,Yucatán,2009-01-15,Mulsay,COBAY CHIHUAHUA,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202001020,Hombre,Mexicana,Yucatán,2003-04-20,Emiliano Zapata Sur,CENTRO ESCOLAR ROCHAVI,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2020-1
+202001021,Mujer,Mexicana,Quintana Roo,2007-04-19,Mulsay,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Derecho,Matutino,2020-1
+202001022,Mujer,Extranjera,Colombia,1995-09-16,México,COBAY TZUCACAB,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2020-1
+202001023,Mujer,Mexicana,Yucatán,2004-06-18,Emiliano Zapata Sur,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202001024,Mujer,Mexicana,Yucatán,2006-09-17,Dolores Otero,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2020-1
+202001025,Hombre,Mexicana,Yucatán,2009-04-08,Pensiones,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Ing. Civil,Matutino,2020-1
+202001026,Mujer,Mexicana,Yucatán,1993-01-02,Centro,COBAY KANASIN,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2020-1
+202001027,Mujer,Mexicana,Yucatán,1988-05-28,Salvador Alvarado Sur,COBAY SANTA ROSA,Mixto,Municipio,Licenciatura,Diseño de Modas,Sabatino,2020-1
+202001028,Mujer,Mexicana,Campeche,1998-05-15,Salvador Alvarado Sur,MEXICANA DEL MAYAB,Mixto,Foraneo,Licenciatura,Fisioterapia,Sabatino,2020-1
+202001029,Mujer,Mexicana,Yucatán,2007-05-31,Bojórquez,COBAY SEYE,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202001030,Hombre,Mexicana,Yucatán,1999-12-22,Campestre,CBTIS 126 CAMPECHE,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2020-1
+202001031,Mujer,Mexicana,Yucatán,2005-06-20,Miguel Alemán,CBTIS 80,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202001032,Hombre,Mexicana,Tabasco,2007-09-15,Nueva Kukulcán,COBAY YAXCABA,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2020-1
+202001033,Hombre,Mexicana,Quintana Roo,2004-06-19,Campestre,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202001034,Mujer,Mexicana,Yucatán,2006-09-21,Juan Pablo II,COABY TICUL,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202001035,Mujer,Mexicana,Tabasco,2008-05-13,Miguel Alemán,COBAY CACALCHEN,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202001036,Hombre,Mexicana,Tabasco,2006-12-19,García Ginerés,UVM,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202001037,Hombre,Mexicana,Yucatán,2002-12-29,Montecristo,PREPARATORIA ESTATAL #10 RUBÉN H. RODRÍGUEZ MOGUEL,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2020-1
+202001038,Mujer,Mexicana,Yucatán,2006-07-06,Xoclán,CBTIS 28- COZUMEL,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2020-1
+202001039,Mujer,Mexicana,Yucatán,2008-04-08,Montecristo,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Psicología,Matutino,2020-1
+202001040,Mujer,Mexicana,Tabasco,2004-08-03,Itzimná,COBAY TIZIMIN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202001041,Hombre,Mexicana,Quintana Roo,2007-04-28,Centro,PREPA LIBRE SEP,Escolar,Merida,Licenciatura,Derecho,Vespertino,2020-1
+202001042,Hombre,Mexicana,Yucatán,2007-08-08,Bojórquez,COBAY CHICXULUB PUEBLO,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2020-1
+202001043,Mujer,Extranjera,Colombia,2006-10-24,Miguel Alemán,PREPARATORIA ABIERTA CALAFIA,Escolar,Merida,Licenciatura,Odontología,Matutino,2020-1
+202001044,Mujer,Mexicana,Yucatán,2005-08-23,Itzimná,MANUEL CRESCENCIO REJON,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2020-1
+202001045,Hombre,Mexicana,Yucatán,2004-04-12,Pensiones,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Educación,Matutino,2020-1
+202001046,Hombre,Mexicana,Tabasco,2008-12-12,San Ramón Norte,CBTIS 80,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2020-1
+202001047,Mujer,Mexicana,Yucatán,2007-08-05,Jardines del Norte,COBAY 5,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2020-1
+202001048,Mujer,Mexicana,Yucatán,2004-09-25,Brisas,PREPARATORIA LIBRE,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2020-1
+202001049,Mujer,Mexicana,Yucatán,2004-09-12,Chuburná de Hidalgo,CONALEP MERIDA,Escolar,Merida,Licenciatura,Nutrición,Matutino,2020-1
+202001050,Hombre,Mexicana,Yucatán,1994-07-05,Itzimná,CENTRO EDUCATIVO MARIA GONZALEZ PALMA,Mixto,Foraneo,Licenciatura,Arquitectura,Sabatino,2020-1
+202001051,Mujer,Mexicana,Yucatán,2005-05-24,Centro,BACHILLERES AMERICAS,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2020-1
+202001052,Hombre,Mexicana,Campeche,2005-05-12,San Antonio Kaua,CBTIS 111  CANCUN,Escolar,Municipio,Licenciatura,Administración,Vespertino,2020-1
+202001053,Hombre,Mexicana,Yucatán,2009-02-24,Dolores Otero,COBAY ACANCEH,Escolar,Municipio,Licenciatura,Administración,Matutino,2020-1
+202001054,Mujer,Mexicana,Yucatán,2007-07-05,Emiliano Zapata Sur,CUM,Escolar,Merida,Licenciatura,Administración,Matutino,2020-1
+202001055,Hombre,Mexicana,Yucatán,2001-08-28,Francisco de Montejo,COBAY KIMBILA,Escolar,Municipio,Licenciatura,Psicología,Matutino,2020-1

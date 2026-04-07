@@ -1,0 +1,1497 @@
+anio,matricula,edad,sexo,carrera,modalidad,tipo_ciclo,ciclo,periodo
+2024,272024001,19,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,272024002,19,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,272024003,20,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,272024004,20,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,272024005,20,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,272024006,21,Maculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,272024007,21,Maculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,272024008,21,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,272024009,22,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,272024010,22,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,272024011,22,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,272024012,23,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,272024013,23,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,272024014,23,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,272024015,24,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,272024016,24,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,272024017,25,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,272024018,25,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,272024019,25,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,272024020,26,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,272024021,26,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,272024022,27,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,272024023,28,Masculino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,272024024,29,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,272024025,29,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,272024026,29,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,272024027,30,Femenino,Administración de Empresas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,142024001,17,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,142024002,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,142024003,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,142024004,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,142024005,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,142024006,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,142024007,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,142024008,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,142024009,19,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,142024010,19,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,142024011,19,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,142024012,19,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,142024013,19,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,142024014,19,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,142024015,19,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,142024016,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,142024017,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,142024018,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,142024019,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,142024020,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,142024021,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,142024022,20,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,142024023,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,142024024,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,142024025,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,142024026,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,142024027,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,142024028,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,142024029,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,142024030,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,142024031,20,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,142024032,21,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,142024033,21,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,142024034,21,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,142024035,21,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,142024036,21,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,142024037,21,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,142024038,22,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,142024039,22,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,142024040,22,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,142024041,23,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,142024042,23,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,142024043,23,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,142024044,23,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,142024045,23,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,142024046,23,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,142024047,24,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,142024048,25,Masculino,Administración de Empresas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,142024049,30,Femenino,Administración de Empresas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,202024001,17,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,202024002,17,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,202024003,19,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,202024004,19,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,202024005,19,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,202024006,19,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,202024007,20,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,202024008,20,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,202024009,20,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,202024010,20,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,202024011,20,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,202024012,20,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,202024013,21,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,202024014,21,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,202024015,21,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,202024016,21,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,202024017,21,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,202024018,22,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,202024019,22,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,202024020,22,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,202024021,22,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,202024022,22,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,202024023,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,202024024,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,202024025,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,202024026,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,202024027,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,202024028,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,202024029,23,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,202024030,23,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,202024031,24,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,202024032,24,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,202024033,24,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,202024034,24,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,202024035,25,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,202024036,25,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,202024037,25,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,202024038,25,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,202024039,25,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,202024040,26,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,202024041,26,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,202024042,26,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,202024043,26,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,202024044,27,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,202024045,27,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,202024046,27,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,202024047,27,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,202024048,28,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,202024049,28,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,202024050,28,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,202024051,28,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,202024052,29,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,202024053,30,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,202024054,30,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,202024055,32,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,202024056,32,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,202024057,33,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,202024058,39,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,202024059,39,Femenino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,202024060,47,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,202024061,49,Masculino,Arquitectura,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,012024001,17,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,012024002,17,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,012024003,17,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,012024004,17,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024005,17,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,012024006,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,012024007,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024008,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,012024009,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,012024010,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,012024011,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,012024012,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,012024013,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024014,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,012024015,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024016,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,012024017,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,012024018,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,012024019,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,012024020,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024021,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,012024022,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,012024023,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,012024024,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,012024025,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,012024026,19,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,012024027,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024028,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,012024029,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,012024030,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024031,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,012024032,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,012024033,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024034,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,012024035,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024036,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,012024037,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,012024038,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,012024039,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,012024040,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,012024041,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,012024042,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,012024043,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,012024044,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,012024045,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,012024046,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,012024047,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,012024048,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,012024049,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,012024050,19,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,012024051,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,012024052,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,012024053,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,012024054,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,012024055,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,012024056,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,012024057,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,012024058,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,012024059,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024060,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,012024061,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,012024062,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,012024063,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,012024064,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,012024065,20,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,012024066,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,012024067,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,012024068,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,012024069,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,012024070,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,012024071,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,012024072,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,012024073,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024074,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024075,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,012024076,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,012024077,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,012024078,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,012024079,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,012024080,20,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,012024081,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024082,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,012024083,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,012024084,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024085,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,012024086,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,012024087,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024088,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,012024089,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024090,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,012024091,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024092,21,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,012024093,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,012024094,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,012024095,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024096,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,012024097,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,012024098,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,012024099,21,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,012024100,22,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024101,22,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,012024102,22,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,012024103,22,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,012024104,22,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,012024105,22,Femenino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,012024106,23,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,012024107,23,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,012024108,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,012024109,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,012024110,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,012024111,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,012024112,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,012024113,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,012024114,24,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,012024115,25,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,012024116,25,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,012024117,26,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024118,28,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,012024119,28,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,012024120,31,Masculino,Arquitectura,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,312024001,17,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,312024002,17,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,312024003,19,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,312024004,19,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,312024005,19,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,312024006,19,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,312024007,19,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,312024008,19,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,312024009,20,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,312024010,21,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,312024011,21,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,312024012,21,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,312024013,22,Masculino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,312024014,22,Masculino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,312024015,22,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,312024016,22,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,312024017,22,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,312024018,23,Masculino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,312024019,23,Masculino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,312024020,23,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,312024021,23,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,312024022,23,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,312024023,23,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,312024024,24,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,312024025,25,Masculino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,312024026,26,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,312024027,28,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,312024028,28,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,312024029,29,Femenino,Ciencias De La Educación,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,022024001,17,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,022024002,19,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,022024003,19,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,022024004,19,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,022024005,19,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,022024006,19,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,022024007,20,Masculino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,022024008,20,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,022024009,21,Masculino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,022024010,21,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,022024011,22,Masculino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,022024012,22,Masculino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,022024013,22,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,022024014,22,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,022024015,22,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,022024016,23,Masculino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,022024017,23,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,022024018,23,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,022024019,23,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,022024020,23,Femenino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,022024021,39,Masculino,Ciencias De La Educación,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,322024001,17,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,322024002,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,322024003,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,322024004,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,322024005,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,322024006,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,322024007,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,322024008,19,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,322024009,19,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,322024010,19,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,322024011,20,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,322024012,20,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,322024013,21,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,322024014,22,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,322024015,22,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,322024016,22,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,322024017,22,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,322024018,22,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,322024019,22,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,322024020,22,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,322024021,22,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,322024022,23,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,322024023,23,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,322024024,23,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,322024025,23,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,322024026,23,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,322024027,23,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,322024028,24,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,322024029,24,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,322024030,26,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,322024031,26,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,322024032,27,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,322024033,27,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,322024034,27,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,322024035,28,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,322024036,28,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,322024037,28,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,322024038,29,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,322024039,29,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,322024040,30,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,322024041,32,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,322024042,32,Femenino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,322024043,33,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,322024044,39,Masculino,Contaduría Pública,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,122024001,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,122024002,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,122024003,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,122024004,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,122024005,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,122024006,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,122024007,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,122024008,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,122024009,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,122024010,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,122024011,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,122024012,19,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,122024013,19,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,122024014,19,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,122024015,19,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,122024016,19,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,122024017,19,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,122024018,19,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,122024019,20,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,122024020,20,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,122024021,20,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,122024022,20,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,122024023,20,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,122024024,20,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,122024025,20,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,122024026,20,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,122024027,20,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,122024028,21,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,122024029,21,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,122024030,21,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,122024031,22,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,122024032,22,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,122024033,22,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,122024034,23,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,122024035,23,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,122024036,23,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,122024037,23,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,122024038,23,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,122024039,23,Femenino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,122024040,26,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,122024041,28,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,122024042,28,Masculino,Contaduría Pública,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,162024001,19,Masculino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,162024002,19,Masculino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,162024003,19,Masculino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,162024004,19,Masculino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,162024005,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,162024006,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,162024007,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,162024008,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,162024009,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,162024010,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,162024011,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,162024012,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,162024013,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,162024014,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,162024015,19,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,162024016,20,Masculino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,162024017,20,Femenino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,162024018,20,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,162024019,20,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,162024020,21,Femenino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,162024021,21,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,162024022,21,Femenino,Criminología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,162024023,21,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,162024024,22,Masculino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,162024025,22,Masculino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,162024026,22,Femenino,Criminología,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,162024027,22,Femenino,Criminología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,352024001,19,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,352024002,19,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,352024003,19,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,352024004,19,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,352024005,19,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,352024006,19,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,352024007,20,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,352024008,20,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,352024009,20,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,352024010,20,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,352024011,20,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,352024012,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,352024013,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,352024014,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,352024015,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,352024016,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,352024017,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,352024018,21,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,352024019,21,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,352024020,21,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,352024021,21,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,352024022,21,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,352024023,22,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,352024024,22,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,352024025,22,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,352024026,23,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,352024027,23,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,352024028,23,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,352024029,23,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,352024030,23,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,352024031,24,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,352024032,24,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,352024033,24,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,352024034,25,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,352024035,25,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,352024036,25,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,352024037,26,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,352024038,26,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,352024039,26,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,352024040,27,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,352024041,32,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,352024042,32,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,352024043,34,Masculino,Derecho,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,352024044,35,Femenino,Derecho,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,082024001,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,082024002,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,082024003,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,082024004,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,082024005,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,082024006,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,082024007,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,082024008,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,082024009,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,082024010,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,082024011,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,082024012,19,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,082024013,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,082024014,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,082024015,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,082024016,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,082024017,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,082024018,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,082024019,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,082024020,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,082024021,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,082024022,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,082024023,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,082024024,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,082024025,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,082024026,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,082024027,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,082024028,19,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,082024029,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,082024030,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,082024031,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,082024032,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,082024033,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,082024034,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,082024035,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,082024036,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,082024037,20,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,082024038,20,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,082024039,20,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,082024040,20,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,082024041,20,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,082024042,20,Femenino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,082024043,21,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,082024044,21,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,082024045,21,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,082024046,21,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,082024047,21,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,082024048,21,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,082024049,22,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,082024050,22,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,082024051,23,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,082024052,23,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,082024053,23,Masculino,Derecho,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,082024054,23,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,082024055,24,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,082024056,25,Masculino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,082024057,27,Femenino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,082024058,45,Femenino,Derecho,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,082024059,46,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,082024060,47,Masculino,Derecho,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,332024001,19,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,332024002,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,332024003,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,332024004,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,332024005,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,332024006,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,332024007,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,332024008,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,332024009,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,332024010,19,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,332024011,20,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,332024012,20,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,332024013,21,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,332024014,21,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,332024015,21,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,332024016,22,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,332024017,22,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,332024018,23,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,332024019,24,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,332024020,24,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,332024021,25,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,332024022,25,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,332024023,28,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,332024024,29,Masculino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,332024025,51,Femenino,Diseño de Modas,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,062024001,19,Masculino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,062024002,19,Masculino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,062024003,19,Masculino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,062024004,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,062024005,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,062024006,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,062024007,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,062024008,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,062024009,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,062024010,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,062024011,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,062024012,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,062024013,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,062024014,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,062024015,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,062024016,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,062024017,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,062024018,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,062024019,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,062024020,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,062024021,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,062024022,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,062024023,19,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,062024024,20,Masculino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,062024025,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,062024026,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,062024027,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,062024028,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,062024029,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,062024030,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,062024031,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,062024032,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,062024033,20,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,062024034,21,Masculino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,062024035,21,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,062024036,21,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,062024037,21,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,062024038,21,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,062024039,21,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,062024040,22,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,062024041,22,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,062024042,22,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,062024043,23,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,062024044,24,Masculino,Diseño de Modas,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,062024045,26,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,062024046,48,Femenino,Diseño de Modas,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,092024001,17,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,092024002,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,092024003,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,092024004,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,092024005,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024006,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,092024007,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024008,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,092024009,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,092024010,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024011,19,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,092024012,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,092024013,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024014,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024015,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,092024016,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024017,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024018,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,092024019,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,092024020,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,092024021,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,092024022,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024023,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,092024024,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,092024025,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,092024026,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,092024027,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024028,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,092024029,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024030,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,092024031,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024032,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,092024033,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,092024034,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,092024035,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024036,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,092024037,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,092024038,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,092024039,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024040,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,092024041,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,092024042,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,092024043,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024044,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,092024045,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,092024046,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,092024047,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,092024048,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,092024049,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,092024050,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,092024051,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,092024052,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,092024053,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,092024054,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,092024055,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024056,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024057,19,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024058,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,092024059,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024060,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,092024061,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,092024062,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024063,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,092024064,20,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,092024065,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,092024066,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,092024067,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024068,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,092024069,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,092024070,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,092024071,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,092024072,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024073,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,092024074,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,092024075,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,092024076,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024077,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,092024078,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024079,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,092024080,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024081,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,092024082,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,092024083,20,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,092024084,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,092024085,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,092024086,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,092024087,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,092024088,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,092024089,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024090,21,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024091,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,092024092,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024093,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,092024094,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,092024095,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,092024096,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024097,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,092024098,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024099,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024100,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024101,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,092024102,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024103,21,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,092024104,22,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,092024105,22,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,092024106,22,Femenino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,092024107,22,Femenino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,092024108,23,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,092024109,23,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,092024110,23,Masculino,Enfermería,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,092024111,24,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,092024112,25,Masculino,Enfermería,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,092024113,38,Masculino,Enfermería,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024001,17,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,102024002,17,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,102024003,17,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,102024004,17,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,102024005,17,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,102024006,17,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024007,17,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,102024008,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,102024009,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,102024010,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024011,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,102024012,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,102024013,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,102024014,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,102024015,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024016,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024017,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024018,19,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,102024019,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024020,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,102024021,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024022,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,102024023,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,102024024,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,102024025,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,102024026,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,102024027,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,102024028,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,102024029,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,102024030,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,102024031,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,102024032,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,102024033,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,102024034,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,102024035,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,102024036,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,102024037,19,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024038,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,102024039,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,102024040,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,102024041,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,102024042,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,102024043,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,102024044,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,102024045,20,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,102024046,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,102024047,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024048,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,102024049,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024050,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,102024051,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,102024052,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,102024053,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,102024054,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,102024055,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,102024056,20,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,102024057,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,102024058,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,102024059,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,102024060,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024061,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,102024062,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,102024063,21,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,102024064,21,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024065,21,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,102024066,21,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,102024067,21,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,102024068,22,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,102024069,22,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,102024070,22,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,102024071,22,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,102024072,22,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,102024073,22,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,102024074,22,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,102024075,22,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,102024076,23,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,102024077,23,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,102024078,23,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,102024079,23,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,102024080,23,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,102024081,23,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,102024082,24,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,102024083,24,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,102024084,24,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,102024085,25,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,102024086,25,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,102024087,25,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,102024088,25,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,102024089,26,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,102024090,27,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,102024091,27,Femenino,Fisioterapia,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,102024092,30,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,102024093,44,Masculino,Fisioterapia,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024001,17,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,362024002,17,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,362024003,17,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024004,17,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,362024005,17,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,362024006,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,362024007,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024008,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,362024009,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024010,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,362024011,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,362024012,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,362024013,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024014,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,362024015,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,362024016,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024017,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,362024018,19,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,362024019,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,362024020,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024021,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024022,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,362024023,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024024,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,362024025,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,362024026,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024027,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024028,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,362024029,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,362024030,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,362024031,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,362024032,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,362024033,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024034,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024035,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024036,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,362024037,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,362024038,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,362024039,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024040,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,362024041,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,362024042,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,362024043,19,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,362024044,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,362024045,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,362024046,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,362024047,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,362024048,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,362024049,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,362024050,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,362024051,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,362024052,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,362024053,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,362024054,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024055,20,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,362024056,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,362024057,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,362024058,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,362024059,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,362024060,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,362024061,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,362024062,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,362024063,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,362024064,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,362024065,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,362024066,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,362024067,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,362024068,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,362024069,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,362024070,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024071,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024072,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024073,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024074,20,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,362024075,21,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,362024076,21,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,362024077,21,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,362024078,21,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,362024079,21,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,362024080,21,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024081,21,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,362024082,21,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024083,21,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,362024084,21,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,362024085,21,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,362024086,22,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024087,22,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,362024088,22,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024089,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024090,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,362024091,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,362024092,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,362024093,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,362024094,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,362024095,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,362024096,22,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,362024097,23,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,362024098,23,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,362024099,24,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,362024100,25,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,362024101,25,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,362024102,26,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,362024103,26,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,362024104,28,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,362024105,30,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,362024106,38,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,362024107,39,Masculino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,362024108,42,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,362024109,53,Femenino,Gastronomía,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,042024001,17,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,042024002,17,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,042024003,17,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,042024004,17,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,042024005,17,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,042024006,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,042024007,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,042024008,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024009,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,042024010,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,042024011,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,042024012,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,042024013,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,042024014,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,042024015,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,042024016,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,042024017,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,042024018,19,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024019,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,042024020,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,042024021,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,042024022,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,042024023,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,042024024,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,042024025,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,042024026,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,042024027,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,042024028,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,042024029,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,042024030,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,042024031,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,042024032,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,042024033,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,042024034,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024035,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,042024036,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,042024037,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,042024038,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,042024039,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,042024040,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,042024041,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,042024042,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,042024043,19,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,042024044,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,042024045,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,042024046,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,042024047,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,042024048,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,042024049,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,042024050,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,042024051,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,042024052,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,042024053,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,042024054,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,042024055,20,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,042024056,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,042024057,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,042024058,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,042024059,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024060,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,042024061,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,042024062,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,042024063,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,042024064,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024065,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,042024066,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,042024067,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,042024068,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,042024069,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,042024070,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,042024071,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,042024072,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,042024073,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,042024074,20,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,042024075,21,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,042024076,21,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024077,21,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,042024078,21,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,042024079,21,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,042024080,21,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,042024081,21,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,042024082,21,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,042024083,21,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,042024084,21,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,042024085,21,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,042024086,22,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,042024087,22,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,042024088,22,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,042024089,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,042024090,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,042024091,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,042024092,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,042024093,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,042024094,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,042024095,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,042024096,22,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,042024097,23,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,042024098,23,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,042024099,24,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,042024100,25,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,042024101,25,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,042024102,26,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,042024103,26,Masculino,Gastronomía,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,042024104,28,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,042024105,30,Femenino,Gastronomía,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,372024001,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,372024002,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,372024003,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,372024004,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,372024005,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,372024006,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,372024007,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,372024008,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,372024009,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,372024010,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,372024011,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,372024012,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,372024013,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,372024014,19,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,372024015,19,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,372024016,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,372024017,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,372024018,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,372024019,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,372024020,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,372024021,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,372024022,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,372024023,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,372024024,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,372024025,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,372024026,20,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,372024027,20,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,372024028,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,372024029,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,372024030,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,372024031,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,372024032,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,372024033,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,372024034,21,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,372024035,22,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,372024036,22,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,372024037,22,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,372024038,23,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,372024039,23,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,372024040,23,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,372024041,23,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,372024042,24,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,372024043,24,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,372024044,24,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,372024045,25,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,372024046,25,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,372024047,25,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,372024048,25,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,372024049,25,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,372024050,26,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,372024051,28,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,372024052,28,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,372024053,29,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,372024054,29,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,372024055,29,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,372024056,29,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,372024057,30,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,372024058,30,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,372024059,32,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,372024060,33,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,372024061,33,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,372024062,33,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,372024063,35,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,372024064,36,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,372024065,37,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,372024066,38,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,7
+2024,372024067,45,Masculino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,372024068,45,Femenino,Ingeniería Civil,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,252024001,19,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,252024002,19,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,252024003,19,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,252024004,19,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,252024005,19,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,252024006,19,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,252024007,19,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,252024008,19,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,252024009,19,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,252024010,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,252024011,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,5
+2024,252024012,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,252024013,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,252024014,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,252024015,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,252024016,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,252024017,20,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,252024018,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,252024019,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,252024020,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,252024021,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,252024022,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,252024023,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,252024024,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,252024025,20,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,252024026,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024027,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,252024028,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,252024029,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,252024030,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024031,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,252024032,21,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,252024033,21,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024034,21,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,252024035,22,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,252024036,22,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,252024037,22,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,252024038,23,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,252024039,23,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,252024040,23,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,252024041,23,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,252024042,23,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,252024043,23,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,252024044,23,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,252024045,24,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,252024046,24,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,252024047,24,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,252024048,24,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,252024049,25,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024050,25,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,252024051,25,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024052,25,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,5
+2024,252024053,25,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,252024054,26,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,252024055,26,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,252024056,26,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,252024057,27,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,252024058,27,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,252024059,28,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024060,28,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,252024061,28,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,252024062,28,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,252024063,28,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,252024064,29,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,252024065,29,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,252024066,29,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,252024067,30,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,252024068,30,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,252024069,31,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,252024070,32,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,252024071,32,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,252024072,33,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,252024073,33,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,252024074,33,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,252024075,33,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,252024076,34,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,252024077,34,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,252024078,34,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,252024079,35,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,252024080,36,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,2
+2024,252024081,36,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,6
+2024,252024082,40,Masculino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,252024083,40,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,252024084,42,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,252024085,47,Femenino,Nutrición,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,132024001,17,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,132024002,17,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,132024003,19,Masculino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,132024004,19,Masculino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,132024005,19,Masculino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,132024006,19,Masculino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,132024007,19,Masculino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,132024008,19,Masculino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,132024009,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,132024010,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,132024011,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,132024012,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,132024013,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,132024014,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,132024015,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,132024016,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,132024017,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,132024018,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,132024019,19,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,132024020,20,Masculino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,132024021,20,Masculino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,132024022,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,132024023,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,132024024,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,132024025,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,132024026,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,132024027,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,132024028,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,132024029,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,132024030,20,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,132024031,21,Masculino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,132024032,21,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,132024033,22,Masculino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,132024034,22,Masculino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,132024035,22,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,132024036,22,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,132024037,22,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,132024038,22,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,132024039,22,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,132024040,22,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,132024041,23,Femenino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,132024042,23,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,132024043,23,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,3
+2024,132024044,24,Masculino,Nutrición,Escolarizada,Cuatrimestral,Enero-Abril,4
+2024,132024045,25,Masculino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,132024046,26,Masculino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,132024047,26,Femenino,Nutrición,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,132024048,27,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,132024049,53,Femenino,Nutrición,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,282024001,17,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,282024002,19,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,282024003,19,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,282024004,19,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,282024005,19,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,282024006,20,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,282024007,20,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,282024008,20,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,8
+2024,282024009,20,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,282024010,20,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,282024011,20,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,282024012,21,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,282024013,21,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,2
+2024,282024014,21,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,282024015,22,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,4
+2024,282024016,22,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,8
+2024,282024017,22,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,282024018,23,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,282024019,23,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,282024020,23,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,282024021,23,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,282024022,23,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,9
+2024,282024023,24,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,282024024,24,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,9
+2024,282024025,24,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,282024026,25,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,282024027,25,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,5
+2024,282024028,25,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,282024029,25,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,1
+2024,282024030,26,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,282024031,27,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,282024032,27,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,3
+2024,282024033,27,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,3
+2024,282024034,28,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,1
+2024,282024035,28,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,282024036,29,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,7
+2024,282024037,30,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,4
+2024,282024038,31,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,282024039,31,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,282024040,32,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,6
+2024,282024041,32,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Enero-Abril,9
+2024,282024042,33,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,282024043,33,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,1
+2024,282024044,34,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,282024045,36,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,8
+2024,282024046,37,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,2
+2024,282024047,37,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,7
+2024,282024048,39,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,3
+2024,282024049,47,Femenino,Psicología,Mixto/Sabatino,Cuatrimestral,Septiembre-Diciembre,6
+2024,282024050,71,Masculino,Psicología,Mixto/Sabatino,Cuatrimestral,Mayo-Agosto,4
+2024,152024001,17,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,152024002,17,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,152024003,17,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,152024004,19,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,152024005,19,Masculino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,152024006,19,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,152024007,19,Masculino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,152024008,19,Masculino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,152024009,19,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,152024010,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,152024011,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,152024012,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,152024013,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,152024014,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,152024015,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,152024016,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,152024017,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,152024018,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,152024019,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,152024020,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,9
+2024,152024021,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,152024022,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,152024023,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,152024024,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,152024025,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,152024026,19,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,152024027,20,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,152024028,20,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,152024029,20,Masculino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,152024030,20,Masculino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,8
+2024,152024031,20,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,152024032,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,6
+2024,152024033,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,9
+2024,152024034,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,152024035,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,152024036,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,152024037,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,152024038,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,8
+2024,152024039,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,152024040,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,152024041,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,152024042,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,7
+2024,152024043,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,152024044,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,2
+2024,152024045,20,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,152024046,21,Masculino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,152024047,21,Masculino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,152024048,21,Masculino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,152024049,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,5
+2024,152024050,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,9
+2024,152024051,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,3
+2024,152024052,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,152024053,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,152024054,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,152024055,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,152024056,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,152024057,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,6
+2024,152024058,21,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,4
+2024,152024059,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,8
+2024,152024060,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,1
+2024,152024061,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,1
+2024,152024062,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,7
+2024,152024063,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,7
+2024,152024064,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,2
+2024,152024065,22,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,5
+2024,152024066,23,Masculino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,2
+2024,152024067,23,Masculino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,152024068,23,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,1
+2024,152024069,23,Femenino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,5
+2024,152024070,25,Masculino,Psicología,Escolarizada,Cuatrimestral,Mayo-Agosto,6
+2024,152024071,28,Masculino,Psicología,Escolarizada,Cuatrimestral,Septiembre-Diciembre,4
+2024,152024072,33,Femenino,Psicología,Escolarizada,Cuatrimestral,Enero-Abril,3
+2024,172024001,17,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024002,17,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024003,17,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024004,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024005,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024006,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024007,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024008,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024009,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024010,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024011,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024012,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024013,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024014,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024015,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024016,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024017,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024018,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024019,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024020,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024021,19,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024022,19,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024023,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024024,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024025,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024026,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024027,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024028,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024029,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024030,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024031,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024032,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024033,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024034,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024035,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024036,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024037,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024038,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024039,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024040,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024041,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024042,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024043,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024044,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024045,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024046,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024047,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024048,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024049,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024050,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024051,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024052,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024053,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024054,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024055,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024056,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024057,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024058,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024059,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024060,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024061,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024062,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024063,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,1
+2024,172024064,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024065,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024066,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024067,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024068,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,1
+2024,172024069,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024070,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024071,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024072,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024073,19,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,1
+2024,172024074,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024075,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024076,19,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024077,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024078,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024079,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024080,20,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024081,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024082,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024083,20,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024084,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024085,20,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024086,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024087,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,7
+2024,172024088,20,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024089,20,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024090,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024091,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024092,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024093,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024094,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,1
+2024,172024095,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,6
+2024,172024096,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024097,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024098,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024099,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024100,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024101,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,3
+2024,172024102,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024103,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024104,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024105,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024106,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024107,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024108,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024109,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024110,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024111,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024112,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024113,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024114,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024115,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024116,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024117,20,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024118,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024119,20,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,8
+2024,172024120,21,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024121,21,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024122,21,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024123,21,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024124,21,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024125,21,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024126,21,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024127,21,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024128,21,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024129,21,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024130,21,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024131,22,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024132,22,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024133,22,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024134,22,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024135,22,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024136,22,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,2
+2024,172024137,22,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,8
+2024,172024138,22,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024139,22,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024140,23,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024141,23,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,5
+2024,172024142,23,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,1
+2024,172024143,23,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024144,23,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,7
+2024,172024145,24,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024146,24,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,6
+2024,172024147,24,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,4
+2024,172024148,24,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024149,24,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024150,25,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,5
+2024,172024151,25,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,2
+2024,172024152,25,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024153,25,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024154,25,Femenino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3
+2024,172024155,26,Femenino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024156,28,Masculino,Odontología,Escolarizada,Semestral,Enero-Junio,4
+2024,172024157,30,Masculino,Odontología,Escolarizada,Semestral,Agosto-Diciembre,3

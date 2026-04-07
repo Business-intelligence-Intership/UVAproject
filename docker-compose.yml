@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   postgres:
-    image: postgres:13
+    image: postgres:16
     container_name: postgres_db
     ports:
       - "5432:5432"
@@ -12,10 +12,24 @@ services:
       POSTGRES_PASSWORD: uvaproject
     volumes:
       - postgres_data:/var/lib/postgresql/data
-    
     healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d uva_db"]
       interval: 5s
+      timeout: 5s
       retries: 5
+    restart: always
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    ports:
+      - "8080:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@uva.com
+      PGADMIN_DEFAULT_PASSWORD: uvaproject
+    depends_on:
+      postgres:
+        condition: service_healthy
     restart: always
 
 volumes:

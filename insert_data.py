@@ -36,9 +36,9 @@ load_dotenv()
 DB_CONFIG = {
     "host":     os.getenv("DB_HOST", "localhost"),
     "port":     os.getenv("DB_PORT", "5432"),
-    "dbname":   os.getenv("DB_NAME", "uva_db"),
-    "user":     os.getenv("DB_USER", "admin"),
-    "password": os.getenv("DB_PASSWORD", "uvaproject"),
+    "dbname":   os.getenv("DB_NAME", ""),
+    "user":     os.getenv("DB_USER", ""),
+    "password": os.getenv("DB_PASSWORD", ""),
 }
 
 

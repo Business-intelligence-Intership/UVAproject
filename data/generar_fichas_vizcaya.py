@@ -18,24 +18,37 @@ ANIOS = {
 }
 
 CARRERAS_CUATRI = [
-    "Ingeniería Civil",
-    "Administración de Empresas",
-    "Arquitectura",
-    "Contabilidad",
-    "Criminología",
-    "Derecho",
-    "Diseño de Modas",
-    "Educación",
-    "Enfermería",
-    "Fisioterapia",
-    "Gastronomía",
-    "Nutrición",
-    "Psicología"
+    "Ingeniería Civil MIX",
+    "Ingeniería De Procesos De Manufactura MIX",
+    "Administración de Empresas Escolar",
+    "Administración de Empresas MIX",
+    "Arquitectura Escolar",
+    "Arquitectura MIX",
+    "Contaduría Pública Escolar",
+    "Contaduría Pública MIX",
+    "Criminología Escolar",
+    "Derecho Escolar",
+    "Derecho MIX",
+    "Diseño de Modas Escolar",
+    "Diseño de Modas MIX",
+    "Ciencias De La Educación Escolar",
+    "Ciencias De La Educación MIX",
+    "Enfermería Escolar",
+    "Fisioterapia Escolar",
+    "Gastronomía Escolar",
+    "Gastronomía MIX",
+    "Nutrición Escolar",
+    "Nutrición MIX",
+    "Psicología Escolar",
+    "Psicología MIX",
+
 ]
 
 CARRERA_SEMESTRE = [
     "Odontología", 
 ]
+
+SOLO_INGENIERIAS = ["Ingeniería De Procesos De Manufactura MIX", "Ingeniería Civil MIX"]
 
 TIPO_INGRESO = ["Nuevo", "Repetidor", "Reinscrito", "Equivalencia"]
 
@@ -481,70 +494,104 @@ UBICACIONES_ESCUELA = {
 
 os.makedirs("csv_vizcaya", exist_ok=True)
 
+
+
+
 # =========================
 # FUNCIONES
 # =========================
 
 CLAVES_CARRERA = {
-    "Arquitectura": {
-        "Escolarizada": "01",
+    "Arquitectura Escolar": {
+        "Escolarizada": "01"
+    },
+
+    "Arquitectura MIX": {
         "Mixto/Sabatino": "20"
     },
 
-    "Educación": {
-        "Escolarizada": "02",
+    "Ciencias De La Educación Escolar": {
+        "Escolarizada": "02"
+    },
+
+    "Ciencias De La Educación MIX": {
         "Mixto/Sabatino": "31"
     },
 
-    "Contabilidad": {
-        "Escolarizada": "12",
+    "Contaduría Pública Escolar": {
+        "Escolarizada": "12"
+    },
+
+    "Contaduría Pública MIX": {
         "Mixto/Sabatino": "32"
     },
 
-    "Criminología": {
+    "Criminología Escolar": {
         "Escolarizada": "16"
     },
 
-    "Derecho": {
-        "Escolarizada": "08",
+    "Derecho Escolar": {
+        "Escolarizada": "08"
+    },
+
+    "Derecho MIX": {
         "Mixto/Sabatino": "35"
     },
 
-    "Diseño de Modas": {
-        "Escolarizada": "06",
+    "Diseño de Modas Escolar": {
+        "Escolarizada": "06"
+    },
+
+    "Diseño de Modas MIX": {
         "Mixto/Sabatino": "33"
     },
 
-    "Enfermería": {
+    "Enfermería Escolar": {
         "Escolarizada": "09"
     },
 
-    "Fisioterapia": {
+    "Fisioterapia Escolar": {
         "Escolarizada": "10"
     },
 
-    "Gastronomía": {
-        "Escolarizada": "04",
+    "Gastronomía Escolar": {
+        "Escolarizada": "04"
+    },
+
+    "Gastronomía MIX": {
         "Mixto/Sabatino": "36"
     },
 
-    "Ingeniería Civil": {
+    "Ingeniería Civil MIX": {
         "Mixto/Sabatino": "37"
     },
 
-    "Nutrición": {
-        "Escolarizada": "13",
+    "Nutrición Escolar": {
+        "Escolarizada": "13"
+    },
+
+    "Nutrición MIX": {
         "Mixto/Sabatino": "25"
     },
 
-    "Psicología": {
-        "Escolarizada": "15",
+    "Psicología Escolar": {
+        "Escolarizada": "15"
+    },
+
+    "Psicología MIX": {
         "Mixto/Sabatino": "28"
     },
 
-    "Administración de Empresas": {
-        "Escolarizada": "14",
+    "Administración de Empresas Escolar": {
+        "Escolarizada": "14"
+    },
+
+    "Administración de Empresas MIX": {
         "Mixto/Sabatino": "27"
+    },
+
+    "Ingeniería De Procesos De Manufactura MIX": {
+        "Mixto/Sabatino": "38"
     },
 
     "Odontología": {
@@ -596,7 +643,10 @@ for anio, total in ANIOS.items():
             "ciclo"
         ])
 
-        for _ in range(total):
+
+
+
+        for i in range(total):
 
             # ---------- CARRERA + CICLO ----------
             if random.random() < 0.5:
@@ -606,6 +656,7 @@ for anio, total in ANIOS.items():
                 carrera = random.choice(CARRERA_SEMESTRE)
                 ciclo = random.choice(CICLO_SEMESTRAL)
 
+
             # ---------- MODALIDAD Y CLAVE ----------
             modalidad = random.choice(list(CLAVES_CARRERA[carrera].keys()))
             clave_carrera = CLAVES_CARRERA[carrera][modalidad]
@@ -613,7 +664,11 @@ for anio, total in ANIOS.items():
             # ---------- ESCUELA ----------
             escuela = random.choice(ESCUELAS)
             ubicacion_escuela = UBICACIONES_ESCUELA[escuela]
-            
+
+            if carrera in SOLO_INGENIERIAS:
+                nivel = random.choice(["Ingeniería", "ING"])
+            else:
+                nivel = random.choice(["Licenciatura", "LIC"])            
             writer.writerow([
                 matricula_sucia(anio, clave_carrera),
                 random.choice(SEXO_SUCIO),
@@ -641,8 +696,8 @@ for anio, total in ANIOS.items():
                 random.choice(COLONIAS),
                 escuela,
                 modalidad,
-                ubicacion_escuela,
-                random.choice(NIVELES),
+                ubicacion_escuela, 
+                nivel,
                 carrera,
                 random.choice(TURNOS),
                 ciclo

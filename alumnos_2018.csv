@@ -1,0 +1,645 @@
+matricula,sexo,nacionalidad,lugar_nacimiento,fecha_nacimiento,colonia,escuela_procedencia,modalidad,ubicacion_escuela_procedencia,nivel,carrera,turno,ciclo
+201800000,Mujer,Mexicana,Yucatán,2006-05-29,García Ginerés,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800001,Mujer,Mexicana,Yucatán,2005-05-26,Xoclán,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800002,Mujer,Mexicana,Campeche,2001-06-27,Juan Pablo II,PREPARATORIA PROGRESO,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2018-1
+201800003,Mujer,Mexicana,Yucatán,1989-11-08,Mulsay,PREPARATORIA NO. 8,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2018-1
+201800004,Hombre,Mexicana,Yucatán,2006-04-29,San Ramón Sur,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800005,Hombre,Mexicana,Campeche,2009-02-09,Brisas,COBAY TEKAX,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800006,Mujer,Mexicana,Yucatán,2002-10-16,Centro,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800007,Mujer,Mexicana,Yucatán,2004-05-06,Las Américas,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800008,Hombre,Mexicana,Campeche,2004-02-07,Mayapán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800009,Mujer,Mexicana,Yucatán,2007-07-14,Brisas,PREPA 1,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800010,Hombre,Mexicana,Yucatán,2005-09-27,Montes de Amé,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Ing. Manufactura,Matutino,2018-1
+201800011,Mujer,Mexicana,Tabasco,2006-09-27,Pensiones,PREPA ACANCEH,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800012,Mujer,Mexicana,Yucatán,2008-10-30,Salvador Alvarado Sur,COBAY TEKAX,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800013,Mujer,Mexicana,Yucatán,2002-08-29,Jardines del Norte,COBACH COZUMEL,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800014,Hombre,Mexicana,Yucatán,2006-10-11,Dolores Otero,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800015,Mujer,Mexicana,Yucatán,2005-02-27,Brisas,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2018-1
+201800016,Hombre,Mexicana,Yucatán,2008-12-25,García Ginerés,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2018-1
+201800017,Mujer,Mexicana,Yucatán,2006-03-20,Altabrisa,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800018,Hombre,Mexicana,Yucatán,2006-06-06,Francisco de Montejo,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800019,Mujer,Mexicana,Yucatán,2004-01-19,San Antonio Kaua,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800020,Mujer,Mexicana,Campeche,2002-05-21,Wallis,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800021,Hombre,Mexicana,Yucatán,2008-10-15,Nueva Kukulcán,PREPA ACANCEH,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800022,Hombre,Mexicana,Yucatán,2001-06-27,Montecristo,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800023,Mujer,Mexicana,Yucatán,2004-04-12,Pensiones,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800024,Hombre,Mexicana,Yucatán,2008-03-08,Chuburná de Hidalgo,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800025,Mujer,Mexicana,Yucatán,2007-01-16,Montecristo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800026,Mujer,Mexicana,Yucatán,2007-10-17,San Antonio Kaua,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800027,Mujer,Mexicana,Tabasco,2006-02-12,Montecristo,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800028,Hombre,Mexicana,Yucatán,2004-08-08,Jardines del Norte,COBAY TEKAX,Mixto,Municipio,Licenciatura,Administración,Sabatino,2018-1
+201800029,Mujer,Mexicana,Yucatán,2001-10-20,Bojórquez,CETMAR-PROGRESO,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800030,Hombre,Mexicana,Quintana Roo,2006-05-21,Brisas,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800031,Mujer,Mexicana,Yucatán,1993-11-23,Bojórquez,UNIVERSIDAD TECMILENIO,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800032,Hombre,Extranjera,Perú,2007-03-20,Itzimná,PREPA ACANCEH,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800033,Mujer,Mexicana,Yucatán,2008-12-11,Juan Pablo II,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Educación,Matutino,2018-1
+201800034,Hombre,Mexicana,Campeche,2006-04-02,Dolores Otero,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800035,Mujer,Mexicana,Yucatán,2002-12-31,Nueva Kukulcán,COBAY TEKAX,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2018-1
+201800036,Mujer,Mexicana,Yucatán,2007-05-27,Temozón Norte,COBACH COZUMEL,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800037,Hombre,Mexicana,Yucatán,2005-08-10,Emiliano Zapata Sur,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800038,Mujer,Extranjera,Perú,2002-10-05,Dolores Otero,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2018-1
+201800039,Mujer,Mexicana,Yucatán,2009-02-25,México,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2018-1
+201800040,Mujer,Mexicana,Yucatán,2004-07-27,Mulsay,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800041,Mujer,Mexicana,Quintana Roo,2002-10-24,San Ramón Sur,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800042,Mujer,Mexicana,Yucatán,2006-01-11,Dzityá,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2018-1
+201800043,Mujer,Mexicana,Yucatán,2008-11-11,San Ramón Sur,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800044,Mujer,Mexicana,Yucatán,2006-04-22,Bojórquez,COBAY TEKAX,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2018-1
+201800045,Hombre,Mexicana,Yucatán,2007-06-02,México,CETIS 112,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2018-1
+201800046,Hombre,Mexicana,Yucatán,1994-04-16,Bojórquez,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Administración,Sabatino,2018-1
+201800047,Mujer,Mexicana,Yucatán,2004-10-03,Mulsay,ROGERS HALL,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2018-1
+201800048,Hombre,Extranjera,Perú,2005-06-26,García Ginerés,PREPA ACANCEH,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2018-1
+201800049,Mujer,Mexicana,Quintana Roo,2005-10-28,Salvador Alvarado Sur,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2018-1
+201800050,Mujer,Mexicana,Yucatán,2004-10-07,Mayapán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2018-1
+201800051,Hombre,Mexicana,Yucatán,2006-02-08,Jardines del Norte,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800052,Mujer,Mexicana,Quintana Roo,2008-03-27,Las Américas,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800053,Mujer,Mexicana,Yucatán,2009-01-14,Montes de Amé,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Enfermería,Matutino,2018-1
+201800054,Hombre,Mexicana,Yucatán,2006-09-03,Montes de Amé,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800055,Hombre,Mexicana,Yucatán,1999-09-28,Juan Pablo II,PREPARATORIA YUCATAN,Mixto,Foraneo,Licenciatura,Criminología,Sabatino,2018-1
+201800056,Hombre,Extranjera,Colombia,2003-10-10,Montes de Amé,CETMAR-PROGRESO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800057,Mujer,Mexicana,Tabasco,2008-03-25,Montecristo,SIGLO XXI,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800058,Mujer,Mexicana,Yucatán,2008-04-09,Dzityá,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800059,Mujer,Mexicana,Yucatán,2004-12-25,Itzimná,PREPARATORIA ESTATAL CTM # 3,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800060,Mujer,Mexicana,Yucatán,1998-12-02,Campestre,PREPARATORIA ESTATAL CTM # 3,Mixto,Merida,Licenciatura,Psicología,Sabatino,2018-1
+201800061,Hombre,Mexicana,Yucatán,2001-03-14,Mulsay,UVM,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800062,Hombre,Mexicana,Yucatán,2005-11-22,Brisas,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800063,Mujer,Mexicana,Tabasco,2005-01-22,Las Américas,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800064,Hombre,Mexicana,Yucatán,2006-09-18,Wallis,SERAPIO RENDÓN,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800065,Hombre,Mexicana,Yucatán,2005-11-06,Campestre,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800066,Mujer,Mexicana,Campeche,2008-01-08,Miguel Alemán,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800067,Mujer,Mexicana,Yucatán,2006-02-17,Campestre,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800068,Mujer,Mexicana,Quintana Roo,1993-01-05,Emiliano Zapata Sur,PREPARATORIA ASTURIAS,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800069,Hombre,Mexicana,Yucatán,2006-05-25,San Ramón Sur,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800070,Mujer,Mexicana,Yucatán,2005-01-02,Emiliano Zapata Sur,DIEGO RIVERA,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2018-1
+201800071,Hombre,Mexicana,Yucatán,2005-04-26,Dolores Otero,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800072,Hombre,Mexicana,Yucatán,2006-08-05,Jardines del Norte,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800073,Mujer,Mexicana,Yucatán,2008-01-23,Ciudad Caucel,SERAPIO RENDÓN,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800074,Mujer,Mexicana,Quintana Roo,1992-11-16,Miguel Alemán,PREPARATORIA JUVENTUS,Mixto,Foraneo,Licenciatura,Gastronomía,Sabatino,2018-1
+201800075,Hombre,Mexicana,Yucatán,2006-04-23,Dolores Otero,SERAPIO RENDÓN,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800076,Mujer,Mexicana,Yucatán,2006-05-30,México,SERAPIO RENDÓN,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2018-1
+201800077,Mujer,Mexicana,Yucatán,2005-08-07,Jardines del Norte,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2018-1
+201800078,Mujer,Mexicana,Quintana Roo,2004-09-01,Brisas,UVM,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800079,Hombre,Mexicana,Yucatán,2008-11-29,Campestre,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800080,Hombre,Mexicana,Tabasco,2008-08-22,Juan Pablo II,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2018-1
+201800081,Mujer,Mexicana,Tabasco,2004-01-12,Pensiones,ROGERS HALL,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800082,Mujer,Mexicana,Yucatán,1997-06-25,Dolores Otero,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800083,Mujer,Mexicana,Yucatán,2009-01-23,García Ginerés,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800084,Hombre,Mexicana,Yucatán,2005-11-24,Nueva Kukulcán,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800085,Mujer,Mexicana,Yucatán,2003-04-23,Ciudad Caucel,COBAY TEKAX,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800086,Mujer,Mexicana,Yucatán,2008-10-06,Dzityá,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800087,Hombre,Mexicana,Yucatán,2004-07-02,Emiliano Zapata Sur,COBAY TEKAX,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800088,Hombre,Mexicana,Yucatán,2005-10-12,Altabrisa,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800089,Mujer,Mexicana,Yucatán,2008-09-08,Bojórquez,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800090,Hombre,Mexicana,Yucatán,2007-10-10,San Antonio Kaua,EDUCACION INTEGRAL Y ACTIVA EDAI,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800091,Mujer,Mexicana,Campeche,2005-05-14,Itzimná,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800092,Mujer,Mexicana,Yucatán,2005-02-02,San Antonio Kaua,COREM MERIDA,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800093,Hombre,Mexicana,Yucatán,2009-01-06,Salvador Alvarado Sur,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800094,Hombre,Mexicana,Yucatán,2004-07-11,Miguel Alemán,REPUBLICA DE MEXICO,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800095,Hombre,Mexicana,Yucatán,2007-02-14,Dolores Otero,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Educación,Matutino,2018-1
+201800096,Hombre,Mexicana,Yucatán,2008-03-12,Centro,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Gastronomía,Matutino,2018-1
+201800097,Hombre,Mexicana,Yucatán,1999-08-15,García Ginerés,SERAPIO RENDÓN,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800098,Mujer,Mexicana,Yucatán,2006-09-04,Jardines del Norte,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Fisioterapia,Matutino,2018-1
+201800099,Mujer,Mexicana,Yucatán,2008-09-16,Salvador Alvarado Sur,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Educación,Matutino,2018-1
+201800100,Mujer,Mexicana,Yucatán,2006-09-06,Centro,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800101,Hombre,Mexicana,Campeche,2006-05-05,Emiliano Zapata Sur,FRANCISCO DE MONTEJO Y LEON,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800102,Hombre,Mexicana,Quintana Roo,2005-12-20,Bojórquez,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800103,Mujer,Mexicana,Yucatán,2007-06-07,Brisas,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800104,Mujer,Mexicana,Yucatán,2004-05-05,Emiliano Zapata Sur,CETIS 112,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2018-1
+201800105,Hombre,Mexicana,Quintana Roo,2008-01-14,Montes de Amé,COLEGIO MESOAMERICANO,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800106,Mujer,Mexicana,Yucatán,2004-06-29,Emiliano Zapata Sur,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800107,Mujer,Mexicana,Yucatán,2008-04-26,Nueva Kukulcán,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800108,Hombre,Mexicana,Yucatán,2003-05-17,San Ramón Norte,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800109,Mujer,Mexicana,Yucatán,1996-08-17,Montecristo,PREPARATORIA ESTATAL CTM # 3,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800110,Hombre,Mexicana,Yucatán,2006-12-03,San Ramón Sur,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2018-1
+201800111,Mujer,Mexicana,Yucatán,2007-07-08,Centro,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2018-1
+201800112,Mujer,Mexicana,Yucatán,2005-06-18,Wallis,CONRADO MENENDEZ DIAZ,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800113,Mujer,Mexicana,Yucatán,2004-09-11,Brisas,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800114,Mujer,Mexicana,Yucatán,2006-06-16,Nueva Kukulcán,COBACH COZUMEL,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800115,Mujer,Mexicana,Quintana Roo,2006-05-31,García Ginerés,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800116,Hombre,Mexicana,Yucatán,2003-06-12,Jardines del Norte,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Odontología,Matutino,2018-1
+201800117,Mujer,Mexicana,Quintana Roo,2004-11-21,Dolores Otero,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800118,Hombre,Mexicana,Yucatán,2009-02-08,Dzityá,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800119,Mujer,Mexicana,Yucatán,2007-05-31,Chuburná de Hidalgo,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800120,Mujer,Mexicana,Tabasco,2008-12-20,Centro,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800121,Mujer,Mexicana,Yucatán,2007-01-21,Chuburná de Hidalgo,COBAY TEKAX,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800122,Mujer,Mexicana,Yucatán,2006-11-26,Dolores Otero,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800123,Mujer,Extranjera,Estados Unidos,2004-02-24,Wallis,COREM MERIDA,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800124,Mujer,Mexicana,Campeche,2008-06-14,Jardines del Norte,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800125,Hombre,Mexicana,Yucatán,1993-01-16,Montecristo,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Fisioterapia,Sabatino,2018-1
+201800126,Mujer,Mexicana,Quintana Roo,2008-07-04,Juan Pablo II,UNIVERSIDAD TECMILENIO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800127,Mujer,Mexicana,Campeche,2006-07-06,Dolores Otero,CECYTE,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2018-1
+201800128,Hombre,Mexicana,Yucatán,2004-08-14,México,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Odontología,Matutino,2018-1
+201800129,Mujer,Mexicana,Yucatán,2001-12-05,Miguel Alemán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800130,Hombre,Mexicana,Yucatán,2007-03-03,Nueva Kukulcán,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2018-1
+201800131,Hombre,Mexicana,Yucatán,2002-11-16,Montecristo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800132,Mujer,Mexicana,Yucatán,2009-03-16,Mayapán,UVM,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800133,Mujer,Extranjera,Estados Unidos,1995-06-19,Itzimná,COLEGIO EDUCACION Y PATRIA,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2018-1
+201800134,Hombre,Mexicana,Yucatán,2008-08-06,Mulsay,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2018-1
+201800135,Hombre,Mexicana,Yucatán,2002-11-25,Altabrisa,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800136,Mujer,Mexicana,Yucatán,2007-02-28,San Ramón Norte,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800137,Mujer,Mexicana,Tabasco,2005-04-19,Jardines del Norte,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800138,Hombre,Mexicana,Yucatán,2005-07-10,México,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800139,Hombre,Extranjera,Estados Unidos,2004-02-10,San Ramón Norte,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800140,Mujer,Extranjera,Estados Unidos,2006-01-17,Dolores Otero,CENTRO ESCOLAR ROCHAVI,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800141,Hombre,Mexicana,Tabasco,2007-08-05,García Ginerés,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800142,Hombre,Mexicana,Campeche,2007-07-12,Nueva Kukulcán,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800143,Hombre,Mexicana,Yucatán,2004-09-14,Mulsay,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800144,Hombre,Mexicana,Yucatán,2005-12-16,San Ramón Norte,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2018-1
+201800145,Hombre,Mexicana,Yucatán,2007-10-05,Montecristo,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800146,Hombre,Mexicana,Yucatán,2007-10-27,Pensiones,ROGERS HALL,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2018-1
+201800147,Mujer,Mexicana,Yucatán,2008-11-17,Emiliano Zapata Sur,ROGERS HALL,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800148,Mujer,Mexicana,Yucatán,1999-04-30,San Antonio Kaua,EDUCACION INTEGRAL Y ACTIVA EDAI,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2018-1
+201800149,Hombre,Mexicana,Quintana Roo,2005-05-20,San Ramón Sur,UVM,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800150,Hombre,Mexicana,Yucatán,2004-04-05,Mayapán,PREPA 1,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2018-1
+201800151,Mujer,Mexicana,Yucatán,2006-11-04,Mulsay,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800152,Hombre,Mexicana,Quintana Roo,2007-10-14,Wallis,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800153,Hombre,Mexicana,Quintana Roo,1993-03-09,Jardines del Norte,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2018-1
+201800154,Mujer,Mexicana,Yucatán,2001-04-14,Ciudad Caucel,EDUCACION INTEGRAL Y ACTIVA EDAI,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800155,Mujer,Mexicana,Quintana Roo,2006-01-26,Centro,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800156,Mujer,Mexicana,Yucatán,1993-05-28,Montes de Amé,PREPARATORIA ASTURIAS,Mixto,Merida,Licenciatura,Administración,Sabatino,2018-1
+201800157,Mujer,Mexicana,Yucatán,2008-05-27,Chuburná de Hidalgo,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800158,Mujer,Mexicana,Yucatán,2007-07-25,Juan Pablo II,SIGLO XXI,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2018-1
+201800159,Mujer,Mexicana,Yucatán,2006-09-05,Ciudad Caucel,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800160,Hombre,Mexicana,Quintana Roo,1987-12-29,Las Américas,COLEGIO BACHILLERES DE TABASCO 46,Mixto,Merida,Licenciatura,Administración,Sabatino,2018-1
+201800161,Mujer,Mexicana,Yucatán,2006-08-04,Altabrisa,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800162,Mujer,Mexicana,Yucatán,2004-01-23,Bojórquez,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2018-1
+201800163,Hombre,Mexicana,Yucatán,2007-02-26,Temozón Norte,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800164,Hombre,Mexicana,Tabasco,2004-09-23,Xoclán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800165,Hombre,Mexicana,Tabasco,2008-07-10,San Antonio Kaua,COBAY TEKAX,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2018-1
+201800166,Hombre,Mexicana,Quintana Roo,2004-05-11,Xoclán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800167,Hombre,Mexicana,Yucatán,2007-10-28,Miguel Alemán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800168,Mujer,Mexicana,Yucatán,2003-01-13,Montes de Amé,COLEGIO BACHILLERES DE TABASCO 46,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800169,Mujer,Mexicana,Tabasco,2005-10-28,Itzimná,SERAPIO RENDÓN,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800170,Hombre,Mexicana,Yucatán,2000-04-20,Dolores Otero,UVM,Escolar,Merida,Licenciatura,Enfermería,Vespertino,2018-1
+201800171,Mujer,Mexicana,Quintana Roo,2003-11-29,Montecristo,ROGERS HALL,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800172,Mujer,Mexicana,Yucatán,2004-09-30,Las Américas,COREM MERIDA,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800173,Mujer,Mexicana,Yucatán,2008-07-21,Mayapán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800174,Mujer,Mexicana,Yucatán,2005-09-14,Dzityá,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800175,Mujer,Mexicana,Tabasco,2007-02-24,San Ramón Sur,CECYTE,Escolar,Merida,Licenciatura,Enfermería,Matutino,2018-1
+201800176,Hombre,Mexicana,Yucatán,2005-04-30,Ciudad Caucel,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2018-1
+201800177,Hombre,Mexicana,Yucatán,2004-01-11,Wallis,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800178,Hombre,Mexicana,Yucatán,2001-07-09,Temozón Norte,UNIVERSIDAD TECMILENIO,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800179,Hombre,Mexicana,Quintana Roo,2005-07-16,Dolores Otero,CECYTE,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800180,Hombre,Mexicana,Yucatán,2006-07-15,Dolores Otero,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800181,Mujer,Mexicana,Yucatán,2004-01-27,Pensiones,COBAY TEKAX,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2018-1
+201800182,Mujer,Mexicana,Tabasco,2007-04-28,Dzityá,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2018-1
+201800183,Hombre,Mexicana,Yucatán,2001-11-11,Miguel Alemán,CENTRO ESCOLAR ROCHAVI,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2018-1
+201800184,Hombre,Mexicana,Yucatán,2004-04-13,Juan Pablo II,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800185,Mujer,Mexicana,Quintana Roo,2003-12-07,Bojórquez,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800186,Mujer,Mexicana,Yucatán,2008-03-23,Nueva Kukulcán,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Odontología,Matutino,2018-1
+201800187,Hombre,Mexicana,Tabasco,2003-05-09,Xoclán,COBAY TEKAX,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800188,Hombre,Mexicana,Yucatán,2007-06-01,Montecristo,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2018-1
+201800189,Hombre,Mexicana,Yucatán,2007-08-30,Miguel Alemán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800190,Hombre,Mexicana,Campeche,2008-05-06,Las Américas,CETMAR-PROGRESO,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800191,Hombre,Mexicana,Campeche,2005-02-05,Bojórquez,CETIS 112,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800192,Mujer,Mexicana,Tabasco,2005-12-22,San Ramón Norte,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2018-1
+201800193,Mujer,Mexicana,Yucatán,2008-12-11,Ciudad Caucel,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800194,Hombre,Mexicana,Tabasco,2006-01-24,San Antonio Kaua,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Fisioterapia,Matutino,2018-1
+201800195,Mujer,Mexicana,Quintana Roo,2004-12-19,San Antonio Kaua,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800196,Hombre,Mexicana,Quintana Roo,2008-06-12,Salvador Alvarado Sur,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800197,Mujer,Mexicana,Quintana Roo,2003-09-09,Altabrisa,PREPARATORIA NO. 8,Mixto,Merida,Licenciatura,Enfermería,Sabatino,2018-1
+201800198,Hombre,Mexicana,Tabasco,2008-01-10,Pensiones,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800199,Mujer,Mexicana,Yucatán,2007-07-20,Altabrisa,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Educación,Matutino,2018-1
+201800200,Mujer,Mexicana,Tabasco,2009-02-19,Emiliano Zapata Sur,SAN AGUSTIN,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800201,Mujer,Mexicana,Yucatán,1995-05-05,San Antonio Kaua,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2018-1
+201800202,Mujer,Mexicana,Yucatán,2004-11-05,Dzityá,PREPARATORIA ESTATAL CTM # 3,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800203,Mujer,Mexicana,Campeche,2004-02-17,Dolores Otero,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800204,Mujer,Mexicana,Yucatán,2005-09-19,México,PREPA 1,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2018-1
+201800205,Mujer,Mexicana,Yucatán,2005-03-21,Bojórquez,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800206,Hombre,Mexicana,Yucatán,2005-04-26,Salvador Alvarado Sur,REPUBLICA DE MEXICO,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800207,Hombre,Mexicana,Yucatán,1988-10-07,México,PREPARATORIA NO. 8,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800208,Hombre,Extranjera,Estados Unidos,2003-08-14,Pensiones,COBAY TEKAX,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2018-1
+201800209,Mujer,Mexicana,Yucatán,2008-10-13,Juan Pablo II,PREPARATORIA YUCATAN,Mixto,Foraneo,Licenciatura,Nutrición,Sabatino,2018-1
+201800210,Mujer,Mexicana,Yucatán,2004-09-09,Mulsay,COREM MERIDA,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800211,Hombre,Mexicana,Yucatán,2003-04-14,Montes de Amé,COBAY TEKAX,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2018-1
+201800212,Hombre,Extranjera,Perú,2008-08-14,San Antonio Kaua,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800213,Mujer,Mexicana,Campeche,2007-08-07,Montes de Amé,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800214,Hombre,Mexicana,Campeche,2004-02-22,Campestre,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800215,Mujer,Mexicana,Yucatán,2006-12-11,Jardines del Norte,CONRADO MENENDEZ DIAZ,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800216,Hombre,Mexicana,Yucatán,2006-03-01,Juan Pablo II,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800217,Mujer,Mexicana,Yucatán,2007-07-09,Las Américas,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800218,Mujer,Mexicana,Yucatán,2007-05-14,Dzityá,DIEGO RIVERA,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800219,Hombre,Mexicana,Yucatán,2004-11-29,Mayapán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800220,Mujer,Mexicana,Yucatán,2009-01-12,San Ramón Norte,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800221,Hombre,Mexicana,Yucatán,2003-05-25,Emiliano Zapata Sur,UNIVERSIDAD TECMILENIO,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2018-1
+201800222,Hombre,Mexicana,Yucatán,2007-03-09,Mayapán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2018-1
+201800223,Mujer,Mexicana,Quintana Roo,2006-05-22,México,DIEGO RIVERA,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800224,Hombre,Mexicana,Yucatán,2008-12-15,Las Américas,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2018-1
+201800225,Hombre,Mexicana,Yucatán,2003-03-27,Jardines del Norte,UNIVERSIDAD TECMILENIO,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2018-1
+201800226,Hombre,Mexicana,Campeche,2006-03-16,Francisco de Montejo,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800227,Hombre,Mexicana,Tabasco,2005-09-11,Emiliano Zapata Sur,SIGLO XXI,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800228,Mujer,Mexicana,Yucatán,2007-10-20,Itzimná,COREM MERIDA,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800229,Mujer,Mexicana,Yucatán,2003-01-01,Montes de Amé,COBACH COZUMEL,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800230,Mujer,Mexicana,Yucatán,2009-01-20,Jardines del Norte,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800231,Mujer,Mexicana,Campeche,2007-01-17,Dolores Otero,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800232,Hombre,Mexicana,Yucatán,2004-10-21,México,PREPARATORIA ESTATAL CTM # 3,Escolar,Foraneo,Licenciatura,Educación,Matutino,2018-1
+201800233,Hombre,Mexicana,Campeche,2007-12-02,Pensiones,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800234,Mujer,Mexicana,Yucatán,2004-07-24,Bojórquez,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Fisioterapia,Matutino,2018-1
+201800235,Hombre,Mexicana,Yucatán,2008-08-17,Pensiones,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800236,Mujer,Mexicana,Yucatán,2004-12-13,Itzimná,COBAY TEKAX,Escolar,Municipio,Licenciatura,Criminología,Matutino,2018-1
+201800237,Hombre,Mexicana,Yucatán,2006-04-03,García Ginerés,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800238,Hombre,Mexicana,Campeche,2008-12-06,San Antonio Kaua,BETANCOURT -BRISAS,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800239,Hombre,Mexicana,Campeche,2005-06-06,México,SIGLO XXI,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800240,Mujer,Mexicana,Campeche,2005-05-12,Temozón Norte,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800241,Hombre,Mexicana,Yucatán,2005-05-21,Bojórquez,BETANCOURT -BRISAS,Escolar,Foraneo,Licenciatura,Nutrición,Vespertino,2018-1
+201800242,Mujer,Mexicana,Yucatán,2005-07-30,Mayapán,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800243,Hombre,Mexicana,Yucatán,1992-09-13,San Antonio Kaua,CECYTE,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800244,Hombre,Mexicana,Campeche,2005-10-24,Dzityá,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800245,Mujer,Mexicana,Campeche,2005-11-16,San Ramón Sur,UNIVERSIDAD TECMILENIO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800246,Hombre,Mexicana,Yucatán,2006-09-24,Montes de Amé,CENTRO ESCOLAR ROCHAVI,Escolar,Foraneo,Licenciatura,Fisioterapia,Matutino,2018-1
+201800247,Hombre,Mexicana,Yucatán,2003-01-16,Montecristo,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800248,Hombre,Mexicana,Yucatán,2001-03-27,Campestre,PREPARATORIA PROGRESO,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2018-1
+201800249,Mujer,Mexicana,Tabasco,2004-07-15,San Ramón Sur,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800250,Hombre,Mexicana,Yucatán,2003-02-28,San Ramón Sur,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800251,Mujer,Mexicana,Quintana Roo,2007-03-26,Dolores Otero,UNIVERSIDAD TECMILENIO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800252,Hombre,Mexicana,Yucatán,2005-01-29,Centro,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800253,Mujer,Mexicana,Tabasco,2005-05-27,Xoclán,UNIVERSIDAD TECMILENIO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800254,Mujer,Mexicana,Yucatán,1996-01-05,Altabrisa,PREPARATORIA YUCATAN,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800255,Hombre,Mexicana,Tabasco,2004-07-14,Mulsay,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800256,Mujer,Mexicana,Yucatán,2005-12-24,García Ginerés,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800257,Mujer,Mexicana,Yucatán,2008-02-29,Pensiones,COLEGIO EDUCACION Y PATRIA,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2018-1
+201800258,Hombre,Mexicana,Yucatán,2005-02-10,San Antonio Kaua,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800259,Mujer,Mexicana,Yucatán,1995-01-08,Nueva Kukulcán,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800260,Mujer,Mexicana,Yucatán,2008-07-20,San Ramón Norte,COLEGIO EDUCACION Y PATRIA,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2018-1
+201800261,Hombre,Mexicana,Tabasco,2000-09-07,San Ramón Norte,COBAY TEKAX,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2018-1
+201800262,Mujer,Mexicana,Yucatán,2005-06-02,Montecristo,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800263,Hombre,Mexicana,Yucatán,1994-08-14,Xoclán,CENTRO ESCOLAR ROCHAVI,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800264,Hombre,Mexicana,Yucatán,2005-07-28,Temozón Norte,SIGLO XXI,Mixto,Merida,Licenciatura,Psicología,Sabatino,2018-1
+201800265,Mujer,Mexicana,Tabasco,2007-06-23,Itzimná,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800266,Mujer,Mexicana,Campeche,2004-12-05,Mulsay,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2018-1
+201800267,Mujer,Mexicana,Yucatán,2008-05-21,Montecristo,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800268,Hombre,Mexicana,Yucatán,2005-12-09,Wallis,COBAY TEKAX,Escolar,Municipio,Licenciatura,Odontología,Vespertino,2018-1
+201800269,Hombre,Mexicana,Yucatán,2002-01-07,Salvador Alvarado Sur,COBAY TEKAX,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800270,Mujer,Mexicana,Yucatán,2003-08-28,Mayapán,SAN AGUSTIN,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800271,Mujer,Mexicana,Quintana Roo,2006-03-27,Francisco de Montejo,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800272,Mujer,Mexicana,Campeche,2007-01-31,Salvador Alvarado Sur,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800273,Hombre,Mexicana,Yucatán,2005-03-15,Chuburná de Hidalgo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800274,Hombre,Mexicana,Yucatán,2005-06-22,Campestre,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800275,Hombre,Mexicana,Tabasco,2008-02-02,Campestre,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Educación,Vespertino,2018-1
+201800276,Hombre,Mexicana,Quintana Roo,1997-11-14,San Ramón Norte,PREPARATORIA ASTURIAS,Mixto,Merida,Licenciatura,Diseño de Modas,Sabatino,2018-1
+201800277,Hombre,Mexicana,Campeche,1989-10-21,San Ramón Norte,PREPARATORIA PROGRESO,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800278,Mujer,Mexicana,Yucatán,2005-09-09,García Ginerés,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800279,Mujer,Mexicana,Yucatán,2005-07-27,Mayapán,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800280,Hombre,Mexicana,Yucatán,2000-11-02,Campestre,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Mixto,Foraneo,Licenciatura,Gastronomía,Sabatino,2018-1
+201800281,Hombre,Mexicana,Campeche,1987-05-02,Juan Pablo II,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Mixto,Foraneo,Licenciatura,Psicología,Sabatino,2018-1
+201800282,Hombre,Mexicana,Yucatán,2007-04-10,García Ginerés,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800283,Hombre,Mexicana,Yucatán,2009-01-22,Brisas,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Criminología,Matutino,2018-1
+201800284,Hombre,Mexicana,Yucatán,2001-11-24,Dolores Otero,SAN AGUSTIN,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800285,Mujer,Mexicana,Campeche,2005-06-01,Francisco de Montejo,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2018-1
+201800286,Hombre,Mexicana,Tabasco,2005-07-11,Miguel Alemán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800287,Mujer,Mexicana,Yucatán,1998-07-23,Miguel Alemán,PREPA ACANCEH,Mixto,Foraneo,Licenciatura,Educación,Sabatino,2018-1
+201800288,Mujer,Mexicana,Campeche,2002-01-15,Pensiones,REPUBLICA DE MEXICO,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800289,Mujer,Mexicana,Quintana Roo,2004-06-09,Emiliano Zapata Sur,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800290,Hombre,Mexicana,Yucatán,2007-05-31,Wallis,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800291,Mujer,Extranjera,Estados Unidos,1988-02-03,San Antonio Kaua,SIGLO XXI,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800292,Mujer,Mexicana,Yucatán,2005-10-08,Mayapán,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800293,Hombre,Mexicana,Tabasco,2008-08-21,México,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Criminología,Matutino,2018-1
+201800294,Mujer,Mexicana,Yucatán,2008-05-14,Montecristo,CECYTE,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800295,Mujer,Mexicana,Yucatán,2008-12-13,Dzityá,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800296,Mujer,Mexicana,Yucatán,2008-09-25,Miguel Alemán,CECYTE,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800297,Mujer,Extranjera,Colombia,1999-11-23,Juan Pablo II,SIGLO XXI,Mixto,Merida,Licenciatura,Psicología,Sabatino,2018-1
+201800298,Hombre,Mexicana,Yucatán,2008-10-03,San Ramón Sur,COBAY TEKAX,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2018-1
+201800299,Hombre,Mexicana,Yucatán,2008-03-26,Jardines del Norte,CETIS 112,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800300,Hombre,Mexicana,Yucatán,1999-02-05,Bojórquez,COLEGIO EDUCACION Y PATRIA,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2018-1
+201800301,Hombre,Mexicana,Tabasco,2004-01-13,Las Américas,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800302,Mujer,Mexicana,Yucatán,2008-05-30,Centro,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800303,Mujer,Mexicana,Quintana Roo,2004-09-14,San Antonio Kaua,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800304,Mujer,Mexicana,Yucatán,2008-04-19,Salvador Alvarado Sur,CONRADO MENENDEZ DIAZ,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2018-1
+201800305,Hombre,Mexicana,Tabasco,2003-07-14,Juan Pablo II,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2018-1
+201800306,Mujer,Mexicana,Yucatán,1986-11-07,Dolores Otero,SIGLO XXI,Mixto,Merida,Licenciatura,Psicología,Sabatino,2018-1
+201800307,Mujer,Mexicana,Quintana Roo,2005-03-12,Salvador Alvarado Sur,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800308,Hombre,Mexicana,Yucatán,2006-10-23,Brisas,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800309,Mujer,Mexicana,Yucatán,2000-04-12,Montecristo,COBAY TEKAX,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2018-1
+201800310,Mujer,Mexicana,Campeche,2008-09-06,Jardines del Norte,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800311,Hombre,Mexicana,Yucatán,2007-04-04,Francisco de Montejo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Educación,Matutino,2018-1
+201800312,Hombre,Mexicana,Campeche,2003-06-11,Temozón Norte,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800313,Hombre,Mexicana,Yucatán,2005-11-12,Emiliano Zapata Sur,UVM,Escolar,Merida,Licenciatura,Educación,Matutino,2018-1
+201800314,Mujer,Mexicana,Yucatán,2008-08-17,Brisas,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Criminología,Vespertino,2018-1
+201800315,Hombre,Mexicana,Yucatán,2008-06-23,México,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Gastronomía,Matutino,2018-1
+201800316,Mujer,Mexicana,Yucatán,2006-08-17,San Ramón Norte,COBAY TEKAX,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800317,Mujer,Mexicana,Yucatán,2003-04-07,Pensiones,COBAY TEKAX,Mixto,Municipio,Licenciatura,Ing. Civil,Sabatino,2018-1
+201800318,Hombre,Extranjera,Colombia,2009-03-30,Salvador Alvarado Sur,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Educación,Matutino,2018-1
+201800319,Hombre,Mexicana,Yucatán,2005-03-16,Itzimná,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800320,Mujer,Mexicana,Yucatán,1996-07-26,Altabrisa,CENTRO ESCOLAR ROCHAVI,Mixto,Foraneo,Licenciatura,Contaduría,Sabatino,2018-1
+201800321,Hombre,Mexicana,Yucatán,2004-12-04,México,UVM,Escolar,Merida,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800322,Mujer,Mexicana,Yucatán,2007-11-13,Las Américas,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800323,Hombre,Extranjera,Colombia,2005-05-17,Dolores Otero,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800324,Mujer,Mexicana,Yucatán,2006-10-18,Jardines del Norte,UVM,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800325,Mujer,Mexicana,Yucatán,2007-12-17,Mulsay,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800326,Mujer,Mexicana,Yucatán,2007-12-19,Chuburná de Hidalgo,SAN AGUSTIN,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800327,Hombre,Mexicana,Yucatán,2005-10-11,Miguel Alemán,COBAY TEKAX,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800328,Mujer,Mexicana,Yucatán,2006-09-25,Miguel Alemán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800329,Hombre,Mexicana,Yucatán,2009-02-14,Juan Pablo II,REPUBLICA DE MEXICO,Escolar,Foraneo,Licenciatura,Fisioterapia,Matutino,2018-1
+201800330,Hombre,Mexicana,Yucatán,2009-02-04,Bojórquez,SIGLO XXI,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800331,Hombre,Mexicana,Yucatán,2005-11-27,San Ramón Norte,UNIVERSIDAD TECMILENIO,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800332,Hombre,Mexicana,Yucatán,2008-08-12,San Ramón Norte,COBAY TEKAX,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2018-1
+201800333,Mujer,Mexicana,Yucatán,2008-11-03,Dolores Otero,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800334,Mujer,Mexicana,Yucatán,2002-11-04,Brisas,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800335,Hombre,Mexicana,Yucatán,1988-02-26,Jardines del Norte,INSTITUTO COMERCIAL BANCARIO,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800336,Mujer,Mexicana,Campeche,1993-03-21,Francisco de Montejo,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2018-1
+201800337,Hombre,Mexicana,Yucatán,2005-04-05,Itzimná,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Foraneo,Licenciatura,Educación,Vespertino,2018-1
+201800338,Hombre,Mexicana,Yucatán,2005-04-28,Mayapán,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800339,Mujer,Mexicana,Campeche,1994-01-30,Bojórquez,COBACH COZUMEL,Mixto,Foraneo,Licenciatura,Derecho,Sabatino,2018-1
+201800340,Hombre,Mexicana,Yucatán,2005-03-01,Las Américas,SERAPIO RENDÓN,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800341,Mujer,Mexicana,Yucatán,2003-08-21,Altabrisa,PREPA ACANCEH,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800342,Mujer,Mexicana,Yucatán,2008-01-24,Wallis,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800343,Hombre,Mexicana,Yucatán,2002-03-14,San Ramón Norte,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800344,Hombre,Mexicana,Yucatán,2009-01-05,Dzityá,EDUCACION INTEGRAL Y ACTIVA EDAI,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800345,Mujer,Mexicana,Yucatán,2008-06-10,Mayapán,FRANCISCO DE MONTEJO Y LEON,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2018-1
+201800346,Mujer,Mexicana,Quintana Roo,2001-10-05,Chuburná de Hidalgo,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Criminología,Matutino,2018-1
+201800347,Mujer,Mexicana,Yucatán,2003-07-30,San Ramón Sur,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800348,Hombre,Mexicana,Quintana Roo,2009-02-11,Ciudad Caucel,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800349,Hombre,Mexicana,Yucatán,1991-02-25,Dzityá,CETMAR-PROGRESO,Mixto,Foraneo,Licenciatura,Nutrición,Sabatino,2018-1
+201800350,Mujer,Mexicana,Yucatán,2003-10-01,Xoclán,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Odontología,Vespertino,2018-1
+201800351,Hombre,Mexicana,Yucatán,2007-03-10,San Antonio Kaua,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800352,Mujer,Mexicana,Yucatán,1995-07-26,San Ramón Sur,COBAY TEKAX,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2018-1
+201800353,Hombre,Mexicana,Quintana Roo,2005-06-11,Mayapán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800354,Hombre,Mexicana,Yucatán,2007-06-03,Las Américas,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800355,Mujer,Mexicana,Yucatán,2003-03-20,Las Américas,COBAY TEKAX,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800356,Hombre,Mexicana,Yucatán,2007-11-21,Temozón Norte,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800357,Mujer,Extranjera,Estados Unidos,2008-06-27,San Ramón Sur,COBACH COZUMEL,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800358,Mujer,Mexicana,Tabasco,2006-07-31,Pensiones,COBACH COZUMEL,Mixto,Merida,Licenciatura,Administración,Sabatino,2018-1
+201800359,Hombre,Mexicana,Yucatán,2006-05-30,Temozón Norte,COBAY TEKAX,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800360,Mujer,Mexicana,Yucatán,2002-12-30,Dzityá,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800361,Hombre,Mexicana,Yucatán,2007-03-28,Las Américas,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Odontología,Vespertino,2018-1
+201800362,Hombre,Mexicana,Campeche,2003-07-11,Francisco de Montejo,ROGERS HALL,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800363,Hombre,Mexicana,Yucatán,2006-04-13,Campestre,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Educación,Matutino,2018-1
+201800364,Hombre,Mexicana,Quintana Roo,2008-10-11,Ciudad Caucel,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2018-1
+201800365,Hombre,Mexicana,Yucatán,1994-09-17,Chuburná de Hidalgo,COBAY TEKAX,Mixto,Municipio,Licenciatura,Administración,Sabatino,2018-1
+201800366,Mujer,Mexicana,Quintana Roo,2008-10-16,Itzimná,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800367,Hombre,Mexicana,Yucatán,2008-01-26,Campestre,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800368,Hombre,Mexicana,Yucatán,2006-01-03,Pensiones,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Arquitectura,Vespertino,2018-1
+201800369,Hombre,Mexicana,Yucatán,2006-09-30,Las Américas,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800370,Mujer,Mexicana,Yucatán,2002-12-13,Itzimná,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800371,Mujer,Mexicana,Yucatán,2005-02-05,Nueva Kukulcán,ROGERS HALL,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800372,Mujer,Mexicana,Campeche,2001-11-16,Wallis,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800373,Hombre,Mexicana,Yucatán,2003-08-18,Chuburná de Hidalgo,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2018-1
+201800374,Hombre,Mexicana,Campeche,2007-02-24,Montes de Amé,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800375,Mujer,Extranjera,Colombia,2005-01-19,San Ramón Sur,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Criminología,Matutino,2018-1
+201800376,Hombre,Mexicana,Yucatán,2006-02-10,Xoclán,SIGLO XXI,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2018-1
+201800377,Hombre,Mexicana,Yucatán,2004-05-14,Dolores Otero,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800378,Hombre,Mexicana,Yucatán,2004-06-14,Campestre,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800379,Mujer,Mexicana,Yucatán,1996-05-15,Ciudad Caucel,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800380,Mujer,Mexicana,Yucatán,2000-01-21,San Antonio Kaua,PREPA ACANCEH,Mixto,Merida,Licenciatura,Administración,Sabatino,2018-1
+201800381,Mujer,Mexicana,Tabasco,2007-06-21,García Ginerés,UVM,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2018-1
+201800382,Mujer,Extranjera,Colombia,2005-11-13,Pensiones,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800383,Mujer,Mexicana,Quintana Roo,2008-09-07,San Antonio Kaua,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800384,Hombre,Mexicana,Yucatán,2003-07-01,Pensiones,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800385,Mujer,Mexicana,Yucatán,2009-01-07,Temozón Norte,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800386,Mujer,Mexicana,Campeche,2007-01-27,Jardines del Norte,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Criminología,Matutino,2018-1
+201800387,Mujer,Mexicana,Yucatán,2004-05-07,Juan Pablo II,UNACAR- CAMPUS II,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2018-1
+201800388,Hombre,Mexicana,Yucatán,2004-03-17,Temozón Norte,PREPA 1,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800389,Hombre,Mexicana,Yucatán,2004-01-06,Jardines del Norte,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800390,Hombre,Mexicana,Yucatán,2006-06-01,Xoclán,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800391,Mujer,Mexicana,Yucatán,2009-02-06,Itzimná,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800392,Mujer,Mexicana,Yucatán,2006-09-20,Bojórquez,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800393,Mujer,Extranjera,Estados Unidos,2005-02-16,San Ramón Norte,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800394,Hombre,Mexicana,Tabasco,2006-09-02,Jardines del Norte,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800395,Mujer,Mexicana,Yucatán,2008-07-23,Ciudad Caucel,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800396,Hombre,Extranjera,Perú,2006-06-18,San Ramón Sur,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Derecho,Sabatino,2018-1
+201800397,Hombre,Mexicana,Yucatán,2008-11-03,Las Américas,CETMAR-PROGRESO,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800398,Mujer,Mexicana,Yucatán,1997-08-27,Nueva Kukulcán,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Psicología,Sabatino,2018-1
+201800399,Mujer,Mexicana,Yucatán,2006-12-18,San Ramón Norte,PREPARATORIA YUCATAN,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2018-1
+201800400,Mujer,Mexicana,Yucatán,2004-12-28,Pensiones,COBAY TEKAX,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2018-1
+201800401,Mujer,Mexicana,Yucatán,2007-06-05,Miguel Alemán,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800402,Mujer,Mexicana,Yucatán,2007-10-13,Mayapán,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800403,Mujer,Mexicana,Yucatán,2003-08-26,Ciudad Caucel,CENTRO ESCOLAR ROCHAVI,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800404,Mujer,Mexicana,Yucatán,1997-04-08,Juan Pablo II,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2018-1
+201800405,Mujer,Mexicana,Campeche,1991-11-20,Dzityá,COBAY TEKAX,Mixto,Municipio,Licenciatura,Nutrición,Sabatino,2018-1
+201800406,Hombre,Mexicana,Quintana Roo,2008-11-02,Jardines del Norte,REPUBLICA DE MEXICO,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2018-1
+201800407,Hombre,Mexicana,Tabasco,2005-01-11,Montecristo,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800408,Mujer,Mexicana,Yucatán,2008-04-07,San Ramón Norte,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800409,Mujer,Mexicana,Campeche,2007-06-19,Pensiones,COBAY TEKAX,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2018-1
+201800410,Mujer,Mexicana,Yucatán,2003-07-02,Mayapán,COLEGIO MESOAMERICANO,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2018-1
+201800411,Hombre,Mexicana,Yucatán,2004-05-26,Temozón Norte,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800412,Hombre,Mexicana,Yucatán,2007-09-14,Ciudad Caucel,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800413,Mujer,Mexicana,Quintana Roo,2007-07-03,San Ramón Norte,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800414,Mujer,Mexicana,Yucatán,1995-03-04,Itzimná,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2018-1
+201800415,Hombre,Mexicana,Yucatán,2008-06-26,Temozón Norte,CONRADO MENENDEZ DIAZ,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800416,Hombre,Mexicana,Yucatán,1994-03-08,Montecristo,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Gastronomía,Sabatino,2018-1
+201800417,Mujer,Mexicana,Campeche,2007-01-07,Mayapán,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800418,Hombre,Extranjera,Perú,2005-10-16,Mayapán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800419,Mujer,Mexicana,Yucatán,2002-09-01,Bojórquez,PREPARATORIA ESTATAL CTM # 3,Mixto,Foraneo,Licenciatura,Arquitectura,Sabatino,2018-1
+201800420,Hombre,Extranjera,Estados Unidos,2003-10-10,Mayapán,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800421,Mujer,Mexicana,Yucatán,2008-01-19,Dzityá,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800422,Mujer,Mexicana,Yucatán,2006-06-26,Salvador Alvarado Sur,COREM MERIDA,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800423,Mujer,Mexicana,Campeche,2003-03-11,Bojórquez,PREPARATORIA ESTATAL CTM # 3,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2018-1
+201800424,Mujer,Mexicana,Quintana Roo,2003-12-07,Montes de Amé,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800425,Hombre,Mexicana,Campeche,2005-04-11,México,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800426,Hombre,Mexicana,Yucatán,2006-06-02,Ciudad Caucel,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800427,Hombre,Mexicana,Campeche,1998-10-18,Xoclán,SIGLO XXI,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2018-1
+201800428,Mujer,Mexicana,Yucatán,2003-05-19,Mayapán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800429,Mujer,Mexicana,Yucatán,2008-05-15,Dolores Otero,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Odontología,Matutino,2018-1
+201800430,Hombre,Mexicana,Yucatán,1998-07-25,Dzityá,PREPARATORIA NO. 8,Mixto,Merida,Licenciatura,Criminología,Sabatino,2018-1
+201800431,Mujer,Mexicana,Yucatán,2004-04-06,Dzityá,FRANCISCO DE MONTEJO Y LEON,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800432,Mujer,Mexicana,Yucatán,2004-11-28,Centro,CENTRO ESCOLAR ROCHAVI,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800433,Mujer,Mexicana,Yucatán,2005-06-26,Campestre,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2018-1
+201800434,Hombre,Mexicana,Yucatán,2008-12-28,Wallis,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800435,Mujer,Extranjera,Estados Unidos,2006-04-11,García Ginerés,ROGERS HALL,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800436,Hombre,Mexicana,Yucatán,2004-09-27,Itzimná,COBACH COZUMEL,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800437,Hombre,Mexicana,Tabasco,2004-12-25,Emiliano Zapata Sur,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800438,Mujer,Mexicana,Quintana Roo,2005-05-18,Salvador Alvarado Sur,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800439,Mujer,Mexicana,Yucatán,2002-11-02,Wallis,UVM,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800440,Hombre,Mexicana,Yucatán,2008-01-04,Jardines del Norte,UNIVERSIDAD TECMILENIO,Escolar,Foraneo,Licenciatura,Criminología,Matutino,2018-1
+201800441,Hombre,Mexicana,Tabasco,2008-07-07,Campestre,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Odontología,Vespertino,2018-1
+201800442,Hombre,Mexicana,Yucatán,2003-02-28,Jardines del Norte,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800443,Mujer,Mexicana,Yucatán,2004-10-02,Campestre,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2018-1
+201800444,Mujer,Mexicana,Yucatán,2005-11-02,Centro,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800445,Mujer,Mexicana,Yucatán,2003-09-04,México,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800446,Mujer,Mexicana,Yucatán,2002-07-13,Altabrisa,COREM MERIDA,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2018-1
+201800447,Hombre,Mexicana,Yucatán,2004-12-18,Ciudad Caucel,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800448,Hombre,Mexicana,Yucatán,2004-10-25,San Antonio Kaua,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2018-1
+201800449,Hombre,Mexicana,Yucatán,2006-06-26,Pensiones,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800450,Mujer,Mexicana,Yucatán,2008-05-05,Emiliano Zapata Sur,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2018-1
+201800451,Mujer,Mexicana,Yucatán,2003-01-20,Pensiones,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Gastronomía,Vespertino,2018-1
+201800452,Mujer,Mexicana,Quintana Roo,2005-10-28,San Ramón Sur,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800453,Mujer,Mexicana,Yucatán,2006-11-25,Itzimná,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Foraneo,Licenciatura,Enfermería,Vespertino,2018-1
+201800454,Mujer,Mexicana,Yucatán,2008-09-29,Salvador Alvarado Sur,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800455,Hombre,Mexicana,Campeche,2005-10-21,García Ginerés,COBAY TEKAX,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2018-1
+201800456,Hombre,Extranjera,Colombia,2008-01-23,Mulsay,ROGERS HALL,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800457,Mujer,Mexicana,Yucatán,2002-07-24,Mulsay,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800458,Hombre,Mexicana,Yucatán,2001-05-10,Xoclán,SIGLO XXI,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800459,Mujer,Extranjera,Estados Unidos,2003-03-17,Dzityá,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800460,Mujer,Mexicana,Tabasco,2000-10-04,San Ramón Sur,PREPARATORIA JUVENTUS,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800461,Mujer,Mexicana,Tabasco,2007-05-28,San Ramón Sur,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800462,Mujer,Mexicana,Tabasco,2008-06-21,Ciudad Caucel,COBAY TEKAX,Escolar,Municipio,Licenciatura,Odontología,Matutino,2018-1
+201800463,Hombre,Mexicana,Yucatán,1999-06-10,San Ramón Sur,COLEGIO EDUCACION Y PATRIA,Mixto,Merida,Licenciatura,Administración,Sabatino,2018-1
+201800464,Mujer,Mexicana,Campeche,2005-04-26,Salvador Alvarado Sur,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800465,Hombre,Mexicana,Campeche,2007-10-23,San Ramón Sur,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2018-1
+201800466,Mujer,Mexicana,Quintana Roo,2009-03-18,Xoclán,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800467,Mujer,Mexicana,Yucatán,2004-06-01,Salvador Alvarado Sur,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800468,Mujer,Mexicana,Yucatán,2003-08-09,Chuburná de Hidalgo,SAN AGUSTIN,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800469,Hombre,Mexicana,Yucatán,1998-11-24,Mayapán,PREPARATORIA NO. 8,Mixto,Foraneo,Licenciatura,Fisioterapia,Sabatino,2018-1
+201800470,Hombre,Mexicana,Yucatán,2006-04-19,Las Américas,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800471,Mujer,Mexicana,Yucatán,2005-03-05,San Antonio Kaua,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800472,Mujer,Mexicana,Yucatán,2007-08-31,Nueva Kukulcán,BETANCOURT -BRISAS,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800473,Mujer,Mexicana,Yucatán,2005-09-13,Montecristo,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2018-1
+201800474,Mujer,Mexicana,Quintana Roo,2005-01-31,México,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2018-1
+201800475,Hombre,Mexicana,Campeche,2007-06-05,San Ramón Norte,CETMAR-PROGRESO,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800476,Hombre,Mexicana,Quintana Roo,2007-02-18,Nueva Kukulcán,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800477,Hombre,Mexicana,Yucatán,2004-09-28,Centro,BETANCOURT -BRISAS,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800478,Mujer,Mexicana,Yucatán,2006-12-22,Miguel Alemán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800479,Mujer,Mexicana,Yucatán,2004-06-21,Chuburná de Hidalgo,BETANCOURT -BRISAS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800480,Hombre,Mexicana,Yucatán,1999-07-24,Montes de Amé,PREPARATORIA ASTURIAS,Mixto,Merida,Licenciatura,Criminología,Sabatino,2018-1
+201800481,Hombre,Mexicana,Yucatán,2006-01-26,Jardines del Norte,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800482,Hombre,Mexicana,Campeche,2004-10-16,Emiliano Zapata Sur,REPUBLICA DE MEXICO,Escolar,Foraneo,Licenciatura,Fisioterapia,Matutino,2018-1
+201800483,Hombre,Mexicana,Campeche,2007-04-05,Jardines del Norte,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Educación,Matutino,2018-1
+201800484,Mujer,Mexicana,Quintana Roo,2004-09-25,Mayapán,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800485,Hombre,Mexicana,Yucatán,2007-01-14,Miguel Alemán,COLEGIO MESOAMERICANO,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2018-1
+201800486,Hombre,Mexicana,Yucatán,2006-10-28,Brisas,DIEGO RIVERA,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800487,Hombre,Mexicana,Yucatán,1994-06-13,Temozón Norte,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Criminología,Sabatino,2018-1
+201800488,Hombre,Mexicana,Campeche,2005-11-03,Salvador Alvarado Sur,REPUBLICA DE MEXICO,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800489,Mujer,Mexicana,Tabasco,2008-04-09,México,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800490,Hombre,Mexicana,Yucatán,2006-03-09,Nueva Kukulcán,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800491,Mujer,Mexicana,Yucatán,2008-03-05,Francisco de Montejo,DIEGO RIVERA,Escolar,Foraneo,Licenciatura,Fisioterapia,Matutino,2018-1
+201800492,Mujer,Mexicana,Tabasco,2005-11-21,Ciudad Caucel,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800493,Mujer,Mexicana,Campeche,2006-04-29,Ciudad Caucel,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Contaduría,Vespertino,2018-1
+201800494,Mujer,Mexicana,Campeche,2006-08-02,San Ramón Sur,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Foraneo,Licenciatura,Derecho,Matutino,2018-1
+201800495,Mujer,Mexicana,Yucatán,2005-10-27,Xoclán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800496,Hombre,Mexicana,Yucatán,2008-10-06,Emiliano Zapata Sur,PREPARATORIA ASTURIAS,Mixto,Merida,Licenciatura,Arquitectura,Sabatino,2018-1
+201800497,Mujer,Mexicana,Yucatán,2006-11-14,Wallis,COBACH COZUMEL,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800498,Mujer,Mexicana,Yucatán,2005-04-20,Nueva Kukulcán,SIGLO XXI,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800499,Hombre,Mexicana,Yucatán,2004-10-28,Altabrisa,COBAY TEKAX,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2018-1
+201800500,Hombre,Mexicana,Tabasco,2004-03-18,Emiliano Zapata Sur,COLEGIO MESOAMERICANO,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2018-1
+201800501,Mujer,Mexicana,Yucatán,2009-03-10,Mayapán,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800502,Mujer,Mexicana,Yucatán,2008-11-27,Nueva Kukulcán,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800503,Hombre,Mexicana,Campeche,1994-12-20,México,PREPARATORIA PROGRESO,Mixto,Merida,Licenciatura,Nutrición,Sabatino,2018-1
+201800504,Hombre,Mexicana,Yucatán,2005-09-10,Mulsay,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Odontología,Vespertino,2018-1
+201800505,Mujer,Mexicana,Yucatán,2002-11-25,Nueva Kukulcán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2018-1
+201800506,Mujer,Mexicana,Yucatán,2003-08-27,Miguel Alemán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800507,Mujer,Mexicana,Campeche,2004-06-01,Pensiones,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800508,Mujer,Mexicana,Tabasco,2003-12-07,Emiliano Zapata Sur,PREPA ACANCEH,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800509,Hombre,Mexicana,Yucatán,2006-03-22,San Antonio Kaua,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800510,Hombre,Mexicana,Yucatán,2004-11-16,Jardines del Norte,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800511,Hombre,Mexicana,Yucatán,2007-06-21,Mulsay,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Educación,Vespertino,2018-1
+201800512,Hombre,Mexicana,Yucatán,2005-09-10,México,PREPA ACANCEH,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800513,Hombre,Extranjera,Colombia,2006-07-30,Brisas,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800514,Mujer,Mexicana,Yucatán,1999-11-27,Salvador Alvarado Sur,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Administración,Sabatino,2018-1
+201800515,Hombre,Mexicana,Yucatán,2003-10-03,Nueva Kukulcán,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Criminología,Vespertino,2018-1
+201800516,Mujer,Mexicana,Quintana Roo,2005-04-20,Itzimná,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Psicología,Matutino,2018-1
+201800517,Mujer,Mexicana,Yucatán,2003-02-27,Wallis,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800518,Hombre,Mexicana,Yucatán,2008-01-08,Las Américas,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800519,Hombre,Mexicana,Yucatán,2008-06-18,Ciudad Caucel,SERAPIO RENDÓN,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800520,Mujer,Mexicana,Yucatán,2003-07-12,Salvador Alvarado Sur,SAN AGUSTIN,Escolar,Merida,Licenciatura,Enfermería,Matutino,2018-1
+201800521,Hombre,Mexicana,Yucatán,2006-02-17,Jardines del Norte,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2018-1
+201800522,Mujer,Mexicana,Yucatán,2004-12-17,Juan Pablo II,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800523,Hombre,Mexicana,Yucatán,2001-04-11,Las Américas,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800524,Mujer,Mexicana,Quintana Roo,2004-10-31,Mulsay,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800525,Hombre,Mexicana,Yucatán,2006-04-21,Centro,CONRADO MENENDEZ DIAZ,Escolar,Foraneo,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800526,Hombre,Mexicana,Yucatán,2008-05-05,Ciudad Caucel,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Gastronomía,Vespertino,2018-1
+201800527,Hombre,Mexicana,Yucatán,2005-06-02,Francisco de Montejo,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800528,Hombre,Mexicana,Yucatán,2001-02-16,Campestre,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Contaduría,Vespertino,2018-1
+201800529,Mujer,Mexicana,Yucatán,2003-12-24,Dolores Otero,PREPARATORIA NO. 8,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2018-1
+201800530,Hombre,Extranjera,Perú,2006-07-20,Nueva Kukulcán,SAN AGUSTIN,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800531,Hombre,Mexicana,Yucatán,2003-12-28,Brisas,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Odontología,Matutino,2018-1
+201800532,Hombre,Mexicana,Yucatán,2005-12-04,Mayapán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800533,Hombre,Mexicana,Yucatán,1982-12-18,San Ramón Sur,COBAY TIXKOKOB,Mixto,Municipio,Licenciatura,Contaduría,Sabatino,2018-1
+201800534,Hombre,Mexicana,Yucatán,2008-02-25,Montes de Amé,CECYTE,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2018-1
+201800535,Mujer,Mexicana,Yucatán,2003-04-29,Chuburná de Hidalgo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Arquitectura,Matutino,2018-1
+201800536,Hombre,Mexicana,Campeche,2004-08-16,Xoclán,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800537,Mujer,Mexicana,Campeche,2006-12-13,Ciudad Caucel,UNACAR- CAMPUS II,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800538,Mujer,Mexicana,Tabasco,2004-06-15,Chuburná de Hidalgo,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1
+201800539,Hombre,Mexicana,Yucatán,2005-11-03,Campestre,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Enfermería,Matutino,2018-1
+201800540,Hombre,Mexicana,Yucatán,2002-12-31,San Ramón Norte,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800541,Hombre,Mexicana,Yucatán,2006-08-01,Montes de Amé,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Ing. Civil,Matutino,2018-1
+201800542,Hombre,Mexicana,Yucatán,2006-04-24,Mulsay,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800543,Mujer,Mexicana,Yucatán,2004-08-25,Temozón Norte,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800544,Mujer,Mexicana,Yucatán,2001-05-10,Bojórquez,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800545,Mujer,Mexicana,Yucatán,2009-03-29,Montes de Amé,PREPARATORIA PROGRESO,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800546,Hombre,Mexicana,Yucatán,2008-11-30,Chuburná de Hidalgo,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800547,Mujer,Extranjera,Perú,2005-04-23,Dolores Otero,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800548,Mujer,Mexicana,Yucatán,2008-12-06,Las Américas,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800549,Hombre,Mexicana,Yucatán,2005-04-17,Dolores Otero,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800550,Hombre,Mexicana,Yucatán,2004-05-01,Montecristo,SAN AGUSTIN,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800551,Mujer,Mexicana,Yucatán,1986-06-08,Bojórquez,PREPARATORIA NO. 8,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800552,Mujer,Mexicana,Yucatán,2004-11-19,García Ginerés,SIGLO XXI,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2018-1
+201800553,Hombre,Mexicana,Tabasco,2007-11-26,Temozón Norte,CETMAR-PROGRESO,Escolar,Foraneo,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800554,Mujer,Mexicana,Yucatán,2005-01-20,Montes de Amé,PREPARATORIA ESTATAL CTM # 3,Escolar,Foraneo,Licenciatura,Derecho,Vespertino,2018-1
+201800555,Mujer,Mexicana,Yucatán,2003-08-16,San Ramón Sur,PREPARATORIA ASTURIAS,Escolar,Foraneo,Licenciatura,Arquitectura,Vespertino,2018-1
+201800556,Hombre,Mexicana,Quintana Roo,1993-10-11,Ciudad Caucel,UNIVERSIDAD TECMILENIO,Mixto,Foraneo,Licenciatura,Enfermería,Sabatino,2018-1
+201800557,Hombre,Mexicana,Yucatán,2003-08-12,Emiliano Zapata Sur,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800558,Hombre,Mexicana,Yucatán,2002-12-28,Temozón Norte,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800559,Mujer,Mexicana,Yucatán,2005-07-26,Bojórquez,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800560,Mujer,Mexicana,Yucatán,2007-11-01,Brisas,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800561,Hombre,Mexicana,Yucatán,2005-07-09,Salvador Alvarado Sur,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800562,Hombre,Mexicana,Yucatán,2008-01-11,Juan Pablo II,COLEGIO EDUCACION Y PATRIA,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800563,Mujer,Mexicana,Yucatán,2009-02-06,Montes de Amé,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800564,Mujer,Extranjera,Colombia,2006-12-26,México,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800565,Mujer,Mexicana,Campeche,2004-08-05,Brisas,DIEGO RIVERA,Escolar,Foraneo,Licenciatura,Criminología,Vespertino,2018-1
+201800566,Hombre,Mexicana,Yucatán,2005-02-19,Dzityá,PREPARATORIA YUCATAN,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800567,Mujer,Mexicana,Yucatán,2006-01-11,García Ginerés,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2018-1
+201800568,Hombre,Mexicana,Yucatán,2005-08-07,Las Américas,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Derecho,Matutino,2018-1
+201800569,Mujer,Mexicana,Quintana Roo,2001-04-29,Miguel Alemán,COREM MERIDA,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800570,Hombre,Mexicana,Yucatán,2003-12-08,Mulsay,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800571,Hombre,Mexicana,Yucatán,2009-03-20,Francisco de Montejo,PREPA 1,Escolar,Merida,Licenciatura,Educación,Vespertino,2018-1
+201800572,Hombre,Mexicana,Quintana Roo,2002-09-21,Salvador Alvarado Sur,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2018-1
+201800573,Mujer,Mexicana,Tabasco,2004-07-13,Pensiones,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Criminología,Vespertino,2018-1
+201800574,Hombre,Mexicana,Campeche,1991-03-17,Dolores Otero,COREM MERIDA,Mixto,Merida,Licenciatura,Odontología,Sabatino,2018-1
+201800575,Hombre,Mexicana,Yucatán,2005-12-15,Mayapán,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800576,Hombre,Mexicana,Yucatán,2008-08-22,Chuburná de Hidalgo,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800577,Mujer,Mexicana,Yucatán,2005-12-28,Salvador Alvarado Sur,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800578,Hombre,Mexicana,Quintana Roo,2002-07-15,Bojórquez,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Contaduría,Vespertino,2018-1
+201800579,Mujer,Mexicana,Yucatán,2008-02-16,Ciudad Caucel,COLEGIO MESOAMERICANO,Escolar,Merida,Licenciatura,Criminología,Matutino,2018-1
+201800580,Mujer,Mexicana,Yucatán,2004-08-14,Centro,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Educación,Vespertino,2018-1
+201800581,Hombre,Mexicana,Yucatán,2003-04-25,Ciudad Caucel,COBAY TEKAX,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800582,Hombre,Mexicana,Yucatán,2005-02-07,Chuburná de Hidalgo,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800583,Hombre,Mexicana,Yucatán,2006-07-22,Altabrisa,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Criminología,Matutino,2018-1
+201800584,Hombre,Mexicana,Yucatán,2005-01-23,Emiliano Zapata Sur,CENTRO ESCOLAR ROCHAVI,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800585,Hombre,Mexicana,Yucatán,2006-05-15,Montes de Amé,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Derecho,Matutino,2018-1
+201800586,Hombre,Mexicana,Quintana Roo,1997-06-22,Francisco de Montejo,COLEGIO BACHILLERES DE TABASCO 46,Mixto,Foraneo,Licenciatura,Administración,Sabatino,2018-1
+201800587,Hombre,Mexicana,Quintana Roo,2006-12-24,Mulsay,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800588,Mujer,Mexicana,Campeche,2004-05-05,San Antonio Kaua,UNIVERSIDAD TECMILENIO,Escolar,Foraneo,Licenciatura,Odontología,Matutino,2018-1
+201800589,Mujer,Mexicana,Quintana Roo,2005-09-23,México,SAN AGUSTIN,Escolar,Merida,Licenciatura,Arquitectura,Vespertino,2018-1
+201800590,Mujer,Mexicana,Yucatán,2006-04-11,Pensiones,COBAY TEKAX,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800591,Mujer,Mexicana,Yucatán,2002-10-13,Salvador Alvarado Sur,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Vespertino,2018-1
+201800592,Hombre,Mexicana,Yucatán,2006-10-20,Nueva Kukulcán,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800593,Hombre,Mexicana,Campeche,2006-02-19,Itzimná,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800594,Mujer,Mexicana,Yucatán,2007-09-05,Dolores Otero,CENTRO UNIVERSITARIO FELIPE CARRILLO PUERTO,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800595,Mujer,Mexicana,Yucatán,2004-01-16,Itzimná,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800596,Hombre,Mexicana,Yucatán,2003-08-09,Centro,COLEGIO BACHILLERES DE TABASCO 46,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800597,Mujer,Mexicana,Yucatán,2004-11-01,México,EDUCACION INTEGRAL Y ACTIVA EDAI,Escolar,Foraneo,Licenciatura,Educación,Vespertino,2018-1
+201800598,Mujer,Mexicana,Tabasco,2008-05-30,San Ramón Sur,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2018-1
+201800599,Mujer,Mexicana,Quintana Roo,2008-03-09,Dzityá,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800600,Mujer,Mexicana,Yucatán,2006-05-12,Altabrisa,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Contaduría,Matutino,2018-1
+201800601,Hombre,Mexicana,Yucatán,2005-03-19,Ciudad Caucel,SAN AGUSTIN,Escolar,Merida,Licenciatura,Derecho,Vespertino,2018-1
+201800602,Mujer,Mexicana,Yucatán,2006-11-10,Montecristo,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Psicología,Vespertino,2018-1
+201800603,Hombre,Mexicana,Yucatán,2004-07-02,García Ginerés,COLEGIO MESOAMERICANO,Escolar,Foraneo,Licenciatura,Enfermería,Matutino,2018-1
+201800604,Mujer,Mexicana,Quintana Roo,2008-09-07,Xoclán,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Nutrición,Matutino,2018-1
+201800605,Hombre,Mexicana,Yucatán,1996-04-13,Ciudad Caucel,COBAY PROGRESO,Mixto,Municipio,Licenciatura,Arquitectura,Sabatino,2018-1
+201800606,Hombre,Mexicana,Quintana Roo,2000-11-16,Campestre,CONRADO MENENDEZ DIAZ,Escolar,Merida,Licenciatura,Diseño de Modas,Vespertino,2018-1
+201800607,Mujer,Mexicana,Yucatán,2006-11-22,Salvador Alvarado Sur,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Criminología,Matutino,2018-1
+201800608,Mujer,Mexicana,Yucatán,2007-02-12,Montecristo,COBAY TEKAX,Escolar,Municipio,Licenciatura,Contaduría,Matutino,2018-1
+201800609,Hombre,Mexicana,Yucatán,2008-03-30,Wallis,DIEGO RIVERA,Escolar,Merida,Licenciatura,Odontología,Vespertino,2018-1
+201800610,Hombre,Mexicana,Campeche,1992-07-23,Campestre,COBAY CHOLUL,Mixto,Municipio,Licenciatura,Administración,Sabatino,2018-1
+201800611,Mujer,Mexicana,Tabasco,2007-06-02,Brisas,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800612,Mujer,Mexicana,Quintana Roo,2006-03-02,Las Américas,SAN AGUSTIN,Escolar,Foraneo,Licenciatura,Nutrición,Matutino,2018-1
+201800613,Hombre,Mexicana,Tabasco,2000-08-04,Dzityá,PREPARATORIA ESTATAL CTM # 3,Mixto,Foraneo,Licenciatura,Nutrición,Sabatino,2018-1
+201800614,Hombre,Mexicana,Tabasco,2006-10-04,Xoclán,COLEGIO EDUCACION Y PATRIA,Escolar,Foraneo,Licenciatura,Gastronomía,Matutino,2018-1
+201800615,Hombre,Mexicana,Yucatán,2008-03-16,Mayapán,PREPA ACANCEH,Escolar,Foraneo,Licenciatura,Contaduría,Matutino,2018-1
+201800616,Mujer,Mexicana,Campeche,2008-10-16,Wallis,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Gastronomía,Matutino,2018-1
+201800617,Mujer,Mexicana,Tabasco,2000-08-17,Wallis,PREPARATORIA ESTATAL CTM # 3,Mixto,Merida,Licenciatura,Contaduría,Sabatino,2018-1
+201800618,Hombre,Mexicana,Quintana Roo,2003-10-21,Altabrisa,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Odontología,Matutino,2018-1
+201800619,Hombre,Mexicana,Campeche,2008-08-11,Miguel Alemán,CETMAR-PROGRESO,Escolar,Merida,Licenciatura,Psicología,Matutino,2018-1
+201800620,Hombre,Extranjera,Perú,2007-06-28,Campestre,FRANCISCO DE MONTEJO Y LEON,Escolar,Merida,Licenciatura,Administración,Vespertino,2018-1
+201800621,Mujer,Mexicana,Campeche,2008-05-22,Bojórquez,INSTITUTO COMERCIAL BANCARIO,Escolar,Merida,Licenciatura,Nutrición,Vespertino,2018-1
+201800622,Mujer,Mexicana,Yucatán,2003-06-12,México,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Psicología,Vespertino,2018-1
+201800623,Hombre,Mexicana,Yucatán,2004-07-02,Xoclán,DIEGO RIVERA,Mixto,Merida,Licenciatura,Gastronomía,Sabatino,2018-1
+201800624,Mujer,Mexicana,Tabasco,2004-05-17,Pensiones,COREM MERIDA,Escolar,Merida,Licenciatura,Enfermería,Matutino,2018-1
+201800625,Hombre,Mexicana,Yucatán,2005-09-26,Itzimná,PREPARATORIA ASTURIAS,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800626,Hombre,Mexicana,Quintana Roo,2009-02-27,Brisas,PREPARATORIA JUVENTUS,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800627,Hombre,Mexicana,Yucatán,2006-01-24,Montes de Amé,PREPARATORIA YUCATAN,Escolar,Merida,Licenciatura,Administración,Matutino,2018-1
+201800628,Hombre,Mexicana,Yucatán,2007-10-30,Centro,COREM MERIDA,Escolar,Foraneo,Licenciatura,Arquitectura,Matutino,2018-1
+201800629,Hombre,Mexicana,Yucatán,2005-09-15,García Ginerés,PREPARATORIA JUVENTUS,Escolar,Foraneo,Licenciatura,Administración,Vespertino,2018-1
+201800630,Mujer,Mexicana,Yucatán,2004-12-05,Brisas,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Diseño de Modas,Matutino,2018-1
+201800631,Hombre,Mexicana,Tabasco,2005-08-11,Pensiones,PREPARATORIA 2 UADY,Escolar,Merida,Licenciatura,Nutrición,Matutino,2018-1
+201800632,Mujer,Mexicana,Quintana Roo,2004-10-10,Jardines del Norte,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Derecho,Vespertino,2018-1
+201800633,Mujer,Mexicana,Yucatán,2006-01-25,Mayapán,SIGLO XXI,Escolar,Merida,Licenciatura,Gastronomía,Matutino,2018-1
+201800634,Mujer,Mexicana,Tabasco,2003-04-15,Jardines del Norte,PREPA 1,Escolar,Foraneo,Licenciatura,Psicología,Vespertino,2018-1
+201800635,Hombre,Mexicana,Tabasco,2006-05-05,Campestre,PREPARATORIA NO. 8,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800636,Mujer,Mexicana,Yucatán,2005-08-23,Brisas,PREPARATORIA ESTATAL CTM # 3,Escolar,Merida,Licenciatura,Arquitectura,Matutino,2018-1
+201800637,Mujer,Mexicana,Yucatán,2006-09-07,Salvador Alvarado Sur,COBAY TIXKOKOB,Escolar,Municipio,Licenciatura,Administración,Matutino,2018-1
+201800638,Hombre,Mexicana,Yucatán,1997-02-10,Itzimná,COLEGIO MESOAMERICANO,Mixto,Merida,Licenciatura,Derecho,Sabatino,2018-1
+201800639,Mujer,Extranjera,Colombia,2006-05-05,Temozón Norte,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Psicología,Matutino,2018-1
+201800640,Hombre,Mexicana,Yucatán,2007-03-23,San Antonio Kaua,COBAY PROGRESO,Escolar,Municipio,Licenciatura,Nutrición,Vespertino,2018-1
+201800641,Mujer,Mexicana,Yucatán,2007-03-09,Wallis,COBAY CHOLUL,Escolar,Municipio,Licenciatura,Fisioterapia,Vespertino,2018-1
+201800642,Hombre,Mexicana,Yucatán,2006-05-25,García Ginerés,PREPARATORIA PROGRESO,Escolar,Merida,Licenciatura,Gastronomía,Vespertino,2018-1
+201800643,Mujer,Mexicana,Yucatán,2008-04-10,Pensiones,CONRADO MENENDEZ DIAZ,Escolar,Foraneo,Licenciatura,Administración,Matutino,2018-1

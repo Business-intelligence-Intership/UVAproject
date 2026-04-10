@@ -80,7 +80,6 @@ def limpiar_nivel(nivel: str) -> str:
     if nivel in ["INGENIERIA", "INGENIERÍA", "ING"]:
         return "Ingeniería"
     return "NA"
-
 def limpiar_turno(turno: str) -> str:
     turno = limpiar_texto(turno).upper()
     if turno in ["MATUTINO", "MAT"]:
@@ -197,6 +196,7 @@ def limpiar_fila(row: dict, anio_inscripcion: int) -> dict:
         "colonia": limpiar_colonia(row.get("colonia", "")),
         "escuela_procedencia": limpiar_escuela(row.get("escuela_procedencia", "")),
         "ubicacion_escuela_procedencia": limpiar_ubicacion_ubicacion(row.get("ubicacion_escuela_procedencia", "")),
+        "modalidad": row.get("modalidad", ""),
         "nivel": limpiar_nivel(row.get("nivel", "")),
         "carrera": limpiar_carrera(row.get("carrera", "")),
         "turno": limpiar_turno(row.get("turno", "")),
@@ -229,6 +229,7 @@ def limpiar_y_unir():
         "tipo_ingreso",
         "colonia",
         "escuela_procedencia",
+        "modalidad",
         "ubicacion_escuela_procedencia",
         "nivel",
         "carrera",

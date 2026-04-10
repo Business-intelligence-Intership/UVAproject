@@ -1,0 +1,60 @@
+"97115 Mérida, Yucatán·", # FELIPE ESCALANTE RUZ BRISAS Calle 24
+"97810 Samahil, Yuc.", # BACHILLERATO COMUNITARIO SAMAHIL
+"Calle 4, 21 Y 25, C. 4 SN, Centro, 97620 Buctzotz, Yucatán", # COBAY BUCTOZTZ
+"97470 Tixkokob, Yucatán", # COBAY TIXKOKOB
+"Av. Chichen-Itza Supermanzana 1, 77500 Cancún, Q.R.", # CBTIS 111 CANCUN
+"C. 13 101 por 60, 97205 Mérida, Yucatán", # CBETIS 120
+"24902, Calle 22-A 4100, Fátima, 24902 Calkiní, Camp.", # CBTIS 126 CAMPECHE
+"Calle 27 369, Edesio Carrillo Puerto, 97430 Motul de Carrillo, 97430", # CBTIS 80
+"C. 72 499, Barrio de Santiago, Centro, 97000 Mérida, Yuc.", # COLEGIO AMERICANO
+"50 Avenida Sur, C. 27 Sur, San Miguel I, 77666 Cozumel, Q.R.", # COBACH COZUMEL
+"Calle 32, Por Calle 25 y 27 SN, Residencial del Nte, 97219 Mérida, Yuc.", # COBAY CHENKU
+"97580 Homún, Yucatán", # COBAY HOMUN
+"Calle 20 x 11 carretera a Tibolón, 40 X 11, 97690 Sotuta, Yucatán", # COBAY SOTUTA
+"C. 30, 97960 Tzucacab, Yuc.", # COBAY TZUCACAB
+"Ex-Hacienda Xmatkuil A.P. 970 Xmatkuil, 97139 Mérida, Yuc.", # CBTA 13 XMATKUIL
+"C. 22, 97920 Yaxcabá, Yuc.", # COBAY YAXCABA
+"Unnamed Road, 97825 Abalá, Yuc.", # COBAY ABALA
+"CALLE DEL BARRO, Av. Poblado Islas Agrarias # 1201, 21600 Mexicali, B.C.", # PREPARATORIA ABIERTA CALAFIA
+"Calle 20 S/N, Cansahcab Centro, 97410 Cansahcab, Yuc.", # VICTOR J. MANZANILLA J. - CANSAHCAB
+"Antonio González Fernández. 600, 10 de Abril, 77622 Cozumel, Q.R.", # CBTIS 28 COZUMEL
+"C. 107, Santa Rosa, 97279 Mérida, Yuc.", # COLEGIO BENITO JUAREZ GARCIA
+"97315 Mérida, Yucatán", # CENTRO DE BACHILLERATO TECNOLOGICO AGROPECUARIO
+"C. 30 102, Guadalupe, 97540 Izamal, Yuc.", # CBTA 165
+"C. 30 102, Guadalupe, 97540 Izamal, Yuc.", # CBTA IZAMAL 185
+"Calle 18 No. 300-X 49, Salvador Alvarado Sur, 97190 Mérida, Yuc.", # CBTIS 95
+"C. 13 101 por 60, Loma Bonita, 97205 Mérida, Yuc.", # CBTIS 120 MÉRIDA
+"Carlos Castillo Peraza,Calle 51 Mérida, Yucatán · UNIVERSIDAD AUTONOMA DEL CARMEN,UNIVERSIDAD AUTÓNOMA DEL CARMEN,C. 56 4, Benito Juárez, 24180 Cdad. del Carmen, Camp.", # CARLOS CASTILLO PERAZA
+"C. 21 216, entre 60 Y 62, Zona Dorada II, 97226 Mérida, Yuc.", # CENTRO EDUCATIVO SIGLO XXI
+"Cl. 143 314, Emiliano Zapata Sur L, 97297 Mérida, Yuc.", # CECYTE
+"C. 4 Pte. s/n, Maya Pax, Mayapax, 77780 Tulum, Q.R.", # CECYTE QUINTANA ROO
+"Jardines del Nte., 97139 Mérida, Yuc.", # CEC Y TES
+"Calle 21, Periférico Poniente, Colonia San Juan Bautista, 97200 Mérida, Yuc.", # CEDART ERMILO ABREU GÓMEZ
+"C. 60 316-por 27 y 29, Señorial, 97059 Mérida, Yuc.", # CEEAC
+"Calle 22 Nte, Entre 50 y, Calle 55 Pte. &, Ejidal, 77712 Playa del Carmen, Q.R.", # CEIC PLAYA DEL CARMEN
+"Calle 21 No. 357A-x 26, San Pedro Cholul, 97138 Mérida, Yuc.", # CELA
+"C. 50 454, Centro, 97000 Mérida, Yuc.", # CENTRO EDUCATIVO MARIA GONZALEZ PALMA
+"C. 26 Diag. 112, Las Brisas, 97144 Mérida, Yuc.", # COREM MERIDA
+"289 College Ave W, Guelph, ON N1G 1S9, Canada", # CENTENNIAL COLLEGIATE VOCATIONAL INSTITUTE
+"C. 76 11-A'-1, Residencial Pensiones VI, 97217 Mérida, Yuc.", # CENTRO ESCOLAR ROCHAVI
+"C. 65 627, Parque Santiago, Centro, 97000 Centro, Yuc.", # CESMAC
+"C. 61 496a-por 56 y 58, Centro, 97000 Mérida, Yuc.", # CETESC
+"C. 55 No. 728, Pacabtún, 97160 Mérida, Yuc.", # CETIS 112
+"Av. Lomas Verdes 2, Rancho Viejo, 91303 Banderilla, Ver.", # CETIS 134
+"Av. Aquiles Serdán 964, Tabachines, 81257 Los Mochis, Sin.", # CETIS 68
+"Progreso, Boulevard Turístico Yucalpetén, 97320 Progreso, Yucatán", # CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR No 17
+"C. 59 627, Barrio de Santiago, Centro, 97000 Mérida, Yuc.", # COLEGIO DE ESTUDIOS UNIVERSITARIOS DEL MAYAB
+"97305 Mérida, Yucatán", # COBAY CHOLUL
+"Fracc, C. 27 150, San Miguel, 97140 Mérida, Yuc.", # CEMA
+"Calle 56 No. 508 Altos Centro, Mérida", # UNIVERSIDAD CNCI
+"C. 6 6480, Benito Juárez, 97367 Celestún, Yuc.", # COBAY CELESTUN
+"Castillo Oliver 14, 24014 Campeche, Campeche No. 14, entre Lorenzo Alfaro Alomía, área, Cam, Av. Miguel Alemán y, Área Ah, 24014 San Francisco de Campeche, Camp.", # COLEGIO DE BACHILLERES DEL ESTADO DE CAMPECHE
+"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.", # COLEGIO DE BACHILLERES CHIAPAS
+"Blvrd Presa Chicoasén 950, Amp las Palmas, 29044 Tuxtla Gutiérrez, Chis.", # COBACH CHIAPAS
+"Calle 12 Entre Avenida 30, 77710 Playa del Carmen", # COLEGIO DE BACHILLERES QUINTANA ROO
+"Av. Paseo La Choca 100, Multiochenta, 86085 Villahermosa, Tab.", # COLEGIO BACHILLERES TABASCO
+"Villa las Flores, 86780 Jonuta, Tab.", # COLEGIO BACHILLERES DE TABASCO 46
+"2000,, Av. Paseo La Choca 100, Parque Tabasco, 86035 Villahermosa, Tab.", # COBATAB
+"Av. Monte Cristo SN, Las Lomas, 86980 Emiliano Zapata, Tab.", # COLEGIO DE BACHILLERES No. 8 TABASCO
+"C. 37 entre 72 y 74, Centro, 97320 Progreso, Yuc.", # COBAY PROGRESO
+"Carretera Federal Peto, Santa Rosa km 5, 97930 Peto, Yucatán", # COBAY 5

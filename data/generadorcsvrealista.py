@@ -816,6 +816,10 @@ colonias = [
     "San Antonio Kaua",
 ]
 
+#ciclos
+CICLO_SEMESTRAL = ["Enero-Junio", "Agosto-Diciembre"]
+CICLO_CUATRIMESTRAL = ["Enero-Abril", "Mayo-Agosto", "Septiembre-Diciembre"]
+
 # -----------------------------
 # FUNCIONES
 # -----------------------------
@@ -898,8 +902,19 @@ def asignar_ubicacion_escuela(escuela):
     else:
         return np.random.choice(["Merida", "Foraneo"], p=[0.7, 0.3])
 
-def generar_ciclo(año):
-    return f"{año}-1"
+def generar_ciclo(anio, carrera):
+    if carrera == "Odontología":
+        ciclo = np.random.choice(
+            CICLO_SEMESTRAL,
+            p=[0.65, 0.35]
+        )
+    else:
+        ciclo = np.random.choice(
+            CICLO_CUATRIMESTRAL,
+            p=[0.5, 0.3, 0.2]
+        )
+    
+    return f"{ciclo} {anio}"
 
 # -----------------------------
 # GENERADOR PRINCIPAL
@@ -931,7 +946,7 @@ def generar_datos(año, total):
             matricula, sexo, nacionalidad, lugar, fecha_nac,
             colonia, escuela, modalidad,
             ubicacion_escuela, "Licenciatura", carrera,
-            turno, generar_ciclo(año)
+            turno, generar_ciclo(año, carrera)
         ])
 
     return pd.DataFrame(data, columns=[

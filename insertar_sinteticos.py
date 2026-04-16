@@ -97,7 +97,7 @@ def normalizar_sexo(valor):
     limpio = str(valor).strip().lower()
     resultado = MAPA_SEXO.get(limpio)
     if not resultado:
-        print(f"  ⚠ Sexo no reconocido: '{valor}' — se omite")
+        print(f"Sexo no reconocido: '{valor}' — se omite")
     return resultado
 
 
@@ -108,7 +108,7 @@ def normalizar_modalidad(valor):
     limpio = str(valor).strip().lower()
     resultado = MAPA_MODALIDAD.get(limpio)
     if not resultado:
-        print(f"  ⚠ Modalidad no reconocida: '{valor}' — se omite")
+        print(f"Modalidad no reconocida: '{valor}' — se omite")
     return resultado
 
 
@@ -121,12 +121,12 @@ def normalizar_ciclo(valor):
         return None, None
     partes = str(valor).strip().split("-")
     if len(partes) != 2:
-        print(f"  ⚠ Ciclo con formato inesperado: '{valor}'")
+        print(f"Ciclo con formato inesperado: '{valor}'")
         return None, None
     año_str, num_ciclo = partes
     nombre_ciclo = MAPA_CICLO.get(num_ciclo)
     if not nombre_ciclo:
-        print(f"  ⚠ Número de ciclo no reconocido: '{num_ciclo}' en '{valor}'")
+        print(f"Número de ciclo no reconocido: '{num_ciclo}' en '{valor}'")
         return None, None
     return nombre_ciclo, int(año_str)
 

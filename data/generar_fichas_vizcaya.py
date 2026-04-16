@@ -1200,8 +1200,8 @@ for anio, total in ANIOS.items():
             clave_carrera = CLAVES_CARRERA[carrera][modalidad]
 
             # ---------- ESCUELA ----------
-            escuela = random.choice(ESCUELAS)
-            ubicacion_escuela = UBICACIONES_ESCUELA[escuela]
+            escuela = random.choice(ESCUELAS_2020)
+            ubicacion_escuela = UBICACIONES_ESCUELA_2024[escuela]
 
             nivel = random.choice(["Licenciatura", "LIC"])
             
